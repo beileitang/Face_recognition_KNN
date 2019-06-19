@@ -1,8 +1,4 @@
-```
----
-title: Face Recognition and Gender Classification with K-Nearest Neighbours (KNN)
-layout: post
----
+# Face Recognition and Gender Classification with K-Nearest Neighbours (KNN)
 
 **Codes for this project are joint work with @yuhsienliu ** 
 
@@ -37,20 +33,20 @@ The full FaceScrub data set is 16.4 GB and contains uncropped, cropped images  a
 
 First of all, we unzip each of the actor's folder containing the cropped images set on terminal 
 
-​```bash
+```bash
 $ tar -xvzf  test_cropped.zip  facescrub_aligned/Michael_Vartan/
-​```
+```
 
 And we unzip each of the actor's folder containing the uncropped images set on terminal 
-​```bash
+```bash
 $ tar -xvzf downloaded.tgz downloaded/Daniel\ Radcliffe/
-​```
+```
 
 ## Matching 
 
 Then,  we checked if each cropped image has their corresponding uncropped image.  We examine if output directories (one for the figures shown in this paper and another for the resized images) exist or not, then we load the file paths for each cropped and uncropped image in a pandas dataframe.
 
-​```python
+```python
     print('make resized dir if dir doesnt exist')
     download_data.mkdir_if_dne(constant.RESIZED_GRAY_IMG_DIR)
     download_data.mkdir_if_dne(constant.FIGURE_DIR)
@@ -74,7 +70,7 @@ Then,  we checked if each cropped image has their corresponding uncropped image.
     uncropped_df['img_id'] = uncropped_df.uncropped_path.str.extract(r'(\d+)')
     uncropped_df['actor'] = uncropped_df['uncropped_path'].str.extract(r'uncropped_images/(.*)/')
 
-​```
+```
 
 
 
@@ -108,17 +104,17 @@ d(X,Y) &= \sqrt{(x_1-y_1)^2 +(x_2-y_2)^2 +(x_3-y_3)^2 +…+(x_n-y_n)^2}\\
 \end{align}
 $$
 
-​```python
+```python
 def calculate_eculidean_dis(X_train, X_test):
     dist = np.sum(np.square(X_train - X_test))
     return dist
-​```
+```
 
 ## 2. cal_neighbours
 
 We sorted the distances between X_train and the given testing image, X_test, and return the locations where the closest neighbors are.
 
-​```python
+```python
 def cal_neighbours(X_train, Y_train, X_test, k, neighbor_loc=False):
     distances =[]
     for i in range(len(X_train)-1):
@@ -134,13 +130,13 @@ def cal_neighbours(X_train, Y_train, X_test, k, neighbor_loc=False):
         return neighbors, neighbour_location
     else:
         return neighbors
-​```
+```
 
 
 
 ## 3. majority vote
 
-​```python
+```python
 # majority vote to classifier the new example
 def winner_vote(labels, display=True):
     from collections import Counter 
@@ -163,7 +159,7 @@ def winner_vote(labels, display=True):
         print("---------------------------- ")
         print("---------------------------- ")
     return high
-​```
+```
 
 
 
@@ -182,4 +178,3 @@ We tested different values for $k$ from $1$ to $10$ on validation set to get the
 
 <p style="text-align: center;"><img src="figures/PART5.png"  height="300"><br>
   <b>Figure 4</b>: Performance for gender prediction</p>
-```
