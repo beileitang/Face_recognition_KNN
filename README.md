@@ -2,6 +2,8 @@
 
 **Codes for this project are joint work with @yuhsienliu ** 
 
+Link to github [Face_Recognition](https://github.com/beileitang/beileitang_KNN/tree/gh-pages)
+
 # Introduction
 
 We constructed facial recognition programs with KNN algorithm to classify the names and gendors of actors/actresses in a subset of the [FaceScrub](https://megaface.cs.washington.edu/) dataset. This project is done in Python on MacOS.
