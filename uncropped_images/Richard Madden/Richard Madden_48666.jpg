@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="en-US"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="no-js ie8 oldie"> <![endif]-->
+<!--[if IE 9 ]>    <html dir="ltr" lang="en-US" class="no-js ie9 oldie"> <![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>404 Not Found - Bubblews</title>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Content creation and discovery platform where users can come to express their opinions, meet like-minded individuals and be compensated for their posts.">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="canonical" href="http://www.bubblews.com/assets/images/news/998208494_1368082695.jpg"/>
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+ 
+<link rel="stylesheet" href="http://bubblews-assets.s3.amazonaws.com/c3d24f48ba35f732e4bb787afe77baad.css" type="text/css" media="all">
+ 
+<script>
+UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/Ba5ZmkVZDz2alFMMqv1pSQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+
+UserVoice.push(['set', {
+    contact_title: 'How can we help?',
+    screenshot_enabled: false
+}]);
+
+</script>
+ 
+<meta property="og:title" content="404 Not Found">
+<meta property="og:image" content="http://www.bubblews.com/assets/images/fb_open_graph_image.jpg">
+<meta property="og:site_name" content="Bubblews">
+<meta property="og:description" content="Content creation and discovery platform where users can come to express their opinions, meet like-minded individuals and be compensated for their posts.">
+<meta property="og:url" content="http://www.bubblews.com/assets/images/news/998208494_1368082695.jpg">
+<meta property="fb:admins" content="25817727,25827335,25831332,100000606987196">
+<meta property="og:type" content="article">
+ 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@GoBubblews">
+<meta name="twitter:title" content="404 Not Found">
+<meta name="twitter:description" content="Content creation and discovery platform where users can come to express their opinions, meet like-minded individuals and be compensated for their posts.">
+<meta name="twitter:url" content="http://www.bubblews.com/assets/images/news/998208494_1368082695.jpg">
+<meta property="twitter:account_id" content="4503599630993522"/>
+<meta name="msvalidate.01" content="958BDCB57B358341A134C7203942B556"/>
+ 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];
+a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-28860728-1', 'auto')
+ga('send', 'pageview');
+
+var RecaptchaOptions = {
+    theme : 'white'
+};
+</script>
+ 
+<script src="/dist/js/adTags.js"></script>
+<meta name="google-site-verification" content="oHta4W8dmvvoJS98DEBbkZTalhp8zbB81FqmYuOHz-o"/>
+</head>
+<body data-loaded="false" class="logged-out    ">
+<div class="wrapper">
+<header class="header">
+<div class="branding">
+<h1 class="logo">
+<a href="/">
+<img src="http://bubblews-assets.s3.amazonaws.com/assets/images/logo.png" alt="Bubblews logo" width="160" height="33">
+</a>
+</h1>
+</div> 
+<div class="header-form-wrap header-form-first">
+<h2 class="header-title"><i class="icon-write"></i>Join today</h2>
+<form class="header-form" action="/account/create" method="post">
+<input class="text grad-1" type="text" placeholder="full name" tabindex="1" name="name">
+<input class="text grad-2" type="email" placeholder="email" tabindex="2" name="email">
+<div class="show-password-group">
+<button class="icon-password-2 js-show-password-btn" type="button"></button>
+<input class="text grad-3" type="password" placeholder="password" tabindex="3" name="password">
+</div>
+<input type="hidden" value="true" name="sidebar">
+<input class="btn btn-submit btn-large" type="submit" value="Create Account" tabindex="4">
+</form>
+</div> 
+<div class="header-form-wrap header-form-second">
+<h2 class="header-title"><i class="icon-login"></i>Sign in</h2>
+<form class="header-form" method="post">
+<input class="text grad-1" type="text" placeholder="username" tabindex="5" name="login[username]">
+<div class="show-password-group">
+<button class="icon-password-2 js-show-password-btn" type="button"></button>
+<input class="text grad-2" type="password" placeholder="password" tabindex="6" name="login[password]" autocomplete="off">
+</div>
+<input type="hidden" name="login_form" value="true">
+<input class="btn btn-submit btn-large" type="submit" value="Sign in" tabindex="8">
+<p class="forgot-password"><a href="/account/forgot">Forgot password?</a></p>
+</form>
+</div> 
+<nav class="header-nav header-nav-secondary">
+<ul class="header-nav-list">
+<li class="nav-item ">
+<a target="_blank" href="http://support.bubblews.com/">
+<div class="nav-item-icon">
+<i class="icon-learning"></i>
+</div>
+<div class="nav-item-text">
+Learning Center
+</div>
+<div class="nav-item-notification">
+&nbsp;
+</div>
+</a>
+</li>
+<li class="nav-item ">
+<a href="/contact">
+<div class="nav-item-icon">
+<i class="icon-help"></i>
+</div>
+<div class="nav-item-text">
+Help
+</div>
+<div class="nav-item-notification">
+&nbsp;
+</div>
+</a>
+</li>
+<li class="nav-item ">
+<a href="/about">
+<div class="nav-item-icon">
+<i class="icon-info-circled"></i>
+</div>
+<div class="nav-item-text">
+About Us
+</div>
+<div class="nav-item-notification">
+&nbsp;
+</div>
+</a>
+</li>
+<li class="nav-item mobile-logoff">
+<a href="/account/logout">
+<div class="nav-item-icon">
+<i class="icon-logoff"></i>
+</div>
+<div class="nav-item-text">
+Log Out
+</div>
+</a>
+</li>
+</ul>
+</nav>
+</header> 
+<div class="top-container js-search-container
+    ">
+<div class="top-container-wrap">
+<div class="top-extras top-segment">
+<button class="js-toggle-side nav-toggle">
+<span class="l1"></span>
+<span class="l2"></span>
+<span class="l3"></span>
+</button>
+</div>
+<div class="top-title top-segment">
+<h2 class="primary-title">404 Not Found</h2>
+</div>
+<div class="top-search top-segment">
+<div class="search-wrap">
+<form class="search-form" action="/search">
+<input class="search-input js-search-input" data-placeholder="Search..." name="q" type="text">
+<button class="search-submit"><i class="icon-search"></i></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="primary">
+<h2 class="primary-title-mobile">404 Not Found</h2>
+<div class="error-page">
+<div class="error-wrap">
+<h1 class="error-title">Page doesn't exist</h1>
+<div class="error-content">
+<p>Whoops, this page doesn't exist! It either never existed, was deleted due to a violation of our <a href="/page/tos">Terms of Service</a>, or was taken down by the author.</p>
+</div>
+</div>
+</div>
+</div> 
+<footer class="base-footer">
+<div class="footer-left">
+<ul class="footer-list">
+<li><a href="/page/tos">Terms of Service</a></li>
+<li><a href="/page/privacy_policy">Privacy Policy</a></li>
+<li><a href="/page/status">Site Status</a></li>
+</ul>
+</div>
+<div class="footer-right">
+<ul class="footer-list">
+<li>&copy; 2014 Bubblews LLC, All rights reserved.</li>
+</ul>
+</div>
+</footer>
+</div> 
+<div id="fb-root"></div>
+ 
+<script src="http://bubblews-assets.s3.amazonaws.com/c3d24f48ba35f732e4bb787afe77baad.js"></script>
+ 
+<script>
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-7_G5JSSs2LNG1"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-7_G5JSSs2LNG1.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ 
+</body>
+</html>

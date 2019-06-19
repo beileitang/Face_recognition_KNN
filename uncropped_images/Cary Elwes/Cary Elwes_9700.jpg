@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>PeriodDrama.com | Period Drama</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://perioddrama.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://perioddrama.com/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="google936b8833581e7b92" />
+<link rel="alternate" type="application/rss+xml" title="Period Drama &raquo; Feed" href="http://perioddrama.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Period Drama &raquo; Comments Feed" href="http://perioddrama.com/comments/feed/" />
+<link rel='stylesheet' id='scroll-top-n-bottom-css-css'  href='http://perioddrama.com/wp-content/plugins/masterblogster-scroll-top-and-bottom/scroll-top-n-bottom-css.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://perioddrama.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.67' type='text/css' media='all' />
+<link rel='stylesheet' id='wpProQuiz_front_style-css'  href='http://perioddrama.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.34' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://perioddrama.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://perioddrama.com/wp-content/themes/twentyfourteen/style.css?ver=4.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://perioddrama.com/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='video-js-css'  href='http://perioddrama.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-kg-skin-css'  href='http://perioddrama.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=4.42' type='text/css' media='all' />
+<link rel='stylesheet' id='kgvid_video_styles-css'  href='http://perioddrama.com/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css?ver=4.42' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://perioddrama.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='column-styles-css'  href='http://perioddrama.com/wp-content/plugins/wp_edit_pro/css/column-style.css?ver=4.0.1' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.1.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-54845212-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://perioddrama.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://perioddrama.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://p.jwpcdn.com/6/10/jwplayer.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://perioddrama.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://perioddrama.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<style id="fourteen-colors" type="text/css">/* Custom Contrast Color */
+		.site:before,
+		#secondary,
+		.site-header,
+		.site-footer,
+		.menu-toggle,
+		.featured-content,
+		.featured-content .entry-header,
+		.slider-direction-nav a,
+		.ie8 .featured-content,
+		.ie8 .site:before {
+			background-color: #83aea4;
+		}
+
+		.grid .featured-content .entry-header,
+		.ie8 .grid .featured-content .entry-header {
+			border-color: #83aea4;
+		}
+
+		.slider-control-paging a:before {
+			background-color: rgba(255,255,255,.33);
+		}
+
+		.hentry .mejs-mediaelement,
+		.hentry .mejs-container .mejs-controls {
+			background: #83aea4;
+		}
+	
+			.site-description,
+			.secondary-navigation a,
+			.widget,
+			.widget a,
+			.widget-title,
+			.widget-title a,
+			.widget_calendar caption,
+			.site-header a,
+			.site-title a,
+			.site-title a:hover,
+			.menu-toggle:before,
+			.site-footer,
+			.site-footer a,
+			.featured-content a,
+			.featured-content .entry-meta,
+			.slider-direction-nav a:before,
+			.hentry .mejs-container .mejs-controls .mejs-time span,
+			.hentry .mejs-controls .mejs-button button {
+				color: #2b2b2b;
+			}
+
+			@media screen and (min-width: 783px) {
+				.primary-navigation ul ul a {
+					color: #fff;
+				}
+			}
+
+			@media screen and (min-width: 1008px) {
+				.secondary-navigation ul ul a,
+				.secondary-navigation li:hover > a,
+				.secondary-navigation li.focus > a {
+					color: #fff;
+				}
+			}
+
+			.widget_calendar tbody a,
+			.site-footer .widget_calendar tbody a,
+			.slider-direction-nav a:hover:before {
+				color: #fff;
+			}
+
+			.slider-control-paging a:before {
+				background-color: rgba(0, 0, 0, .33);
+			}
+
+			.featured-content {
+				background-image: url(http://perioddrama.com/wp-content/plugins/fourteen-colors/pattern-dark-inverse.svg);
+			}
+
+			.site-navigation li,
+			#secondary,
+			.secondary-navigation,
+			.secondary-navigation li,
+			.widget table,
+			.widget th,
+			.widget td,
+			.widget_archive li,
+			.widget_categories li,
+			.widget_links li,
+			.widget_meta li,
+			.widget_nav_menu li,
+			.widget_pages li,
+			.widget_recent_comments li,
+			.widget_recent_entries li,
+			.widget_categories li ul,
+			.widget_nav_menu li ul,
+			.widget_pages li ul,
+			.widget abbr[title] {
+				border-color: rgba(0, 0, 0, .2);
+			}
+
+			.widget input,
+			.widget textarea {
+				background-color: rgba(0, 0, 0, .02);
+				border-color: rgba(0, 0, 0, .2);
+				color: #000;
+			}
+
+			.widget input:focus, .widget textarea:focus {
+				border-color: rgba(0, 0, 0, 0.4);
+			}
+
+			.widget_twentyfourteen_ephemera .entry-meta a {
+				color: rgba(0, 0, 0, 0.7);
+			}
+
+			.widget_twentyfourteen_ephemera > ol > li {
+				border-bottom-color: rgba(0, 0, 0, 0.2);
+			}
+
+			#supplementary + .site-info {
+				border-top: 1px solid rgba(0, 0, 0, 0.2);
+			}
+
+			.hentry .mejs-controls .mejs-time-rail .mejs-time-total, 
+			.hentry .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+				background: rgba(0,0,0,.3);
+			}
+
+			.hentry .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+				background-color: #2b2b2b;
+			}
+
+			/* Override the site title color option with an over-qualified selector, as the option is hidden. */
+			h1.site-title a {
+				color: #2b2b2b;
+			}
+		
+		.menu-toggle:active,
+		.menu-toggle:focus,
+		.menu-toggle:hover {
+			background-color: #c7f2e8;
+		}
+		/* Custom accent color. */
+		button,
+		.button,
+		.contributor-posts-link,
+		input[type="button"],
+		input[type="reset"],
+		input[type="submit"],
+		.search-toggle,
+		.hentry .mejs-controls .mejs-time-rail .mejs-time-current,
+		.hentry .mejs-overlay:hover .mejs-overlay-button,
+		.widget button,
+		.widget .button,
+		.widget input[type="button"],
+		.widget input[type="reset"],
+		.widget input[type="submit"],
+		.widget_calendar tbody a,
+		.content-sidebar .widget input[type="button"],
+		.content-sidebar .widget input[type="reset"],
+		.content-sidebar .widget input[type="submit"],
+		.slider-control-paging .slider-active:before,
+		.slider-control-paging .slider-active:hover:before,
+		.slider-direction-nav a:hover,
+		.ie8 .primary-navigation ul ul,
+		.ie8 .secondary-navigation ul ul,
+		.ie8 .primary-navigation li:hover > a,
+		.ie8 .primary-navigation li.focus > a,
+		.ie8 .secondary-navigation li:hover > a,
+		.ie8 .secondary-navigation li.focus > a {
+			background-color: #83aea4;
+		}
+
+		.site-navigation a:hover {
+			color: #83aea4;
+		}
+
+		::-moz-selection {
+			background: #83aea4;
+		}
+
+		::selection {
+			background: #83aea4;
+		}
+
+		.paging-navigation .page-numbers.current {
+			border-color: #83aea4;
+		}
+
+		@media screen and (min-width: 782px) {
+			.primary-navigation li:hover > a,
+			.primary-navigation li.focus > a,
+			.primary-navigation ul ul {
+				background-color: #83aea4;
+			}
+		}
+
+		@media screen and (min-width: 1008px) {
+			.secondary-navigation li:hover > a,
+			.secondary-navigation li.focus > a,
+			.secondary-navigation ul ul {
+				background-color: #83aea4;
+			}
+		}
+	
+			.contributor-posts-link,
+			.button,
+			button,
+			input[type="button"],
+			input[type="reset"],
+			input[type="submit"],
+			.search-toggle:before,
+			.hentry .mejs-overlay:hover .mejs-overlay-button,
+			.widget button,
+			.widget .button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a,
+			.widget_calendar tbody a:hover,
+			.site-footer .widget_calendar tbody a,
+			.content-sidebar .widget input[type="button"],
+			.content-sidebar .widget input[type="reset"],
+			.content-sidebar .widget input[type="submit"],
+			button:hover,
+			button:focus,
+			.button:hover,
+			.button:focus,
+			.widget a.button:hover,
+			.widget a.button:focus,
+			.widget a.button:active,
+			.content-sidebar .widget a.button,
+			.content-sidebar .widget a.button:hover,
+			.content-sidebar .widget a.button:focus,
+			.content-sidebar .widget a.button:active,
+			.contributor-posts-link:hover,
+			.contributor-posts-link:active,
+			input[type="button"]:hover,
+			input[type="button"]:focus,
+			input[type="reset"]:hover,
+			input[type="reset"]:focus,
+			input[type="submit"]:hover,
+			input[type="submit"]:focus,
+			.slider-direction-nav a:hover:before,
+			.ie8 .primary-navigation li:hover > a,
+			.ie8 .primary-navigation li.focus > a,
+			.ie8 .secondary-navigation li:hover > a,
+			.ie8 .secondary-navigation li.focus > a {
+				color: #2b2b2b;
+			}
+
+			@media screen and (min-width: 782px) {
+				.site-navigation li .current_page_item > a,
+				.site-navigation li .current_page_ancestor > a,
+				.site-navigation li .current-menu-item > a,
+				.site-navigation li .current-menu-ancestor > a,
+				.primary-navigation ul ul a,
+				.primary-navigation li:hover > a,
+				.primary-navigation li.focus > a,
+				.primary-navigation ul ul {
+					color: #2b2b2b;
+				}
+			}
+
+			@media screen and (min-width: 1008px) {
+				.secondary-navigation ul ul a,
+				.secondary-navigation li:hover > a,
+				.secondary-navigation li.focus > a,
+				.secondary-navigation ul ul {
+					color: #2b2b2b;
+				}
+			}
+
+			::selection {
+				color: #2b2b2b;
+			}
+
+			::-moz-selection {
+				color: #2b2b2b;
+			}
+
+			.hentry .mejs-controls .mejs-time-rail .mejs-time-loaded {
+				background-color: #2b2b2b;
+			}
+
+		
+		/* Generated variants of custom accent color. */
+		a,
+		.content-sidebar .widget a {
+			color: #517c72;
+		}
+
+		.contributor-posts-link:hover,
+		.button:hover,
+		.button:focus,
+		.slider-control-paging a:hover:before,
+		.search-toggle:hover,
+		.search-toggle.active,
+		.search-box,
+		.widget_calendar tbody a:hover,
+		button:hover,
+		button:focus,
+		input[type="button"]:hover,
+		input[type="button"]:focus,
+		input[type="reset"]:hover,
+		input[type="reset"]:focus,
+		input[type="submit"]:hover,
+		input[type="submit"]:focus,
+		.widget button:hover,
+		.widget .button:hover,
+		.widget button:focus,
+		.widget .button:focus,
+		.widget input[type="button"]:hover,
+		.widget input[type="button"]:focus,
+		.widget input[type="reset"]:hover,
+		.widget input[type="reset"]:focus,
+		.widget input[type="submit"]:hover,
+		.widget input[type="submit"]:focus,
+		.content-sidebar .widget input[type="button"]:hover,
+		.content-sidebar .widget input[type="button"]:focus,
+		.content-sidebar .widget input[type="reset"]:hover,
+		.content-sidebar .widget input[type="reset"]:focus,
+		.content-sidebar .widget input[type="submit"]:hover,
+		.content-sidebar .widget input[type="submit"]:focus,
+		.ie8 .primary-navigation ul ul a:hover,
+		.ie8 .primary-navigation ul ul li.focus > a,
+		.ie8 .secondary-navigation ul ul a:hover,
+		.ie8 .secondary-navigation ul ul li.focus > a {
+			background-color: #a0cbc1;
+		}
+
+		.featured-content a:hover,
+		.featured-content .entry-title a:hover,
+		.widget a:hover,
+		.widget-title a:hover,
+		.widget_twentyfourteen_ephemera .entry-meta a:hover,
+		.hentry .mejs-controls .mejs-button button:hover,
+		.site-info a:hover,
+		.featured-content a:hover {
+			color: #a0cbc1;
+		}
+
+		a:active,
+		a:hover,
+		.entry-title a:hover,
+		.entry-meta a:hover,
+		.cat-links a:hover,
+		.entry-content .edit-link a:hover,
+		.post-navigation a:hover,
+		.image-navigation a:hover,
+		.comment-author a:hover,
+		.comment-list .pingback a:hover,
+		.comment-list .trackback a:hover,
+		.comment-metadata a:hover,
+		.comment-reply-title small a:hover,
+		.content-sidebar .widget a:hover,
+		.content-sidebar .widget .widget-title a:hover,
+		.content-sidebar .widget_twentyfourteen_ephemera .entry-meta a:hover {
+			color: #6e998f;
+		}
+
+		.page-links a:hover,
+		.paging-navigation a:hover {
+			border-color: #6e998f;
+		}
+
+		.entry-meta .tag-links a:hover:before {
+			border-right-color: #6e998f;
+		}
+
+		.page-links a:hover,
+		.entry-meta .tag-links a:hover {
+			background-color: #6e998f;
+		}
+
+		@media screen and (min-width: 782px) {
+			.primary-navigation ul ul a:hover,
+			.primary-navigation ul ul li.focus > a {
+				background-color: #a0cbc1;
+			}
+		}
+
+		@media screen and (min-width: 1008px) {
+			.secondary-navigation ul ul a:hover,
+			.secondary-navigation ul ul li.focus > a {
+				background-color: #a0cbc1;
+			}
+		}
+
+		button:active,
+		.button:active,
+		.contributor-posts-link:active,
+		input[type="button"]:active,
+		input[type="reset"]:active,
+		input[type="submit"]:active,
+		.widget input[type="button"]:active,
+		.widget input[type="reset"]:active,
+		.widget input[type="submit"]:active,
+		.content-sidebar .widget input[type="button"]:active,
+		.content-sidebar .widget input[type="reset"]:active,
+		.content-sidebar .widget input[type="submit"]:active {
+			background-color: #b4dfd5;
+		}
+
+		.site-navigation .current_page_item > a,
+		.site-navigation .current_page_ancestor > a,
+		.site-navigation .current-menu-item > a,
+		.site-navigation .current-menu-ancestor > a {
+			color: #b4dfd5;
+		}
+	
+		/* Higher contrast Accent Color against contrast color */
+		.site-navigation .current_page_item > a,
+		.site-navigation .current_page_ancestor > a,
+		.site-navigation .current-menu-item > a,
+		.site-navigation .current-menu-ancestor > a,
+		.site-navigation a:hover,
+		.featured-content a:hover,
+		.featured-content .entry-title a:hover,
+		.widget a:hover,
+		.widget-title a:hover,
+		.widget_twentyfourteen_ephemera .entry-meta a:hover,
+		.hentry .mejs-controls .mejs-button button:hover,
+		.site-info a:hover,
+		.featured-content a:hover {
+			color: #2b564c;
+		}
+
+		.hentry .mejs-controls .mejs-time-rail .mejs-time-current,
+		.slider-control-paging a:hover:before,
+		.slider-control-paging .slider-active:before,
+		.slider-control-paging .slider-active:hover:before {
+			background-color: #2b564c;
+		}
+	</style>    <style>@media screen and (min-width: 783px){.primary-navigation{float: left;margin-left: 20px;}a { transition: all .5s ease; }}</style>
+    <style>.site {margin: 0 auto;max-width: 1260px;width: 100%;}.site-header{max-width: 1260px;}
+		@media screen and (min-width: 1110px) {.archive-header,.comments-area,.image-navigation,.page-header,.page-content,.post-navigation,.site-content .entry-header,
+	    .site-content .entry-content,.site-content .entry-summary,.site-content footer.entry-meta{padding-left: 55px;}}</style>
+    <style>
+	    .site-content .entry-header,.site-content .entry-content,.site-content .entry-summary,.site-content .entry-meta,.page-content 
+		{max-width: 874px;}.comments-area{max-width: 874px;}.post-navigation, .image-navigation{max-width: 874px;}</style>
+    <style>.content-area{padding-top: 28px;}.content-sidebar{padding-top: 28px;}
+		@media screen and (min-width: 846px) {.content-area,.content-sidebar{padding-top: 28px;}}</style>
+    <style>.content-sidebar .widget .widget-title{border-top: 0;}</style>
+    <style>@media screen and (min-width: 594px) {.site-content .has-post-thumbnail .entry-header{margin-top: 20px !important;}}
+		@media screen and (min-width: 846px) {.site-content .has-post-thumbnail .entry-header {margin-top: 20px !important;}}
+		@media screen and (min-width: 1040px) {.site-content .has-post-thumbnail .entry-header{margin-top: 20px !important;}}
+	</style>
+    <style>.hentry{max-width: 1260px;}
+	    img.size-full,img.size-large,.wp-post-image,.post-thumbnail img,.site-content .post-thumbnail img{max-height: 800px;}
+	</style>
+	
+    <style>
+		.slider .featured-content .hentry{max-height: 500px;}.slider .featured-content{max-width: 1600px;
+		margin: 0px auto;}.slider .featured-content .post-thumbnail img{max-width: 1600px;width: 100%;}
+		.slider .featured-content .post-thumbnail{background:none;}.slider .featured-content a.post-thumbnail:hover{background-color:transparent;}
+	</style>
+    <style>
+	    @media screen and (min-width: 1008px) {
+		    .grid .featured-content .hentry {
+		        width: 24.999999975%;
+	        }
+	        .grid .featured-content .hentry:nth-child( 3n+1 ) {
+		        clear: none;
+	        }
+	        .grid .featured-content .hentry:nth-child( 4n+1 ) {
+		        clear: both;
+	        }
+	    }
+	</style>
+    <style>.featured-content{display:none; visibility: hidden;}</style>
+<!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
+<meta name="description" content="Period Drama listings and images. News and Coming soon. All Period and Costume Drama, 1800+ titles" />
+<!-- HeadSpace -->
+<script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://perioddrama.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #000000;
+}
+</style>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Oleo+Script|Lobster|Berkshire+Swash|Great+Vibes|Vollkorn|Old+Standard+TT"><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #ff0000;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #74a297; background-image: url('http://perioddrama.com/wp-content/uploads/2014/04/tealswirl2.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+<script type="text/javascript">document.createElement('video');document.createElement('audio');</script>
+
+<!-- Styles cached and displayed inline for speed. Generated by http://stylesplugin.com -->
+<style type="text/css" id="styles-plugin-css">
+@import '//fonts.googleapis.com/css?family=Oleo+Script:regular,700';@import '//fonts.googleapis.com/css?family=Cambo:regular';.styles .featured-content{background-color:#000}.styles .featured-content .entry-header{background-color:#000}.styles .grid .featured-content .entry-header,.styles .featured-content .entry-header{border-color:#000!important}.styles .featured-content .entry-title{font-size:14px}.styles .featured-content .entry-title a{color:#bcbcbc!important}.styles .featured-content .entry-title a:hover{color:#a6bfbb!important}.styles .featured-content .entry-meta a{color:#74c0b4}.styles #page{font-size:14px}.styles #page .site-title{font-size:30px;font-family:Oleo Script}.styles #masthead .primary-navigation li a,.styles #masthead .primary-navigation li > a{font-size:12px;color:#000}.styles #masthead .primary-navigation ul ul a{font-size:12px}.styles #masthead .primary-navigation li li a{color:#fff}.styles .primary-navigation li li a{background-color:#000}.styles .site-description{color:#71e8c8!important}.styles #secondary .secondary-navigation li a{color:#fff}.styles .entry-title,.styles #page .entry-title a{font-family:Cambo;color:#2b918a}.styles .site-content p,.styles #page .site-content p a,.styles #respond p{font-size:14px}.styles .site-content li,.styles .site-content li p{font-size:14px}.styles .site-content small{font-size:12px}.styles .site-content pre,.styles .comment-content pre,.styles .site-content code,.styles .comment-content code{font-size:10px}.styles .site-content blockquote,.styles .site-content blockquote p{font-size:14px}.styles .primary-sidebar .widget-title{font-size:14px;color:#000}.styles .primary-sidebar .widget{font-size:12px}.styles .primary-sidebar .widget a{color:#fff!important}.styles .primary-sidebar .widget a:hover{color:#282828!important}.styles .content-sidebar .widget-title{color:#3a4a47}
+</style>
+</head>
+
+<body class="error404 custom-background group-blog masthead-fixed singular styles">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://perioddrama.com/" rel="home">Period Drama</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-top-nav-menu-container"><ul id="menu-top-nav-menu" class="nav-menu"><li id="menu-item-735" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-735"><a href="http://perioddrama.com" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com', 'Home']);" >Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-742"><a href="http://perioddrama.com/?page_id=9412" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=9412', 'Contact']);" target="_blank">Contact</a></li>
+	<li id="menu-item-19796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19796"><a href="http://perioddrama.com/wp-login.php" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/wp-login.php', 'Log in']);" >Log in</a></li>
+	<li id="menu-item-20464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20464"><a href="http://perioddrama.com/wp-login.php?loggedout=true" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/wp-login.php?loggedout=true', 'Log Out']);" >Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-736"><a href="http://perioddrama.com/forum/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/forum/', 'Forum']);" target="_blank">Forum</a></li>
+<li id="menu-item-743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-743"><a href="http://perioddrama.com/?page_id=18580" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=18580', 'Fan Fiction']);" target="_blank">Fan Fiction</a></li>
+<li id="menu-item-1589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1589"><a target="_blank">Gallery</a>
+<ul class="sub-menu">
+	<li id="menu-item-18882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18882"><a href="http://perioddrama.com/Gallery" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/Gallery', 'Period Dramas']);" target="_blank">Period Dramas</a></li>
+	<li id="menu-item-20424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20424"><a href="http://perioddrama.com/Gallery/index.php/PD%20Eye%20Candy" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/Gallery/index.php/PD%20Eye%20Candy', 'PD Eye CAndy']);" target="_blank">PD Eye CAndy</a></li>
+	<li id="menu-item-5075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5075"><a href="http://perioddrama.com/?page_id=9223" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=9223', '1800 Films Listing']);" >1800 Films Listing</a></li>
+</ul>
+</li>
+<li id="menu-item-739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739"><a href="http://perioddrama.com/?page_id=9308" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=9308', 'Coming Soon']);" target="_blank">Coming Soon</a></li>
+<li id="menu-item-20415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20415"><a href="http://perioddrama.com/theme-music/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/theme-music/', 'Theme Music']);" >Theme Music</a></li>
+<li id="menu-item-14062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14062"><a href="http://perioddrama.com/genres/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/genres/', 'Genres']);" >Genres</a>
+<ul class="sub-menu">
+	<li id="menu-item-14063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14063"><a href="http://perioddrama.com/genre-far-east-recommends/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/genre-far-east-recommends/', 'GENRE:  Far East  (recommends)']);" >GENRE:  Far East  (recommends)</a></li>
+	<li id="menu-item-14064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14064"><a href="http://perioddrama.com/genre-native-americans-recommend/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/genre-native-americans-recommend/', 'GENRE:  Native Americans  (recommend)']);" >GENRE:  Native Americans  (recommend)</a></li>
+</ul>
+</li>
+<li id="menu-item-1677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1677"><a href="http://perioddrama.com/?page_id=1672" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=1672', 'Videos']);" >Videos</a>
+<ul class="sub-menu">
+	<li id="menu-item-13563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13563"><a href="http://perioddrama.com/pd-videos/13552-2/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/pd-videos/13552-2/', 'Great Men and Women in Period Drama']);" >Great Men and Women in Period Drama</a></li>
+	<li id="menu-item-1675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1675"><a href="http://perioddrama.com/?page_id=1670" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=1670', 'Romantic Moments']);" >Romantic Moments</a></li>
+	<li id="menu-item-2018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2018"><a href="http://perioddrama.com/?page_id=2008" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=2008', 'Scenes to Remember']);" >Scenes to Remember</a></li>
+	<li id="menu-item-4060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4060"><a href="http://perioddrama.com/?page_id=4057" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=4057', 'Film Specifics']);" >Film Specifics</a></li>
+	<li id="menu-item-4070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4070"><a href="http://perioddrama.com/?page_id=4066" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=4066', 'The Outsider (Trilogy)']);" >The Outsider (Trilogy)</a></li>
+	<li id="menu-item-4061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4061"><a href="http://perioddrama.com/?page_id=4042" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=4042', 'John Thornton']);" >John Thornton</a></li>
+	<li id="menu-item-2182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2182"><a href="http://perioddrama.com/?p=2171" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=2171', 'Tribute to Sandy Welch']);" >Tribute to Sandy Welch</a></li>
+	<li id="menu-item-1687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1687"><a href="http://perioddrama.com/?page_id=1682" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=1682', 'Great Horse Scenes in PD']);" >Great Horse Scenes in PD</a></li>
+</ul>
+</li>
+<li id="menu-item-2238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2238"><a href="http://perioddrama.com/Greetings/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/Greetings/', 'E-Cards']);" target="_blank">E-Cards</a></li>
+<li id="menu-item-18085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18085"><a href="http://perioddrama.com/trailers-by-yr/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/trailers-by-yr/', 'Trailers by Yr.']);" >Trailers by Yr.</a>
+<ul class="sub-menu">
+	<li id="menu-item-20430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20430"><a href="http://perioddrama.com/video-home/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/video-home/', '2014  Video Trailers']);" >2014  Video Trailers</a></li>
+	<li id="menu-item-20056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20056"><a href="http://perioddrama.com/video-home/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/video-home/', '2014 Period Costume Dramas and Fantasy']);" >2014 Period Costume Dramas and Fantasy</a></li>
+	<li id="menu-item-18086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18086"><a href="http://perioddrama.com/2013-period-costume-dramas-and-fantasy/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/2013-period-costume-dramas-and-fantasy/', '2013 Period Costume Dramas and Fantasy']);" >2013 Period Costume Dramas and Fantasy</a></li>
+</ul>
+</li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://perioddrama.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<header class="page-header">
+				<h1 class="page-title">Not Found</h1>
+			</header>
+
+			<div class="page-content">
+				<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+				<form role="search" method="get" class="search-form" action="http://perioddrama.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div><!-- .page-content -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="text-12" class="widget widget_text"><h1 class="widget-title">Video of the Week</h1>			<div class="textwidget"><div class="wposflv_container"><script src="http://perioddrama.com/wp-content/plugins/wp-os-flv/js/flash/swfobject_modified.js" type="text/javascript"></script><object id="FlashID1" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="270" height="205"><param name="movie" value="http://flv-player.net/medias/player_flv_maxi.swf" /><param name="allowFullScreen" value="true" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="swfversion" value="8.0.35.0" /><!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don't want users to see the prompt. --><param name="expressinstall" value="http://perioddrama.com/wp-content/plugins/wp-os-flv/js/flash/expressInstall.swf" /><param name="FlashVars" value="flv=http://perioddrama.com/video/Knightly.flv&amp;title=Period Drama Video&amp;startimage=http://perioddrama.com/video/Knightly.jpg&amp;width=270&amp;height=205&amp;bgcolor=000000&amp;bgcolor1=060505&amp;showstop=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;showtitleandstartimage=1" /><!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. --><![if !IE]><object type="application/x-shockwave-flash" data="http://flv-player.net/medias/player_flv_maxi.swf" width="270" height="205"><![endif]><param name="allowFullScreen" value="true" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="swfversion" value="8.0.35.0" /><param name="expressinstall" value="http://perioddrama.com/wp-content/plugins/wp-os-flv/js/flash/expressInstall.swf" /><param name="FlashVars" value="flv=http://perioddrama.com/video/Knightly.flv&amp;title=Period Drama Video&amp;startimage=http://perioddrama.com/video/Knightly.jpg&amp;width=270&amp;height=205&amp;bgcolor=000000&amp;bgcolor1=060505&amp;showstop=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;showtitleandstartimage=1" /><!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. --><div><h4>Content on this page requires a newer version of Adobe Flash Player.</h4><p><a href="http://www.adobe.com/go/getflashplayer" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.adobe.com/go/getflashplayer', '']);" ><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p></div><![if !IE]></object><![endif]></object><script type="text/javascript"><!--
+		swfobject.registerObject("FlashID1");
+		//--></script></div></div>
+		</aside><aside id="kl-erq-2" class="widget kl-erq"><h1 class="widget-title">Random Film Quote</h1><p>Do you think me handsome?
+</p></aside><aside id="meta-4" class="widget widget_meta"><h1 class="widget-title">Login</h1>			<ul>
+						<li><a href="http://perioddrama.com/wp-login.php">Log in</a></li>
+			<li><a href="http://perioddrama.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://perioddrama.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside><aside id="whos-among-us" class="widget widget_whosamongus"><h1 class="widget-title">Online Now</h1>
+<a target="_blank" rel="nofollow" href="http://whos.amung.us/stats//"><img src="http://whos.amung.us/swidget/.png" width="80" height="15" border="0" title="User Online" /></a><br/><script id="_waugqt">var _wau = _wau || []; _wau.push(["small", "", "gqt"]);(function() { var s=document.createElement("script"); s.async=true; s.src="http://widgets.amung.us/small.js";document.getElementsByTagName("head")[0].appendChild(s);})();</script><br/></aside></div><!-- #content-sidebar -->
+<div id="secondary">
+		<h2 class="site-description">~ Remembering Times Forgotten through Period Drama ~</h2>
+	
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://perioddrama.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="nav_menu-5" class="widget widget_nav_menu"><h1 class="widget-title">Main PD Index</h1><div class="menu-pd-index-container"><ul id="menu-pd-index" class="menu"><li id="menu-item-12379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12379"><a href="http://perioddrama.com/?p=771" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=771', 'What is a Period Drama ?']);" >What is a Period Drama ?</a></li>
+<li id="menu-item-12384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12384"><a href="http://perioddrama.com/Gallery" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/Gallery', 'Gallery']);" target="_blank">Gallery</a></li>
+<li id="menu-item-12386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12386"><a href="http://perioddrama.com/?page_id=9223" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=9223', '1800+ Film Titles']);" >1800+ Film Titles</a></li>
+<li id="menu-item-12381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12381"><a href="http://perioddrama.com/?page_id=1811" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=1811', '25 yrs PD Awards']);" >25 yrs PD Awards</a></li>
+<li id="menu-item-12394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12394"><a href="http://perioddrama.com/?page_id=6518&#038;preview=true" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=6518&amp;preview=true', 'Authors of PD&#8217;s']);" >Authors of PD&#8217;s</a></li>
+</ul></div></aside><aside id="nav_menu-2" class="widget widget_nav_menu"><h1 class="widget-title">Music &amp; Audio</h1><div class="menu-music-audio-3-container"><ul id="menu-music-audio-3" class="menu"><li id="menu-item-12367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12367"><a href="http://perioddrama.com/?page_id=4320" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=4320', 'PD Theme Music']);" >PD Theme Music</a></li>
+<li id="menu-item-12368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12368"><a href="http://perioddrama.com/?page_id=4256" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=4256', 'PD Them Playlist']);" >PD Them Playlist</a></li>
+</ul></div></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h1 class="widget-title">Days of Old</h1><div class="menu-days-of-old-container"><ul id="menu-days-of-old" class="menu"><li id="menu-item-12369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12369"><a href="http://perioddrama.com/?page_id=12233" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=12233', 'PD Dictionary']);" >PD Dictionary</a></li>
+<li id="menu-item-12370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12370"><a href="http://perioddrama.com/?p=3300" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=3300', 'Titles of the Realm']);" >Titles of the Realm</a></li>
+<li id="menu-item-12371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12371"><a href="http://perioddrama.com/?p=1544" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=1544', 'Servant Hierachy']);" >Servant Hierachy</a></li>
+<li id="menu-item-19752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19752"><a href="http://perioddrama.com/women-and-the-law-in-victorian-england/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/women-and-the-law-in-victorian-england/', 'Women and the Law in Victorian England']);" >Women and the Law in Victorian England</a></li>
+<li id="menu-item-12372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12372"><a href="http://perioddrama.com/?p=2692" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=2692', 'Women&#8217;s Right to Vote']);" >Women&#8217;s Right to Vote</a></li>
+<li id="menu-item-12373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12373"><a href="http://perioddrama.com/?p=2648" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=2648', 'What is a LOVER&#8217;s EYE ?']);" >What is a LOVER&#8217;s EYE ?</a></li>
+<li id="menu-item-12374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12374"><a href="http://perioddrama.com/?p=2081" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=2081', 'What is a Chatelain ?']);" >What is a Chatelain ?</a></li>
+<li id="menu-item-12375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12375"><a href="http://perioddrama.com/?page_id=3277" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=3277', 'From Page to Knighthood']);" >From Page to Knighthood</a>
+<ul class="sub-menu">
+	<li id="menu-item-12376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12376"><a href="http://perioddrama.com/?p=3292" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=3292', '&#8211; A Knights Code of Chivalry']);" >&#8211; A Knights Code of Chivalry</a></li>
+	<li id="menu-item-12377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12377"><a href="http://perioddrama.com/?p=2628" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=2628', '&#8211; Falcony']);" >&#8211; Falcony</a></li>
+</ul>
+</li>
+</ul></div></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><h1 class="widget-title">Whimsy</h1><div class="menu-whimsy-container"><ul id="menu-whimsy" class="menu"><li id="menu-item-12382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12382"><a href="http://perioddrama.com/Greetings/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/Greetings/', 'E-Cards']);" >E-Cards</a></li>
+<li id="menu-item-12383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12383"><a href="http://perioddrama.com/pd-links/‎" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/pd-links/‎', 'Interesting PD Links']);" >Interesting PD Links</a></li>
+<li id="menu-item-12378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12378"><a href="http://perioddrama.com/?page_id=13773" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?page_id=13773', 'Jane Eyre in Smiley Land']);" >Jane Eyre in Smiley Land</a></li>
+</ul></div></aside><aside id="nav_menu-6" class="widget widget_nav_menu"><h1 class="widget-title">#1 PD  North and South</h1><div class="menu-north-and-south-2-container"><ul id="menu-north-and-south-2" class="menu"><li id="menu-item-12387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12387"><a href="http://northandsouth2004.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://northandsouth2004.com/', '(a) North and South Website']);" title="(a) North and South Website">(a) North and South Website</a></li>
+<li id="menu-item-12388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12388"><a href="http://perioddrama.com/?p=222" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://perioddrama.com/?p=222', '(my) North and South Videos']);" >(my) North and South Videos</a></li>
+<li id="menu-item-12389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12389"><a href="http://loyalwynyard.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://loyalwynyard.com/', 'North and South Fantasy Novels']);" >North and South Fantasy Novels</a></li>
+<li id="menu-item-12391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12391"><a href="http://northandsouth2004.com/?page_id=945" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://northandsouth2004.com/?page_id=945', 'North and South Sound Track']);" >North and South Sound Track</a></li>
+<li id="menu-item-12392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12392"><a href="http://www.lookbackatme.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.lookbackatme.com/', '&#8220;Look Back at Me&#8221; / Richard Armitage Gallery']);" >&#8220;Look Back at Me&#8221; / Richard Armitage Gallery</a></li>
+<li id="menu-item-16959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16959"><a href="https://twitter.com/RCArmitage" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://twitter.com/RCArmitage', 'RA on Twitter']);" >RA on Twitter</a></li>
+</ul></div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><img src="http://perioddrama.com/images/Header-YT.png" width="275" height="50" alt="YouTube Period Drama Channels" />
+  <ul>
+    <li><a href="http://www.youtube.com/results?search_query=period+drama+channel&amp;oq=period+drama+ch&amp;aq=0&amp;aqi=g1&amp;aql=&amp;gs_sm=3&amp;gs_upl=22848l26319l0l28328l15l14l0l4l4l0l205l1275l3.5.2l10l0" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.youtube.com/results?search_query=period+drama+channel&amp;oq=period+drama+ch&amp;aq=0&amp;aqi=g1&amp;aql=&amp;gs_sm=3&amp;gs_upl=22848l26319l0l28328l15l14l0l4l4l0l205l1275l3.5.2l10l0', 'Period Drama Channel']);"  target="_blank">Period Drama Channel</a></li>
+  <li><a href="http://www.youtube.com/results?search_query=pride+and+prejudice+channel&amp;page=1" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.youtube.com/results?search_query=pride+and+prejudice+channel&amp;page=1', 'Pride and Prejudice Channel']);"  target="_blank">Pride and Prejudice Channel</a></li>
+  <li><a href="http://www.youtube.com/playlist?list=PL3EF101977408B14E" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.youtube.com/playlist?list=PL3EF101977408B14E', 'So Many Period Dramas Channel']);"  target="_blank">So Many Period Dramas Channel</a></li>
+<li><a href="http://www.youtube.com/BBC" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.youtube.com/BBC', 'BBC Channel']);" title="BBC Channel"  target="_blank">BBC Channel</a> </li>
+
+
+  </ul>
+</div>
+		</aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Categories</h1><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="405">Actor Factor</option>
+	<option class="level-0" value="1313">After I Married Rochester</option>
+	<option class="level-0" value="983">Author Loyal Wynyard</option>
+	<option class="level-0" value="988">Author Lucia Swiers</option>
+	<option class="level-0" value="790">Coming Soon</option>
+	<option class="level-0" value="411">Days of Old</option>
+	<option class="level-0" value="1136">Edwardian 1901 &#8211; 1919</option>
+	<option class="level-0" value="1285">Fantasy / Adventure / Time Travel</option>
+	<option class="level-0" value="1281">Georgian 1714 &#8211; 1830</option>
+	<option class="level-0" value="1303">Margaret With The Red Book &#8211; Loyal Wynyard</option>
+	<option class="level-0" value="177">Music and Themes</option>
+	<option class="level-0" value="1314">My Dearest Loveliest Meg</option>
+	<option class="level-0" value="23">North and South 2004</option>
+	<option class="level-0" value="33">Period Drama Films</option>
+	<option class="level-0" value="124">Period Drama Video</option>
+	<option class="level-0" value="1280">Post Edwardian 1916 -1960</option>
+	<option class="level-0" value="275">Random Images</option>
+	<option class="level-0" value="1307">The Lost Northbound Train</option>
+	<option class="level-0" value="43">Victorian 1837 &#8211; 1901</option>
+	<option class="level-0" value="1282">Western (American)</option>
+	<option class="level-0" value="1204">Whimsy</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://perioddrama.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://perioddrama.com/2014/11/'> November 2014 </option>
+	<option value='http://perioddrama.com/2014/10/'> October 2014 </option>
+	<option value='http://perioddrama.com/2014/09/'> September 2014 </option>
+	<option value='http://perioddrama.com/2014/08/'> August 2014 </option>
+	<option value='http://perioddrama.com/2014/07/'> July 2014 </option>
+	<option value='http://perioddrama.com/2014/06/'> June 2014 </option>
+	<option value='http://perioddrama.com/2014/05/'> May 2014 </option>
+	<option value='http://perioddrama.com/2014/04/'> April 2014 </option>
+	<option value='http://perioddrama.com/2014/03/'> March 2014 </option>
+	<option value='http://perioddrama.com/2014/02/'> February 2014 </option>
+	<option value='http://perioddrama.com/2014/01/'> January 2014 </option>
+	<option value='http://perioddrama.com/2013/12/'> December 2013 </option>
+	<option value='http://perioddrama.com/2013/11/'> November 2013 </option>
+	<option value='http://perioddrama.com/2013/10/'> October 2013 </option>
+	<option value='http://perioddrama.com/2013/09/'> September 2013 </option>
+	<option value='http://perioddrama.com/2013/08/'> August 2013 </option>
+	<option value='http://perioddrama.com/2013/07/'> July 2013 </option>
+	<option value='http://perioddrama.com/2013/06/'> June 2013 </option>
+	<option value='http://perioddrama.com/2013/05/'> May 2013 </option>
+	<option value='http://perioddrama.com/2013/04/'> April 2013 </option>
+	<option value='http://perioddrama.com/2013/03/'> March 2013 </option>
+	<option value='http://perioddrama.com/2013/02/'> February 2013 </option>
+	<option value='http://perioddrama.com/2013/01/'> January 2013 </option>
+	<option value='http://perioddrama.com/2012/12/'> December 2012 </option>
+	<option value='http://perioddrama.com/2012/11/'> November 2012 </option>
+	<option value='http://perioddrama.com/2012/10/'> October 2012 </option>
+	<option value='http://perioddrama.com/2012/09/'> September 2012 </option>
+	<option value='http://perioddrama.com/2012/08/'> August 2012 </option>
+	<option value='http://perioddrama.com/2012/07/'> July 2012 </option>
+	<option value='http://perioddrama.com/2012/06/'> June 2012 </option>
+	<option value='http://perioddrama.com/2012/05/'> May 2012 </option>
+		</select>
+</aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	    <div style="position:fixed !important; top:90%; left:90% ">
+        <div id="mb_top_btn">
+        <img src="http://perioddrama.com/wp-content/plugins/masterblogster-scroll-top-and-bottom/top_btn.png"  />
+        </div>
+        <div id="mb_bottom_btn">
+       	<img src="http://perioddrama.com/wp-content/plugins/masterblogster-scroll-top-and-bottom/bottom_btn.png"  />
+        </div>
+    </div>
+    
+    <script>
+    jQuery(document).ready(function($) {
+    	jQuery("#mb_bottom_btn").click(function() {
+			jQuery("html, body").animate({ scrollTop: jQuery(document).height()}, 2000);
+		});
+		jQuery("#mb_top_btn").click(function() {
+			jQuery("html, body").animate({ scrollTop: 0}, 2000);
+		});
+    });
+    </script>  
+    
+    	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='slickquiz_css-css'  href='http://perioddrama.com/wp-content/plugins/slickquiz/slickquiz/css/slickQuiz.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slickquiz_front_css-css'  href='http://perioddrama.com/wp-content/plugins/slickquiz/css/front.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/perioddrama.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://perioddrama.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.67'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script>
+<script type='text/javascript' src='http://perioddrama.com/wp-content/themes/twentyfourteen/js/functions.js?ver=20140616'></script>
+<script type='text/javascript' src='http://perioddrama.com/wp-content/plugins/slickquiz/slickquiz/js/slickQuiz.js?ver=4.0.1'></script>
+
+	<script src="http://stats.wp.com/e-201448.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'58019780',post:'0',tz:'0'});
+	var load_cmc = function(){linktracker_init(58019780,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>

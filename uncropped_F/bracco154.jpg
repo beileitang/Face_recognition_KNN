@@ -1,0 +1,635 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width; initial-scale=1.0">
+        <title>Hot Pictures, Videos, News | Trending Topics, Images, Shares @ Tufing.com</title>
+        <meta name='keywords' content="hot pictures, hot news, hot shares, trending topics, trending images, trending videos"/>
+        <meta name='description' content="Hot Pictures, News, Shares, Trending Topics, Images, Videos @ Tufing.com"/>
+        <!--fav-->
+        <link rel='icon' href='//www.tufing.com/favicon.ico' type='image/x-icon' />
+        <link rel='shortcut icon' href='//www.tufing.com/favicon.ico' />
+        <link rel='shortcut icon' href='//www.tufing.com/favicon.ico' type='image/ico' />
+        <!--fav-->
+
+        <link href="//www.tufing.com/css/style.min.css?v=6" rel="stylesheet" type="text/css">
+        <script type="text/javascript">
+            paths = {"home_path":"\/home\/tufingco\/public_html","home_url":"\/\/www.tufing.com","home_url_s":"https:\/\/www.tufing.com","login_path":"https:\/\/www.login.hiox.com?referrer=tufing.com","hiox_points_url":"http:\/\/103.235.104.98\/common-api\/api.php","wf_video_post":"https:\/\/www.withfriendship.com\/users\/upload\/video\/api.php","points_curl":"http:\/\/103.235.104.98\/common-api\/api.php","hiox_profile":"https:\/\/www.hiox.com\/profile","ocr_api_url":"http:\/\/103.235.104.98\/ocr\/curl.php"};
+        </script>
+        <script src="//www.tufing.com/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+    </head>
+    <body>
+                <!-- header_part begins -->
+        <!--div class="header_part"-->
+            <!-- header begins -->
+            <header>
+                <!-- header begins -->
+                <div class="header clearfix">
+				<span id="wrap">
+	                <div class="logo">
+						<a href="//www.tufing.com"><img src="//www.tufing.com/images/logo.png" alt="Tufing Logo"></a>
+					</div>
+
+					<div class="search">
+						<form action="https://www.tufing.com/search.php" id="cse-search-box" onsubmit="return search_form_validate();">
+						<span>
+							<input type="text" id="googleSearchId" name="q" class="search_txt" placeholder="Search">
+							<input type="hidden" name="cx" value="partner-pub-5279176980875369:1232045733" />
+                            <input type="hidden" name="cof" value="FORID:10" />
+                            <input type="hidden" name="ie" value="UTF-8" />
+						</span>
+						<span>
+							<button class="search_button"></button>
+						</span>
+						</form>
+					</div>
+
+					<div class="right_head_con sign_pos">
+						<span class="icon-lock39"></span>
+						<span class="right_text">
+								<a id='login' href='https://www.login.hiox.com?referrer=tufing.com'>Sign in</a>						</span>
+					</div>
+				</span>
+                </div>
+                <!-- header ends -->
+
+            </header>
+            <!-- header ends -->
+                        <!-- nav begins -->
+            <nav>
+                <div class="nav-scroll clearfix">
+                    <ul id=nav>
+                        <li><a id='add_share' onclick='tog_add(0);' class='c_point share_tuf'>+ Share</a></li>
+                        <li><a id="index" href="//www.tufing.com">Hot</a></li>
+                        <li><a id="new" href="//www.tufing.com/new/">New</a></li>
+                                                <li><a id="total-tufers" href="//www.tufing.com/total-tufers.php">Tufers</a></li>
+                        <li><a id="ip-chat" href="//www.tufing.com/ip-chat.php">IP Chat</a></li>
+                        <li><a href="//www.tufing.com/apps/download-app.php">Download App</a></li>
+                        <li><a href="//www.tufing.com/apps/earn-money.php">Earn Money</a></li>
+                        <li><a href="//www.tufing.com/developer-console/" target="_blank">Developers</a></li>
+                        						<li class="more_menu"><span></span><ul id="overflow"></ul></li>
+                    </ul>
+                </div>
+            </nav>
+            <!-- nav ends -->
+        <!--/div-->
+        <!-- header_part end -->
+       <script src="//www.cricruns.com/widget/widget_livebar.js" type="text/javascript"></script>
+        <!-- content begins -->
+        <div class="content">
+
+<!-- content_left begins -->
+<div class="content_left clearfix">
+    
+<!-- tuf_content_part begins -->
+<div class="tuf_content_part">
+<div class='non-highlight_tuf_ad clearfix'>
+<style>
+    .tufing-responsive1 { width: 320px; height: 100px; }
+    @media(min-width: 500px) { .tufing-responsive1 { width: 468px; height: 60px; } }
+    @media(min-width: 800px) { .tufing-responsive1 { width: 100%; height: 90px; } }
+    @media(min-width: 1100px) { .tufing-responsive1 { width: 728px; height: 90px; } }
+    </style>
+   <script async type="text/javascript" src="https://www.hiox.biz/hadd.js"></script> 
+<div id="adwidth"></div>
+    <script type="text/javascript">
+        ad = document.getElementById('adwidth');
+        if (ad.getBoundingClientRect().width) {
+            adWidth = ad.getBoundingClientRect().width; // for modern browsers
+        } else {
+            adWidth = ad.offsetWidth; // for old IE
+        }
+    </script>
+            <div id='hioxAd72890' class='hioxInternalAd' camp="728x90" ></div>
+        <div id='hioxAd300250' class='hioxInternalAd' camp="300x250" ></div>
+        <script type="text/javascript">
+            (function () {
+		adwidth=728;
+                if (adWidth >= 728) {
+                    var elem = document.getElementById('hioxAd300250');
+                    elem.parentNode.removeChild(elem);
+                } else {
+                    var elem = document.getElementById('hioxAd72890');
+                    elem.parentNode.removeChild(elem);
+                }
+            })();
+        </script>
+   
+    
+</div>
+
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87037'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87037">
+                                Bruce Lee and Family in the early 1970's.. <img alt='Bruce Lee and Family in the early' src="https://www.tufing.com/img-inline-share/bruce-lee-and-family-in-254714.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87037,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87037">0</span>
+                                <a onclick="vote(0,87037,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87037'>
+                                                                                <li><a href='//www.tufing.com/category/3248/historical-pictures/'>Historical Pictures</a></li><li><a href='//www.tufing.com/category/907/rare-pictures/'>Rare Pictures</a></li><li><a href='//www.tufing.com/category/3858/family-pictures/'>Family Pictures</a></li><li><a href='//www.tufing.com/category/1232/bruce-lee/'>Bruce Lee</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87037" href="https://www.tufing.com/tuf/87037/bruce-lee-and-family-in">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87037" class='tuf_post_by'>2018-07-03 16:20:01 by <a href='//www.tufing.com/profile/16/mohamed-youssef'>Mohamed Youssef</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                    <div class='non-highlight_tuf_ad clearfix'>
+        
+        <!--First Ad begin-->
+        <div class="ads_content ssze300">
+       <div id='hioxAd3002502' class='hioxInternalAd' camp="300x250"></div>
+        
+        
+        </div>
+        <!--First Ad end-->
+        
+        <!--Second Ad begin-->
+        <div class="ads_content ssze300">
+       <div id='hioxAd3002501' class='hioxInternalAd' camp="300x250"></div>
+        </div>
+        <!--Second Ad end-->
+        <script type="text/javascript">
+            (function () {
+                if (adWidth >= 728) {
+                    var elem = document.getElementById('hioxAd3002502');
+                } else {
+                    var elem = document.getElementById('hioxAd3002501');
+                    elem.parentNode.removeChild(elem);
+                }
+            })();
+        </script> 
+    </div>
+
+    
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87069'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87069">
+                                A beautiful Forest Guest House... <img alt='A beautiful Forest Guest' src="https://www.tufing.com/img-inline-share/forest-house-174689.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87069,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87069">1</span>
+                                <a onclick="vote(0,87069,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87069'>
+                                                                                <li><a href='//www.tufing.com/category/850/beautiful-places/'>Beautiful Places</a></li><li><a href='//www.tufing.com/category/602/beautiful-pictures/'>Beautiful Pictures</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87069" href="https://www.tufing.com/tuf/87069/a-beautiful-forest-guest-house">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87069" class='tuf_post_by'>2018-07-01 03:50:02 by <a href='//www.tufing.com/profile/21/manikandan'>Manikandan</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87067'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87067">
+                                Wildflower fields at my favorite spot, Washington State.. <img alt='Wildflower fields at my favorite spot Washington' src="https://www.tufing.com/img-inline-share/-725284.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87067,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87067">0</span>
+                                <a onclick="vote(0,87067,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87067'>
+                                                                                <li><a href='//www.tufing.com/category/867/nature-photography/'>Nature Photography</a></li><li><a href='//www.tufing.com/category/602/beautiful-pictures/'>Beautiful Pictures</a></li><li><a href='//www.tufing.com/category/850/beautiful-places/'>Beautiful Places</a></li><li><a href='//www.tufing.com/category/314/united-states/'>United States</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87067" href="https://www.tufing.com/tuf/87067/wildflower-fields-at-my-favorite">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87067" class='tuf_post_by'>2018-06-29 11:40:01 by <a href='//www.tufing.com/profile/9/sandra-collins'>Sandra Collins</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87066'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87066">
+                                A lovely Hotel building in Macau, China.. <img alt='A lovely Hotel building in Macau' src="https://www.tufing.com/img-inline-share/macau-china-is-818823.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87066,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87066">0</span>
+                                <a onclick="vote(0,87066,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87066'>
+                                                                                <li><a href='//www.tufing.com/category/88/architecture/'>Architecture</a></li><li><a href='//www.tufing.com/category/292/buildings/'>Buildings</a></li><li><a href='//www.tufing.com/category/602/beautiful-pictures/'>Beautiful Pictures</a></li><li><a href='//www.tufing.com/category/294/china/'>China</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87066" href="https://www.tufing.com/tuf/87066/a-lovely-hotel-building-in">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87066" class='tuf_post_by'>2018-06-28 04:40:02 by <a href='//www.tufing.com/profile/25/harini'>Harini</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87053'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87053">
+                                So glad I grew up doing not this.. <img alt='So glad I grew up doing not' src="https://www.tufing.com/img-inline-share/12ad1-529606.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87053,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87053">0</span>
+                                <a onclick="vote(0,87053,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87053'>
+                                                                                <li><a href='//www.tufing.com/category/1434/childhood-memories/'>Childhood Memories</a></li><li><a href='//www.tufing.com/category/2369/olden-days/'>Olden Days</a></li><li><a href='//www.tufing.com/category/286/then-vs-now/'>Then vs Now</a></li><li><a href='//www.tufing.com/category/95/childhood/'>Childhood</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87053" href="https://www.tufing.com/tuf/87053/so-glad-i-grew-up">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87053" class='tuf_post_by'>2018-06-27 04:30:03 by <a href='//www.tufing.com/profile/27/vaishnavi'>Vaishnavi</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87071'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                            <h2>
+                                    <a id="tuf_title87071" rel="nofollow" target="_blank" href="https://indianexpress.com/article/india/gujarat-barber-beaten-up-for-cutting-hair-of-dalits-four-booked-5233465/">Gujarat barber beaten up for ‘cutting hair of Dalits’, four booked..</a>
+                                    <span id="tuf_dom87071" class='tuf_post_con_tit3'>
+                                        <a href='//www.tufing.com/domain/27/indianexpress.com/'>indianexpress.com</a>                                    </span>
+                                </h2>
+                                <!--Title portion ends-->
+
+                                <!--Description portion begins-->
+                                <p id='tuf_desc87071'>"About 10 days ago, Jigar was warned by the accused persons that he should not cut hair of Dalit men. But Jigar didn’t pay heed to it. The allegation is that Jigar was attacked by the accused just for entertaining Dalits at his shop," the police said.</p>                            <p id="tuf_desc_main87071">
+                                <a rel="nofollow" target="_blank" href="https://indianexpress.com/article/india/gujarat-barber-beaten-up-for-cutting-hair-of-dalits-four-booked-5233465/">indianexpress.com/article/india/gujarat-barber-...</a> <img alt='' src="https://www.tufing.com/img-inline-share/assault-715847.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87071,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87071">0</span>
+                                <a onclick="vote(0,87071,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87071'>
+                                                                                <li><a href='//www.tufing.com/category/2868/shocking-incidents/'>Shocking Incidents</a></li><li><a href='//www.tufing.com/category/3952/dalit-killings/'>Dalit Killings</a></li><li><a href='//www.tufing.com/category/917/racism/'>Racism</a></li><li><a href='//www.tufing.com/category/650/gujarat/'>Gujarat</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87071" href="https://www.tufing.com/tuf/87071/gujarat-barber-beaten">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87071" class='tuf_post_by'>2018-06-26 11:02:56 by <a href='//www.tufing.com/profile/8/agnes-natalia'>Agnes Natalia</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87068'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87068">
+                                Are you looking for a date?? <img alt='Are you looking for a date' src="https://www.tufing.com/img-inline-share/looking-for-a-date-732394.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87068,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87068">0</span>
+                                <a onclick="vote(0,87068,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87068'>
+                                                                                <li><a href='//www.tufing.com/category/16/funny-messages/'>Funny Messages</a></li><li><a href='//www.tufing.com/category/31/funny-pictures/'>Funny Pictures</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87068" href="https://www.tufing.com/tuf/87068/are-you-looking-for-a">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87068" class='tuf_post_by'>2018-06-26 04:20:03 by <a href='//www.tufing.com/profile/16/mohamed-youssef'>Mohamed Youssef</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87026'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                        <p id="tuf_desc_main87026">
+                                Turtle coming out of brumation... <img alt='Turtle coming out of' src="https://www.tufing.com/img-inline-share/turtle-coming-out-of-brumation-160866.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87026,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87026">0</span>
+                                <a onclick="vote(0,87026,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87026'>
+                                                                                <li><a href='//www.tufing.com/category/100/social-messages/'>Social Messages</a></li><li><a href='//www.tufing.com/category/3607/world-turtles-day/'>World Turtles Day</a></li><li><a href='//www.tufing.com/category/1134/turtles/'>Turtles</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87026" href="https://www.tufing.com/tuf/87026/turtle-coming-out-of-brumation">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87026" class='tuf_post_by'>2018-06-25 11:00:02 by <a href='//www.tufing.com/profile/4/patricia-madison'>Patricia Madison</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87064'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                            <h2>
+                                    <a id="tuf_title87064" rel="nofollow" target="_blank" href="https://indianexpress.com/article/sports/sport-others/r-praggnanandhaa-12-year-old-indian-becomes-second-youngest-grand-master-5232035/">R Praggnanandhaa, 12-years-old, becomes second youngest Grandmaster..</a>
+                                    <span id="tuf_dom87064" class='tuf_post_con_tit3'>
+                                        <a href='//www.tufing.com/domain/27/indianexpress.com/'>indianexpress.com</a>                                    </span>
+                                </h2>
+                                <!--Title portion ends-->
+
+                                <!--Description portion begins-->
+                                <p id='tuf_desc87064'>After becoming the youngest International Master at 10 years and nine months in May 2016, he was hyped to surpass Serjei Karjakin as youngest to the Grandmaster (12 years and three months) feat.</p>                            <p id="tuf_desc_main87064">
+                                <a rel="nofollow" target="_blank" href="https://indianexpress.com/article/sports/sport-others/r-praggnanandhaa-12-year-old-indian-becomes-second-youngest-grand-master-5232035/">indianexpress.com/article/sports/sport-others/r...</a> <img alt='' src="https://www.tufing.com/img-inline-share/chess-m-837768.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87064,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87064">0</span>
+                                <a onclick="vote(0,87064,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87064'>
+                                                                                <li><a href='//www.tufing.com/category/1/news/'>News</a></li><li><a href='//www.tufing.com/category/30/games/'>Games</a></li><li><a href='//www.tufing.com/category/9/sports/'>Sports</a></li><li><a href='//www.tufing.com/category/1437/chess/'>Chess</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87064" href="https://www.tufing.com/tuf/87064/r-praggnanandhaa-12yearsold-becomes-seco">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87064" class='tuf_post_by'>2018-06-25 10:38:39 by <a href='//www.tufing.com/profile/18/harshath'>Harshath</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                
+                <!-- highlight_tuf begins -->
+                <div class='highlight_tuf hotbox clearfix' id='tufs87065'>
+                    <div class='hot_badge'><span>HOT</span></div>                    <!-- tuf_social_content begins -->
+                    <div class="tuf_social_content">
+                                        <div class="tuf_social_content_right">
+                            <!--Title portion begins-->              
+                                                            <h2>
+                                    <a id="tuf_title87065" rel="nofollow" target="_blank" href="https://indianexpress.com/article/entertainment/television/bigg-boss-malayalam-launch-contestants-live-updates-5231235/?#liveblogstart">Bigg Boss Malayalam launch highlights: Shwetha Menon, Ranjini Haridas and Anoop Chandran enter Mohanlal’s show..</a>
+                                    <span id="tuf_dom87065" class='tuf_post_con_tit3'>
+                                        <a href='//www.tufing.com/domain/27/indianexpress.com/'>indianexpress.com</a>                                    </span>
+                                </h2>
+                                <!--Title portion ends-->
+
+                                <!--Description portion begins-->
+                                <p id='tuf_desc87065'>Bigg Boss Malayalam launch: Shwetha Menon, Deepan Murali, Sreelakshmi, Srinish Aravind, Hima Shankar, Aristo Suresh, Diya Sana, Anoop Chandran, Aditi Rai, Basheer Bashi, Manoj Varma, Pearle Maaney, David John, Sabu, Archana Suseelan and Ranjini Haridas will participate in Bigg Boss Malayalam.</p>                            <p id="tuf_desc_main87065">
+                                <a rel="nofollow" target="_blank" href="https://indianexpress.com/article/entertainment/television/bigg-boss-malayalam-launch-contestants-live-updates-5231235/?#liveblogstart">indianexpress.com/article/entertainment/televis...</a> <img alt='' src="https://www.tufing.com/img-inline-share/bigg-boss-malayalam-759-471323.jpg" class='clearfix'>                            </p>
+                                                        <!--Description portion ends-->
+
+                                <!--voting portion begin-->
+                                <div class="like_dislike">
+                                    <a onclick="vote(1,87065,0)" class="like"><span class="thumbiconlike"></span></a>
+                                <span class="lik_count" id="tot_vote_87065">0</span>
+                                <a onclick="vote(0,87065,0)" class="dislike"><span class="thumbicondislike"></span></a>
+                                </div>
+                                <!--voting portion end-->
+
+                            <div class='tuf_post_bottom clearfix'>
+                                <div class='tuf_post_tags f_left'>
+                                    <ul id='tag_part87065'>
+                                                                                <li><a href='//www.tufing.com/category/1361/mohanlal/'>Mohanlal</a></li><li><a href='//www.tufing.com/category/6281/bigg-boss-malayalam/'>Bigg Boss Malayalam</a></li>                                    </ul>
+                                </div>
+                                        <div class="cmnts"><a id="more_link87065" href="https://www.tufing.com/tuf/87065/bigg-boss-malayalam">Comments</a></div>
+                                                                <div class='tuf_post_tags f_right'>
+                                    <ul>
+                                                                            </ul>
+                                </div>
+                                <span id="tuf_on87065" class='tuf_post_by'>2018-06-25 10:37:45 by <a href='//www.tufing.com/profile/29/karthick'>Karthick</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- tuf_social_content ends -->
+                </div>
+                <!-- highlight_tuf ends -->
+
+                <input type='hidden' id='login_admin' value='0' >    
+</div>
+  <!-- tuf_content_part ends -->
+ 
+    <a class="back-to-top">Back to Top</a>
+<div class="tuf_pagenation">
+    <div class='page_navigation clearfix'><ul><li><span class='page_navigation_active'>1</span></li><li><a href="//www.tufing.com/?page=2">2</a></li><li><a href="//www.tufing.com/?page=3">3</a></li><li><a href="//www.tufing.com/?page=4">4</a></li><li><a href="//www.tufing.com/?page=5">5</a></li><li><a href="//www.tufing.com/?page=6">6</a></li><li><a href="//www.tufing.com/?page=7">7</a></li><li>...</li><li><a href="//www.tufing.com/?page=1757">1757</a></li><li><a href="//www.tufing.com/?page=1758">1758</a></li><li><a href="//www.tufing.com/?page=2">Next</a></ul></div></div>
+    
+<input type="hidden" id="fullname" value="">
+<input type="hidden" id="logid" value="">
+<input type='hidden' id='root' value='//www.tufing.com'>
+
+</div>
+<!--content left ends-->
+
+<div class="content_right clearfix">
+
+<!-- content_left_con begins -->
+<div class="content_right_con">
+
+<!--    <div style="padding-bottom: 15px;">
+        <style>
+            .tufing-responsive-3 { width: 300px; height: 250px; }
+        </style>
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+         tufing-responsive-3 
+        <ins class="adsbygoogle tufing-responsive-3"
+             style="display:block; min-width: 200px; max-width: 300px; width: 100%; min-height: 200px; max-height: 300px;"
+             data-ad-client="ca-pub-5279176980875369"
+             data-ad-slot="6953201730"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>-->
+        <div class="ads_content ssze300">
+        <style>
+            @media(max-width: 480px) { #right_internal_ad { display: none; } }
+        </style>
+        <iframe id="right_internal_ad" width="300px" height="250px" frameborder="0" src="https://www.hiox.biz/showadd.php?campaign=300x250&str=https:%2F%2Fwww.hiox.biz%2F" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true"></iframe>
+    </div>
+    
+<!--related tufs portion begin-->
+    <div class="relate_right_post clearfix highlight_tuf">
+    <h2>Popular Tufs</h2>
+    <div class="relate_right_post_con"><div class="relate_right_post_con_img"><a href="//www.tufing.com/tuf/69684/selena-gomez-beautiful--httpswwwtufingco"><img src="//www.tufing.com/img-thumb-share/23-378210.jpg" alt="Selena Gomez Beautiful  "></a></div><div class="relate_right_post_text"><h4><a href="//www.tufing.com/tuf/69684/selena-gomez-beautiful--httpswwwtufingco">Selena Gomez Beautiful  </a></h4><div class="relate_right_post_tag"><span class="more_box"><a href='//www.tufing.com/category/3024/selena-gomez/'>Selena Gomez</a></span></div></div></div><div class="relate_right_post_con"><div class="relate_right_post_con_img"><a href="//www.tufing.com/tuf/63264/ind-401-150"><img src="//www.tufing.com/img-thumb-share/aus-212-50-55451.jpg" alt="IND 401 150"></a></div><div class="relate_right_post_text"><h4><a href="//www.tufing.com/tuf/63264/ind-401-150">IND 401 150</a></h4><div class="relate_right_post_tag"><span class="more_box"><a href='//www.tufing.com/category/56/cricket/'>Cricket</a></span></div></div></div><div class="relate_right_post_con"><div class="relate_right_post_con_img"><a href="//www.tufing.com/tuf/3555/natpin-isai-dedicated-to-all"><img src="//www.tufing.com/images/default-relation.png" alt="default thumb image"></a></div><div class="relate_right_post_text"><h4><a href="//www.tufing.com/tuf/3555/natpin-isai-dedicated-to-all">Natpin Isai dedicated to all</a></h4><div class="relate_right_post_tag"><span class="more_box"><a href='//www.tufing.com/category/15/general/'>General</a></span></div></div></div><div class="relate_right_post_con"><div class="relate_right_post_con_img"><a href="//www.tufing.com/tuf/36094/actresses-sneka"><img src="//www.tufing.com/img-thumb-share/actresses-sneka-22915.jpg" alt="Actresses sneka"></a></div><div class="relate_right_post_text"><h4><a href="//www.tufing.com/tuf/36094/actresses-sneka">Actresses sneka</a></h4><div class="relate_right_post_tag"><span class="more_box"><a href='//www.tufing.com/category/1181/actress-sneha/'>Actress Sneha</a></span></div></div></div>    </div>    
+<!--related tufs portion end-->
+    
+    <!-- tuf_info begins -->
+     <div class="tuf_info">
+    <h1>Hot Shares, Trending Topics</h1>
+    <p><span class="blue">Tufing</span> is a free social sharing and networking site. Its is the perfect destination to get infotained with the trending topics from time to time. Share interesting news, hot pictures, videos and create your most interesting time at tufing.com. You can also download images and videos for free.</p>
+    </div>
+    <!-- tuf_info ends -->
+    
+    <div class="content_bottom"><p></p></div>
+  </div>
+    <!-- content_right_con ends -->
+</div>
+<!-- content_right ends -->
+</div>
+<!-- content ends -->
+<!-- footer begins -->
+<div class="footer clearfix">
+<ul class="clearfix">
+    <li>
+        <span>Try out tufing.com to browse, share and download the hot pictures and videos that you are looking for. Its simple to use and let you to updated with the news about the trending topics.</span>
+    </li>
+</ul>
+</div>
+<!-- footer ends -->
+<script src="//www.tufing.com/js/common.min.js?v=8"></script>
+
+<script type="text/javascript">
+    var chf_sess = "";
+    var chf_sess_mail = "";
+    var chf_sess_mobile = "";
+</script>
+
+
+<link href="//www.tufing.com/commoncode/footer/chf_style.min.css?v1.7" rel="stylesheet" type="text/css">
+<!--script type="text/javascript" src="//www.tufing.com/commoncode/footer/chf_script.js?v.1"></script-->
+<script type="text/javascript">
+	var fv='?v4.1';
+	window.addEventListener('load', 
+  	function() { 
+	   	var homeurl="//www.tufing.com/commoncode/footer";
+	    	var tag1 = document.createElement("script");
+		tag1.src = homeurl+'/chf_script.js'+fv;
+	  	document.getElementsByTagName("head")[0].appendChild(tag1);
+   	}, false);
+
+</script>
+</body>
+</html>

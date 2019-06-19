@@ -1,0 +1,2054 @@
+<!DOCTYPE HTML>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+        	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	
+	
+	
+    
+    
+	 
+     
+	<link media="screen, projection" rel="stylesheet" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/bootstrap.css" type="text/css" />
+        	<link media="screen, projection" rel="stylesheet" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/bootstrap-responsive.css" type="text/css" />
+    	<link media="screen, projection" rel="stylesheet" href="http://tvafterdarkonline.com/wp-content/themes/flavor/style.css" type="text/css" /> 
+        	<link media="screen, projection" rel="stylesheet" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/responsive.css" type="text/css" />
+        <link media="screen, projection" rel="stylesheet" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/retina.css" type="text/css" />
+    <!--[if IE 8]>
+            <link media="screen, projection" rel="stylesheet" type="text/css" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/ie8.css" />
+    <![endif]-->
+    <!--[if IE 9]>
+            <link media="screen, projection" rel="stylesheet" type="text/css" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/ie9.css" />
+    <![endif]-->
+    <!--[if gt IE 9]>
+            <link media="screen, projection" rel="stylesheet" type="text/css" href="http://tvafterdarkonline.com/wp-content/themes/flavor/css/ie10.css" />
+    <![endif]-->
+    
+    <style type="text/css">
+		
+			
+				.post-tags a:hover {background-color:#1e73be !important;}
+		a.thumbnail:hover, a.thumbnail:focus {border-color:#1e73be;}
+		#trending-toggle a {background-color:#1e73be;}
+		.ratings .ui-slider-range {background:#1e73be;}
+		#comments .filterbar .sort-buttons a.reply-link {color:#ffffff !important;}
+				#trending-toggle a, .main-loop.list .post-tags a:hover {color:#ffffff;}	
+				#main-menu-wrapper, #main-menu-wrapper ul li ul, #main-menu-wrapper ul li ul li a, #main-menu-wrapper ul li:hover ul li a, #main-menu-wrapper ul li.over ul li a, #main-menu-wrapper ul li ul li.over ul li a {background-color:#706771;}
+		#main-menu-wrapper ul li ul li a:hover, #main-menu-wrapper ul li ul li ul li a:hover {background-color: rgba(0, 0, 0, 0.2);}
+					#sub-menu ul li a {color:#beb0bf;}
+				#main-menu-wrapper #random-article a {color:#b5adb6;}
+					#selector-wrapper, #selector-wrapper ul li ul li a:hover {background-color:#1e73be;}
+				#selector-wrapper, #top-ten-selected a.selector-button, #selector-wrapper ul li ul li a:hover, #selector-wrapper ul li ul li:hover .selector-icon, .selector-arrow {color:#ffffff;}
+				#top-ten-social, #top-ten-social .input-prepend .add-on, #top-ten-social input {background-color:#1e73be;}
+		#top-ten-social .input-prepend .add-on, #top-ten-social input {border-color:#1e73be;}
+				#top-ten-social, #top-ten-social .social-counts span, #top-ten-social .social-counts a, #top-ten-social .social-counts a:hover {color:#ffffff;}
+				
+	
+		
+		
+		
+		
+		
+	
+		
+	
+		@media screen {
+		.minisite-icon-it_movies {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/09/MAD-16a.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_movies.white, #footer .minisite-icon-it_movies, #featured-bar-wrapper .minisite-icon-it_movies {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/09/MAD-16w.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+							.award-icon-bestof2013 {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-trophy.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-bestof2013 {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-trophy-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-flavoraward {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-flavor.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-flavoraward {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-flavor-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-moststunning {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-lightning.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-moststunning {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-lightning-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-mostaddictive {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-magnetic.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-mostaddictive {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-magnetic-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-editorschoice {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-crazy1.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-editorschoice {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-crazy-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-environmentallyfriendlyproduction {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-leaf.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-environmentallyfriendlyproduction {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-leaf-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-streamvianetflix {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tv.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-streamvianetflix {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tv-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-tearjerker {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-water.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-tearjerker {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-water-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-greatdatemovie {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-wine.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-greatdatemovie {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-wine-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-internationalrelease {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-global.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-internationalrelease {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-global-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-familyapprovedfilm {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tested.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-familyapprovedfilm {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tested-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-ticketsavailableonline {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tickets.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-ticketsavailableonline {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tickets-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-skipworktoseeamatinee {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-workplace.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-skipworktoseeamatinee {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-workplace-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+						}
+		@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+		.minisite-icon-it_movies {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/09/MAD-32a.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_movies.white, #footer .minisite-icon-it_movies, #featured-bar-wrapper .minisite-icon-it_movies {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/09/MAD-32w.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+							.award-icon-bestof2013 {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-trophy@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-bestof2013 {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-trophy-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-flavoraward {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-flavor@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-flavoraward {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-flavor-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-moststunning {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-lightning@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-moststunning {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-lightning-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-mostaddictive {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-magnetic@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-mostaddictive {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-magnetic-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-editorschoice {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-crazy@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-editorschoice {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-crazy-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-environmentallyfriendlyproduction {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-leaf@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-environmentallyfriendlyproduction {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-leaf-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-streamvianetflix {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tv@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-streamvianetflix {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tv-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-tearjerker {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-water@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-tearjerker {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-water-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-greatdatemovie {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-wine@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-greatdatemovie {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-wine-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-internationalrelease {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-global@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-internationalrelease {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-global-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-familyapprovedfilm {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tested@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-familyapprovedfilm {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tested-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-ticketsavailableonline {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tickets@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-ticketsavailableonline {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-tickets-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-skipworktoseeamatinee {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-workplace@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-skipworktoseeamatinee {background:url(http://www.industrialthemes.com/flavor/wp-content/uploads/2013/05/award-workplace-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+						}
+		
+	
+		@media screen {
+		.minisite-icon-it_television {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_television.white, #footer .minisite-icon-it_television, #featured-bar-wrapper .minisite-icon-it_television {background:url(http://50.22.11.32/~tvafterd/wp-content/uploads/2013/09/TVAD-16w.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+							.award-icon-mvaperformeroftheweek {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-tvad.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-mvaperformeroftheweek {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-tvad-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-editorschoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-crazy1.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-editorschoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-crazy-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-staffchoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-staff.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-staffchoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-staff-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-bestof2013 {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-trophy.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-bestof2013 {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-trophy-white.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-reactionaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-reactionaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-besttvquotes {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-besttvquotes {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-sexappealaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-sexappealaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-fashioncostumeaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-fashioncostumeaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-omg {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-omg {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-wtf {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-wtf {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-fashion {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-fashion {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-eyecandy {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-eyecandy {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-epic {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-epic {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+						}
+		@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+		.minisite-icon-it_television {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_television.white, #footer .minisite-icon-it_television, #featured-bar-wrapper .minisite-icon-it_television {background:url(http://50.22.11.32/~tvafterd/wp-content/uploads/2013/09/TVAD-32w.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+							.award-icon-mvaperformeroftheweek {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-tvad@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-mvaperformeroftheweek {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-tvad-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-editorschoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-crazy@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-editorschoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-crazy-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-staffchoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-staff@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-staffchoice {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-staff-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-bestof2013 {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-trophy@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-bestof2013 {background:url(http://tvafterdarkonline.com/wp-content/uploads/2013/10/award-trophy-white@2x.png) no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-reactionaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-reactionaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-besttvquotes {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-besttvquotes {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-sexappealaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-sexappealaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-fashioncostumeaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-fashioncostumeaward {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-omg {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-omg {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-wtf {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-wtf {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-fashion {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-fashion {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-eyecandy {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-eyecandy {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+									.award-icon-epic {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+					#featured .award-icon-epic {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+						}
+		
+	
+		@media screen {
+		.minisite-icon-it_the_vampire_diari {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_the_vampire_diari.white, #footer .minisite-icon-it_the_vampire_diari, #featured-bar-wrapper .minisite-icon-it_the_vampire_diari {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+				}
+		@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+		.minisite-icon-it_the_vampire_diari {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_the_vampire_diari.white, #footer .minisite-icon-it_the_vampire_diari, #featured-bar-wrapper .minisite-icon-it_the_vampire_diari {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+				}
+		
+	
+		@media screen {
+		.minisite-icon-it_the_originals {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_the_originals.white, #footer .minisite-icon-it_the_originals, #featured-bar-wrapper .minisite-icon-it_the_originals {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+				}
+		@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+		.minisite-icon-it_the_originals {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_the_originals.white, #footer .minisite-icon-it_the_originals, #featured-bar-wrapper .minisite-icon-it_the_originals {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+				}
+		
+	
+		@media screen {
+		.minisite-icon-it_test {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_test.white, #footer .minisite-icon-it_test, #featured-bar-wrapper .minisite-icon-it_test {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+				}
+		@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+		.minisite-icon-it_test {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+		.minisite-icon-it_test.white, #footer .minisite-icon-it_test, #featured-bar-wrapper .minisite-icon-it_test {background:url() no-repeat 0px 0px;background-size:16px 16px !important;width:16px;height:16px;float:left;}
+				}
+		
+	</style>    
+        
+    	
+	<link rel="shortcut icon" href="http://tvafterdarkonline.com/wp-content/uploads/2013/09/TVAD-16.png" />
+    
+    <link href="http://fonts.googleapis.com/css?family=Oswald:300,400|Signika:400,300,600,700|Source+Sans+Pro:700&amp;subset=" rel="stylesheet" type="text/css">	
+<meta property="og:image" content="http://tvafterdarkonline.com/wp-content/uploads/2014/02/The-Muskeeters-Cast-65x65.jpg" />    
+    	
+	<link rel="pingback" href="http://tvafterdarkonline.com/xmlrpc.php" />
+
+	    
+     
+    
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page Not Found - TV After Dark</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - TV After Dark" />
+<meta property="og:site_name" content="TV After Dark" />
+<meta property="fb:admins" content="1664541368" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="TV After Dark &raquo; Feed" href="http://tvafterdarkonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TV After Dark &raquo; Comments Feed" href="http://tvafterdarkonline.com/comments/feed/" />
+<link rel='stylesheet' id='ai1ec_style-css'  href='http://tvafterdarkonline.com/wp-content/plugins/all-in-one-event-calendar/cache/3f1def44_ai1ec_parsed_css.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.1.26' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_font-awesome-css'  href='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/css/font-awesome-4.0.1/font-awesome.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_mCustomScrollbar-css'  href='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.1.26' type='text/css' media='all' />
+<link rel='stylesheet' id='tag-groups-css-frontend-theme-1-css'  href='http://tvafterdarkonline.com/wp-content/plugins/tag-groups/css/ui-gray/jquery-ui-1.10.2.custom.min.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tag-groups-css-frontend-theme-2-css'  href='http://tvafterdarkonline.com/wp-content/plugins/tag-groups/css/jquery-ui.default.min.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='weptile-image-slider-widget-css'  href='http://tvafterdarkonline.com/wp-content/plugins/weptile-image-slider-widget/css/weptile-image-slider-widget.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='weptile-image-slider-widget-nivo-slider-css'  href='http://tvafterdarkonline.com/wp-content/plugins/weptile-image-slider-widget/nivo-slider/nivo-slider.css?ver=3.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.1.26'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.1.26'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.1.26'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.1.26'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/weptile-image-slider-widget/js/weptile-image-slider-widget.js?ver=3.9.2'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-content/plugins/weptile-image-slider-widget/nivo-slider/jquery.nivo.slider.pack.js?ver=3.9.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tvafterdarkonline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tvafterdarkonline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.2" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; background-image: url('http://tvafterdarkonline.com/wp-content/uploads/2014/06/TVAD-BG.jpg'); background-repeat: no-repeat; background-position: top left; background-attachment: scroll; }
+</style>
+	
+</head>
+
+
+<body class="error404 custom-background it-background woocommerce">
+
+	
+	<div id="ajax-error"></div>
+    
+    
+    <div class="container-fluid" id="top-menu-wrapper">
+    
+        <div class="row-fluid"> 
+        
+            <div class="floatleft" id="top-menu">           
+                
+                <div id="top-menu-full">
+                
+                    <div class="menu"><ul id="menu-top-menu-final1" class="menu"><li id="menu-item-23660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23660"><a href="http://tvafterdarkonline.com/tags/abc">ABC</a>
+<ul class="sub-menu">
+	<li id="menu-item-55956" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55956"><a href="http://tvafterdarkonline.com/category/tv-shows/shield/">AGENTS OF S.H.I.E.L.D</a></li>
+	<li id="menu-item-78419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78419"><a href="http://tvafterdarkonline.com/category/tv-shows/american-crime/">AMERICAN CRIME</a></li>
+	<li id="menu-item-78439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78439"><a href="http://tvafterdarkonline.com/category/tv-shows/forever/">FOREVER</a></li>
+	<li id="menu-item-78476" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78476"><a href="http://tvafterdarkonline.com/category/tv-shows/how-to-get-away-with-murder/">HOW TO GET AWAY WITH MURDER</a></li>
+	<li id="menu-item-78440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78440"><a href="http://tvafterdarkonline.com/category/tv-shows/marvels-agent-carter/">MARVEL&#8217;S AGENT CARTER</a></li>
+	<li id="menu-item-35891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35891"><a href="http://tvafterdarkonline.com/category/tv-shows/nashville/">NASHVILLE</a></li>
+	<li id="menu-item-23688" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23688"><a href="http://tvafterdarkonline.com/category/tv-shows/once-upon-a-time/">ONCE UPON A TIME</a></li>
+	<li id="menu-item-23710" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23710"><a href="http://tvafterdarkonline.com/category/tv-shows/revenge-2/">REVENGE</a></li>
+	<li id="menu-item-23693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23693"><a href="http://tvafterdarkonline.com/category/tv-shows/scandal-tv-shows/">SCANDAL</a></li>
+	<li id="menu-item-78438" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78438"><a href="http://tvafterdarkonline.com/category/tv-shows/secrets-and-lies-tv-shows/">SECRETS AND LIES</a></li>
+	<li id="menu-item-76847" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76847"><a href="http://tvafterdarkonline.com/category/tv-shows/the-quest/">THE QUEST</a></li>
+	<li id="menu-item-78840" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78840"><a href="http://tvafterdarkonline.com/category/tv-shows/the-whispers/">THE WHISPERS</a></li>
+</ul>
+</li>
+<li id="menu-item-23661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23661"><a href="http://tvafterdarkonline.com/tags/abc-family">ABC Family</a>
+<ul class="sub-menu">
+	<li id="menu-item-78480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78480"><a href="http://tvafterdarkonline.com/category/tv-shows/chasing-life-tv-shows/">CHASING LIFE</a></li>
+	<li id="menu-item-23689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23689"><a href="http://tvafterdarkonline.com/category/tv-shows/pretty-little-liars/">PRETTY LITTLE LIARS</a></li>
+	<li id="menu-item-70987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70987"><a href="http://tvafterdarkonline.com/category/tv-shows/the-fosters-tv-shows/">THE FOSTERS</a></li>
+	<li id="menu-item-52819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52819"><a href="http://tvafterdarkonline.com/category/tv-shows/twisted/">TWISTED</a></li>
+</ul>
+</li>
+<li id="menu-item-23662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23662"><a href="http://tvafterdarkonline.com">CBS</a>
+<ul class="sub-menu">
+	<li id="menu-item-70988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70988"><a href="http://tvafterdarkonline.com/category/tv-shows/survivor-tv-shows/">SURVIVOR</a></li>
+</ul>
+</li>
+<li id="menu-item-23663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23663"><a href="http://tvafterdarkonline.com/tags/CW">CW</a>
+<ul class="sub-menu">
+	<li id="menu-item-23679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23679"><a href="http://tvafterdarkonline.com/category/tv-shows/arrow/">ARROW</a></li>
+	<li id="menu-item-35893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35893"><a href="http://tvafterdarkonline.com/category/tv-shows/beauty-and-the-beast/">BEAUTY AND THE BEAST</a></li>
+	<li id="menu-item-64526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64526"><a href="http://tvafterdarkonline.com/category/tv-shows/reign/">REIGN</a></li>
+	<li id="menu-item-64525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64525"><a href="http://tvafterdarkonline.com/category/tv-shows/the-100/">THE 100</a></li>
+	<li id="menu-item-55943" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55943"><a href="http://tvafterdarkonline.com/category/tv-shows/the-originals/">THE ORIGINALS</a></li>
+	<li id="menu-item-23675" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-23675"><a href="http://tvafterdarkonline.com/category/tv-shows/the-vampire-diaries/">THE VAMPIRE DIAIRES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-55944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55944"><a href="http://thevampirediariescanada.com">THE VAMPIRE DIARIES FAN SITE</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-23664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23664"><a href="http://tvafterdarkonline.com/tags/FOX">FOX</a>
+<ul class="sub-menu">
+	<li id="menu-item-36890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36890"><a href="http://tvafterdarkonline.com/category/tv-shows/glee-2/">GLEE</a></li>
+	<li id="menu-item-74792" class="menu-item menu-item-type-taxonomy menu-item-object-television_network menu-item-74792"><a href="http://tvafterdarkonline.com/television-network/gotham/">GOTHAM</a></li>
+	<li id="menu-item-57018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57018"><a href="http://tvafterdarkonline.com/category/tv-shows/sleepy-hollow-tv-shows/">SLEEPY HOLLOW</a></li>
+	<li id="menu-item-45398" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45398"><a href="http://tvafterdarkonline.com/category/tv-shows/the-following/">THE FOLLOWING</a></li>
+</ul>
+</li>
+<li id="menu-item-57036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-57036"><a href="http://tvafterdarkonline.com/tags/NBC">NBC</a>
+<ul class="sub-menu">
+	<li id="menu-item-32149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32149"><a href="http://tvafterdarkonline.com/category/tv-shows/chicago-fire-tv-shows/">CHICAGO FIRE</a></li>
+	<li id="menu-item-56992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56992"><a href="http://tvafterdarkonline.com/category/tv-shows/chicago-pd-tv-shows/">CHICAGO PD</a></li>
+	<li id="menu-item-32151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32151"><a href="http://tvafterdarkonline.com/category/tv-shows/hannibal/">HANNIBAL</a></li>
+	<li id="menu-item-56985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56985"><a href="http://tvafterdarkonline.com/category/tv-shows/the-blacklist/">THE BLACKLIST</a></li>
+</ul>
+</li>
+<li id="menu-item-23667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23667"><a href="http://tvafterdarkonline.com">CABLE</a>
+<ul class="sub-menu">
+	<li id="menu-item-23669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23669"><a href="http://tvafterdarkonline.com">AMC</a>
+	<ul class="sub-menu">
+		<li id="menu-item-35889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35889"><a href="http://tvafterdarkonline.com/category/tv-shows/breaking-bad-tv-shows/">BREAKING BAD</a></li>
+		<li id="menu-item-35888" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35888"><a href="http://tvafterdarkonline.com/category/tv-shows/hell-on-wheels-tv-shows/">HELL ON WHEELS</a></li>
+		<li id="menu-item-72814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72814"><a href="http://tvafterdarkonline.com/category/tv-shows/turn-tv-shows/">TURN</a></li>
+		<li id="menu-item-23703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23703"><a href="http://tvafterdarkonline.com/category/tv-shows/the-walking-dead/">THE WALKING DEAD</a></li>
+	</ul>
+</li>
+	<li id="menu-item-56093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-56093"><a href="http://#">CINEMAX</a>
+	<ul class="sub-menu">
+		<li id="menu-item-56090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56090"><a href="http://tvafterdarkonline.com/category/tv-shows/banshee/">BANSHEE</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23670"><a href="http://tvafterdarkonline.com">FX</a>
+	<ul class="sub-menu">
+		<li id="menu-item-23678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23678"><a href="http://tvafterdarkonline.com/category/tv-shows/american-horror-story/">AMERICAN HORROR STORY</a></li>
+		<li id="menu-item-64530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64530"><a href="http://tvafterdarkonline.com/category/tv-shows/the-americans/">THE AMERICANS</a></li>
+	</ul>
+</li>
+	<li id="menu-item-52823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52823"><a href="http://#">HISTORY</a>
+	<ul class="sub-menu">
+		<li id="menu-item-52821" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52821"><a href="http://tvafterdarkonline.com/category/tv-shows/vikings/">VIKINGS</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23668"><a href="http://tvafterdarkonline.com">HBO</a>
+	<ul class="sub-menu">
+		<li id="menu-item-23684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23684"><a href="http://tvafterdarkonline.com/category/tv-shows/game-of-thrones-2/">GAME OF THRONES</a></li>
+		<li id="menu-item-78856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78856"><a href="http://tvafterdarkonline.com/category/tv-shows/the-leftovers-tv-shows/">THE LEFTOVERS</a></li>
+		<li id="menu-item-32158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32158"><a href="http://tvafterdarkonline.com/category/tv-shows/true-blood/">TRUE BLOOD</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23665"><a href="http://tvafterdarkonline.com">Lifetime</a>
+	<ul class="sub-menu">
+		<li id="menu-item-23691" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23691"><a href="http://tvafterdarkonline.com/category/tv-shows/the-client-list/">THE CLIENT LIST</a></li>
+		<li id="menu-item-72815" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72815"><a href="http://tvafterdarkonline.com/category/tv-shows/witches-of-east-end/">WITCHES OF EAST END</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23712"><a href="http://tvafterdarkonline.com">MTV</a>
+	<ul class="sub-menu">
+		<li id="menu-item-23697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23697"><a href="http://tvafterdarkonline.com/category/tv-shows/teen-wolf/">TEEN WOLF</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23671"><a href="http://tvafterdarkonline.com">SHOWTIME</a></li>
+	<li id="menu-item-72926" class="menu-item menu-item-type-taxonomy menu-item-object-television_network menu-item-has-children menu-item-72926"><a href="http://tvafterdarkonline.com/television-network/starz/">Starz</a>
+	<ul class="sub-menu">
+		<li id="menu-item-72922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72922"><a href="http://tvafterdarkonline.com/category/tv-shows/black-sails/">BLACK SAILS</a></li>
+		<li id="menu-item-72923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72923"><a href="http://tvafterdarkonline.com/category/tv-shows/davincis-demons/">DA VINCIS DEMONS</a></li>
+		<li id="menu-item-72924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72924"><a href="http://tvafterdarkonline.com/category/tv-shows/the-white-queen/">THE WHITE QUEEN</a></li>
+		<li id="menu-item-72925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72925"><a href="http://tvafterdarkonline.com/category/tv-shows/outlander/">Outlander</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-23682"><a href="http://tvafterdarkonline.com">SYFY</a>
+	<ul class="sub-menu">
+		<li id="menu-item-72817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72817"><a href="http://tvafterdarkonline.com/category/tv-shows/bitten-tv-shows/">BITTEN</a></li>
+		<li id="menu-item-78811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78811"><a href="http://tvafterdarkonline.com/category/tv-shows/dominion/">DOMINION</a></li>
+		<li id="menu-item-36887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36887"><a href="http://tvafterdarkonline.com/category/tv-shows/haven/">HAVEN</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23673"><a href="http://tvafterdarkonline.com/tags/tnt">TNT</a>
+	<ul class="sub-menu">
+		<li id="menu-item-57468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57468"><a href="http://tvafterdarkonline.com/category/tv-shows/the-last-ship/">THE LAST SHIP</a></li>
+		<li id="menu-item-32154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32154"><a href="http://tvafterdarkonline.com/category/tv-shows/dallas/">DALLAS</a></li>
+		<li id="menu-item-23708" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23708"><a href="http://tvafterdarkonline.com/category/tv-shows/falling-skies/">FALLING SKIES</a></li>
+	</ul>
+</li>
+	<li id="menu-item-76838" class="menu-item menu-item-type- menu-item-object- menu-item-has-children menu-item-76838"><a>WGNA</a>
+	<ul class="sub-menu">
+		<li id="menu-item-76846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76846"><a href="http://tvafterdarkonline.com/category/tv-shows/salem-tv-shows/">SALEM</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-78442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-78442"><a href="http://#">CANCEL TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-57020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57020"><a href="http://tvafterdarkonline.com/category/tv-shows/almost-human/">ALMOST HUMAN</a></li>
+	<li id="menu-item-23681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23681"><a href="http://tvafterdarkonline.com/category/tv-shows/being-human-tv-shows/">BEING HUMAN</a></li>
+	<li id="menu-item-70986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70986"><a href="http://tvafterdarkonline.com/category/tv-shows/betrayal-tv-shows/">BETRAYAL</a></li>
+	<li id="menu-item-32159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32159"><a href="http://tvafterdarkonline.com/category/tv-shows/cult-tv-shows/">CULT</a></li>
+	<li id="menu-item-44529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44529"><a href="http://tvafterdarkonline.com/category/tv-shows/deception-tv-shows/">DECEPTION</a></li>
+	<li id="menu-item-48521" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48521"><a href="http://tvafterdarkonline.com/category/tv-shows/dracula/">DRACULA</a></li>
+	<li id="menu-item-35895" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35895"><a href="http://tvafterdarkonline.com/category/tv-shows/nikita-2/">NIKITA</a></li>
+	<li id="menu-item-57465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57465"><a href="http://tvafterdarkonline.com/category/tv-shows/wonderland-tv-shows/">OUAT WONDERLAND</a></li>
+	<li id="menu-item-56092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56092"><a href="http://tvafterdarkonline.com/category/tv-shows/ravenswood/">RAVENSWOOD</a></li>
+	<li id="menu-item-32150" class="menu-item menu-item-type- menu-item-object- menu-item-32150"><a>REVOLUTION</a></li>
+	<li id="menu-item-64529" class="menu-item menu-item-type- menu-item-object- menu-item-64529"><a>STAR-CROSSED</a></li>
+</ul>
+</li>
+</ul></div>                    
+                </div>
+                
+                <div id="top-menu-compact">
+                
+                    <select id="select-menu-top-menu" class="mobile_menu"><option>Page Navigation</option><option   value="http://tvafterdarkonline.com/tags/abc">ABC</option><option   value="http://tvafterdarkonline.com/category/tv-shows/shield/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGENTS OF S.H.I.E.L.D</option><option   value="http://tvafterdarkonline.com/category/tv-shows/american-crime/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMERICAN CRIME</option><option   value="http://tvafterdarkonline.com/category/tv-shows/forever/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FOREVER</option><option   value="http://tvafterdarkonline.com/category/tv-shows/how-to-get-away-with-murder/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HOW TO GET AWAY WITH MURDER</option><option   value="http://tvafterdarkonline.com/category/tv-shows/marvels-agent-carter/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MARVEL'S AGENT CARTER</option><option   value="http://tvafterdarkonline.com/category/tv-shows/nashville/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NASHVILLE</option><option   value="http://tvafterdarkonline.com/category/tv-shows/once-upon-a-time/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ONCE UPON A TIME</option><option   value="http://tvafterdarkonline.com/category/tv-shows/revenge-2/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REVENGE</option><option   value="http://tvafterdarkonline.com/category/tv-shows/scandal-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCANDAL</option><option   value="http://tvafterdarkonline.com/category/tv-shows/secrets-and-lies-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECRETS AND LIES</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-quest/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE QUEST</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-whispers/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE WHISPERS</option><option   value="http://tvafterdarkonline.com/tags/abc-family">ABC Family</option><option   value="http://tvafterdarkonline.com/category/tv-shows/chasing-life-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CHASING LIFE</option><option   value="http://tvafterdarkonline.com/category/tv-shows/pretty-little-liars/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRETTY LITTLE LIARS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-fosters-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE FOSTERS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/twisted/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TWISTED</option><option   value="http://tvafterdarkonline.com">CBS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/survivor-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SURVIVOR</option><option   value="http://tvafterdarkonline.com/tags/CW">CW</option><option   value="http://tvafterdarkonline.com/category/tv-shows/arrow/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARROW</option><option   value="http://tvafterdarkonline.com/category/tv-shows/beauty-and-the-beast/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEAUTY AND THE BEAST</option><option   value="http://tvafterdarkonline.com/category/tv-shows/reign/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REIGN</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-100/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE 100</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-originals/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE ORIGINALS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-vampire-diaries/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE VAMPIRE DIAIRES</option><option   value="http://thevampirediariescanada.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE VAMPIRE DIARIES FAN SITE</option><option   value="http://tvafterdarkonline.com/tags/FOX">FOX</option><option   value="http://tvafterdarkonline.com/category/tv-shows/glee-2/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GLEE</option><option   value="http://tvafterdarkonline.com/television-network/gotham/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GOTHAM</option><option   value="http://tvafterdarkonline.com/category/tv-shows/sleepy-hollow-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SLEEPY HOLLOW</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-following/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE FOLLOWING</option><option   value="http://tvafterdarkonline.com/tags/NBC">NBC</option><option   value="http://tvafterdarkonline.com/category/tv-shows/chicago-fire-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CHICAGO FIRE</option><option   value="http://tvafterdarkonline.com/category/tv-shows/chicago-pd-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CHICAGO PD</option><option   value="http://tvafterdarkonline.com/category/tv-shows/hannibal/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HANNIBAL</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-blacklist/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE BLACKLIST</option><option   value="http://tvafterdarkonline.com">CABLE</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMC</option><option   value="http://tvafterdarkonline.com/category/tv-shows/breaking-bad-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BREAKING BAD</option><option   value="http://tvafterdarkonline.com/category/tv-shows/hell-on-wheels-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HELL ON WHEELS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/turn-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TURN</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-walking-dead/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE WALKING DEAD</option><option   value="http://#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CINEMAX</option><option   value="http://tvafterdarkonline.com/category/tv-shows/banshee/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BANSHEE</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FX</option><option   value="http://tvafterdarkonline.com/category/tv-shows/american-horror-story/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMERICAN HORROR STORY</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-americans/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE AMERICANS</option><option   value="http://#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HISTORY</option><option   value="http://tvafterdarkonline.com/category/tv-shows/vikings/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIKINGS</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HBO</option><option   value="http://tvafterdarkonline.com/category/tv-shows/game-of-thrones-2/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GAME OF THRONES</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-leftovers-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE LEFTOVERS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/true-blood/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TRUE BLOOD</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lifetime</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-client-list/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE CLIENT LIST</option><option   value="http://tvafterdarkonline.com/category/tv-shows/witches-of-east-end/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WITCHES OF EAST END</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MTV</option><option   value="http://tvafterdarkonline.com/category/tv-shows/teen-wolf/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEEN WOLF</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHOWTIME</option><option   value="http://tvafterdarkonline.com/television-network/starz/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Starz</option><option   value="http://tvafterdarkonline.com/category/tv-shows/black-sails/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLACK SAILS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/davincis-demons/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DA VINCIS DEMONS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-white-queen/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE WHITE QUEEN</option><option   value="http://tvafterdarkonline.com/category/tv-shows/outlander/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outlander</option><option   value="http://tvafterdarkonline.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SYFY</option><option   value="http://tvafterdarkonline.com/category/tv-shows/bitten-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BITTEN</option><option   value="http://tvafterdarkonline.com/category/tv-shows/dominion/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DOMINION</option><option   value="http://tvafterdarkonline.com/category/tv-shows/haven/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HAVEN</option><option   value="http://tvafterdarkonline.com/tags/tnt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TNT</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-last-ship/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE LAST SHIP</option><option   value="http://tvafterdarkonline.com/category/tv-shows/dallas/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DALLAS</option><option   value="http://tvafterdarkonline.com/category/tv-shows/falling-skies/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FALLING SKIES</option><option   value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WGNA</option><option   value="http://tvafterdarkonline.com/category/tv-shows/salem-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SALEM</option><option   value="http://#">CANCEL TV</option><option   value="http://tvafterdarkonline.com/category/tv-shows/almost-human/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALMOST HUMAN</option><option   value="http://tvafterdarkonline.com/category/tv-shows/being-human-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEING HUMAN</option><option   value="http://tvafterdarkonline.com/category/tv-shows/betrayal-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BETRAYAL</option><option   value="http://tvafterdarkonline.com/category/tv-shows/cult-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CULT</option><option   value="http://tvafterdarkonline.com/category/tv-shows/deception-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DECEPTION</option><option   value="http://tvafterdarkonline.com/category/tv-shows/dracula/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRACULA</option><option   value="http://tvafterdarkonline.com/category/tv-shows/nikita-2/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NIKITA</option><option   value="http://tvafterdarkonline.com/category/tv-shows/wonderland-tv-shows/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OUAT WONDERLAND</option><option   value="http://tvafterdarkonline.com/category/tv-shows/ravenswood/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAVENSWOOD</option><option   value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REVOLUTION</option><option   value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STAR-CROSSED</option></select>                    
+                </div>
+                
+            </div>
+            
+            <div class="floatright" id="top-search">
+                
+                <div class="wrapper">
+                 
+                    <form method="get" id="searchformtop" action="http://tvafterdarkonline.com/">                             
+                        <input type="text" value="search" onfocus="if (this.value == 'search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'search';}" name="s" id="s" />          
+                    </form>
+                    
+                </div>
+            
+            </div> 
+        
+        </div>
+        
+    </div>
+
+    
+    <div class="container">
+    
+    	<div id="bg-overlay" class="row"><div class="span12"></div></div>
+        
+        
+        
+        
+<div id="logo-bar">
+
+	<div class="row">
+
+        <div id="logo" class="span4">
+    
+                            <a href="http://tvafterdarkonline.com">
+                    <img id="site-logo" class="hires" alt="TV After Dark" src="http://tvafterdarkonline.com/wp-content/uploads/2013/09/TVAfterDark.png" />                             
+                </a>
+                <br class="clearer" />
+                        
+                        
+        </div>
+            
+                
+        <div id="sizzlin-wrapper" class="span8">
+            
+                        
+                <div class="row ad" id="ad-header">
+                
+                	<div class="span8">
+                    
+                    	<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4900736171407473";
+/* Homepage 728x90 */
+google_ad_slot = "8506292992";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>  
+                        
+                    </div>                    
+                      
+                </div>
+            
+             
+              
+            
+            <div class="row">
+            
+                <div class="span8">
+                
+                	 
+                    
+                        <div id="sizzlin-header" class="panel">
+                        
+                        	<div class="inner">
+                        
+                        		SIZZLIN'                                
+                                <br class="clearer" />
+                                
+                            </div>
+                            
+                        </div>                    
+                    
+                        <div id="sizzlin" class="panel">
+                        
+                        	<div class="inner">
+                        
+                            	<ul class="slide">
+                                    <li><a href="http://tvafterdarkonline.com/breaking-bad-episode-5x13-tohajiilee-mva-revealed/">Breaking Bad Episode (5×13) “To’hajiilee” – MVA Revealed</a></li><li><a href="http://tvafterdarkonline.com/television/scandal-gets-season-3-premiere-date-poster-hot-new-promo/">Scandal Gets Season 3 Premiere Date, Poster, &amp; Hot New Promo</a></li>                                </ul>
+                                
+                                <br class="clearer" />
+                                
+                            </div>
+                            
+                        </div>
+                        
+                                        
+                     
+                        
+                        <div id="social-top" class="panel">
+                        
+                        	<div class="inner">
+                            
+                            	<a href="http://www.twitter.com/tvafterdark" class="icon-twitter info" title="Twitter"></a><a href="https://www.facebook.com/tvafterdark" class="icon-facebook info" title="Facebook"></a><a href="https://plus.google.com/107285294994146126204/posts" class="icon-googleplus info" title="Googleplus"></a><a href="#" class="icon-vimeo info" title="Vimeo"></a><a href="http://pinterest.com/tvafterdark" class="icon-pinterest info" title="Pinterest"></a><a href="#" class="icon-twitter info" title="Twitter"></a><a href="#" class="icon-instagram info" title="Instagram"></a><a href="#" class="icon-youtube info" title="Youtube"></a>                                
+                                <br class="clearer" />
+                                
+                            </div>
+                            
+                        </div> 
+                        
+                     
+                
+                </div>
+            
+            </div>
+            
+        </div> 
+    
+    </div>
+    
+</div>
+
+        
+        <div class="row">
+        
+    <div class="span12">
+    
+    	<div id="main-menu-wrapper">
+    
+			                
+                    <div id="random-article">
+                
+                        <a title="Random Article" class="info icon-random" href="http://tvafterdarkonline.com/television/salem-roundtable-in-vain/"></a>
+                    
+                    </div>
+                    
+                 
+                
+                    
+            <div class="row">
+            
+                <div class="span12 right-shadow">
+                
+                    <div id="main-menu" class="menu-inner">
+                    
+                        <div id="main-menu-full">
+                                        
+                            <ul id="menu-main-navigation-minisites" class="menu"><li id="menu-item-79824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79824"><a href="http://tvafterdark.com">Home</a></li>
+<li id="menu-item-79826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79826"><a href="http://tvafterdarkonline.com/category/tv-shows/">TV</a></li>
+<li id="menu-item-79827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79827"><a href="http://tvafterdarkonline.com/category/movies-2/">MOVIES</a></li>
+<li id="menu-item-79832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79832"><a href="http://tvafterdarkonline.com/category/latest/reviews-latest/">REVIEWS</a></li>
+<li id="menu-item-79833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79833"><a href="http://tvafterdarkonline.com/category/latest/videos-latest/">VIDEOS</a></li>
+<li id="menu-item-79834" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79834"><a href="http://tvafterdarkonline.com/category/latest/scoopspoilers/">SCOOP/SPOILERS</a></li>
+<li id="menu-item-79825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79825"><a href="http://#">Communities (beta)</a>
+<ul class="sub-menu">
+	<li id="menu-item-79822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79822"><a href="http://tvafterdarkonline.com/category/tv-shows/the-vampire-diaries/tvd-community/">TVD COMMUNITY</a></li>
+	<li id="menu-item-79823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79823"><a href="http://tvafterdarkonline.com/category/tv-shows/the-originals/to-community/">TO COMMUNITY</a></li>
+</ul>
+</li>
+</ul> 
+                            
+                            <br class="clearer" />
+                            
+                        </div>
+                        
+                        <div id="main-menu-compact">
+                        
+                            <select id="select-menu-main-menu" class="mobile_menu"><option>Category Navigation</option><option   value="http://tvafterdark.com">Home</option><option   value="http://tvafterdarkonline.com/category/tv-shows/">TV</option><option   value="http://tvafterdarkonline.com/category/movies-2/">MOVIES</option><option   value="http://tvafterdarkonline.com/category/latest/reviews-latest/">REVIEWS</option><option   value="http://tvafterdarkonline.com/category/latest/videos-latest/">VIDEOS</option><option   value="http://tvafterdarkonline.com/category/latest/scoopspoilers/">SCOOP/SPOILERS</option><option   value="http://#">Communities (beta)</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-vampire-diaries/tvd-community/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TVD COMMUNITY</option><option   value="http://tvafterdarkonline.com/category/tv-shows/the-originals/to-community/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TO COMMUNITY</option></select> 
+                            
+                        </div>  
+                        
+                    </div>
+                    
+                </div>
+            
+            </div>
+            
+                                               
+        </div>
+        
+    </div>
+    
+</div>		
+        
+		
+        
+
+
+
+<div class="row solo single-page minisite-page post-loop">
+
+    <div class="span12">
+    
+    	<div class="sortbar">
+        
+        	<div class="row">
+            
+            	<div class="span12">
+                
+                	                    
+						                        
+                            <div class="sortbar-title">404 Error - Page Not Found</div>
+                            
+                                                
+                                        
+                                        
+                                        
+                                        
+                    
+	<div class="sortbar-right">
+        <form id="feedburner_subscribe" class="subscribe" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=TV After Dark News Feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                                    
+            <div class="email-label">Subscribe via E-mail</div>
+        
+            <div class="input-append info" title="Subscribe via E-mail">
+                <input class="span2" id="appendedInputButton" type="text" name="email" placeholder="Email address">
+                <button class="btn icon-check" type="button"></button>
+            </div>
+            
+            <input type="hidden" value="TV After Dark News Feed" name="uri"/>
+            <input type="hidden" name="loc" value="en_US"/>
+        
+        </form>
+    </div>
+    
+                    
+                    <div class="sortbar-right hidden">
+                        
+                        <div class="meta-data">
+                        
+                            <span class="icon-recent"></span>
+                            
+                            <span class="date">                                
+                                Posted 
+                                August 24, 2014                            </span>
+                            
+                        </div>
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+        
+        </div>
+        
+        <div class="content-wrapper">
+        
+        	<div class="row">
+            
+            	<div class="span12">
+                
+                	                
+                    <div class="main-loop sidebar-right " data-location="single-page">
+                    
+                    	<div class="main-loop-content">
+                        
+							                            
+                                <div class="main-content">
+                            
+                                    <h1>We could not find the page you were looking for. Try searching for it:</h1>
+                                
+                                    <form method="get" class="form-search" action="http://tvafterdarkonline.com/"> 
+                                        <div class="input-append">
+                                            <input class="span6 search-query" name="s" id="s" type="text" placeholder="keyword(s)">
+                                            <button class="btn icon-search" type="button"></button>
+                                        </div>        
+                                    </form>  
+                                    
+                                </div>                          
+                        
+                             
+                            
+                        </div>   
+                        
+                    </div>
+                    
+                                        
+                        <div id="sidebar-wrapper" class="sidebar-right"><div id="sidebar"><div class="sidebar-inner"><div class="widget-unwrapped"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4900736171407473";
+/* Pilots Image 300 x 250 */
+google_ad_slot = "3427704599";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><div id="ai1ec_agenda_widget-41" class="widget clearfix widget_ai1ec_agenda_widget">
+
+	<div class="header">What We're Watching</div>
+
+<div class="timely ai1ec-agenda-widget-view ai1ec-clearfix">
+
+			<p class="ai1ec-no-results">
+			There are no upcoming events.
+		</p>
+	 
+			<p>
+							<a class="ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right
+					ai1ec-calendar-link"
+					href="http&#x3A;&#x2F;&#x2F;tvafterdarkonline.com&#x2F;calendar&#x2F;cat_ids&#x7E;9901&#x2F;">
+					View Calendar
+					<i class="ai1ec-fa ai1ec-fa-arrow-right"></i>
+				</a>
+			
+							<div class="ai1ec-subscribe-container ai1ec-btn-group ai1ec-pull-left">
+	<button
+		type="button"
+		class="ai1ec-btn ai1ec-btn-default ai1ec-btn-sm ai1ec-dropdown-toggle
+			ai1ec-subscribe ai1ec-btn-xs"
+		data-toggle="ai1ec-dropdown">
+		<i class="ai1ec-fa ai1ec-icon-rss ai1ec-fa-lg ai1ec-fa-fw"></i>
+					Add
+				<span class="ai1ec-caret"></span>
+	</button>
+		<ul class="ai1ec-dropdown-menu" role="menu">
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="http&#x3A;&#x2F;&#x2F;tvafterdarkonline.com&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;ai1ec_cat_ids&#x3D;9901"
+			   title="Copy this URL for your own Timely calendar or click to add to your rich-text calendar" >
+				<i class="ai1ec-fa ai1ec-fa-lg ai1ec-fa-fw ai1ec-icon-timely"></i>
+				Add to Timely Calendar
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="http://www.google.com/calendar/render?cid=http&#x25;3A&#x25;2F&#x25;2Ftvafterdarkonline.com&#x25;2F&#x25;3Fplugin&#x25;3Dall-in-one-event-calendar&#x25;26controller&#x25;3Dai1ec_exporter_controller&#x25;26action&#x25;3Dexport_events&#x25;26ai1ec_cat_ids&#x25;3D9901"
+			   title="Subscribe to this calendar in your Google Calendar" >
+				<i class="ai1ec-fa ai1ec-icon-google ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Add to Google
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="webcal&#x3A;&#x2F;&#x2F;tvafterdarkonline.com&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true&amp;ai1ec_cat_ids&#x3D;9901"
+			   title="Subscribe to this calendar in MS Outlook" >
+				<i class="ai1ec-fa ai1ec-icon-windows ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Add to Outlook
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   target="_blank"
+			   data-placement="left"
+			   href="webcal&#x3A;&#x2F;&#x2F;tvafterdarkonline.com&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true&amp;ai1ec_cat_ids&#x3D;9901"
+			   title="Subscribe to this calendar in Apple Calendar/iCal" >
+				<i class="ai1ec-fa ai1ec-icon-apple ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Add to Apple Calendar
+			</a>
+		</li>
+		<li>
+						<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			   data-placement="left"
+			   href="http&#x3A;&#x2F;&#x2F;tvafterdarkonline.com&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true&amp;ai1ec_cat_ids&#x3D;9901"
+			   title="Subscribe to this calendar in another plain-text calendar" >
+				<i class="ai1ec-fa ai1ec-icon-calendar ai1ec-fa-fw"></i>
+				Add to other calendar
+			</a>
+		</li>
+	</ul>
+</div>
+					</p>
+	 
+</div>
+
+</div>
+<div id="text-49" class="widget clearfix widget_text"><div class="header">2014 Summer TV Schedule: New &amp; Returning Shows</div>			<div class="textwidget"><p><a href="http://tvafterdarkonline.com/television/2014-summer-tv-schedule-new-returning-shows/"><img class="attachment-grid-post wp-post-image" title="2014 Summer TV Schedule: New &amp; Returning Shows" src="http://tvafterdarkonline.com/wp-content/uploads/2014/05/Summer-TV-New-Returning-Shows-775x405.jpg" alt="Summer-TV-New-&amp;-Returning-Shows" width="320" height="205" /></a></p>
+</div>
+		</div><div class="widget-unwrapped"><!--Insticator API Embed Code-->
+<div id='insticator-api-div'>
+<script>
+//Change this UUID to customize the TV-Show you want
+var instciator_TvShowUUID='54378392-80d5-4d19-906f-fcf1dac1670e';
+var insticator_ApiWidget_Width = '300px'; //Should be always more than 290px
+var insticator_ApiWidget_Height = '450px'; //Should be always more than 450px
+(function() {
+    var iscript = document.createElement('script'); iscript.type = 'text/javascript'; iscript.async = true;
+    iscript.src = 'https://' + 'static.insticator.com' + '/public/87644613313/versions/desktop/js/insticator-api-embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(iscript);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://insticator.com"> API powered by Insticator.</a></noscript>
+</div>
+<!--Insticator API Embed Code--></div><div class="widget-unwrapped"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4900736171407473";
+/* Pilots Image 300 x 250 */
+google_ad_slot = "3427704599";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></div></div></div>                    
+                                        
+                                        
+                </div>
+                            
+            </div>
+            
+        </div>
+        
+        <div class="pagination pagination-normal">
+        
+        	<div class="row">
+            
+            	<div class="span12 pagination-inner">                
+                	
+                
+                </div>
+            
+            </div>
+        
+        </div>
+    
+    </div>
+    
+</div>
+
+
+
+
+	        
+        <div class="row ad" id="ad-footer">
+            
+            <div class="span12">
+            
+                <script type="text/javascript"><!--
+google_ad_client = "ca-pub-4900736171407473";
+/* Homepage 728x90 */
+google_ad_slot = "8506292992";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>  
+                
+            </div>                    
+              
+        </div>
+    
+    
+</div> 
+
+
+    <div id="subfooter-wrapper" class="solo">
+    
+        <div class="container">
+    
+            <div id="subfooter">
+    
+                <div class="row">
+                    
+                    <div class="span6 copyright">
+                    
+                                                
+                            Copyright © 2014 TV After Dark, All Rights Reserved.                            
+                          
+                        
+                    </div>
+                    
+                    <div class="span6 credits">
+                    
+                                                
+                            Privacy Policy | Terms of Use                            
+                                                 
+                    
+                    </div>
+                
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>
+    
+
+	<script type="text/javascript" src="http://tvafterdarkonline.com/wp-content/themes/flavor/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://tvafterdarkonline.com/wp-content/themes/flavor/js/plugins.min.js"></script>
+    
+    <script type="text/javascript">
+	jQuery.noConflict(); 
+	
+	//DOCUMENT.READY
+	jQuery(document).ready(function() { 
+		//hide various jQuery elements until they are loaded
+		jQuery('#featured ul').show();
+		jQuery('.it-widget-tabs').show();
+		//revolution slider
+					
+		if (jQuery.fn.cssOriginal!=undefined)
+		jQuery.fn.css = jQuery.fn.cssOriginal;
+		
+		jQuery('#featured').revolution(
+			{    
+			delay:8000,                                                
+			startheight:380,                            
+			startwidth:650,
+			
+			hideThumbs:200,
+			
+			thumbWidth:100,                            
+			thumbHeight:50,
+			thumbAmount:5,
+			
+			navigationType:"none",               
+			navigationArrows:"solo",      
+			navigationStyle:"round",               
+										
+			navigationHAlign:"center",             
+			navigationVAlign:"bottom",                 
+			navigationHOffset:0,
+			navigationVOffset:20,
+			
+			soloArrowLeftHalign:"left",
+			soloArrowLeftValign:"center",
+			soloArrowLeftHOffset:20,
+			soloArrowLeftVOffset:0,
+			
+			soloArrowRightHalign:"right",
+			soloArrowRightValign:"center",
+			soloArrowRightHOffset:20,
+			soloArrowRightVOffset:0,
+			touchenabled:"on",                      
+			onHoverStop:"on",                        
+			
+			navOffsetHorizontal:0,
+			navOffsetVertical:20,
+			
+			hideCaptionAtLimit:500,
+			hideAllCaptionAtLilmit:0,
+			hideSliderAtLimit:0,
+			
+			stopAtSlide:-1,
+			stopAfterLoops:-1,
+			
+			shadow:0,
+			fullWidth:"off"    
+											
+		});		
+	
+		//superfish
+		jQuery('#top-menu ul').superfish({
+			hoverClass:  'over', 						// the class applied to hovered list items 
+			delay:       500,                            // one second delay on mouseout 
+			animation:   {height:'show'},  // fade-in and slide-down animation 
+			speed:       160,                          // faster animation speed 
+			disableHI:   true,
+			autoArrows:  false
+		});
+		jQuery('#main-menu ul').superfish({
+			hoverClass:  'over', 						// the class applied to hovered list items 
+			delay:       500,                            // one second delay on mouseout 
+			animation:   {height:'show'},  // fade-in and slide-down animation 
+			speed:       160,                          // faster animation speed 
+			disableHI:   true,
+			autoArrows:  false
+		});
+		jQuery('#sub-menu ul').superfish({
+			hoverClass:  'over', 						// the class applied to hovered list items 
+			delay:       500,                            // one second delay on mouseout 
+			animation:   {height:'show'},  // fade-in and slide-down animation 
+			speed:       160,                          // faster animation speed 
+			disableHI:   true,
+			autoArrows:  false
+		});
+		jQuery('#selector-wrapper ul').superfish({
+			hoverClass:  'over', 						// the class applied to hovered list items 
+			delay:       400,                            // one second delay on mouseout 
+			animation:   {height:'show'},  // fade-in and slide-down animation 
+			speed:       300,                          // faster animation speed 
+			disableHI:   true,
+			autoArrows:  false
+		});	
+		
+		// trending slider
+		jQuery('#trending-toggle').click(function() { 
+			jQuery('#trending-wrapper').animate({				 
+			 height: 'toggle'				 
+			}, 200, 'linear' );		
+		});
+		jQuery('.carousel').carousel({
+			interval: 5000
+		});
+				
+		//sizzlin slider		
+		jQuery('#sizzlin .slide').list_ticker({
+			speed:8000, //number of milliseconds to display the item
+			effect:'slide' //slide or fade
+		});
+		
+		//don't show top ten slider until page is loaded
+		jQuery('#top-ten').show();
+		
+		//top ten slider simply scroll plugin (standard carousel for IE8)		
+		var isIE8 = jQuery.browser.msie && +jQuery.browser.version === 8;
+		if ( isIE8 ) {
+			jQuery('#top-ten-slider').wrapInner('<div id="#top-ten-inner" class="carousel-inner" />');
+			jQuery('#top-ten-slider').carousel({
+				interval: 3500
+			});
+		} else {			
+			jQuery("#top-ten-slider").simplyScroll({
+				customClass: 'top-ten',
+				orientation: 'horizontal', 
+				direction: 'forwards',
+				pauseOnHover: true,
+				frameRate: 48,
+				speed: 1		
+			});	
+		}
+				
+		//image darkening
+		jQuery('body').on('mouseenter', '.darken', function(e) {
+			jQuery(this).find('img').stop().animate({ opacity: .3 }, 150);
+		}).on('mouseleave', '.darken', function(e) {
+			jQuery(this).find('img').stop().animate({ opacity: 1.0 }, 500);
+		});
+		
+		//jquery ui slider
+				jQuery('.form-selector').slider({
+			value: 5,
+			min: 0,
+			max: 10,
+			step: 0.1,
+			orientation: "horizontal",
+			range: "min",
+			animate: true,
+			slide: function( event, ui ) {
+				var rating = ui.value;
+							
+				jQuery(this).siblings('.rating-value').html( rating );
+			}
+		});
+		
+		//HD images		
+		if (window.devicePixelRatio == 2) {	
+			var images = jQuery("img.hires");		
+			// loop through the images and make them hi-res
+			for(var i = 0; i < images.length; i++) {		
+				// create new image name
+				var imageType = images[i].src.substr(-4);
+				var imageName = images[i].src.substr(0, images[i].src.length - 4);
+				imageName += "@2x" + imageType;		
+				//rename image
+				images[i].src = imageName;
+			}
+		}			
+		
+		//fancy responsive selectboxes
+		jQuery("select#select-menu-top-menu, select#select-menu-main-menu, select#select-menu-sub-menu, select#select-menu-tax-menu").selectBox();
+		
+		//add bootstrap classes to wordpress generated elements
+		jQuery('.avatar-70, .avatar-50').addClass('img-circle');
+		jQuery('.comment-reply-link').addClass('btn');
+		jQuery('#reply-form input#submit').addClass('btn');
+		
+		//put this in a function so we can call it from ajax easily
+		dynamicElements();
+				
+	});
+	
+	//applied to elements within ajax panels
+	function dynamicElements() {		
+		//jQuery tooltips				
+		jQuery('.info').tooltip();		
+		jQuery('info-bottom').tooltip({ placement: 'bottom' });
+		//jQuery popovers
+		jQuery('.popthis').popover();
+		//jQuery alert dismissals
+		jQuery(".alert").alert();
+		//jQuery fitvids
+		jQuery('.post-loop .video_frame').fitVids();
+		//equal height columns
+		equalHeightColumns(jQuery(".main-loop, #sidebar"));	
+	}
+	
+	//call equal height columns when window is resized
+	jQuery(window).resize(function() {
+		equalHeightColumns(jQuery(".main-loop, #sidebar"));
+	});
+	
+	//call equal height columns when main content is resized
+	jQuery(".main-loop-content").resize(function(e){
+		equalHeightColumns(jQuery(".main-loop, #sidebar"));
+	});
+	
+	//call equal height columns when sidebar is resized
+	jQuery(".sidebar-inner").resize(function(e){
+		equalHeightColumns(jQuery(".main-loop, #sidebar"));
+	});
+	
+	//equal height columns
+	function equalHeightColumns(group) {
+		tallest = 0;
+		width = jQuery(window).width();							
+		group.each(function() {
+			jQuery(this).removeAttr('style');			
+			thisHeight = jQuery(this).height();
+			if(thisHeight > tallest) {
+				tallest = thisHeight;
+			}
+		});
+		if(width > 767) {	
+			group.height(tallest);	
+		}
+	}	
+	
+	//search form submission
+	jQuery("#searchformtop input").keypress(function(event) {
+		if (event.which == 13) {
+			event.preventDefault();
+			jQuery("#searchformtop").submit();
+		}
+	});
+	
+	//email subscribe form submission
+	jQuery("#feedburner_subscribe button").click(function() {		
+		jQuery("#feedburner_subscribe").submit();		
+	});
+	
+	//login form submission
+	jQuery(".wp-user-form #user_pass").keypress(function(event) {
+		if (event.which == 13) {
+			event.preventDefault();
+			jQuery(".wp-user-form").submit();
+		}
+	});
+	
+	//scroll all #top elements to top
+	jQuery("a[href='#top']").click(function() {
+		jQuery("html, body").animate({ scrollTop: 0 }, "slow");
+		return false;
+	});
+	
+	//rating animations
+	function animateRating(pos,delay,eid) {
+		jQuery('#' + eid + ' .rating-meter').delay(delay).animate({
+			opacity:1,
+			left: pos + '%'
+		}, 2500, 'easeOutCubic');	
+	}
+	
+	//responsive menu select drop downs
+	jQuery("select#select-menu-top-menu").change(function() {
+	  window.location = jQuery(this).find("option:selected").val();
+	});
+	jQuery("select#select-menu-main-menu").change(function() {
+	  window.location = jQuery(this).find("option:selected").val();
+	});
+	jQuery("select#select-menu-sub-menu").change(function() {
+	  window.location = jQuery(this).find("option:selected").val();
+	});
+	jQuery("select#select-menu-tax-menu").change(function() {	
+	  window.location = jQuery(this).find("option:selected").val();
+	});
+	
+	//pinterest
+	(function(d){
+		var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+		p.type = 'text/javascript';
+		p.async = true;
+		p.src = '//assets.pinterest.com/js/pinit.js';
+		f.parentNode.insertBefore(p, f);
+	}(document));
+	
+	//facebook
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+		
+	//WINDOW.LOAD
+	jQuery(window).load(function() {		
+		
+		//flickr
+				jQuery('.flickr').jflickrfeed({
+			limit: 9,
+			qstrings: {
+				id: ''
+			},
+			itemTemplate: '<li>'+
+							'<a rel="colorbox" class="darken small" href="{{image}}" title="{{title}}">' +
+								'<img src="{{image_s}}" alt="{{title}}" width="75" height="75" />' +
+							'</a>' +
+						  '</li>'
+		}, function(data) {
+		});	
+		
+		//tabs - these must go in window.load so pinterest will work inside a tab
+		jQuery('.featured-widgets .it-clouds').tabs({ fx: { opacity: 'toggle', duration: 150 } });
+		jQuery('#sidebar .it-clouds').tabs({ fx: { opacity: 'toggle', duration: 150 } });
+		jQuery('#footer .it-clouds').tabs({ fx: { opacity: 'toggle', duration: 150 } });
+		jQuery('.featured-widgets .it-social-tabs').tabs({ fx: { opacity: 'toggle', duration: 150 } });
+		jQuery('#sidebar .it-social-tabs').tabs({ fx: { opacity: 'toggle', duration: 150 } });
+		jQuery('#footer .it-social-tabs').tabs({ fx: { opacity: 'toggle', duration: 150 } });
+		
+		equalHeightColumns(jQuery(".main-loop, #sidebar"));	
+					
+		});	
+	
+	jQuery.noConflict();
+	
+		
+</script>   
+    <script type="text/javascript">
+	jQuery.noConflict(); 
+	
+	// AJAX SORTING BUTTONS
+	// trending slider
+	jQuery('body').on('click', '#trending-wrapper .sort-buttons a', function(e){
+		jQuery("#trending-wrapper .loading").show();
+		jQuery("#trending").animate({opacity: "0.2"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var rating = jQuery(this).parent().data('rating');
+		var icon = jQuery(this).parent().data('icon');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var currentquery = jQuery("#trending-wrapper").data('currentquery');
+		var action = 'sort';	
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, location: location, thumbnail: thumbnail, rating: rating, icon: icon, numarticles: numarticles, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#trending-wrapper .loading").hide();
+				jQuery("#trending").animate({opacity: "1"}, 500);	
+				jQuery("#trending .carousel-inner").html(data.content);
+				if (data.pages > 1) {
+					jQuery(".carousel-control-wrapper").show();
+				} else {
+					jQuery(".carousel-control-wrapper").hide();
+				}
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#trending-wrapper .loading").hide();
+				jQuery("#trending").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// trending featured widget
+	jQuery('body').on('click', '.featured-widgets .trending-articles .sort-buttons a', function(e){
+		jQuery(".featured-widgets .trending-articles .loading").show();
+		jQuery(".featured-widgets .trending-articles .post-list").animate({opacity: "0.2"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var rating = jQuery(this).parent().data('rating');
+		var icon = jQuery(this).parent().data('icon');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var currentquery = jQuery(".trending-articles").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, location: location, thumbnail: thumbnail, rating: rating, icon: icon, numarticles: numarticles, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery(".featured-widgets .trending-articles .loading").hide();
+				jQuery(".featured-widgets .trending-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery(".featured-widgets .trending-articles .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery(".featured-widgets .trending-articles .loading").hide();
+				jQuery(".featured-widgets .trending-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// trending sidebar widget
+	jQuery('body').on('click', '#sidebar .trending-articles .sort-buttons a', function(e){
+		jQuery("#sidebar .trending-articles .loading").show();
+		jQuery("#sidebar .trending-articles .post-list").animate({opacity: "0.2"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var rating = jQuery(this).parent().data('rating');
+		var icon = jQuery(this).parent().data('icon');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var currentquery = jQuery(".trending-articles").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, location: location, thumbnail: thumbnail, rating: rating, icon: icon, numarticles: numarticles, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#sidebar .trending-articles .loading").hide();
+				jQuery("#sidebar .trending-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery("#sidebar .trending-articles .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#sidebar .trending-articles .loading").hide();
+				jQuery("#sidebar .trending-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// trending footer widget
+	jQuery('body').on('click', '#footer .trending-articles .sort-buttons a', function(e){
+		jQuery("#footer .trending-articles .loading").show();
+		jQuery("#footer .trending-articles .post-list").animate({opacity: "0.2"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var rating = jQuery(this).parent().data('rating');
+		var icon = jQuery(this).parent().data('icon');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var currentquery = jQuery(".trending-articles").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, location: location, thumbnail: thumbnail, rating: rating, icon: icon, numarticles: numarticles, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#footer .trending-articles .loading").hide();
+				jQuery("#footer .trending-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery("#footer .trending-articles .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#footer .trending-articles .loading").hide();
+				jQuery("#footer .trending-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// top ten slider
+	jQuery('body').on('click', '#top-ten-selector a.clickable', function(e){
+		jQuery("#top-ten .loading").show();
+		jQuery("#top-ten-slider").animate({opacity: "0"}, 0);			
+		
+		var sorter = jQuery(this).data('sorter');
+		var label = jQuery(this).data('label');
+		var loop = jQuery(this).parent().parent().data('loop');
+		var timeperiod = jQuery(this).parent().parent().data('timeperiod');
+		var currentquery = jQuery("#top-ten").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, timeperiod: timeperiod, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#top-ten .loading").hide();
+				jQuery("#top-ten-selected a").html(label);
+				jQuery("#top-ten-selected .selector-icon span").removeClass().addClass('icon-'+sorter);
+				jQuery('#selector-wrapper ul li').removeClass('over');
+				jQuery('#selector-wrapper ul li ul').hide();
+				jQuery("#top-ten-slider").animate({opacity: "1"}, 500);	
+				jQuery("#top-ten-slider").html(data.content);
+				//top ten slider simply scroll plugin (standard carousel for IE8)		
+				var isIE8 = jQuery.browser.msie && +jQuery.browser.version === 8;
+				if ( isIE8 ) {
+					jQuery('#top-ten-slider').carousel({
+						interval: 3500
+					});
+				} else {			
+					jQuery("#top-ten-slider").simplyScroll({
+						customClass: 'top-ten',
+						orientation: 'horizontal', 
+						direction: 'forwards',
+						pauseOnHover: true,
+						frameRate: 48,
+						speed: 1		
+					});	
+				}
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#top-ten .loading").hide();
+				jQuery("#top-ten-slider").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// top ten featured widget
+	jQuery('body').on('click', '.featured-widgets .topten-articles .sort-buttons a', function(e){
+		jQuery(".featured-widgets .topten-articles .loading").show();
+		jQuery(".featured-widgets .topten-articles .post-list").animate({opacity: "0"}, 0);
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');			
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var timeperiod = jQuery(this).parent().data('timeperiod');
+		var currentquery = jQuery(".topten-articles").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, timeperiod: timeperiod, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery(".featured-widgets .topten-articles .loading").hide();
+				jQuery(".featured-widgets .topten-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery(".featured-widgets .topten-articles .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery(".featured-widgets .topten-articles .loading").hide();
+				jQuery(".featured-widgets .topten-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// top ten sidebar widget
+	jQuery('body').on('click', '#sidebar .topten-articles .sort-buttons a', function(e){
+		jQuery("#sidebar .topten-articles .loading").show();
+		jQuery("#sidebar .topten-articles .post-list").animate({opacity: "0"}, 0);
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');			
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var timeperiod = jQuery(this).parent().data('timeperiod');
+		var currentquery = jQuery(".topten-articles").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, timeperiod: timeperiod, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#sidebar .topten-articles .loading").hide();
+				jQuery("#sidebar .topten-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery("#sidebar .topten-articles .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#sidebar .topten-articles .loading").hide();
+				jQuery("#sidebar .topten-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// top ten footer widget
+	jQuery('body').on('click', '#footer .topten-articles .sort-buttons a', function(e){
+		jQuery("#footer .topten-articles .loading").show();
+		jQuery("#footer .topten-articles .post-list").animate({opacity: "0"}, 0);
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');			
+		
+		var sorter = jQuery(this).data('sorter');
+		var loop = jQuery(this).parent().data('loop');
+		var timeperiod = jQuery(this).parent().data('timeperiod');
+		var currentquery = jQuery(".topten-articles").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, action: action, timeperiod: timeperiod, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#footer .topten-articles .loading").hide();
+				jQuery("#footer .topten-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery("#footer .topten-articles .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#footer .topten-articles .loading").hide();
+				jQuery("#footer .topten-articles .post-list").animate({opacity: "1"}, 500);	
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// main loop view switcher
+	jQuery('body').on('click', '.post-loop .sortbar-control a', function(e){
+		jQuery(".main-loop .loading").show();
+		jQuery(".main-loop-inner").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var view = jQuery(this).data('view');
+		if(view=='grid') {
+			remove='list';
+		} else {
+			remove='grid';
+		}
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var sorter = jQuery(this).parent().data('sorter');
+		var paginated = jQuery(this).parent().data('paginated');
+		var columns = jQuery(this).parent().data('columns');
+		var currentquery = jQuery(".post-loop").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, location: location, action: action, view: view, columns: columns, paginated: paginated, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) { 
+				jQuery(".main-loop .loading").hide();				
+				jQuery(".main-loop-inner").animate({opacity: "1"}, 500);
+				jQuery('.main-loop').removeClass(remove).addClass(view);
+				jQuery(".main-loop-inner").html(data.content);
+				if(data.updatepagination==1) {
+					jQuery(".pagination-inner").html(data.pagination);
+					jQuery(".pagination-inner-mobile").html(data.paginationmobile);
+				}
+				jQuery('.post-loop .sort-buttons').data('view', view);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery(".main-loop .loading").hide();
+				jQuery(".main-loop-inner").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// main loop sorting
+	jQuery('body').on('click', '.post-loop .sortbar .sort-buttons a', function(e){
+		jQuery(".main-loop .loading").show();
+		jQuery(".main-loop-inner").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var view = jQuery(this).parent().data('view');
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var sorter = jQuery(this).data('sorter');
+		var columns = jQuery(this).parent().data('columns');
+		var paginated = jQuery(this).parent().data('paginated');
+		var title = jQuery(this).data('original-title');
+		var currentquery = jQuery(".post-loop").data('currentquery');
+		var action = 'sort';
+		
+		// update loop content
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, location: location, action: action, view: view, columns: columns, paginated: paginated, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery(".main-loop .loading").hide();
+				jQuery(".main-loop-inner").animate({opacity: "1"}, 500);
+				jQuery(".main-loop-inner").html(data.content);
+				if(data.updatepagination==1) {
+					jQuery(".pagination-inner").html(data.pagination);
+					jQuery(".pagination-inner-mobile").html(data.paginationmobile);
+				}
+				jQuery(".post-loop .sortbar-title").html(title);
+				jQuery('.post-loop .sortbar-control').data('sorter', sorter);
+				jQuery('.post-loop .pagination .sort-buttons').data('sorter', sorter);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery(".main-loop .loading").hide();
+				jQuery(".main-loop-inner").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// main loop pagination
+	jQuery('body').on('click', '.post-loop .pagination .sort-buttons a', function(e){
+		jQuery(".main-loop .loading").show();
+		jQuery(".main-loop-inner").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		jQuery('html, body').animate({
+			scrollTop: jQuery(".post-loop").offset().top
+		}, 300);
+		
+		var view = jQuery(this).parent().data('view');
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var sorter = jQuery(this).parent().data('sorter');
+		var columns = jQuery(this).parent().data('columns');
+		var paginated = jQuery(this).data('paginated');
+		var currentquery = jQuery(".post-loop").data('currentquery');
+		var action = 'sort';
+		
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, location: location, loop: loop, action: action, view: view, columns: columns, paginated: paginated, currentquery: currentquery },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery(".main-loop .loading").hide();
+				jQuery(".main-loop-inner").animate({opacity: "1"}, 500);
+				jQuery(".main-loop-inner").html(data.content);
+				if(data.updatepagination==1) {
+					jQuery(".pagination-inner").html(data.pagination);
+					jQuery(".pagination-inner-mobile").html(data.paginationmobile);
+				}
+				jQuery('.post-loop .sortbar-control').data('paginated', paginated);
+				jQuery('.post-loop .sortbar .sort-buttons').data('paginated', paginated);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery(".main-loop .loading").hide();
+				jQuery(".main-loop-inner").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// featured widgets minisite filtering
+	jQuery('body').on('click', '.featured-widgets .minisite-tabs .sort-buttons a', function(e){
+		jQuery(".featured-widgets .minisite-tabs .loading").show();
+		jQuery(".featured-widgets .minisite-tabs .post-list").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var morelink = jQuery(this).parent().data('morelink');
+		var rating = jQuery(this).parent().data('rating');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var sorter = jQuery(this).data('sorter');
+		var action = 'sort';
+		
+		// update loop content
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, location: location, action: action, thumbnail: thumbnail, rating: rating, numarticles: numarticles, morelink: morelink },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery(".featured-widgets  .minisite-tabs .loading").hide();
+				jQuery(".featured-widgets  .minisite-tabs .post-list").animate({opacity: "1"}, 500);
+				jQuery(".featured-widgets  .minisite-tabs .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery(".featured-widgets  .minisite-tabs .loading").hide();
+				jQuery(".featured-widgets  .minisite-tabs .post-list").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// sidebar widget minisite filtering
+	jQuery('body').on('click', '#sidebar .minisite-tabs .sort-buttons a', function(e){
+		jQuery("#sidebar .minisite-tabs .loading").show();
+		jQuery("#sidebar .minisite-tabs .post-list").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var morelink = jQuery(this).parent().data('morelink');
+		var rating = jQuery(this).parent().data('rating');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var sorter = jQuery(this).data('sorter');
+		var action = 'sort';
+		
+		// update loop content
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, location: location, action: action, thumbnail: thumbnail, rating: rating, numarticles: numarticles, morelink: morelink },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#sidebar .minisite-tabs .loading").hide();
+				jQuery("#sidebar .minisite-tabs .post-list").animate({opacity: "1"}, 500);
+				jQuery("#sidebar .minisite-tabs .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#sidebar .minisite-tabs .loading").hide();
+				jQuery("#sidebar .minisite-tabs .post-list").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// footer widget minisite filtering
+	jQuery('body').on('click', '#footer .minisite-tabs .sort-buttons a', function(e){
+		jQuery("#footer .minisite-tabs .loading").show();
+		jQuery("#footer .minisite-tabs .post-list").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var morelink = jQuery(this).parent().data('morelink');
+		var rating = jQuery(this).parent().data('rating');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var sorter = jQuery(this).data('sorter');
+		var action = 'sort';
+		
+		// update loop content
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { sorter: sorter, loop: loop, location: location, action: action, thumbnail: thumbnail, rating: rating, numarticles: numarticles, morelink: morelink },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#footer .minisite-tabs .loading").hide();
+				jQuery("#footer .minisite-tabs .post-list").animate({opacity: "1"}, 500);
+				jQuery("#footer .minisite-tabs .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#footer .minisite-tabs .loading").hide();
+				jQuery("#footer .minisite-tabs .post-list").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// like button
+	jQuery('body').on('click', 'a.do-like', function(e){
+		 jQuery(this).removeClass('do-like');
+		 var postID = jQuery(this).data('postid');
+		 var likeaction = jQuery(this).data('likeaction');
+		 var location = jQuery(".main-loop").data('location');
+		 var action = 'like';
+		 var _this = this;
+		 jQuery.ajax({
+			 url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			 data: { id: postID, action: action, likeaction: likeaction, location: location },
+			 type: 'POST',
+			 dataType: 'json',
+			 success: function (data) {
+				 jQuery(_this).addClass('do-like');
+				 jQuery('a.like-button.' + postID + ' .numcount').html(data.content);
+				 if(likeaction=='like') {
+					 jQuery('a.like-button.' + postID + ' .icon').removeClass('like').addClass('unlike');
+					 jQuery('a.like-button.' + postID).data('likeaction', 'unlike');
+				 } else {
+					 jQuery('a.like-button.' + postID + ' .icon').removeClass('unlike').addClass('like');
+					 jQuery('a.like-button.' + postID).data('likeaction', 'like');
+				 }
+				 jQuery('#ajax-error').hide();
+			 },
+			 error: function (jxhr, msg, err) {
+				 jQuery(_this).addClass('do-like');
+				 jQuery('#ajax-error').show();
+				 jQuery('#ajax-error').html(msg);
+			 }
+		 });
+	 });
+	// user rating panel display
+	jQuery('body').on('mouseover', '.user-rating .rating-wrapper.single', function(e) {				
+		jQuery(this).children('.rating-bar').addClass('over');	
+		jQuery(this).children('.rating-bar').children('.rating-meter').hide();	
+		jQuery(this).children().children('.form-selector').show();		
+	});
+	jQuery('body').on('mouseleave', '.user-rating .rating-wrapper', function(e) {				
+		jQuery(this).children('.rating-bar').removeClass('over');	
+		jQuery(this).children().children('.form-selector').hide();
+		jQuery(this).children('.rating-bar').children('.rating-meter').show();			
+	});	
+	// update user ratings
+	jQuery( ".user-rating .form-selector" ).on( "slidestop", function( event, ui ) {
+		var meta = jQuery(this).parent().data('meta');
+		var divID = jQuery(this).parent().attr("id");
+		var action = 'rate';
+				var postID = '85046';
+		var rating = ui.value;
+		var metric = 'letter';		
+		jQuery.ajax({
+			 url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			 data: { id: postID, action: action, meta: meta, rating: rating, metric: metric, divID: divID },
+			 type: 'POST',
+			 dataType: 'json',
+			 success: function (data) {
+				 jQuery('.user-rating .rated-legend').addClass('active');
+				 if(data.unlimitedratings != 1) {
+				 	jQuery('#' + data.divID + '_wrapper').removeClass('single');
+				 }
+				 jQuery('#' + data.divID + ' .rating-value').hide(100)
+				 	.delay(300)
+					.queue(function(n) {
+						jQuery(this).html(data.newrating);
+						n();
+					}).show(150);
+				 jQuery('.user-rating .rating-wrapper.total .rating-value').delay(200)
+				 	.hide(200)
+				 	.delay(400)
+					.queue(function(n) {
+						jQuery(this).html(data.totalrating);
+						n();
+					}).show(400);
+				 jQuery('#' + data.divID + ' .icon-check').delay(100).fadeIn(100);	
+				 var left = -(100 - data.normalized);
+				 animateRating(left, 400, data.divID);
+				 // hide comment ratings after top ratings are added
+				 jQuery('#respond .rating-wrapper').hide();
+				 jQuery('.hidden-rating-value').val('');
+			 },
+			 error: function (jxhr, msg, err) {
+				 jQuery('#ajax-error').show();
+				 jQuery('#ajax-error').html(msg);
+			 }
+		 });
+	});
+	// user comment rating
+	jQuery( "#respond .form-selector" ).on( "slidestop", function( event, ui ) {
+		var divID = jQuery(this).parent().attr("id");	
+		var rating = jQuery(this).siblings('.rating-value').html();
+		jQuery('#' + divID + ' .icon-check').delay(100).fadeIn(100);
+		jQuery('#' + divID + ' .hidden-rating-value').val(rating);
+	});
+	// star user ratings
+	jQuery('.rating-wrapper .rateit').bind('rated reset', function (e) {
+		 var ri = jQuery(this);
+		
+		 var noupdate = ri.data('noupdate');
+		 var rating = ri.rateit('value');
+		 var postID = ri.data('postid');
+		 var meta = ri.data('meta');
+		 var divID = ri.parent().parent().attr('id');
+		 var action = 'rate';
+		 var metric = 'stars';
+		 var unlimitedratings = ri.data('unlimitedratings');
+	
+		 //disable rating ability after user submits rating
+		 if(unlimitedratings != 1) {
+		 	ri.rateit('readonly', true);
+		 }
+		 
+		 if(noupdate==1) {
+			 var divID = jQuery(this).parent().parent().attr("id");
+			 jQuery('#' + divID + ' .hidden-rating-value').val(rating);
+		 } else {	
+			 jQuery.ajax({
+				 url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+				 data: { id: postID, action: action, meta: meta, rating: rating, metric: metric, divID: divID },
+				 type: 'POST',
+				 dataType: 'json',
+				 success: function (data) {
+					 jQuery('.user-rating .rated-legend').addClass('active');
+					 jQuery('.user-rating .rating-wrapper.total .rating-value').delay(200)
+						.hide(200)
+						.queue(function(n) {
+							jQuery(this).html(data.totalrating);
+							n();
+						}).show(400);
+					 var left = -(100 - data.normalized);
+					 jQuery('#' + data.divID + ' .icon-check').delay(100).fadeIn(100);
+					 animateRating(left, 400, data.divID);
+					 // hide comment ratings after top ratings are added
+				 	 jQuery('#respond .rating-wrapper').hide();
+					 jQuery('.hidden-rating-value').val('');
+				 },
+				 error: function (jxhr, msg, err) {
+					 jQuery('#ajax-error').show();
+					 jQuery('#ajax-error').html(msg);
+				 }
+			 });
+		 }
+	 });
+	 // recommended filtering
+	jQuery('body').on('click', '#recommended .filterbar .sort-buttons a', function(e){
+		jQuery("#recommended .loading").show();
+		jQuery("#recommended .post-list").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var loop = jQuery(this).parent().data('loop');
+		var location = jQuery(this).parent().data('location');		
+		var thumbnail = jQuery(this).parent().data('thumbnail');
+		var icon = jQuery(this).parent().data('icon');
+		var columns = jQuery(this).parent().data('columns');
+		var container = jQuery(this).parent().data('container');
+		var rating = jQuery(this).parent().data('rating');
+		var numarticles = jQuery(this).parent().data('numarticles');
+		var targeted = jQuery(this).parent().data('targeted');
+		var sorter = jQuery(this).data('sorter');
+		var method = jQuery(this).data('method');
+		var taxonomy = jQuery(this).data('taxonomy');
+		var action = 'sort';
+		
+				var postID = '85046';
+		
+		// update loop content
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { id: postID, sorter: sorter, taxonomy: taxonomy, loop: loop, location: location, method: method, action: action, thumbnail: thumbnail, rating: rating, numarticles: numarticles, icon: icon, targeted: targeted, container: container, columns: columns },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#recommended .loading").hide();
+				jQuery("#recommended .post-list").animate({opacity: "1"}, 500);
+				jQuery("#recommended .post-list").html(data.content);
+				jQuery('#ajax-error').hide();
+				dynamicElements();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#recommended .loading").hide();
+				jQuery("#recommended .post-list").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	// comment pagination
+	jQuery('body').on('click', '#comments .sort-buttons a.sort-button', function(e){
+		jQuery("#comments .loading").show();
+		jQuery("#comments .comment-list").animate({opacity: "0.15"}, 0);	
+		jQuery(this).addClass('active');
+		jQuery(this).siblings().removeClass('active');
+		
+		var commentsperpage = jQuery(this).parent().data('number');
+		var type = jQuery(this).parent().data('type');	
+		var offset = jQuery(this).data('offset');	
+		var action = 'paginate_comments';
+		
+				var postID = '85046';
+		
+		// update loop content
+		jQuery.ajax({
+			url: 'http://tvafterdarkonline.com/wp-content/themes/flavor/functions/ajax.php',
+			data: { id: postID, action: action, commentsperpage: commentsperpage, offset: offset, type: type },
+			type: 'POST',
+			dataType: 'json',
+			success: function (data) {			 
+				jQuery("#comments .loading").hide();
+				jQuery("#comments .comment-list").animate({opacity: "1"}, 500);
+				jQuery("#comments .comment-list").html(data.content);
+				jQuery('#ajax-error').hide();
+			},
+			error: function (jxhr, msg, err) {
+				jQuery("#comments .loading").hide();
+				jQuery("#comments .comment-list").animate({opacity: "1"}, 500);
+				jQuery('#ajax-error').show();
+				jQuery('#ajax-error').html(msg);
+			}
+		});
+	});
+	
+</script>     
+
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/wp-includes/js/jquery/ui/jquery.ui.slider.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://tvafterdarkonline.com/?ai1ec_render_js=common_frontend&#038;is_backend=false&#038;ver=2.1.2'></script>
+
+</body>
+
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: tvafterdarkonline.com @ 2014-11-24 18:20:22 by W3 Total Cache -->

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Only Olivia - Error 404</title>
+<meta name="description" content="home page of the Only Olivia archive" />
+<meta name="keywords" content="Olivia, Olivia Newton-John, ONJ, Grease, Xanadu, Only Olivia" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet ">
+<link href="/css/style.css" rel="stylesheet" />
+
+<link href="/css/myoverrides.css" rel="stylesheet" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+
+<script type="text/javascript" src="/scripts/javascript.js"></script>
+<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/scripts/nav.js"></script>
+
+<script src='/google_analytics_auto.js'></script></head>
+<body>
+<header id="header">
+	<div class="container">
+		
+		<a href="/index.html"><img id="OO" style="padding-top:8px;" src="/img/minilogo_sm.gif" width="130" height="30" alt="Only Olivia" /></a>
+		
+		<p id="tagline">archives of the ONJ fan club Only Olivia</p>
+	</div>
+</header>
+
+<div class="container">
+<div id="content">
+<article id="prime">
+		<h2>Gnarly, that's a 404.</h2>
+        <p>That means we haven't got that page live here. Sorry about that.</p>
+		<p>There's a lot of work going on to restore this site to it's previous depth</p>
+		<p>If you're really missing something you know was here <a href="/richardm.html">let me know</a>. 
+		I don't guarantee to get it back, but if something is popular and missing I'll look at it.</p>
+		<p>Otherwise it's probably human error on my part or one of the previous authors.
+		Only Olivia has been <a href="/ws/index.html">running for nearly 20 years</a> now and is largely hand-edited, I don't use a 
+		content management system for most of it because they weren't around when a lot of the pages were created. 
+		If that's the case apologies for the mistake.</p>
+		<a href="/ws/restoration.html">More on the restoration project here</a>
+<p>Looking for the fan club Only Olivia? <a href="/ws/about.html">read more here</a>.</p>
+</article>
+<aside id="sidebar">
+	<section>
+<a href="/music/index.html" title="Olivia's singing career over many years" >Music</a><br />
+
+<a href="/music/albums/index.html" class="indent" title="Olivia's key albums" >albums</a><br />
+<a href="/music/singles/index.html" class="indent" title="many hit singles" >singles</a><br />
+<a href="/music/guest.html" class="indent" title="other artist's albums Olivia has appeared on" >guest albums</a><br />
+<a href="/music/songs.html" class="indent" title="all her songs linked to the albumof first release">songs</a><br />
+
+
+<a href="/visual/index.html" title="Grease, Xanadu and much more">Film, TV</a><br />
+
+<a href="/visual/index.html" class="indent" title="on the silver screen">movies</a><br />
+<a href="/visual/grease/index.html" class="indent" title="Olivia starred in this classic musical of young love">Grease</a><br />
+<a href="/visual/xanadu/index.html" class="indent" title="Olivia in roller skates in this 1980 musical">Xanadu</a><br />
+<a href="/visual/toak/index.html" class="indent">Two Of A Kind</a><br />
+<a href="/visual/musicvid/index.html" class="indent" >music videos</a><br />
+<a href="/visual/dvd/index.html" class="indent" >DVD</a><br />
+<a href="/visual/videos/index.html" class="indent" >VHS</a><br />
+<a href="/visual/ld/index.html" class="indent" >laserdisc</a><br />
+<a href="/visual/tv/index.html" class="indent" title="Olivia on TV">TV shows</a><br />
+
+
+
+<a href="/memorabilia/index.html">Memorabilia</a><br />
+
+<a href="/news/onjlive.html" class="indent">Pictures from live appearances</a><br />
+<a href="/memorabilia/presscut/index.html" class="indent">press</a><br />		
+<a href="/memorabilia/books/index.html" class="indent">books</a><br />
+<a href="/memorabilia/tourprog/index.html" class="indent">tour programs</a><br />
+<a href="/memorabilia/poster/index.html" class="indent">posters</a><br />
+
+
+<a href="/aboutonj/index.html">About Olivia</a><br />
+
+
+
+	</section>
+</aside>
+</div></div>
+<footer id="footer">
+<div class="container">
+
+
+<p>Web authoring and design <a href="/richardm.html">RM</a><span class="updated"> updated: Apr 2014</span></p>
+
+
+</div>
+</footer>
+</body>
+</html>

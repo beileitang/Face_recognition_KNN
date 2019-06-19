@@ -1,0 +1,503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://thirdage.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <title>Page not found | ThirdAge</title>
+    <style type="text/css" media="all">@import url("http://thirdage.com/modules/system/system.base.css?nfnpmk");
+@import url("http://thirdage.com/modules/system/system.menus.css?nfnpmk");
+@import url("http://thirdage.com/modules/system/system.messages.css?nfnpmk");
+@import url("http://thirdage.com/modules/system/system.theme.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/nucleus/nucleus/css/base.css?nfnpmk");</style>
+<style type="text/css" media="all">@import url("http://thirdage.com/modules/aggregator/aggregator.css?nfnpmk");
+@import url("http://thirdage.com/modules/comment/comment.css?nfnpmk");
+@import url("http://thirdage.com/modules/field/theme/field.css?nfnpmk");
+@import url("http://thirdage.com/modules/node/node.css?nfnpmk");
+@import url("http://thirdage.com/modules/poll/poll.css?nfnpmk");
+@import url("http://thirdage.com/modules/search/search.css?nfnpmk");
+@import url("http://thirdage.com/modules/user/user.css?nfnpmk");</style>
+<style type="text/css" media="all">@import url("http://thirdage.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/modules/ctools/css/ctools.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/libraries/superfish/css/superfish.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/libraries/superfish/css/superfish-vertical.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/libraries/superfish/css/superfish-navbar.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/views.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/modules/widgets/widgets.css?nfnpmk");</style>
+<style type="text/css" media="all">@import url("http://thirdage.com/sites/all/themes/nucleus/nucleus/css/messages.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/html-elements.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/forms.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/page.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/articles.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/comments.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/forum.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/fields.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/blocks.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/navigation.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/fonts.css?nfnpmk");</style>
+<style type="text/css" media="print">@import url("http://thirdage.com/sites/all/themes/thirdage/css/print.css?nfnpmk");</style>
+
+<!--[if IE 7]>
+<style type="text/css" media="all">@import url("http://thirdage.com/sites/all/themes/nucleus/nucleus/css/ie7.css?nfnpmk");</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css" media="all">@import url("http://thirdage.com/sites/all/themes/nucleus/nucleus/css/ie.css?nfnpmk");
+@import url("http://thirdage.com/sites/all/themes/thirdage/css/ie.css?nfnpmk");</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style type="text/css" media="all">@import url("http://thirdage.com/sites/all/themes/thirdage/css/ie7.css?nfnpmk");</style>
+<![endif]-->
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+div.container{width:984px;}.grid-1{width:41px;}.grid-2{width:82px;}.grid-3{width:123px;}.grid-4{width:164px;}.grid-5{width:205px;}.grid-6{width:246px;}.grid-7{width:287px;}.grid-8{width:328px;}.grid-9{width:369px;}.grid-10{width:410px;}.grid-11{width:451px;}.grid-12{width:492px;}.grid-13{width:533px;}.grid-14{width:574px;}.grid-15{width:615px;}.grid-16{width:656px;}.grid-17{width:697px;}.grid-18{width:738px;}.grid-19{width:779px;}.grid-20{width:820px;}.grid-21{width:861px;}.grid-22{width:902px;}.grid-23{width:943px;}.grid-24{width:984px;}
+
+/*]]>*/-->
+</style>
+    <script type="text/javascript" src="http://thirdage.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://thirdage.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://thirdage.com/misc/drupal.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/modules/colorbox/js/colorbox.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/superfish/jquery.bgiframe.min.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/superfish/superfish.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/superfish/supersubs.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/superfish/supposition.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/libraries/superfish/sftouchscreen.js?nfnpmk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	(function ($) {
+	  if (Drupal.Nucleus == undefined) {
+		Drupal.Nucleus = {};
+	  }
+	  Drupal.behaviors.skinMenuAction = {
+		attach: function (context) {
+		  jQuery(".change-skin-button").click(function() {
+			parts = this.href.split("/");
+			style = parts[parts.length - 1];
+			jQuery.cookie("nucleus_skin", style, {path: "/"});
+			window.location.reload();
+			return false;
+		  });
+		}
+	  }
+	})(jQuery);
+  
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/themes/nucleus/nucleus/js/jquery.cookie.js?nfnpmk"></script>
+<script type="text/javascript" src="http://thirdage.com/sites/all/themes/thirdage/js/thirdage.js?nfnpmk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thirdage","theme_token":"Up7j-ea1FlDsfhr7VTlfmwuSKH3mmLuJIeuMpWiNtus","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"0":1,"sites\/all\/themes\/nucleus\/nucleus\/js\/jquery.cookie.js":1,"sites\/all\/themes\/thirdage\/js\/thirdage.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/base.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/themes\/thirdage\/css\/views.css":1,"sites\/all\/modules\/widgets\/widgets.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/messages.css":1,"sites\/all\/themes\/thirdage\/css\/html-elements.css":1,"sites\/all\/themes\/thirdage\/css\/forms.css":1,"sites\/all\/themes\/thirdage\/css\/page.css":1,"sites\/all\/themes\/thirdage\/css\/articles.css":1,"sites\/all\/themes\/thirdage\/css\/comments.css":1,"sites\/all\/themes\/thirdage\/css\/forum.css":1,"sites\/all\/themes\/thirdage\/css\/fields.css":1,"sites\/all\/themes\/thirdage\/css\/blocks.css":1,"sites\/all\/themes\/thirdage\/css\/navigation.css":1,"sites\/all\/themes\/thirdage\/css\/fonts.css":1,"sites\/all\/themes\/thirdage\/css\/print.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/ie7.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/ie.css":1,"sites\/all\/themes\/thirdage\/css\/ie.css":1,"sites\/all\/themes\/thirdage\/css\/ie7.css":1,"0":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true}});
+//--><!]]>
+</script>
+    <script type="text/javascript" src="//use.typekit.net/ipd3dqm.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <!-- TERM: unknown -->
+<!-- 1x1 Interstitial -->
+<script type='text/javascript'>
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src=\"' + src + '\"></scr' + 'ipt>');
+    })();
+</script>
+
+<script type='text/javascript'>
+        var currentURL = top.location;
+        googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[728, 90],[970,250]], 'div-gpt-ad-728x90-1').addService(googletag.pubads()).setTargeting('pos','top');
+        googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[300, 250],[300,600]], 'div-gpt-ad-300x250-1').addService(googletag.pubads()).setTargeting('pos','first');
+        googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[300, 250],[300,600]], 'div-gpt-ad-300x250-2').addService(googletag.pubads()).setTargeting('pos','second');
+        googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[160, 600]], 'div-gpt-ad-160x600').addService(googletag.pubads());
+		//googletag.defineOutOfPageSlot('/6105/aph.thirdage.adprime/ros', 'div-gpt-ad-oop').addService(googletag.pubads());
+
+
+        googletag.pubads().setTargeting('cmp','ros');
+        googletag.pubads().setTargeting('url',location.href.replace(/\=/gim,"_"));
+
+        googletag.pubads().setTargeting('con','unknown');
+
+        
+        
+        googletag.pubads().enableSyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+</script>
+<!--
+<div id='div-gpt-ad-oop'>
+	<script type='text/javascript'>
+	googletag.display('div-gpt-ad-oop');
+	</script>
+</div>-->
+  </head>
+
+  <body class="html not-front not-logged-in two-sidebars page-files page-files-styles page-files-styles-slideshow page-files-styles-slideshow-public page-files-styles-slideshow-public-originals page-files-styles-slideshow-public-originals-peri-gilpin-fraiserjpg thirdage fixed-grid bf-a fs-medium">
+    <div id="skip-link"><a href="#main-content" class="element-invisible element-focusable">Skip to main content</a></div>
+        
+<div id="page" class="page-default"> <a name="Top" id="Top"></a>
+  <!-- TOP NAV -->
+  <div id="top-nav-wrapper" class="wrapper">
+    <div class="container grid-24">
+      <div class="grid-inner clearfix">
+        <div class="border clearfix">
+    		        </div>
+        <div id="follow_header_links">
+        	Follow 
+        	<a href="http://www.facebook.com/ThirdAgers" target="_blank"><img src="/sites/all/themes/thirdage/images/icon_fb_header.png"/></a> 
+        	<a href="http://twitter.com/thirdage" target="_blank"><img src="/sites/all/themes/thirdage/images/icon_twitter_header.png"/></a>
+        </div>
+        <div id="bookmark_header_link">
+        	Bookmark Thirdage
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- //TOP NAV -->
+
+  <!-- HEADER -->
+  <div id="header-wrapper" class="wrapper">
+    <div class="container grid-24">
+      <div class="grid-inner clearfix">
+        <div id="header" class="clearfix">
+
+                      <a href="/" title="Home" id="logo">
+              <img src="http://thirdage.com/./sites/all/themes/thirdage/images/logo.png" alt="Home" />
+            </a>
+          
+          
+            <div class="region region-header">
+    <form action="/files/styles/slideshow/public/originals/peri-gilpin-fraiser.jpg" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><span class="button edit-submit">
+    <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+    </span>
+</div><input type="hidden" name="form_build_id" value="form-UQTOwwbSa6S88hPA5yMTgc5sgXHtai3GyC3i6GW1FzQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+      try{
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-610027-23']);
+            _gaq.push(['_setDomainName', 'thirdage.com']);
+            _gaq.push(['_trackPageLoadTime']);
+            _gaq.push(['_trackPageview']);     
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+      }catch(e){}
+
+//--><!]]>
+</script>  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- //HEADER --> 
+   
+    
+  <!--LEADERBOARD-->
+      <div id="leaderboard-header-wrapper" class="">
+      <div class="container grid-24">
+      	<div class="grid-inner clearfix">   <div class="region region-leaderboard-header">
+    <div id="block-block-6" class="block block-block">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      <!-- aph.thirdage.adprime/ros -->
+<div id='div-gpt-ad-728x90-1'>
+    <script type='text/javascript'>
+        if(typeof googletag != "undefined") googletag.display('div-gpt-ad-728x90-1');
+    </script>
+</div>
+    </div>
+  </div>
+</div>
+  </div>
+ </div>
+      </div>
+    </div>
+    <!--//LEADERBOARD-->
+  
+  <div id="main-wrapper" class="wrapper">
+    <div class="container grid-24 clearfix">
+	 	<div class="container-inner clearfix grid-24">
+       
+		<!-- SIDEBAR SECOND -->
+					<div id="sidebar-second-wrapper" class="sidebar tb-main-box">
+				<div class="grid-inner clearfix">   <div class="region region-sidebar-second">
+    <div id="block-block-9--2" class="block block-block">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      <!-- aph.thirdage.adprime/ros --><div id="div-gpt-ad-160x600" style="margin-left:-10px;text-align:center">
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+	if(typeof googletag != "undefined") googletag.display('div-gpt-ad-160x600');
+	
+//--><!]]>
+</script></div>
+    </div>
+  </div>
+</div>
+  </div>
+ </div>
+			</div>
+				<!-- //SIDEBAR SECOND -->
+		
+		<div id="main-content-wrapper">
+			<!-- MAIN CONTENT -->
+			<div id="main-content">
+				<div class="grid-inner clearfix">
+																				<h1 id="page-title">Page not found</h1>
+																									  <div class="region region-content">
+    <div id="block-system-main" class="block-system">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      The requested page "/files/styles/slideshow/public/originals/peri-gilpin-fraiser.jpg" could not be found.    </div>
+  </div>
+</div>
+  </div>
+						<br/>
+				</div>
+			</div>
+			<!-- //MAIN CONTENT -->
+		
+			<!-- MASS BOTTOM -->
+						<!-- //MASS BOTTOM -->
+		</div>
+
+		<!-- SIDEBAR FIRST -->
+				<div id="sidebar-first-wrapper" class="sidebar tb-main-box">
+			<div class="grid-inner clearfix">
+				  <div class="region region-sidebar-first">
+    <div id="block-block-7--2" class="block block-block">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      <!-- aph.thirdage.adprime/ros -->
+<div id='div-gpt-ad-300x250-1' style='text-align:center'>
+	<script type='text/javascript'>
+	if(typeof googletag != "undefined") googletag.display('div-gpt-ad-300x250-1');
+	</script>
+</div>    </div>
+  </div>
+</div>
+<div id="block-widgets-s-socialmedia-profile-default--2" class="block block-widgets">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      <div id="widgets-element-socialmedia_profile-default" class="widgets widgets-set widgets-set-horizontal widgets-style-horizontal"><div id="widgets-element-socialmedia_socialmedia-twitter-profile-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://twitter.com/thirdage" title="Visit thirdage on Twitter" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/48x48/twitter.png" alt="Twitter icon" ></a></div><div id="widgets-element-socialmedia_socialmedia-facebook-profile-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://www.facebook.com/ThirdAgers" title="Visit ThirdAgers on Facebook" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/48x48/facebook.png" alt="Facebook icon"></a></div><div id="widgets-element-socialmedia_socialmedia-linkedin-profile-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://www.linkedin.com/company/adprime-media" title="Visit adprime-media on LinkedIn" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/48x48/linkedin.png" alt="LinkedIn icon" ></a></div><div id="widgets-element-socialmedia_socialmedia-youtube-profile-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://www.youtube.com/user/thirdagemedia" title="Visit thirdagemedia on YouTube" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/48x48/youtube.png" alt="YouTube icon" ></a></div><div id="widgets-element-socialmedia_socialmedia-rss-feed-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="/rss.xml" title="Subscribe to  via RSS" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/48x48/rss.png" alt="RSS icon" ></a></div><div class="widgets-clear"></div></div>    </div>
+  </div>
+</div>
+<div id="block-block-15--2" class="block block-block">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      
+<div class="column_block" style="margin-top: 10px;">
+	   <a href="http://primehealthoffers.com/registrationForm?id=53bb0c2eeaebabbf79756395" target="_blank"><img src="//s3-us-west-1.amazonaws.com/thirdage-assets/misc/Thirdage_300x90_FreeSamples.jpeg" style="width:300px;" /></a>
+	</div>
+    </div>
+  </div>
+</div>
+<div id="block-views-latest-post-block--2" class="block block-views">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">Latest Articles</h2>
+    
+    
+    <div class="block-content clearfix">
+      <div class="view view-latest-post view-id-latest_post view-display-id-block view-dom-id-7b9b07d8be7966e8a9d591e9986e8ba0">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/article/new-cause-alzheimers"><img src="//thirdage-assets.s3.amazonaws.com/styles/image_30_30/s3/field/image/research-lab.jpg?itok=SBU7kjNA" width="30" height="30" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/article/new-cause-alzheimers">A New Cause of Alzheimer's?</a></span>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/taxonomy/term/150">Staying Current</a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/article/hearing-aids-whats-new-and-right-you"><img src="//thirdage-assets.s3.amazonaws.com/styles/image_30_30/s3/field/image/hearing.jpg?itok=WI-8A3D3" width="30" height="30" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/article/hearing-aids-whats-new-and-right-you">Hearing Aids: What's New - And Right for You</a></span>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/taxonomy/term/150">Staying Current</a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/article/8-ways-reorganize-your-bedroom-better-sleep"><img src="//thirdage-assets.s3.amazonaws.com/styles/image_30_30/s3/field/image/mature woman sleeping_0.jpg?itok=dJBu_YKQ" width="30" height="30" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/article/8-ways-reorganize-your-bedroom-better-sleep">8 Ways to Reorganize Your Bedroom for Better Sleep</a></span>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/taxonomy/term/64">Sleep</a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/article/how-have-good-recovery-after-hip-surgery"><img src="//thirdage-assets.s3.amazonaws.com/styles/image_30_30/s3/field/image/hip-replacement.jpg?itok=FezKua7F" width="30" height="30" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/article/how-have-good-recovery-after-hip-surgery">How to Have A Good Recovery after Hip Surgery</a></span>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/taxonomy/term/59">Prepare &amp; Prevent</a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/article/antibacterials-and-liver-disease"><img src="//thirdage-assets.s3.amazonaws.com/styles/image_30_30/s3/field/image/handwashing.jpg?itok=CK5wVH2Z" width="30" height="30" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/article/antibacterials-and-liver-disease">Antibacterials and Liver Disease</a></span>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/taxonomy/term/48">Medical Care</a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+<div id="block-views-latest-blogs-block--2" class="block block-views">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">Latest Blogs</h2>
+    
+    
+    <div class="block-content clearfix">
+      <div class="view view-latest-blogs view-id-latest_blogs view-display-id-block view-dom-id-728edd956fcab1b86730a3c112d5852d">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-picture">        <span class="field-content">  <div class="user-picture">
+    <img src="http://thirdage.com/sites/default/files/styles/image_30_30/public/avatars/picture-759030-1372280463.jpg?itok=uEV3eJJu" width="30" height="30" alt="Nancy Wurtzel&#039;s picture" title="Nancy Wurtzel&#039;s picture" />  </div>
+</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/glen-campbells-legacy-ill-be-me">Glen Campbell&#039;s Legacy: I&#039;ll Be Me</a></span>  </div>  
+  <div class="views-field views-field-name">    <span class="views-label views-label-name">by</span>    <span class="field-content"><span class="username">Nancy Wurtzel</span></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-picture">        <span class="field-content">  <div class="user-picture">
+    <img src="http://thirdage.com/sites/default/files/styles/image_30_30/public/avatars/picture-759048-1397584588.jpg?itok=xWXUTwkv" width="30" height="30" alt="Donna Ryan&#039;s picture" title="Donna Ryan&#039;s picture" />  </div>
+</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/just-breathe">Just Breathe</a></span>  </div>  
+  <div class="views-field views-field-name">    <span class="views-label views-label-name">by</span>    <span class="field-content"><span class="username">Donna Ryan</span></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-picture">        <span class="field-content">  <div class="user-picture">
+    <img src="http://thirdage.com/sites/default/files/styles/image_30_30/public/avatars/picture-759062-1408451339.jpg?itok=By4obPIG" width="30" height="30" alt="Ellen Dolgen&#039;s picture" title="Ellen Dolgen&#039;s picture" />  </div>
+</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/want-healthy-relationship-practice-platinum-rule">Want a Healthy Relationship? Practice the Platinum Rule</a></span>  </div>  
+  <div class="views-field views-field-name">    <span class="views-label views-label-name">by</span>    <span class="field-content"><span class="username">Ellen Dolgen</span></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-picture">        <span class="field-content">  <div class="user-picture">
+    <img src="http://thirdage.com/sites/default/files/styles/image_30_30/public/avatars/picture-759015-1360615869.jpg?itok=XzjLBzSP" width="30" height="30" alt="Nancy Anderson&#039;s picture" title="Nancy Anderson&#039;s picture" />  </div>
+</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/success-not-always-doing-what-you-love">Success is Not Always Doing What You Love</a></span>  </div>  
+  <div class="views-field views-field-name">    <span class="views-label views-label-name">by</span>    <span class="field-content"><span class="username">Nancy Anderson</span></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-picture">        <span class="field-content">  <div class="user-picture">
+    <img src="http://thirdage.com/sites/default/files/styles/image_30_30/public/avatars/picture-758994-1338830818.jpg?itok=HNy-NrIg" width="30" height="30" alt="Sally Franz&#039;s picture" title="Sally Franz&#039;s picture" />  </div>
+</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/budget-four-letter-word">Budget Is a Four-Letter Word</a></span>  </div>  
+  <div class="views-field views-field-name">    <span class="views-label views-label-name">by</span>    <span class="field-content"><span class="username">Sally Franz</span></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+<div id="block-widgets-s-facebook-like-box--2" class="block block-widgets">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      <script>
+if (!document.getElementById("fb-root")) {
+  fb_root = document.createElement("div");
+  fb_root.id = "fb-root";
+  document.body.insertBefore(fb_root,document.body.firstChild);
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, "script", "facebook-jssdk"));
+}</script><div class="fb-like-box" data-href="http://www.facebook.com/ThirdAgers" data-width="300"  data-colorscheme="light" data-border-color="#ffffff" data-show-faces="true" data-stream="false" data-header="false"></div>    </div>
+  </div>
+</div>
+  </div>
+			</div>
+		</div>
+				<!-- //SIDEBAR FIRST -->
+	</div>
+
+  </div>
+       <!-- BREADCRUMB -->
+    <div id="breadcrumb-wrapper" class="wrapper">
+      <div class="container grid-24">
+          <div class="grid-inner clearfix">
+          
+                      <a title="Back to Top" class="btn-top" href="#Top">Top</a>
+                    </div>
+      </div>
+    </div>
+    <!-- //BREADCRUMB -->
+    
+    <!-- PANEL FIRST -->
+  <div id="panel-first-wrapper" class="wrapper panel panel-first">
+    <div class="container grid-24 clearfix"> <div class="panel-column panel-first-1 panel-column-first grid grid-14">
+        <div class="grid-inner clearfix">
+                        <div class="region region-panel-first-1">
+    <div id="block-block-2--2" class="block block-block">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">About Us</h2>
+    
+    
+    <div class="block-content clearfix">
+      <p>For over a decade, ThirdAge has been a leading source of information for &quot;boomer and beyond&quot; women. Our writers cover what means most to women 50+: the empty nest, living solo, finding love, coping with caregiving, and remaking their lives the way they want them to be. We also feature the latest approaches to brain fitness, diet, exercise, and age-related health conditions.</p>
+    </div>
+  </div>
+</div>
+  </div>
+                  </div>
+      </div>
+                <div class="panel-column panel-first-2 grid grid-5">
+        <div class="grid-inner clearfix">
+                      &nbsp;
+                  </div>
+      </div>
+                <div class="panel-column panel-first-3 panel-column-last grid grid-5">
+        <div class="grid-inner clearfix">
+                      &nbsp;
+                  </div>
+      </div> </div>
+  </div>
+  <!-- //PANEL FIRST -->
+    </div>
+      </body>
+</html>

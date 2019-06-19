@@ -1,0 +1,720 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Blu-ray Forum, Filme, News & Angebote - Blu-rayler.de</title>
+<meta name="description" content="Tägliche Blu-Ray Schnäppchen, Angebote und Neuerscheinungen. Inkl. Blu-Ray Preisradar! Film-News, Blu-ray Filme, Player, Technik, Heimkino und vieles mehr ...">
+<meta name="keywords" content="blu-ray, blu-ray disc, blu-ray player, hardware, high definition, playsation 3">
+	<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="de" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="category"    content="general" />
+<meta name="robots"      content="index,follow" />
+<meta name="distribution" content="global" />
+<meta name="copyright" content="Blu-rayler.de" />
+<link rel="alternate" type="application/rss+xml" title="Blu-rayler.de - Blu-ray News" href="http://feeds.feedburner.com/bluray-news" />
+<link rel="alternate" type="application/rss+xml" title="2" href="http://www.blu-rayler.de/feed2.php" />
+
+<link href="http://www.blu-rayler.de/forum/styles/prosilver/theme/print.css" rel="stylesheet" type="text/css" media="print" title="printonly" />
+<link href="http://www.blu-rayler.de/style.css" rel="stylesheet" type="text/css" media="screen, projection" />
+
+
+<script async type="text/javascript" src="http://www.blu-rayler.de/forum/styles/prosilver/template/forum_fn.js"></script>
+<script async type="text/javascript" src="http://www.blu-rayler.de/scripts/user_films.js"></script>
+
+<script type="text/javascript">
+function onoff1() {
+  if (document.getElementById)
+		document.getElementById("hidden1").style.display = "table-row-group";
+		document.getElementById("hidden2").style.display = "none";
+		document.getElementById("hidden3").style.display = "none";
+}
+</script>
+<script type="text/javascript">
+function onoff2() {
+  if (document.getElementById)
+		document.getElementById("hidden1").style.display = "none";
+		document.getElementById("hidden2").style.display = "table-row-group";
+		document.getElementById("hidden3").style.display = "none";
+}
+</script>
+<script type="text/javascript">
+function onoff3() {
+  if (document.getElementById)
+		document.getElementById("hidden1").style.display = "none";
+		document.getElementById("hidden2").style.display = "none";
+		document.getElementById("hidden3").style.display = "table-row-group";
+}
+</script>
+<script type="text/javascript">
+// <![CDATA[
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+// ]] >
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-65862867-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</head>
+<body>
+<center>
+<div id="wrap" class="text_left">
+	<a id="top" name="top" accesskey="t"></a>
+
+	<script async type="text/javascript" src="http://www.blu-rayler.de/wz_tooltip.js"></script>
+<div id="skyscraper">
+
+</div>
+
+<div id="skyscraper2">
+   
+</div>
+
+<div id="header">
+	<div id="logo"><a href="/" title="Startseite Blu-rayler.de"><img src="http://www.blu-rayler.de/images/blu-ray_04.png" alt="Blu-Rayler.de Logo" /></a></div>
+<div id="adsense728">
+<script type="text/javascript"><!--
+amazon_ad_tag = "bluraylerde0a-21"; amazon_ad_width = "728"; amazon_ad_height = "90"; amazon_ad_logo = "hide"; amazon_ad_link_target = "new"; amazon_ad_price = "retail"; amazon_ad_border = "hide"; amazon_color_border = "3B3B3B"; amazon_color_logo = "E8DE48"; amazon_ad_categories = "cd";//--></script>
+<script type="text/javascript" src="http://ir-de.amazon-adsystem.com/s/ads.js"></script>
+</div>
+
+	<br clear="all" />
+	<div id="navi">
+  		<li><a href="http://www.blu-rayler.de/" class="start" title="Blu-rayler.de - Home"></a></li>
+        <li><a href="http://www.blu-rayler.de/preisradar/" class="radar" title="Blu-ray Preisradar"></a></li>
+        <li><a href="http://www.blu-rayler.de/filme/" class="filme" title="Blu-ray Filme"></a></li>
+        <li><a href="http://www.blu-rayler.de/player/" class="player" title="Blu-ray Player"></a></li>
+        <li><a href="http://www.blu-rayler.de/forum/ps3list.php" class="ps3" title="PS3"></a></li>
+        <li><a href="http://www.blu-rayler.de/reviews/" class="reviews" title="Blu-ray Reviews"></a></li>
+        <li><a href="http://www.blu-rayler.de/forum/" class="forum" title="Blu-ray Forum"></a></li>	
+        <br clear="all" /> 	
+	</div>
+
+
+
+</div>
+<a href="https://www.facebook.com/blurayler" target="_blank" title="Facebook-Seite von Blu-rayler.de"><div id="fb"></div></a>
+<a href="https://twitter.com/bluraylerde" target="_blank" title="Twitter-Seite von Blu-rayler.de"><div id="twitter"></div></a>
+
+
+<div id="main">
+
+    <div id="box_content"><img src="http://www.blu-rayler.de/images/blu-ray_16.png" class="rahmen_oben" alt="Box oberer Rand" />
+	<div id="content">
+
+
+
+				<h1>Blu-ray Filme und mehr</h1>
+				<hr>
+				<p class="einleitung">Willkommen auf Blu-rayler.de - Deiner Blu-ray Community!
+                Hier findest du alles, was du f&uuml;r die HD-Welt ben&ouml;tigst. In unserer <a href="http://www.blu-rayler.de/forum/filmlist.php" title="Blu-ray Filme"><strong>Filmliste</strong></a> kannst du dich &uuml;ber das derzeitige Sortiment mit über 9.000 Filmen informieren. Unser <a href="http://www.blu-rayler.de/preisradar/filme/" title="Blu-ray Preisradar"><strong>Preisradar</strong></a> informiert dich &uuml;ber alle Preisentwicklungen am Markt und im <a href="http://www.blu-rayler.de/forum/" title="Blu-ray Forum"><strong>Blu-ray Forum</strong></a> findest du Anschluss zu vielen Heimkinoexperten und Freunden der "blauen" Disc..
+				</p>
+
+				<h2>Blu-ray News</h2>
+				<hr>
+				<div id="news">
+
+<div id="bild"><div id="zeit">TOP</div>
+<a href="http://www.blu-rayler.de/news/8258-tv-serien-special-cheers-die-finale-season,-oz-staffel-3-beauty-and-the-beast-staffel-3-sowie-bones-season-9-sleepy-hollow-season-1/" title="TV Serien Special: "Cheers - Die finale Season", "Oz  - Staffel 3" & "Die Schöne und das Biest - Staffel 3" sowie "Bones - Season 9" & "Sleepy Hollow - Season 1""><img src="http://www.blu-rayler.de/news/images/433/serienspecial.jpg" alt="TV Serien Special: "Cheers - Die finale Season", "Oz  - Staffel 3" & "Die Schöne und das Biest - Staffel 3" sowie "Bones - Season 9" & "Sleepy Hollow - Season 1""></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/8258-tv-serien-special-cheers-die-finale-season,-oz-staffel-3-beauty-and-the-beast-staffel-3-sowie-bones-season-9-sleepy-hollow-season-1/" title="TV Serien Special: "Cheers - Die finale Season", "Oz  - Staffel 3" & "Die Schöne und das Biest - Staffel 3" sowie "Bones - Season 9" & "Sleepy Hollow - Season 1"">TV Serien Special: "Cheers - Die finale Season", "Oz  - Staffel 3" & "Die Schöne und das Biest - Staffel 3" sowie "Bones - Season 9" & "Sleepy Hollow - Season 1"</a></p>
+<p class="text">Leider ist es nach wie vor so, dass auf dem deutsch-sprachigen Markt eine nicht unbeträchliche Menge an TV Serien lediglich auf DVD und leider nicht auf Blu-ray veröffentlicht werden. Damit jedoch nicht zu viele empfehlenswerte Titel unerkannt bleiben, befinden sich im Anhang einige Empfehlungen:</p>
+<a href="http://www.blu-rayler.de/news/8258-tv-serien-special-cheers-die-finale-season,-oz-staffel-3-beauty-and-the-beast-staffel-3-sowie-bones-season-9-sleepy-hollow-season-1/" class="weiterlesen" title="TV Serien Special: "Cheers - Die finale Season", "Oz  - Staffel 3" & "Die Schöne und das Biest - Staffel 3" sowie "Bones - Season 9" & "Sleepy Hollow - Season 1"">Weiterlesen...</a>
+							<span class="kommentare">23 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">Heute</div>
+<a href="http://www.blu-rayler.de/news/10427-blu-ray-tagestiefpreise-27-03-2019/" title="Blu-ray Tiefpreise am 27. M&auml;rz 2019"><img src="http://www.blu-rayler.de/news/images/139/Tiefpreise.jpg" alt="Blu-ray Tiefpreise am 27. M&auml;rz 2019"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10427-blu-ray-tagestiefpreise-27-03-2019/" title="Blu-ray Tiefpreise am 27. M&auml;rz 2019">Blu-ray Tiefpreise am 27. M&auml;rz 2019</a></p>
+<p class="text">Am heutigen Mittwoch gibt es nur einen Blu-ray Film, der stark im Preis gesenkt wurde.</p>
+<a href="http://www.blu-rayler.de/news/10427-blu-ray-tagestiefpreise-27-03-2019/" class="weiterlesen" title="Blu-ray Tiefpreise am 27. M&auml;rz 2019">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">Gestern</div>
+<a href="http://www.blu-rayler.de/news/10426-blu-ray-tagestiefpreise-26-03-2019/" title="Blu-ray Tiefpreise am 26. M&auml;rz 2019"><img src="http://www.blu-rayler.de/news/images/139/Tiefpreise.jpg" alt="Blu-ray Tiefpreise am 26. M&auml;rz 2019"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10426-blu-ray-tagestiefpreise-26-03-2019/" title="Blu-ray Tiefpreise am 26. M&auml;rz 2019">Blu-ray Tiefpreise am 26. M&auml;rz 2019</a></p>
+<p class="text">Am heutigen Dienstag gibt es nur einen Blu-ray Film, der stark im Preis gesenkt wurde.</p>
+<a href="http://www.blu-rayler.de/news/10426-blu-ray-tagestiefpreise-26-03-2019/" class="weiterlesen" title="Blu-ray Tiefpreise am 26. M&auml;rz 2019">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">25.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10425-blu-ray-review-backtrace/" title="Blu-ray Review: Backtrace"><img src="http://www.blu-rayler.de/news/images/296/Constantin.jpg" alt="Blu-ray Review: Backtrace"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10425-blu-ray-review-backtrace/" title="Blu-ray Review: Backtrace">Blu-ray Review: Backtrace</a></p>
+<p class="text">Der neue Film mit Actionlegende Sylvester Stallone!
+Ab dem 21. März 2019 auf DVD, Blu-ray und digital erhältlich
+</p>
+<a href="http://www.blu-rayler.de/news/10425-blu-ray-review-backtrace/" class="weiterlesen" title="Blu-ray Review: Backtrace">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">25.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10424-blu-ray-review-die-unglaubliche-reise-des-fakirs,-der-in-einem-kleiderschrank-feststeckte/" title="Blu-ray Review: Die unglaubliche Reise des Fakirs, der in einem Kleiderschrank feststeckte"><img src="http://www.blu-rayler.de/news/images/397/Capelight.jpg" alt="Blu-ray Review: Die unglaubliche Reise des Fakirs, der in einem Kleiderschrank feststeckte"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10424-blu-ray-review-die-unglaubliche-reise-des-fakirs,-der-in-einem-kleiderschrank-feststeckte/" title="Blu-ray Review: Die unglaubliche Reise des Fakirs, der in einem Kleiderschrank feststeckte">Blu-ray Review: Die unglaubliche Reise des Fakirs, der in einem Kleiderschrank feststeckte</a></p>
+<p class="text">capelight pictures und SquareOne Entertainment präsentieren die farbenfrohe Feelgood-Komödie DIE UNGLAUBLICHE REISE DES FAKIRS, DER IN EINEM KLEIDERSCHRANK FESTSTECKTE auf DVD und Blu-ray. </p>
+<a href="http://www.blu-rayler.de/news/10424-blu-ray-review-die-unglaubliche-reise-des-fakirs,-der-in-einem-kleiderschrank-feststeckte/" class="weiterlesen" title="Blu-ray Review: Die unglaubliche Reise des Fakirs, der in einem Kleiderschrank feststeckte">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">25.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10423-blu-ray-review-edgar-wallace-edition-volume-7/" title="Blu-ray Review: Edgar Wallace Edition Volume 7"><img src="http://www.blu-rayler.de/news/images/123/Universum_Film.jpg" alt="Blu-ray Review: Edgar Wallace Edition Volume 7"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10423-blu-ray-review-edgar-wallace-edition-volume-7/" title="Blu-ray Review: Edgar Wallace Edition Volume 7">Blu-ray Review: Edgar Wallace Edition Volume 7</a></p>
+<p class="text">„Hallo, hier spricht Edgar Wallace“ – Eine Ansage, die kultige Krimi-Unterhaltung der 60er Jahre garantiert! Am 29. März 2019 erscheinen dreiweitere Edgar Wallace-Kultfilme nach neuem Mastering und 4K-Abtastung in hochauflösender HD-Qualität in der EDGAR WALLACE BLU-RAY EDITION 7.</p>
+<a href="http://www.blu-rayler.de/news/10423-blu-ray-review-edgar-wallace-edition-volume-7/" class="weiterlesen" title="Blu-ray Review: Edgar Wallace Edition Volume 7">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">21.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10418-blu-ray-review-quigley-der-australier-/" title="Blu-ray Review: Quigley der Australier "><img src="http://www.blu-rayler.de/news/images/397/Capelight.jpg" alt="Blu-ray Review: Quigley der Australier "></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10418-blu-ray-review-quigley-der-australier-/" title="Blu-ray Review: Quigley der Australier ">Blu-ray Review: Quigley der Australier </a></p>
+<p class="text">QUIGLEY DER AUSTRALIER ist ab 22. März als 2-Disc Limited Collector’s Edition im Mediabook (Blu-ray + DVD) und als Single-DVD erhältlich.
+</p>
+<a href="http://www.blu-rayler.de/news/10418-blu-ray-review-quigley-der-australier-/" class="weiterlesen" title="Blu-ray Review: Quigley der Australier ">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">21.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10416-blu-ray-review-hell-on-wheels-die-komplette-fünfte-staffel/" title="Blu-ray Review: Hell on Wheels - Die komplette fünfte Staffel"><img src="http://www.blu-rayler.de/news/images/46/20th_Century_Fox.jpg" alt="Blu-ray Review: Hell on Wheels - Die komplette fünfte Staffel"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10416-blu-ray-review-hell-on-wheels-die-komplette-fünfte-staffel/" title="Blu-ray Review: Hell on Wheels - Die komplette fünfte Staffel">Blu-ray Review: Hell on Wheels - Die komplette fünfte Staffel</a></p>
+<p class="text">Die fünfte, lang erwartete und finale Staffel HELL ON WHEELS ist ab dem 28. März als Blu-ray, DVD und Download erhältlich. Außerdem erscheint endlich die komplette Box der Western-Serie als Blu-ray und DVD auf insgesamt 17 Discs inklusive des kompletten Bonusmaterials aller fünf Staffeln. </p>
+<a href="http://www.blu-rayler.de/news/10416-blu-ray-review-hell-on-wheels-die-komplette-fünfte-staffel/" class="weiterlesen" title="Blu-ray Review: Hell on Wheels - Die komplette fünfte Staffel">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">20.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10417-blu-ray-review-ein-rezept-für-die-liebe-/" title="Blu-ray Review: Ein Rezept für die Liebe "><img src="http://www.blu-rayler.de/news/images/397/Capelight.jpg" alt="Blu-ray Review: Ein Rezept für die Liebe "></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10417-blu-ray-review-ein-rezept-für-die-liebe-/" title="Blu-ray Review: Ein Rezept für die Liebe ">Blu-ray Review: Ein Rezept für die Liebe </a></p>
+<p class="text">Mit Ein Rezept für die Liebe bringt der Regisseur von Wie werde ich ihn los - in 10 Tagen? und Miss Undercover seinen neuesten Film auf den Markt. Capelight Pictures veröffentlicht den Titel am 25. März 2019 auf DVD und Blu-ray. </p>
+<a href="http://www.blu-rayler.de/news/10417-blu-ray-review-ein-rezept-für-die-liebe-/" class="weiterlesen" title="Blu-ray Review: Ein Rezept für die Liebe ">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">13.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10406-blu-ray-review-hanna-svensson-blutsbande/" title="Blu-ray Review: Hanna Svensson - Blutsbande"><img src="http://www.blu-rayler.de/news/images/448/edel_motion.jpg" alt="Blu-ray Review: Hanna Svensson - Blutsbande"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10406-blu-ray-review-hanna-svensson-blutsbande/" title="Blu-ray Review: Hanna Svensson - Blutsbande">Blu-ray Review: Hanna Svensson - Blutsbande</a></p>
+<p class="text">Mit der ersten Staffel von Hanna Svensson – Blutsbande präsentiert Edel:Motion am 22.03.2019 sozusagen edelste Krimiware.</p>
+<a href="http://www.blu-rayler.de/news/10406-blu-ray-review-hanna-svensson-blutsbande/" class="weiterlesen" title="Blu-ray Review: Hanna Svensson - Blutsbande">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">08.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10408-4k-uhd-blu-ray-review-ballon/" title="4K UHD Blu-ray Review: Ballon"><img src="http://www.blu-rayler.de/news/images/126/StudioCanal.jpg" alt="4K UHD Blu-ray Review: Ballon"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10408-4k-uhd-blu-ray-review-ballon/" title="4K UHD Blu-ray Review: Ballon">4K UHD Blu-ray Review: Ballon</a></p>
+<p class="text">Basierend auf einer wahren Geschichte verfilmt Michael Bully Herbig mit BALLON den wohl spektakulärsten Fluchtversuch aus der DDR! Ab 14. März 2019 auf DVD, Blu-ray und auch 4K UHD Blu-ray.</p>
+<a href="http://www.blu-rayler.de/news/10408-4k-uhd-blu-ray-review-ballon/" class="weiterlesen" title="4K UHD Blu-ray Review: Ballon">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">07.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10399-4k-uhd-blu-ray-review-halloween-die-nacht-des-grauens/" title="4K UHD Blu-ray Review: Halloween - Die Nacht des Grauens"><img src="http://www.blu-rayler.de/news/images/101/Concorde_Film.jpg" alt="4K UHD Blu-ray Review: Halloween - Die Nacht des Grauens"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10399-4k-uhd-blu-ray-review-halloween-die-nacht-des-grauens/" title="4K UHD Blu-ray Review: Halloween - Die Nacht des Grauens">4K UHD Blu-ray Review: Halloween - Die Nacht des Grauens</a></p>
+<p class="text">John Carpenters Genre-Klassiker HALLOWEEN - DIE NACHT DES GRAUENS kehrt am 28. Februar als 4K UHD mit HDR in gestochen scharfen Bildern ins Heimkino zurück und lehrt Filmfans einmal mehr das Fürchten. Daneben erscheint der perfekt inszenierte Horror-Schocker auch als DVD und Blu-ray.</p>
+<a href="http://www.blu-rayler.de/news/10399-4k-uhd-blu-ray-review-halloween-die-nacht-des-grauens/" class="weiterlesen" title="4K UHD Blu-ray Review: Halloween - Die Nacht des Grauens">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">01.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10392-blu-ray-review-the-happytime-murders-/" title="Blu-ray Review: The Happytime Murders "><img src="http://www.blu-rayler.de/news/images/123/Universum_Film.jpg" alt="Blu-ray Review: The Happytime Murders "></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10392-blu-ray-review-the-happytime-murders-/" title="Blu-ray Review: The Happytime Murders ">Blu-ray Review: The Happytime Murders </a></p>
+<p class="text">Ab 8. März 2019 auf DVD und Blu-ray über Tobis / Universum Film im Handel erhältlich. </p>
+<a href="http://www.blu-rayler.de/news/10392-blu-ray-review-the-happytime-murders-/" class="weiterlesen" title="Blu-ray Review: The Happytime Murders ">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">01.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10390-dvd-review-the-city-the-city/" title="DVD Review: The City & the City"><img src="http://www.blu-rayler.de/news/images/390/Pandastorm_Logo.jpg" alt="DVD Review: The City & the City"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10390-dvd-review-the-city-the-city/" title="DVD Review: The City & the City">DVD Review: The City & the City</a></p>
+<p class="text">ab 8. Februar auf DVD und digital</p>
+<a href="http://www.blu-rayler.de/news/10390-dvd-review-the-city-the-city/" class="weiterlesen" title="DVD Review: The City & the City">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">01.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10391-blu-ray-review-der-nussknacker-und-die-vier-reiche/" title="Blu-ray Review: Der Nussknacker und die vier Reiche"><img src="http://www.blu-rayler.de/news/images/18/Walt_Disney_Pictures.jpg" alt="Blu-ray Review: Der Nussknacker und die vier Reiche"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10391-blu-ray-review-der-nussknacker-und-die-vier-reiche/" title="Blu-ray Review: Der Nussknacker und die vier Reiche">Blu-ray Review: Der Nussknacker und die vier Reiche</a></p>
+<p class="text">Ab 14. März 2019 auf Blu-rayTM und DVD sowie als Download verfügbar</p>
+<a href="http://www.blu-rayler.de/news/10391-blu-ray-review-der-nussknacker-und-die-vier-reiche/" class="weiterlesen" title="Blu-ray Review: Der Nussknacker und die vier Reiche">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">01.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10389-4k-uhd-blu-ray-review-hunter-killer-/" title="4K UHD Blu-ray Review: Hunter Killer "><img src="http://www.blu-rayler.de/news/images/101/Concorde_Film.jpg" alt="4K UHD Blu-ray Review: Hunter Killer "></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10389-4k-uhd-blu-ray-review-hunter-killer-/" title="4K UHD Blu-ray Review: Hunter Killer ">4K UHD Blu-ray Review: Hunter Killer </a></p>
+<p class="text">Ab 07. März 2019 als DVD, Blu-ray, 4K UHD mit HDR und digital</p>
+<a href="http://www.blu-rayler.de/news/10389-4k-uhd-blu-ray-review-hunter-killer-/" class="weiterlesen" title="4K UHD Blu-ray Review: Hunter Killer ">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">01.03.2019</div>
+<a href="http://www.blu-rayler.de/news/10388-dvd-review-magda-macht-das-schon-staffel-3/" title="DVD Review: Magda macht das schon - Staffel 3"><img src="http://www.blu-rayler.de/news/images/123/Universum_Film.jpg" alt="DVD Review: Magda macht das schon - Staffel 3"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10388-dvd-review-magda-macht-das-schon-staffel-3/" title="DVD Review: Magda macht das schon - Staffel 3">DVD Review: Magda macht das schon - Staffel 3</a></p>
+<p class="text">Die komplette dritte Staffel ist ab 08. März 2019 auf DVD erhältlich!</p>
+<a href="http://www.blu-rayler.de/news/10388-dvd-review-magda-macht-das-schon-staffel-3/" class="weiterlesen" title="DVD Review: Magda macht das schon - Staffel 3">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">27.02.2019</div>
+<a href="http://www.blu-rayler.de/news/10384-blu-ray-review-die-wikinger/" title="Blu-ray Review: Die Wikinger"><img src="http://www.blu-rayler.de/news/images/397/Capelight.jpg" alt="Blu-ray Review: Die Wikinger"></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10384-blu-ray-review-die-wikinger/" title="Blu-ray Review: Die Wikinger">Blu-ray Review: Die Wikinger</a></p>
+<p class="text">Der Klassiker von 1958 erstmals auf Blu-ray! Ab 01. März 2019 als limitiertes Mediabook (DVD & Blu-ray)</p>
+<a href="http://www.blu-rayler.de/news/10384-blu-ray-review-die-wikinger/" class="weiterlesen" title="Blu-ray Review: Die Wikinger">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+						<div id="news">
+
+<div id="bild"><div id="zeit">20.02.2019</div>
+<a href="http://www.blu-rayler.de/news/10376-dvd-review-inga-lindström-collection-26-/" title="DVD Review: Inga Lindström Collection 26 "><img src="http://www.blu-rayler.de/news/images/447/Studiohamburg.jpg" alt="DVD Review: Inga Lindström Collection 26 "></a></div>
+<p class="headline"><a href="http://www.blu-rayler.de/news/10376-dvd-review-inga-lindström-collection-26-/" title="DVD Review: Inga Lindström Collection 26 ">DVD Review: Inga Lindström Collection 26 </a></p>
+<p class="text">Leider ist es nach wie vor so, dass auf dem deutsch-sprachigen Markt eine nicht unbeträchliche Menge an TV Serien lediglich auf DVD und leider nicht auf Blu-ray veröffentlicht werden. Damit jedoch nicht zu viele empfehlenswerte Titel unerkannt bleiben, hier das Review zu Inga Lindström Collection...</p>
+<a href="http://www.blu-rayler.de/news/10376-dvd-review-inga-lindström-collection-26-/" class="weiterlesen" title="DVD Review: Inga Lindström Collection 26 ">Weiterlesen...</a>
+							<span class="kommentare">0 Kommentare</span>
+							
+<br clear="all" /> 
+</div>  
+
+<hr class="news">
+
+                 
+
+												<div class="right"><a href="http://www.blu-rayler.de/news/seite/1/" title="&Auml;ltere News">&Auml;ltere News >></a></div><br />
+						<h3>Warum Blu-ray</h3>
+<p>Gegenüber der DVD bietet die Blu-ray viele Vorteile, die das Filmvergnügen um ein vielfaches steigern. So wird das Bild einer Blu-ray zum Beispiel meist in einer Auflösung von 1920x1080 Pixeln ausgegeben wo hingehen eine DVD lediglich eine Auflösung von 720×576 besitzt. Damit ist die Auflösung einer Blu-ray etwa doppelt so hoch wie die einer DVD. Zudem ist eine hochauflösende Tonwidergabe in HD möglich, die - eine höherwertige Soundanlage vorausgesetzt - den Hörgenuss um ein vielfaches erhöht. Selbst um ein passendes Abspielgerät muss man sich kaum noch Sorgen machen, denn <a href="/player/" title="Blu-ray Player im Überblick">Blu-ray Player</a> sind bereits ab 60 EUR zu bekommen. Jeder aktuelle Film erscheint als Blu-ray sowie DVD im Handel, wobei die Blu-ray immer etwas teurer ist, da Sie um einiges mehr an Qualität bietet. Auch immer mehr ältere Filme werden nach und nach neu abgefilmt und hochauflösend als Blu-ray verkauft. Wir empfehlen in jedem Fall: Umsteigen!</p>
+
+</div>
+<img src="http://www.blu-rayler.de/images/blu-ray_31.png" width="683" height="8" alt="Box unterer Rand" />
+</div>
+
+<div id="boxes">
+		<div id="box3_head"></div>
+<div id="box3">
+  <div class="headline">Anmeldeformular</div>
+		<form action="http://www.blu-rayler.de/forum/ucp.php?mode=login" method="post" id="login">
+        	<div style="color:#E5E5E5; padding-top:2px;">
+				<div style="float:left; padding-right:8px;">Benutzername:<br /><input type="text" tabindex="1" name="username" id="username" value="" class="inputbox" style="width:130px; height:15px; font-size:0.8em; align:left;" /></div>
+                <div class="left">Passwort:<br /><input type="password" tabindex="2" id="password" name="password" class="inputbox" style="width:140px; height:15px; font-size:0.8em; align:left;"/></div><br clear="all" />
+				
+                <div style="margin-top:4px;">
+                <div class="left"><input type="hidden" name="redirect" value="http://www.blu-rayler.de/" /><input type="hidden" name="sid" value="36f006cd136648888032f9d29b2471ae" /></div>
+                <div class="left"><input type="submit" name="login" tabindex="6" value="Anmelden" class="button1" /></div>
+                <div style="float:left; padding-top:2px; padding-left:5px;"><input type="checkbox" name="autologin"></div>
+                <div style="float:left; padding-top:5px; padding-left:2px; font-size:11px;">Angemeldet bleiben?</div></div><br clear="all" />
+                
+				<div style="margin-top:9px; text-align:center;"><a href="http://www.blu-rayler.de/forum/ucp.php?mode=register" rel="nofollow" title="Mitglied werden"><img src="http://www.blu-rayler.de/images/registrieren.png" alt="Kostenlos registrieren" /></a></div>
+			</div>	
+		</form>
+</div>
+<div id="box3_foot"></div>
+
+	
+<div id="box2_head"></div>
+<div id="box2">
+  <div class="headline">Film Schnellsuche</div>
+
+					<table style="width:100%";>
+					<tr><td>
+					<div><select name="selMegaSearch" size="1" onchange="CheckAuswahlSuche(this[this.selectedIndex].value);" style="font-size:0.9em; height:20px; width:75px;">
+						<option value="news">News</option>
+						<option value="filme" selected="selected">Film</option>
+						<option value="player">Player</option>
+					  </select>
+					</div></td><td style="width:100%;"><div id="a" style="display: inline;">&nbsp;<input type="text" id="filme" class="inputbox search" style="font-size:0.8em; height:15px; width:180px;" onkeyup="showAny(this.value,'filme')" value="Filmtitel eintippen..." onclick="if(this.value=='Filmtitel eintippen...')this.value='';" onblur="if(this.value=='')this.value='Filmtitel eintippen...';"></div>
+					<div id="b" style="display: none;">&nbsp;<input type="text" id="news" class="inputbox search" style="font-size:0.8em; height:15px; width:180px;" onkeyup="showAny(this.value,'news')" value="Suchwort eintippen..." onclick="if(this.value=='Suchwort eintippen...')this.value='';" onblur="if(this.value=='')this.value='Suchwort eintippen...';"></div>
+					<div id="c" style="display: none;">&nbsp;<input type="text" id="player" class="inputbox search" style="font-size:0.8em; height:15px; width:180px;" onkeyup="showAny(this.value,'player')" value="Playername eintippen..." onclick="if(this.value=='Playername eintippen...')this.value='';" onblur="if(this.value=='')this.value='Playername eintippen...';"></div>
+					</td>
+					<tr><td colspan="2" style="width:100%;"><div id="showsearch" style="max-height: 100px; width: 282px; overflow: auto;"></div></td></tr>
+					</table>
+                    
+					</form>
+                    
+</div>
+<div id="box2_foot"></div>
+
+
+<div id="box2_head"></div>
+	<div id="box2">
+    <div class="right"><a href="http://www.blu-rayler.de/reviews/" title="Blu-ray Reviews vom Team">alle anzeigen</a></div>
+  		<div class="headline">Reviews vom Blu-rayler.de Team</div>
+					
+					
+						<a href="http://www.blu-rayler.de/filme/15072-return-to-sender-blu-ray/" title="Return to Sender" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15072.jpg alt=Cover zu Return to Sender ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15072.jpg" class="cover_box" alt="Cover zu Return to Sender"></a>
+					
+						<a href="http://www.blu-rayler.de/filme/13937-die-bestimmung-divergent-blu-ray/" title="Die Bestimmung - Divergent " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13937.jpg alt=Cover zu Die Bestimmung - Divergent  ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/13937.jpg" class="cover_box" alt="Cover zu Die Bestimmung - Divergent "></a>
+					
+						<a href="http://www.blu-rayler.de/filme/15151-ekstase-blu-ray/" title="Ekstase " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15151.jpg alt=Cover zu Ekstase  ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15151.jpg" class="cover_box" alt="Cover zu Ekstase "></a>
+					
+						<a href="http://www.blu-rayler.de/filme/15144-shaun-das-schaf-der-film-blu-ray/" title="Shaun das Schaf - Der Film " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15144.jpg alt=Cover zu Shaun das Schaf - Der Film  ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15144.jpg" class="cover_box" alt="Cover zu Shaun das Schaf - Der Film "></a>
+										
+
+	</div>
+	<div id="box2_foot"></div><div id="box2_head"></div>
+	<div id="box2">
+    <div class="right"><a href="http://www.blu-rayler.de/user-reviews/">alle anzeigen</a></div>
+  		<div class="headline">Neue User-Reviews</div>
+					
+				
+					
+						<a href="http://www.blu-rayler.de/filme/15096-birdman-oder-die-unverhoffte-macht-der-ahnungslosigkeit-blu-ray/" title="Birdman oder (die unverhoffte Macht der Ahnungslosigkeit) " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15096.jpg alt=Cover zu Birdman oder (die unverhoffte Macht der Ahnungslosigkeit)  ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15096.jpg" class="cover_box" alt="Birdman oder (die unverhoffte Macht der Ahnungslosigkeit) "></a>
+					
+						<a href="http://www.blu-rayler.de/filme/15067-fargo-die-komplette-erste-staffel-blu-ray/" title="Fargo - Die komplette erste Staffel" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15067.jpg alt=Cover zu Fargo - Die komplette erste Staffel ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15067.jpg" class="cover_box" alt="Fargo - Die komplette erste Staffel"></a>
+					
+						<a href="http://www.blu-rayler.de/filme/15051-phantom-kommando-directors-cut-blu-ray/" title="Phantom Kommando - Directors Cut" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15051.jpg alt=Cover zu Phantom Kommando - Directors Cut ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15051.jpg" class="cover_box" alt="Phantom Kommando - Directors Cut"></a>
+					
+						<a href="http://www.blu-rayler.de/filme/14982-a-most-wanted-man-blu-ray/" title="A Most Wanted Man" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/14982.jpg alt=Cover zu A Most Wanted Man ></div>')" onmouseout="UnTip()"><img width="69px" height="83px" src="http://www.blu-rayler.de/forum/images/filmcovers/medium/14982.jpg" class="cover_box" alt="A Most Wanted Man"></a>
+										
+
+	</div>
+	<div id="box2_foot"></div><div id="box5_head"></div>
+<div id="box5">
+  		<div class="headline"><span style="font-size:18px; font-weight:normal;">Mini-Preisradar:</span> Aktuelle Preis&auml;nderungen</div>
+
+					<table width="100%" border=0 cellspacing=0 cellpadding="4">
+														<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B007RWRM1E&e=11028541" title="Pitch Black - Planet der Finsternis (100th Anniversary Universal Steelbook Edition)" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/8008.jpg alt=Cover zu Pitch Black - Planet der Finsternis (100th Anniversary Universal Steelbook Edition) ></div><div class=miniradar_over>Jetzt 14.68 EUR<br><span style=font-size:10px; font-weight:normal;>(29.12.2014 - 12:02 Uhr)</span></div>')" onmouseout="UnTip()" >Pitch Black - Planet der Finster...</a></td><td class="miniradar_event"><span class="gruen">- 1.53 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00E83P172&e=9949479" title="Verdammt in alle Ewigkeit " 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/11834.jpg alt=Cover zu Verdammt in alle Ewigkeit  ></div><div class=miniradar_over>Jetzt 7.97 EUR<br><span style=font-size:10px; font-weight:normal;>(02.06.2014 - 05:05 Uhr)</span></div>')" onmouseout="UnTip()" >Verdammt in alle Ewigkeit </a></td><td class="miniradar_event"><span class="gruen">- 1.00 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B005XQV0BY&e=9161377" title="Was auch geschehen mag: The Shunning" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/6664.jpg alt=Cover zu Was auch geschehen mag: The Shunning ></div><div class=miniradar_over>Jetzt 5.09 EUR<br><span style=font-size:10px; font-weight:normal;>(11.12.2013 - 06:05 Uhr)</span></div>')" onmouseout="UnTip()" >Was auch geschehen mag: The Shun...</a></td><td class="miniradar_event"><span class="gruen">- 2.85 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=3869231610&e=9931055" title="1000 Meisterwerke - Art around the World " 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/14602.jpg alt=Cover zu 1000 Meisterwerke - Art around the World  ></div><div class=miniradar_over>Jetzt 24.46 EUR<br><span style=font-size:10px; font-weight:normal;>(29.05.2014 - 23:00 Uhr)</span></div>')" onmouseout="UnTip()" >1000 Meisterwerke - Art around t...</a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00QFEEGYQ&e=10971569" title="Athena - Tage des Spions [Blu-ray]" 
+                                >Athena - Tage des Spions [Blu-ra...</a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00AGB8FDC&e=11086792" title="Eisbären 3D" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/9907.jpg alt=Cover zu Eisbären 3D ></div><div class=miniradar_over>Jetzt 13.51 EUR<br><span style=font-size:10px; font-weight:normal;>(10.01.2015 - 02:04 Uhr)</span></div>')" onmouseout="UnTip()" >Eisbären 3D</a></td><td class="miniradar_event"><span class="gruen">- 0.46 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00HUMI62K&e=9286086" title="Torture Bleeding " 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/13301.jpg alt=Cover zu Torture Bleeding  ></div><div class=miniradar_over>Jetzt 15.04 EUR<br><span style=font-size:10px; font-weight:normal;>(14.01.2014 - 13:00 Uhr)</span></div>')" onmouseout="UnTip()" >Torture Bleeding </a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00GPB19SK&e=9282850" title="Robocop 1 " 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/13288.jpg alt=Cover zu Robocop 1  ></div><div class=miniradar_over>Jetzt 14.99 EUR<br><span style=font-size:10px; font-weight:normal;>(13.01.2014 - 17:00 Uhr)</span></div>')" onmouseout="UnTip()" >Robocop 1 </a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00HS8GB5A&e=9286085" title="Todesfalle Normandie " 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/13302.jpg alt=Cover zu Todesfalle Normandie  ></div><div class=miniradar_over>Jetzt 14.29 EUR<br><span style=font-size:10px; font-weight:normal;>(14.01.2014 - 13:00 Uhr)</span></div>')" onmouseout="UnTip()" >Todesfalle Normandie </a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00EAINSSY&e=10703644" title="Der Hobbit: Eine unerwartete Reise - Extended Edition 3D/2D Sammleredition" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/12876.jpg alt=Cover zu Der Hobbit: Eine unerwartete Reise - Extended Edition 3D/2D Sammleredition ></div><div class=miniradar_over>Jetzt 29.99 EUR<br><span style=font-size:10px; font-weight:normal;>(13.10.2014 - 18:09 Uhr)</span></div>')" onmouseout="UnTip()" >Der Hobbit: Eine unerwartete Rei...</a></td><td class="miniradar_event"><span class="gruen fett">- 20.00 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B004CKNT8Y&e=11045807" title="Stone" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/4122.jpg alt=Cover zu Stone ></div><div class=miniradar_over>Jetzt 7.56 EUR<br><span style=font-size:10px; font-weight:normal;>(01.01.2015 - 20:06 Uhr)</span></div>')" onmouseout="UnTip()" >Stone</a></td><td class="miniradar_event"><span class="rot">+ 0.26 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B003SHSSEW&e=9343105" title="Gegen jeden Zweifel" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/2991.jpg alt=Cover zu Gegen jeden Zweifel ></div><div class=miniradar_over>Jetzt 4.99 EUR<br><span style=font-size:10px; font-weight:normal;>(27.01.2014 - 18:06 Uhr)</span></div>')" onmouseout="UnTip()" >Gegen jeden Zweifel</a></td><td class="miniradar_event"><span class="gruen fett">- 5.96 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00I0II6BO&e=9333228" title="Lord Nelsons letzte Liebe (s/w)" 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/13409.jpg alt=Cover zu Lord Nelsons letzte Liebe (s/w) ></div><div class=miniradar_over>Jetzt 18.15 EUR<br><span style=font-size:10px; font-weight:normal;>(25.01.2014 - 13:00 Uhr)</span></div>')" onmouseout="UnTip()" >Lord Nelsons letzte Liebe (s/w)...</a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00IZZXTR8&e=9939805" title="Death Zone " 
+                                 onmouseover="Tip('<div style=width:182px; height:230px;><img src=http://www.blu-rayler.de/forum/images/filmcovers/13947.jpg alt=Cover zu Death Zone  ></div><div class=miniradar_over>Jetzt 14.99 EUR<br><span style=font-size:10px; font-weight:normal;>(31.05.2014 - 17:01 Uhr)</span></div>')" onmouseout="UnTip()" >Death Zone </a></td><td class="miniradar_event"><span class="gruen">- 1.00 EUR</span></td></tr>
+																<tr><td class="miniradar">
+                                                      <a target="_blank" href="http://www.blu-rayler.de/go_mini.php?a=B00QKLTJ96&e=10989212" title="Alfred Hitchcock: Die 39 Stufen (1935) [Collector`s Edition] [Blu-ray]" 
+                                >Alfred Hitchcock: Die 39 Stufen ...</a></td><td class="miniradar_event"><span class="blau">NEU!</span></td></tr>
+															<tr>
+							  <td colspan="2" style="text-align:center;" width=100%><a href="http://www.blu-rayler.de/preisradar/" title="Blu-ray Preisradar"><small>Alle Preis&auml;nderungen im großen Preisradar</small></a></td></tr>
+						<td></tr>
+						</table>
+	</div>
+  <div id="box5_foot"></div><div id="box6_head"></div>
+	<div id="box6">
+    <div  class="right"><a href="http://www.blu-rayler.de/charts/" title="Blu-ray Charts">alle anzeigen</a></div>
+		<div class="headline"><a href="http://www.blu-rayler.de/charts/" title="Blu-ray Charts"><img src="http://www.blu-rayler.de/images/charts.png" alt="Blu-ray Charts" /></a></div>
+
+													<a href="http://www.blu-rayler.de/go_charts.php?a=B00UV0DKNS" title="Fast & Furious 7" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15073.jpg alt=Cover zu Fast & Furious 7 ></div>')" onmouseout="UnTip()" target="_blank"><img src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15073.jpg" alt="Cover zu Fast & Furious 7" class="cover_box"></a>							<a href="http://www.blu-rayler.de/go_charts.php?a=B00TNKL00C" title="Kingsman - The Secret Service" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/14991.jpg alt=Cover zu Kingsman - The Secret Service ></div>')" onmouseout="UnTip()" target="_blank"><img src="http://www.blu-rayler.de/forum/images/filmcovers/medium/14991.jpg" alt="Cover zu Kingsman - The Secret Service" class="cover_box"></a>							<a href="http://www.blu-rayler.de/go_charts.php?a=B00TDP595E" title="American Sniper" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15116.jpg alt=Cover zu American Sniper ></div>')" onmouseout="UnTip()" target="_blank"><img src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15116.jpg" alt="Cover zu American Sniper" class="cover_box"></a>							<a href="http://www.blu-rayler.de/go_charts.php?a=B00SWEU36W" title="Wild Card " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/15133.jpg alt=Cover zu Wild Card  ></div>')" onmouseout="UnTip()" target="_blank"><img src="http://www.blu-rayler.de/forum/images/filmcovers/medium/15133.jpg" alt="Cover zu Wild Card " class="cover_box"></a>	</div>
+	<div id="box6_foot"></div><div id="box2_head"></div>
+	<div id="box2">
+		<div class="headline">Top Blu-ray Vorbestellungen</div>
+<table style="width:100%;">
+
+						<tr><td></td>
+													<td style="padding-right:0px;"><a href="http://www.blu-rayler.de/go.php?a=B00I0II6BO" title="Lord Nelsons letzte Liebe (s/w)" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13409.jpg alt=Cover zu Lord Nelsons letzte Liebe (s/w)></div>')" onmouseout="UnTip()" target="_blank"><img src="http://www.blu-rayler.de/forum/images/filmcovers/medium/13409.jpg" alt="Cover klein - Lord Nelsons letzte Liebe (s/w)"></a></td>							<td style="padding-right:0px;"><a href="http://www.blu-rayler.de/go.php?a=B00HS8G9TS" title="Necrophobic " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13305.jpg alt=Cover zu Necrophobic ></div>')" onmouseout="UnTip()" target="_blank"><img src="http://www.blu-rayler.de/forum/images/filmcovers/medium/13305.jpg" alt="Cover klein - Necrophobic "></a></td>							<td style="padding-right:0px;"><a href="http://www.blu-rayler.de/go.php?a=B00I32F04S" title="Winx Club 5. Staffel Episoden 1 - 9" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13408.jpg alt=Cover zu Winx Club 5. Staffel Episoden 1 - 9></div>')" onmouseout="UnTip()" target="_blank"><div id="no_cover"></div></a></td></tr>
+
+						</table>
+	</div>
+	<div id="box2_foot"></div>		<div id="box2_head"></div>
+	<div id="box2">
+  		<div class="headline" style="margin-bottom:12px">Bald auf Blu-ray <span class="right"><a href="http://www.blu-rayler.de/forum/filmlist.php?F_PUBLICATION=3&amp;sd=a">alle anzeigen</a></span></div>
+
+				<table width="100%" border=0 cellspacing=0 cellpadding=1>
+
+								<tr><td class="soon_bilder" colspan="2">
+											<a href="http://www.blu-rayler.de/filme/13408-winx-club-5-staffel-episoden-1-9-blu-ray/" title="Winx Club 5. Staffel Episoden 1 - 9"><img style="width:42px; height:53px;" src="http://www.blu-rayler.de/forum/images/filmcovers/small/no_cover_pic.png" alt="Kein Cover"></a>&nbsp;
+														<span onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13409.jpg alt=Cover zu Lord Nelsons letzte Liebe (s/w) ></div>')" onmouseout="UnTip()"><a href="http://www.blu-rayler.de/filme/13409-lord-nelsons-letzte-liebe-s-w-blu-ray/" title="Lord Nelsons letzte Liebe (s/w)"><img style="width:42px; height:53px;" src="http://www.blu-rayler.de/forum/images/filmcovers/small/13409.jpg" alt="Cover zu Lord Nelsons letzte Liebe (s/w)"></a></span>&nbsp;
+														<span onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13305.jpg alt=Cover zu Necrophobic  ></div>')" onmouseout="UnTip()"><a href="http://www.blu-rayler.de/filme/13305-necrophobic-blu-ray/" title="Necrophobic "><img style="width:42px; height:53px;" src="http://www.blu-rayler.de/forum/images/filmcovers/small/13305.jpg" alt="Cover zu Necrophobic "></a></span>&nbsp;
+												</td></tr>
+					
+											<tr><td class="soon"><div id="orange"></div>
+                        <a href="http://www.blu-rayler.de/filme/13408-winx-club-5-staffel-episoden-1-9-blu-ray/" title="Winx Club 5. Staffel Episoden 1 - 9" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13408.jpg alt=Cover zu Winx Club 5. Staffel Episoden 1 - 9 ></div>')" onmouseout="UnTip()">Winx Club 5. Staffel Episo...</a>
+                        </td><td class="soon_date">23.03.2035</td></tr>
+												<tr><td class="soon"><div id="orange"></div>
+                        <a href="http://www.blu-rayler.de/filme/13409-lord-nelsons-letzte-liebe-s-w-blu-ray/" title="Lord Nelsons letzte Liebe (s/w)" onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13409.jpg alt=Cover zu Lord Nelsons letzte Liebe (s/w) ></div>')" onmouseout="UnTip()">Lord Nelsons letzte Liebe ...</a>
+                        </td><td class="soon_date">23.03.2035</td></tr>
+												<tr><td class="soon"><div id="orange"></div>
+                        <a href="http://www.blu-rayler.de/filme/13305-necrophobic-blu-ray/" title="Necrophobic " onmouseover="Tip('<div style=width:182px; height:230px><img src=http://www.blu-rayler.de/forum/images/filmcovers/13305.jpg alt=Cover zu Necrophobic  ></div>')" onmouseout="UnTip()">Necrophobic </a>
+                        </td><td class="soon_date">25.01.2036</td></tr>
+										<tr><td colspan="2" style="" width=100%>&nbsp;</td></tr>
+
+
+								<tr><td class="soon_bilder" colspan="2">
+									</td></tr>
+									<tr><td colspan="2" style="" width=100%>&nbsp;</td></tr>
+
+								<tr><td class="soon_bilder" colspan="2">
+									</td></tr>
+					
+									<tr><td colspan="2" style="" width=100%>&nbsp;</td></tr>
+
+				
+				<tr><td colspan="2" style=" text-align:center;" width=100%><a href="http://www.blu-rayler.de/forum/filmlist.php?F_PUBLICATION=3&sd=a" title="Bald auf Blu-ray"><small>Alle zuk&uuml;nftigen Blu-ray Ver&ouml;ffentlichungen</small></a></td></tr>
+				</table>
+
+	</div>
+	<div id="box2_foot"></div>
+
+	<div id="box2_head"></div>
+	<div id="box2_forumthreads">
+  	<div class="headline">Neueste Beiträge im Forum</div>
+												<div id="orange"></div><div class="links"><a href="http://www.blu-rayler.de/forum/viewtopic.php?t=1240" title="Antworten: 485 | Letzte Antwort vom 12.03.2019 | Euer letzter Kinobesuch...">Euer letzter Kinobesuch...</a></div>
+						<br clear="all" />
+												<div id="orange"></div><div class="links"><a href="http://www.blu-rayler.de/forum/viewtopic.php?t=1646" title="Antworten: 1307 | Letzte Antwort vom 20.02.2019 | Wofür habt ihr zuletzt Geld ausgegeben?">Wofür habt ihr zuletzt Geld ausgegeben?</a></div>
+						<br clear="all" />
+												<div id="orange"></div><div class="links"><a href="http://www.blu-rayler.de/forum/viewtopic.php?t=4019" title="Antworten: 236 | Letzte Antwort vom 07.12.2018 | Welche TV-Serien schaut ihr?">Welche TV-Serien schaut ihr?</a></div>
+						<br clear="all" />
+												<div id="orange"></div><div class="links"><a href="http://www.blu-rayler.de/forum/viewtopic.php?t=7225" title="Antworten: 14 | Letzte Antwort vom 24.12.2017 | Frohe Weihnachten">Frohe Weihnachten</a></div>
+						<br clear="all" />
+												<div id="orange"></div><div class="links"><a href="http://www.blu-rayler.de/forum/viewtopic.php?t=8223" title="Antworten: 1 | Letzte Antwort vom 21.12.2017 | CD-Wall stellt sich vor">CD-Wall stellt sich vor</a></div>
+						<br clear="all" />
+						
+	</div>
+	<div id="box2_foot"></div>
+		
+<div id="box2_head"></div>
+
+<div id="box2">
+  <div class="headline">Testberichte von Blu-rayler.de</div>
+					                        
+						<div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/news/7639-test-popcorn-hour-a-410/" title="News vom 07.03.2014 | Test: Popcorn Hour A-410">Test: Popcorn Hour A-410</a></div><br clear="all" />
+						                        
+						<div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/news/6635-nas-server-im-eigenbau/" title="News vom 01.03.2013 | NAS Server im Eigenbau">NAS Server im Eigenbau</a></div><br clear="all" />
+						                        
+						<div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/news/6041-neues-von-der-ifa-2012/" title="News vom 06.09.2012 | Neues von der IFA 2012">Neues von der IFA 2012</a></div><br clear="all" />
+						                        
+						<div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/news/5800-im-test-teufel-lt®-2-r-high-definition-5.1-set-l/" title="News vom 02.06.2012 | Im Test: Teufel LT® 2 R High Definition "5.1-Set L"">Im Test: Teufel LT® 2 R High Definition "...</a></div><br clear="all" />
+						                        
+						<div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/news/5669-test-teufel-impaq-3000-mk2-blu-ray-komplettsystem/" title="News vom 18.04.2012 | Test: Teufel Impaq 3000 MK2 Blu-ray Komplettsystem">Test: Teufel Impaq 3000 MK2 Blu-ray Komple...</a></div><br clear="all" />
+							<hr />
+    <div align="center"><a href="http://www.blu-rayler.de/news/tests/">Weitere Testberichte</a></div>
+</div>
+	<div id="box2_foot"></div>
+    ﻿<SCRIPT charset="utf-8" type="text/javascript" src="http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=DE&ID=V20070822%2FDE%2Fbluraylerde0a-21%2F8009%2F6b07e3b7-5d7d-4a62-94de-da958f81f9b3&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=DE&ID=V20070822%2FDE%2Fbluraylerde0a-21%2F8009%2F6b07e3b7-5d7d-4a62-94de-da958f81f9b3&Operation=NoScript">Amazon.de Widgets</A></NOSCRIPT>
+<div id="box2_head"></div>
+<div id="box2">
+  <div class="headline">Partner & Links</div>
+
+                    <div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/news/6485-die-blu-ray-disc-erobert-den-markt/" title="Blu-ray">Die Blu-ray erobert den Markt</a></div><br clear="all" />
+                    <div id="orange"></div><div class="left"><a href="http://www.blu-rayler.de/forum/blu-ray-technik/htpc-fur-3d-blu-rays-selbst-bauen-t7562.html" title="HTPC 3D Blu-ray">HTPC für 3D Blu-ray</a></div><br clear="all" />
+
+					<div id="orange"></div><div class="left"><a href="http://trophies-ps3.de" target="_blank" title="www.trophies-ps3.de">PS3 Troph&auml;en</a></div><br clear="all" />
+					<div id="orange"></div><div class="left"><a href="http://www.psinside.de" target="_blank" title="www.psinside.de">PSinside</a></div><br clear="all" />
+                    <div id="orange"></div><div class="left"><a href="https://www.songtexte.de" target="_blank" title="Songtexte">Songtexte</a></div><br clear="all" />
+                    <div id="orange"></div><div class="left"><a href="https://www.Gehaltsrechner.de" target="_blank" title="Gehaltsrechner">Gehaltsrechner</a></div><br clear="all" />
+					
+</div>
+	<div id="box2_foot"></div>
+</div>
+</div>
+	﻿<br clear="all" />
+
+<div id="rohling"></div>
+
+<div id="footer_head">
+	<div id="footer">
+		<small><div style="float:right;"><a href="https://www.songtexte.de/">Songtexte</a> &bull; <a href="https://www.spanisch.de/lernen/">Spanisch lernen</a> &bull; <a href="https://www.gehaltsrechner.de/">Gehaltsrechner</a> &bull; <a href="http://www.strompate.de/stromvergleich/">Stromvergleich</a></div>Blu-rayler.de ist nicht mit der Blu-ray Disc Association verbunden. Alle Preisangaben inkl. 19% MwSt. und ohne Gewähr.</small><br /><br />
+			<div style="float:right; margin-top:-13px"><a href="https://plus.google.com/109687809238586985576" rel="publisher" title="Google+ Seite von  Blu-rayler.de">finden Sie uns auf Google+</a> &nbsp; <div class="g-plusone" data-annotation="none" data-href="http://www.blu-rayler.de">
+
+</div> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.blu-rayler.de/impressum.php" title="Impressum Blu-rayler.de">Impressum</a> &bull; <a href="http://www.blu-rayler.de/impressum.php" Title="Werben Sie bei uns / Mediadaten">Werbung</a> &bull; <a href="http://www.blu-rayler.de/impressum.php" title="Kontakt">Kontakt</a> &copy; 2013-2015 blu-rayler.de</div> 
+            <a href="http://www.blu-rayler.de/" Title="Blu-rayler.de Startseite">Start</a> &bull; <a href="http://www.blu-rayler.de/news/" title)"Blu-ray News">News</a> &bull; <a href="http://www.blu-rayler.de/preisradar/" title="blu-ray Preisradar">Preisradar</a> &bull; <a href="http://www.blu-rayler.de/player/" title="Blu-ray Player">Blu-ray Player</a> &bull; <a href="http://www.blu-rayler.de/filme/" title="Blu-ray Filme">Blu-ray Filme</a> &bull; <a href="http://www.blu-rayler.de/forum/ps3list.php" title="PS3 Spiele">PS3</a> &bull; <a href="http://www.blu-rayler.de/forum/" title="Blu-ray Forum">Forum</a>
+
+<br>
+
+<a href="http://www.blu-rayler.de/" title="BlueRay BluRay Blue Ray Blu Ray">BlueRay & BluRay</a> &bull;
+<a href="http://www.blu-rayler.de/charts/" title="Blu Ray Charts - Bluray Charts">Blu Ray Charts</a> &bull; 
+<a href="http://www.blu-rayler.de/player/" title="Blue Ray Player">Blue Ray Player</a> &bull; 
+<a href="http://www.blu-rayler.de/forum/filmlist.php?F_PUBLICATION=3&sd=a" title="Blu Ray Neuerscheinungen">Blu Ray Neuerscheinungen</a> &bull; 
+<b>Filme</b> &bull; 
+<b>Neuheiten</b> &bull; 
+<b>Test & Reviews</b> &bull; 
+	
+	</div>
+</div>
+
+<!-- Fügen Sie dieses Tag in den head-Abschnitt oder direkt vor dem schließenden body-Tag ein. -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'de'}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="description" content="" />
+	<link href="favicon.ico" rel="shortcut icon">
+	<link rel="stylesheet" href="/files/css/style.css">
+	<title>super on the web</title>
+	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script type="application/javascript" src="/files/js/jquery.js"></script>
+	<script type="text/javascript" charset="utf-8"> 
+		$(document).ready(function() {
+			//frame breakout       
+			if (top.location != location) {
+				top.location.href = document.location.href ;
+			}
+		});
+	</script>
+</head>
+
+<body>
+  <div class="container">
+	<!-- MarketGidComposite Start -->
+	<div id="MarketGidScriptRootC7072">
+		<div id="MarketGidPreloadC7072">
+			<a id="mg_add7072" href="http://mgid.com/advertisers/?utm_source=widget&utm_medium=text&utm_campaign=add" target="_blank">Place your ad here</a><br>        <a href="http://mgid.com/" target="_blank">Loading...</a>    
+		</div>
+		<script>       
+			(function(){
+				var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+				var i=d[ce]('iframe');i[st][ds]=n;d[gi]("MarketGidScriptRootC7072")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+				catch(e){var iw=d;var c=d[gi]("MarketGidScriptRootC7072");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=7072;c[ac](dv);
+				var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="http://jsc.mgid.com/d/a/dayerses.com.7072.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+		</script>
+	</div>
+	<!-- MarketGidComposite End --> 
+  </div>
+</body>
+</html>

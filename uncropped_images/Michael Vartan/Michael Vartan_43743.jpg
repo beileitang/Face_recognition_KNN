@@ -1,0 +1,497 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js"><!--<![endif]-->
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+
+        <title>404 Not Found | That Film Guy</title>
+
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+		<link rel="shortcut icon" href="http://www.thatfilmguy.net/wp-content/uploads/2014/11/TFG.jpg">
+
+		<link rel="pingback" href="http://www.thatfilmguy.net/xmlrpc.php">
+
+		<!-- Holding main menu -->
+		
+		<!-- head functions -->
+		
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+<!-- /SEO Ultimate -->
+
+<link rel="alternate" type="application/rss+xml" title="That Film Guy &raquo; Feed" href="http://www.thatfilmguy.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="That Film Guy &raquo; Comments Feed" href="http://www.thatfilmguy.net/comments/feed/" />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://www.thatfilmguy.net/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://www.thatfilmguy.net/wp-content/themes/valenti/plugins/login-with-ajax/widget.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.thatfilmguy.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.thatfilmguy.net/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.3.3&#038;ver=4.0.1' type='text/css' media='all' />
+<style type='text/css'>
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://www.thatfilmguy.net/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.3.3&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='x-shortcodes-integrity-light-css'  href='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/css/integrity-light.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='amazon-link-style-css'  href='http://www.thatfilmguy.net/wp-content/plugins/amazon-link/Amazon.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-main-stylesheet-css'  href='http://www.thatfilmguy.net/wp-content/themes/valenti/library/css/style.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C400italic%7COpen+Sans%3A400%2C700%2C400italic&#038;subset=greek%2Cgreek-ext&#038;ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.thatfilmguy.net/wp-content/themes/valenti/library/css/fontawesome/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://www.thatfilmguy.net/wp-content/themes/valenti/library/css/ie.css?ver=3.2' type='text/css' media='all' />
+<![endif]-->
+<!-- This site uses the Yoast Google Analytics plugin v5.1.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-23732045-2']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/themes/valenti/plugins/login-with-ajax/login-with-ajax.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.3&#038;ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.3&#038;ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/backstretch-2.0.3.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/modernizr-2.7.1.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/themes/valenti/library/js/modernizr.custom.min.js?ver=2.6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thatfilmguy.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thatfilmguy.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style><!--[if IE 7]>
+<link rel="stylesheet" href="http://www.thatfilmguy.net/wp-content/plugins/wp-review/assets/css/wp-review-ie7.css">
+<![endif]-->
+<style>.cb-overlay-stars .fa-star, #cb-vote .fa-star, #cb-to-top .fa-long-arrow-up, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, .bbp-submit-wrapper button:visited, .buddypress .cb-cat-header #cb-cat-title a,  .buddypress .cb-cat-header #cb-cat-title a:visited, .woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .woocommerce .star-rating span, .woocommerce-page .star-rating span {
+            color:#e2e2e2;
+        }#cb-search-modal .cb-header, .cb-join-modal .cb-header, .lwa .cb-header, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            border-color: #e2e2e2;
+        }.cb-sidebar-widget .cb-sidebar-widget-title, .cb-multi-widget .tabbernav .tabberactive, .cb-author-page .cb-author-details .cb-meta .cb-author-page-contact, .cb-about-page .cb-author-line .cb-author-details .cb-meta .cb-author-page-contact, .cb-page-header, .cb-404-header, .cb-cat-header, #cb-footer #cb-widgets .cb-footer-widget-title span, #wp-calendar caption, .cb-tabs ul .current, #bbpress-forums li.bbp-header, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li.selected, #buddypress div.item-list-tabs ul li.current, #buddypress .item-list-tabs ul li:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+            border-bottom-color: #e2e2e2 ;
+        }#cb-main-menu .current-post-ancestor, #cb-main-menu .current-menu-item, #cb-main-menu .current-menu-ancestor, #cb-main-menu .current-post-parent, #cb-main-menu .current-menu-parent, #cb-main-menu .current_page_item, #cb-main-menu .current-page-ancestor, #cb-main-menu .current-category-ancestor, .cb-review-box .cb-bar .cb-overlay span, #cb-accent-color, .cb-highlight, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            background-color: #e2e2e2;
+        }</style><style type="text/css">
+                                                 body, #respond { font-family: 'Open Sans', sans-serif; }
+                                                 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, #cb-nav-bar #cb-main-menu ul li > a, .cb-breaking-news span, .cb-grid-4 h2 a, .cb-grid-5 h2 a, .cb-grid-6 h2 a, .cb-author-posts-count, .cb-author-title, .cb-author-position, .search  .s, .cb-review-box .cb-bar, .cb-review-box .cb-score-box, .cb-review-box .cb-title, #cb-review-title, .cb-title-subtle, #cb-top-menu a, .tabbernav, .cb-byline, #cb-next-link a, #cb-previous-link a, .cb-review-ext-box .cb-score, .tipper-positioner, .cb-caption, .cb-button, #wp-calendar caption, .forum-titles, .bbp-submit-wrapper button, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form .bbp-the-content-wrapper input, #bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink, .widget_display_stats dl dt, .cb-lwa-profile .cb-block, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li, #buddypress .activity-list li.load-more, #buddypress a.activity-time-since, #buddypress ul#groups-list li div.meta, .widget.buddypress div.item-options, .cb-activity-stream #buddypress .activity-header .time-since, .cb-font-header, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .cb-infinite-scroll a, .cb-no-more-posts { font-family:'Oswald', sans-serif; }
+                     </style><style type="text/css">.x-recent-posts .format-standard .x-recent-posts-img:before { 
+content: "";
+background-color: transparent; 
+}
+
+top {display:none;}
+.entry-title:before {
+display:none;
+}
+.home .x-content-band  {
+  margin-top:0;
+  }
+  .home #x-content-band-1 .x-gap {
+  margin-top:3.15em;
+  }
+  .home .x-content-band {
+  padding-top:0;
+  }.cb-grid-3 .cb-article-meta h2 a, .cb-grid-4 .cb-article-meta h2 a, .cb-grid-5 .cb-article-meta h2 a, .cb-grid-6 .cb-article-meta h2 a, .flexslider-widget .slides li .cb-meta h4 a, .flexslider-1-fw .slides li .cb-meta h2 a, .flexslider-1 .slides li .cb-meta h2 a, .flexslider-1-fw-menu .slides li .cb-meta h2 a, .flexslider-1-menu .slides li .cb-meta h2 a, .flexslider-2-fw .slides li .cb-meta h2 a, .flexslider-2 .slides li .cb-meta h2 a { border-bottom:none; }.entry-content a, .entry-content a:visited {color:#f7042d; }#cb-top-menu .cb-breaking-news ul li a { color:#000000; }.header { background-color: #e8c425; }</style><!-- end custom css -->	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- All in one Favicon 4.3 --><link rel="icon" href="http://www.thatfilmguy.net/wp-content/uploads/2013/04/TFG2.png" type="image/png"/>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<style>#cb-nav-bar #cb-main-menu .main-nav .menu-item-16889:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16889:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16889 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16889 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16889 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-34117:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34117:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34117 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34117 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34117 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-34063:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34063:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34063 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34063 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34063 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-16886:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16886:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16886 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16886 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16886 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-34064:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34064:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34064 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34064 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34064 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-34116:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34116:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34116 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34116 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-34116 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-34119:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-34119:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-34119 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-34119 .cb-sub-menu { background:#e2e2e2!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-34119 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-28253:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-28253:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-28253 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-28253 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-28253 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-16887:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16887:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16887 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16887 .cb-sub-menu { background:#e2e2e2!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-16887 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#e2e2e2!important; }</style>		<!-- end head functions-->
+
+	</head>
+
+	<body class="error404 x-shortcodes-v2_0_10 wpb-js-composer js-comp-ver-4.0.4 vc_responsive">
+
+        
+	    <div id="cb-outer-container">
+
+    		<div id="cb-container" class="cb-no-top"  >
+
+                <header class="header clearfix wrap" role="banner">
+
+                        <div class="wrap clearfix">
+                                                                            <div id="logo" class="cb-with-large">
+                                                <a href="http://www.thatfilmguy.net">
+                                                    <img src="http://www.thatfilmguy.net/wp-content/uploads/2014/11/TFG-Logo3.jpg" alt="That Film Guy logo" width="105" height="100" data-retina-src="http://www.thatfilmguy.net/wp-content/uploads/2014/11/TFG-Logo3@2x.jpg" />
+                                                </a>
+                                            </div>
+                                                        </div>
+
+    				    <nav id="cb-nav-bar" class="clearfix stickybar cb-dark-menu" role="navigation">
+
+                             <div class="wrap clearfix"><div id="cb-main-menu" class="menu-main-menu-container"><ul class="nav main-nav clearfix"><li id="menu-item-16889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16889"><a href="http://www.thatfilmguy.net/category/news/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/news/', 'News']);" >News</a><div class="cb-links-menu"></li>
+<li id="menu-item-34117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34117"><a href="http://www.thatfilmguy.net/category/in-cinemas/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/in-cinemas/', 'In Cinemas']);" >In Cinemas</a><div class="cb-links-menu"></li>
+<li id="menu-item-34063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34063"><a href="http://www.thatfilmguy.net/category/film-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/film-reviews/', 'Reviews']);" >Reviews</a><div class="cb-links-menu"></li>
+<li id="menu-item-16886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16886"><a href="http://www.thatfilmguy.net/uk-film-release-schedule/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/uk-film-release-schedule/', 'Coming Soon']);" >Coming Soon</a><div class="cb-links-menu"></li>
+<li id="menu-item-34064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34064"><a href="http://www.thatfilmguy.net/category/trailers/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/trailers/', 'Trailers']);" >Trailers</a><div class="cb-links-menu"></li>
+<li id="menu-item-34116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34116"><a href="http://www.thatfilmguy.net/category/articles/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/articles/', 'Articles']);" >Articles</a><div class="cb-links-menu"></li>
+<li id="menu-item-34119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34119"><a href="http://www.thatfilmguy.net/category/worst-films-ever/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/worst-films-ever/', 'Best Worst']);" >Best Worst</a><div class="cb-big-menu"><div class="cb-articles">
+                                    <div class="cb-featured">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#e2e2e2;">Random</span></div>
+                                        <ul> <li class="cb-article clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/plan-9-from-outer-space-1959/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/plan-9-from-outer-space-1959/', '']);" ><img src="http://www.thatfilmguy.net/wp-content/themes/valenti/library/images/thumbnail-480x240.png" alt="article placeholder" data-src-retina="http://www.thatfilmguy.net/wp-content/themes/valenti/library/images/thumbnail-480x240@2x.png" data-src="http://www.thatfilmguy.net/wp-content/themes/valenti/library/images/thumbnail-480x240.png"></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/plan-9-from-outer-space-1959/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/plan-9-from-outer-space-1959/', 'Plan 9 from Outer Space (1959) review by That Film Guy']);" >Plan 9 from Outer Space (1959) review by That Film Guy</a></h2>
+                            
+                        </div></li></ul>
+                                     </div>
+                                     <div class="cb-recent cb-recent-fw">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#e2e2e2;">Recent</span></div>
+                                        <ul> <li class="cb-article-1 clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/zombeavers-2014/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/zombeavers-2014/', '']);" ><img width="80" height="45" src="http://www.thatfilmguy.net/wp-content/uploads/2014/08/Zombeavers.jpg" class="attachment-cb-80-60 wp-post-image" alt="Zombeavers" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/zombeavers-2014/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/zombeavers-2014/', 'Review: Zombeavers (2014)']);" >Review: Zombeavers (2014)</a></h2>
+                            
+                        </div></li> <li class="cb-article-2 clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/soccer-dog-european-cup-2004/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/soccer-dog-european-cup-2004/', '']);" ><img width="80" height="55" src="http://www.thatfilmguy.net/wp-content/uploads/2013/12/Soccer-Dog-European-Cup.jpg" class="attachment-cb-80-60 wp-post-image" alt="Soccer Dog European Cup" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/soccer-dog-european-cup-2004/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/soccer-dog-european-cup-2004/', 'Review: Soccer Dog: European Cup (2004)']);" >Review: Soccer Dog: European Cup (2004)</a></h2>
+                            
+                        </div></li> <li class="cb-article-3 clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/gigli-2003/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/gigli-2003/', '']);" ><img width="80" height="60" src="http://www.thatfilmguy.net/wp-content/uploads/2013/10/Gigli.jpg" class="attachment-cb-80-60 wp-post-image" alt="Gigli" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/gigli-2003/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/gigli-2003/', 'Review: Gigli (2003)']);" >Review: Gigli (2003)</a></h2>
+                            
+                        </div></li> <li class="cb-article-4 clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/piranhaconda-2012/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/piranhaconda-2012/', '']);" ><img width="80" height="56" src="http://www.thatfilmguy.net/wp-content/uploads/2013/09/Piranhaconda.jpg" class="attachment-cb-80-60 wp-post-image" alt="Piranhaconda" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/piranhaconda-2012/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/piranhaconda-2012/', 'Piranhaconda (2012) review by That Film Guy']);" >Piranhaconda (2012) review by That Film Guy</a></h2>
+                            
+                        </div></li> <li class="cb-article-5 clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/birdemic-2-2013/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/birdemic-2-2013/', '']);" ><img width="80" height="53" src="http://www.thatfilmguy.net/wp-content/uploads/2013/09/Birdemic-2-Poster.jpg" class="attachment-cb-80-60 wp-post-image" alt="Birdemic 2 Poster" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/birdemic-2-2013/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/birdemic-2-2013/', 'Birdemic 2: The Resurrection (2013) review by That Film Klown']);" >Birdemic 2: The Resurrection (2013) review by That Film Klown</a></h2>
+                            
+                        </div></li> <li class="cb-article-6 clearfix">
+                        <div class="cb-mask" style="background-color:#e2e2e2;"><a href="http://www.thatfilmguy.net/garbage-pail-kids-1987/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/garbage-pail-kids-1987/', '']);" ><img width="75" height="60" src="http://www.thatfilmguy.net/wp-content/uploads/2013/07/Garbage-Pail-Kids.jpg" class="attachment-cb-80-60 wp-post-image" alt="Garbage Pail Kids" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://www.thatfilmguy.net/garbage-pail-kids-1987/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/garbage-pail-kids-1987/', 'The Garbage Pail Kids Movie (1987) review by That Film Guy']);" >The Garbage Pail Kids Movie (1987) review by That Film Guy</a></h2>
+                            
+                        </div></li></ul>
+                                     </div>
+                                 </div></div></li>
+<li id="menu-item-28253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28253"><a href="http://www.thatfilmguy.net/about-us/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/about-us/', 'About Us']);" >About Us</a><div class="cb-links-menu"></li>
+<li id="menu-item-16887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16887"><a href="http://www.thatfilmguy.net/signup/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/signup/', 'Sign-Up']);" >Sign-Up</a><div class="cb-links-menu"></li>
+</ul></div></div>
+    	 				</nav>
+
+    	 				
+                            <!-- Secondary Menu -->
+                            <div id="cb-top-menu" class="clearfix cb-dark-menu">
+                                    <div class="wrap clearfix">
+
+                                        
+                                                    <a href="#" id="cb-small-menu-trigger"><i class="fa fa-bars"></i></a>
+
+                                        <div class="cb-breaking-news"><span>Latest News <i class="fa fa-long-arrow-right"></i></span><ul><li><a href="http://www.thatfilmguy.net/alpha-could-get-brad-pitt/" title="Look Alpha could get Brad Pitt" >Alpha could get Brad Pitt</a> </li> <li><a href="http://www.thatfilmguy.net/martin-freeman-to-join-tina-feys-taliban-shuffle/" title="Look Martin Freeman to join Tina Fey&#039;s Taliban Shuffle" >Martin Freeman to join Tina Fey's Taliban Shuffle</a> </li> <li><a href="http://www.thatfilmguy.net/djimon-hounsou-courted-for-king-arthur/" title="Look Djimon hounsou courted for King Arthur" >Djimon hounsou courted for King Arthur</a> </li> <li><a href="http://www.thatfilmguy.net/chris-pratt-signs-on-for-cowboy-ninja-viking/" title="Look Chris Pratt signs on for Cowboy Ninja Viking" >Chris Pratt signs on for Cowboy Ninja Viking</a> </li> <li><a href="http://www.thatfilmguy.net/casting-news-jessica-jones-luke-cage/" title="Look Casting news for Jessica Jones and Luke Cage" >Casting news for Jessica Jones and Luke Cage</a> </li> <li><a href="http://www.thatfilmguy.net/tom-cruise-eyed-for-highlander/" title="Look Tom Cruise eyed for Highlander" >Tom Cruise eyed for Highlander</a> </li> </ul></div>
+                                        <div id="cb-tap-detect"></div>
+
+                                    </div>
+                            </div>
+                            <!-- /Secondary Menu -->
+
+                        
+                        
+                            <!-- Small-Screen Menu -->
+
+                            <section id="cb-small-menu" class="clearfix cb-dark-menu cb-sm-on">
+
+                                <a href="#" id="cb-small-menu-close"><i class="fa fa-times"></i></a>
+
+                                <ul class="cb-small-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16889"><a href="http://www.thatfilmguy.net/category/news/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/news/', 'News']);" >News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34117"><a href="http://www.thatfilmguy.net/category/in-cinemas/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/in-cinemas/', 'In Cinemas']);" >In Cinemas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34063"><a href="http://www.thatfilmguy.net/category/film-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/film-reviews/', 'Reviews']);" >Reviews</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16886"><a href="http://www.thatfilmguy.net/uk-film-release-schedule/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/uk-film-release-schedule/', 'Coming Soon']);" >Coming Soon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34064"><a href="http://www.thatfilmguy.net/category/trailers/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/trailers/', 'Trailers']);" >Trailers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34116"><a href="http://www.thatfilmguy.net/category/articles/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/articles/', 'Articles']);" >Articles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34119"><a href="http://www.thatfilmguy.net/category/worst-films-ever/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/worst-films-ever/', 'Best Worst']);" >Best Worst</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28253"><a href="http://www.thatfilmguy.net/about-us/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/about-us/', 'About Us']);" >About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16887"><a href="http://www.thatfilmguy.net/signup/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/signup/', 'Sign-Up']);" >Sign-Up</a></li>
+</ul>
+                            </section>
+
+                            <!-- /Small-Screen Menu -->
+
+                        
+                        
+    	 				<a href="#" id="cb-to-top"><i class="fa fa-long-arrow-up"></i></a>
+
+                        
+                </header> <!-- end header -->	<div class="cb-404-header wrap">
+           <h1 id="cb-cat-title">Page not found</h1>
+    </div>
+    
+	<div id="cb-content" class="wrap clearfix">
+	    
+         <div id="main" class="cb-full-width clearfix" role="main">
+	
+			<article id="post-not-found" class="hentry clearfix">
+	      	              
+				<section class="entry-content">			
+					
+	                <h2>Oops! The page you were looking for was not found.</h2>
+                    <img src="http://www.thatfilmguy.net/wp-content/themes/valenti/library/images/cb-404.png" data-src-retina="http://www.thatfilmguy.net/wp-content/themes/valenti/library/images/cb-404@2x.png" class="cloud-404" alt="That Film Guy 404"/>
+		
+				</section> <!-- end article section -->
+	
+				<section class="search">
+	
+				    <p><form role="search" method="get" class="cb-search" action="http://www.thatfilmguy.net/">
+
+    <input type="text" class="cb-search-field" placeholder="" value="" name="s" title="">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+
+</form></p>
+	
+				</section> <!-- end search section -->
+					
+			</article> <!-- end article -->
+	
+		</div> <!-- end #main -->
+		
+	</div> <!-- end #cb-content -->
+    
+     			<footer id="cb-footer" class=" wrap" role="contentinfo">
+
+    				<div id="cb-widgets" class="cb-footer-a wrap clearfix">
+
+                                                    <div class="cb-one cb-column clearfix">
+                                <div id="tag_cloud-3" class="cb-footer-widget widget_tag_cloud"><h3 class="cb-footer-widget-title"><span>Tags</span></h3><div class="tagcloud"><a href='http://www.thatfilmguy.net/tag/action-films/' class='tag-link-1496' title='212 topics' style='font-size: 20.4819277108pt;'>Action Films</a>
+<a href='http://www.thatfilmguy.net/tag/adventure-films/' class='tag-link-1491' title='71 topics' style='font-size: 12.5542168675pt;'>Adventure Films</a>
+<a href='http://www.thatfilmguy.net/tag/animated-films/' class='tag-link-1498' title='83 topics' style='font-size: 13.5662650602pt;'>Animated Films</a>
+<a href='http://www.thatfilmguy.net/tag/biopic-films/' class='tag-link-1499' title='38 topics' style='font-size: 8pt;'>Biopic Films</a>
+<a href='http://www.thatfilmguy.net/tag/blockbuster-films/' class='tag-link-1552' title='39 topics' style='font-size: 8.1686746988pt;'>Blockbuster Films</a>
+<a href='http://www.thatfilmguy.net/tag/british-films/' class='tag-link-1513' title='83 topics' style='font-size: 13.5662650602pt;'>British Films</a>
+<a href='http://www.thatfilmguy.net/tag/comedy-films/' class='tag-link-1492' title='206 topics' style='font-size: 20.313253012pt;'>Comedy Films</a>
+<a href='http://www.thatfilmguy.net/tag/comic-book-films/' class='tag-link-1485' title='65 topics' style='font-size: 11.8795180723pt;'>Comic Book Films</a>
+<a href='http://www.thatfilmguy.net/tag/crime-films/' class='tag-link-1505' title='75 topics' style='font-size: 12.8915662651pt;'>Crime films</a>
+<a href='http://www.thatfilmguy.net/tag/documentary-films/' class='tag-link-1495' title='57 topics' style='font-size: 10.8674698795pt;'>Documentary Films</a>
+<a href='http://www.thatfilmguy.net/tag/drama-films/' class='tag-link-1493' title='264 topics' style='font-size: 22pt;'>Drama Films</a>
+<a href='http://www.thatfilmguy.net/tag/family-films/' class='tag-link-1497' title='117 topics' style='font-size: 16.0963855422pt;'>Family Films</a>
+<a href='http://www.thatfilmguy.net/tag/fantasy-films/' class='tag-link-1490' title='91 topics' style='font-size: 14.2409638554pt;'>Fantasy Films</a>
+<a href='http://www.thatfilmguy.net/tag/foreign-language-films/' class='tag-link-1520' title='67 topics' style='font-size: 12.0481927711pt;'>Foreign Language Films</a>
+<a href='http://www.thatfilmguy.net/tag/horror-films/' class='tag-link-1507' title='175 topics' style='font-size: 19.1325301205pt;'>Horror films</a>
+<a href='http://www.thatfilmguy.net/tag/romance-films/' class='tag-link-1509' title='40 topics' style='font-size: 8.33734939759pt;'>Romance films</a>
+<a href='http://www.thatfilmguy.net/tag/science-fiction-films/' class='tag-link-1488' title='125 topics' style='font-size: 16.6024096386pt;'>Science Fiction Films</a>
+<a href='http://www.thatfilmguy.net/tag/superhero-films/' class='tag-link-1486' title='48 topics' style='font-size: 9.68674698795pt;'>Superhero Films</a>
+<a href='http://www.thatfilmguy.net/tag/thriller-films/' class='tag-link-1489' title='148 topics' style='font-size: 17.7831325301pt;'>Thriller Films</a>
+<a href='http://www.thatfilmguy.net/tag/trailers/' class='tag-link-2535' title='92 topics' style='font-size: 14.4096385542pt;'>Trailers</a></div>
+</div><div id="adwidget_htmlwidget-5" class="cb-footer-widget AdWidget_HTMLWidget"><div style='text-align: center;'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Footer Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8152922217242875"
+     data-ad-slot="9880324349"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>                            </div>
+                                                                            <div class="cb-two cb-column clearfix">
+                                <div id="social-media-icons-2" class="cb-footer-widget cb-social-media-widget clearfix"><a href="http://www.thatfilmguy.net/feed/"  target="_blank" class="cb-social-media-icon cb-rss icon-1"></a><a href="https://twitter.com/ThatFilmGuyTCP"  target="_blank" class="cb-social-media-icon cb-twitter icon-2"></a><a href="https://www.facebook.com/thatfilm"  target="_blank" class="cb-social-media-icon cb-facebook icon-3"></a><a href="https://plus.google.com/u/0/109446253872653972464/about"  target="_blank" class="cb-social-media-icon cb-googleplus icon-4"></a></div>                            </div>
+                                                                            <div class="cb-three cb-column clearfix">
+                                <div id="cb-popular-posts-2" class="cb-footer-widget widget-popular-posts widget-latest-articles"><h3 class="cb-footer-widget-title"><span>Popular Posts</span></h3>
+    		<ul class="cb-light cb-small">
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#e2e2e2;">
+                	    <a href="http://www.thatfilmguy.net/insidious-chapter-2-2013/"><img width="80" height="60" src="http://www.thatfilmguy.net/wp-content/uploads/2013/09/Insidious-Chapter-2-Movie-HD-Wallpaper-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Insidious-Chapter-2-Movie-HD-Wallpaper" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://www.thatfilmguy.net/insidious-chapter-2-2013/">Review: Insidious Chapter 2 (2013)</a></h4>
+                                                                   </div>
+                </li>
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#e2e2e2;">
+                	    <a href="http://www.thatfilmguy.net/avatar/"><img width="80" height="45" src="http://www.thatfilmguy.net/wp-content/uploads/2011/07/avatar.jpg" class="attachment-cb-80-60 wp-post-image" alt="avatar" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://www.thatfilmguy.net/avatar/">Review: Avatar (2009)</a></h4>
+                                                                   </div>
+                </li>
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#e2e2e2;">
+                	    <a href="http://www.thatfilmguy.net/the-thing-1982/"><img width="80" height="45" src="http://www.thatfilmguy.net/wp-content/uploads/2011/10/the-thing.png" class="attachment-cb-80-60 wp-post-image" alt="the thing" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://www.thatfilmguy.net/the-thing-1982/">Review: The Thing (1982)</a></h4>
+                                                                   </div>
+                </li>
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#e2e2e2;">
+                	    <a href="http://www.thatfilmguy.net/the-artist-2011/"><img width="80" height="45" src="http://www.thatfilmguy.net/wp-content/uploads/2012/01/the-artist.jpeg" class="attachment-cb-80-60 wp-post-image" alt="the artist" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://www.thatfilmguy.net/the-artist-2011/">Review: The Artist (2011, France)</a></h4>
+                                                                   </div>
+                </li>
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#e2e2e2;">
+                	    <a href="http://www.thatfilmguy.net/resident-evil-2002/"><img width="80" height="45" src="http://www.thatfilmguy.net/wp-content/uploads/2012/04/resident-evil.jpg" class="attachment-cb-80-60 wp-post-image" alt="resident-evil" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://www.thatfilmguy.net/resident-evil-2002/">Review: Resident Evil (2002)</a></h4>
+                                                                   </div>
+                </li>
+    		    		</ul>
+    		</div>                                </div>
+                                                
+                    </div>
+
+                    
+                        <div class="cb-footer-lower clearfix">
+
+                            <div class="wrap clearfix">
+
+                                <div class="cb-copyright">That Film Guy (c) 2014</div>
+
+        						<div class="cb-footer-links clearfix"><ul id="menu-main-menu-2" class="nav cb-footer-nav clearfix"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16889"><a href="http://www.thatfilmguy.net/category/news/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/news/', 'News']);" >News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34117"><a href="http://www.thatfilmguy.net/category/in-cinemas/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/in-cinemas/', 'In Cinemas']);" >In Cinemas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34063"><a href="http://www.thatfilmguy.net/category/film-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/film-reviews/', 'Reviews']);" >Reviews</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16886"><a href="http://www.thatfilmguy.net/uk-film-release-schedule/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/uk-film-release-schedule/', 'Coming Soon']);" >Coming Soon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34064"><a href="http://www.thatfilmguy.net/category/trailers/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/trailers/', 'Trailers']);" >Trailers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34116"><a href="http://www.thatfilmguy.net/category/articles/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/articles/', 'Articles']);" >Articles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34119"><a href="http://www.thatfilmguy.net/category/worst-films-ever/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/category/worst-films-ever/', 'Best Worst']);" >Best Worst</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28253"><a href="http://www.thatfilmguy.net/about-us/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/about-us/', 'About Us']);" >About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16887"><a href="http://www.thatfilmguy.net/signup/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.thatfilmguy.net/signup/', 'Sign-Up']);" >Sign-Up</a></li>
+</ul></div>
+           					</div>
+
+        				</div>
+    				
+    			</footer> <!-- end footer -->
+
+    		</div> <!-- end #cb-container -->
+
+		</div> <!-- end #cb-outer-container -->
+
+			<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<div id="su-footer-links" style="text-align: center;"></div><script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.thatfilmguy.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/x-shortcodes.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/easing-1.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/flexslider-2.1.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/bootstrap/collapse-2.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/bootstrap/alert-2.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/bootstrap/tab-2.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/bootstrap/transition-2.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/bootstrap/tooltip-2.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/plugins/x-shortcodes/js/vendor/bootstrap/popover-2.3.0.min.js'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/themes/valenti/library/js/jquery.flexslider-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/themes/valenti/library/js/selectivizr-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/themes/valenti/library/js/jquery.ext.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.thatfilmguy.net/wp-content/themes/valenti/library/js/cb-scripts.js?ver=3.2'></script>
+<div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://www.thatfilmguy.net/cookie-policy">Find out more</a></div>
+	</body>
+
+</html> <!-- The End. what a ride! -->

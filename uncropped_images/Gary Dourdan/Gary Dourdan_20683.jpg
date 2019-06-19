@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+  <head>
+      <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 Not Found</title>
+  <meta property="og:title" content="404 Not Found" />
+  <meta name="description" content="Get the Weekly Scoop and All The Latest Celebrity Gossip at Hollyscoop. Entertainment News, Celebrity Photo Galleries and Videos.">
+  <meta property="og:description" content="Get the Weekly Scoop and All The Latest Celebrity Gossip at Hollyscoop. Entertainment News, Celebrity Photo Galleries and Videos." />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Hollyscoop" />
+  <link rel="alternate" type="application/rss+xml" title="Hollyscoop" href="/rss.xml" />
+  <meta property="og:image" content="/apple-touch-icon-precomposed.png" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+  <link rel="canonical" href="http://www.hollyscoop.com/sites/hollyscoop.com/files/styles/block_article_medium/public/story/21865623---gary.jpg" />
+  <link rel="stylesheet" href="/files/desktop/styles.css">
+  <script src="/files/desktop/scripts.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script>
+  <script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">
+    stLight.options({
+      publisher:'1fd5e232-9d00-4d06-b69e-91d14f822387',
+      doNotCopy:true,
+      embeds:'true'
+    });
+  </script>
+  <script type="text/javascript" src="http://cdnapi.kaltura.com/p/1459571/sp/145957100/embedIframeJs/uiconf_id/21042952/partner_id/1459571"></script>
+  <script type="text/javascript" src="http://cdnapi.kaltura.com/html5/html5lib/v2.2.1/kWidget/kWidget.getSources.js"></script>
+  <script type="text/javascript" src="http://cdnapi.kaltura.com/javascript/VAST/companionAdFunc.js"></script>
+  <script type="text/javascript" src="http://cache.eventoptimize.com/tags/pixels/hollyscoop.js"></script>
+  <script type="text/javascript">
+    // detect referrer
+    var shandy_referrer = '';
+    var original_referrer = shandy_referrer;
+    var parsed_referrer = document.referrer;
+    if (parsed_referrer.length == 0) {
+      var analyticsInfo = GADissect.cookieProperties();
+      parsed_referrer = analyticsInfo.source;
+    }
+    if (parsed_referrer.indexOf("paid.outbrain") > -1 || parsed_referrer.indexOf("seocipher") > -1 || parsed_referrer.indexOf("crowdignite") > -1 || parsed_referrer.indexOf("taboola") > -1) {
+      shandy_referrer = 'true';
+    }
+    if (original_referrer != shandy_referrer) {
+      var d = new Date();
+      d.setTime(d.getTime() + 60000);
+      document.cookie='shandy_referrer=' + shandy_referrer + '; expires=' + d.toGMTString() + '; path=/';
+      window.location.reload();
+    }
+
+    // detect browser
+    var shandy_theme = 'desktop';
+
+    // site variables
+    var shandy_environment = 'production';
+    var content_domain = 'hollyscoop';
+    var drupal_url = 'http://content.hollyscoop.com/';
+    var vslider_eid = '10395';
+    var google_cx = '002974078446217007475:atpviokf0w0';
+    var google_account = 'UA-766638-1';
+    window.google_analytics_uacct = google_account;
+
+    // content variables
+    var filter_homepage_duplicates = false;
+    var current_pager = 0;
+    var content_published_week = '201448';
+    var content_published_day = '20141124';
+    var content_type = 'list';
+    var content_title = '';
+    var content_author = '';
+    var entry_id = '';
+    var daisychain_id = '';
+    var vast_url = '';
+    var video_player = 'kaltura';
+
+    $.getScript('http://a.postrelease.com/serve/load.js?async=true');
+
+    // quantserve
+    var _qevents = _qevents || [];
+    $.getScript('http://edge.quantserve.com/quant.js', function() {
+      _qevents.push({
+        qacct: "p-31jY4Bmpm6W4c"
+      });
+    });
+
+    // comscore
+    var _comscore = _comscore || [];
+    _comscore.push({
+      c1: "2",
+      c2: "15061549",
+      c3: "",
+      c4: window.location.host + window.location.pathname,
+      c5: "",
+      c6: "",
+      c15: ""
+    });
+    $.getScript('http://b.scorecardresearch.com/beacon.js');
+
+    // gravity
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': 'a25c8a36d06f3278cd73f13d4bb375e4'
+    };
+    $.getScript('http://b.grvcdn.com/moth-min.js');
+
+    // google analytics
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", 'UA-766638-1']);
+    if (typeof content_type != 'undefined' && content_type != 'list') {
+      _gaq.push(['_setCustomVar', 3, "page-type", content_type, 3]);
+      _gaq.push(['_setCustomVar', 5, "content-title", content_title, 3]);
+      _gaq.push(['_setCustomVar', 4, "author", content_author, 3]);
+      _gaq.push(['_setCustomVar', 1, "publish-date", content_published_day, 3]);
+      _gaq.push(['_setCustomVar', 2, "publish-week", content_published_week, 3]);
+    }
+    _gaq.push(["_trackPageview"]);
+
+    // special events
+    if ($('.sugggested-gallery-item').length > 0) {
+      $('.sugggested-gallery-item a').click(function() {
+        _gaq.push(['_trackEvent', 'Suggested Galleries', 'Click', $(this).attr('title')]);
+      });
+    }
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = 'http://www.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+	<script src='http://www5.smartadserver.com/config.js?nwid=1164' type="text/javascript"></script>
+  <script type="text/javascript">
+      sas.setup({ domain: 'http://www5.smartadserver.com'});
+  </script>  </head>
+  <body class="not-found">
+      <div class="body-wrapper">
+          <header class="header" id="header" role="banner">
+  <div class="site-links">
+    <div class="container-long">
+      <ul class="menu inline">
+          <li class="menu-leaf first"><a href="http://www.hollyscoop.com" target="_blank" class="active">Hollyscoop</a></li>
+          <li class="menu-leaf"><a href="http://www.stereotude.com" rel="nofollow" target="_blank">Stereotude</a></li>
+          <li class="menu-leaf"><a href="http://www.modamob.com/" rel="nofollow" target="_blank">ModaMob</a></li>
+          <li class="menu-leaf"><a href="http://www.thesavory.com/" rel="nofollow" target="_blank">The Savory</a></li>
+          <li class="menu-leaf last"><a href="http://www.thefumble.com/" rel="nofollow" target="_blank">The Fumble</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="logo-search">
+    <div class="container-long container-inline-block column-3">
+      <div class="logo-container">
+        <a href="/" class="logo">
+          <img typeof="foaf:Image" src="/files/images/logo.png" alt="Hollyscoop" title="Hollyscoop" nopin="nopin">
+        </a>
+      </div>
+      <div class="search-container">
+        <h1><a href="/" class="logo-text">Hollyscoop</a></h1>
+        <div class="search-box">
+          <gcse:searchbox-only resultsUrl="/search.php" newWindow="false" queryParameterName="query"></gcse:searchbox-only>
+          <a href="/newsletter.php" class="iframe-popup" title="Sign up">Get the weekly Scoop</a>
+        </div>
+      </div>
+      <div class="follow-us-container">
+        <span class="follow-us-label">Follow</span>
+        <ul class="inline follow-us">
+            <li class="follow-us-link follow-us-facebook">
+                <a href="https://www.facebook.com/hollyscoop" target="_blank"><i class="fa fa-facebook-square"></i></a>
+            </li>
+            <li class="follow-us-link follow-us-twitter">
+                <a href="https://twitter.com/Hollyscoop" target="_blank"><i class="fa fa-twitter-square"></i></a>
+            </li>
+            <li class="follow-us-link follow-us-pinterest">
+                <a href="http://pinterest.com/hollyscoop/" target="_blank"><i class="fa fa-pinterest-square"></i></a>
+            </li>
+            <li class="follow-us-link follow-us-instagram">
+                <a href="http://instagram.com/hollyscoop" target="_blank"><i class="fa fa-instagram"></i></a>
+            </li>
+            <li class="follow-us-link follow-us-rss">
+                <a href="/rss.xml" target="_blank"><i class="fa fa-rss-square"></i></a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="site-menu">
+    <div class="container-long">
+      <nav>
+        <ul class="inline">
+          <li class="om-leaf first"><a href="/" class="">Home</a></li>
+          <li class="om-leaf"><a href="/news" class="">News</a></li>
+          <li class="om-leaf"><a href="/photos" class="">Photos</a></li>
+          <li class="om-leaf"><a href="/videos" class="">Videos</a></li>
+          <li class="om-leaf"><a href="/red-carpet-2013" class="">Red Carpet</a></li>
+          <li class="om-leaf last"><a href="/the-lowdown-diana-madison" class="">The Lowdown</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>          <main>
+            <div class="container">
+              <h1 itemprop="name">Page Not Found</h1>
+              <p>We're sorry, but the requested page could not be found.</p>
+              You can search this site here:
+              <gcse:searchbox-only resultsUrl="/search.php" newWindow="false" queryParameterName="query"></gcse:searchbox-only>
+            </div>
+          </main>
+        <footer id="footer" class="footer">
+  <div class="container-long">
+    <div class="search-menu container-inline-block column-3">
+      <div class="site-links-footer">
+        <ul class="menu inline">
+            <li class="menu-leaf first"><a href="http://www.hollyscoop.com" class="active" target="_blank">Hollyscoop</a></li>
+            <li class="menu-leaf"><a href="http://www.stereotude.com" rel="nofollow" target="_blank">Stereotude</a></li>
+            <li class="menu-leaf"><a href="http://www.modamob.com/" rel="nofollow" target="_blank">ModaMob</a></li>
+            <li class="menu-leaf"><a href="http://www.thesavory.com/" rel="nofollow" target="_blank">The Savory</a></li>
+            <li class="menu-leaf last"><a href="http://www.thefumble.com/" rel="nofollow" target="_blank">The Fumble</a></li>
+        </ul>
+      </div>
+      <div class="site-search">
+        <gcse:searchbox-only resultsUrl="/search.php" newWindow="false" queryParameterName="query"></gcse:searchbox-only>
+      </div>
+      <div class="site-scoop right last">
+        <a href="/newsletter.php" class="iframe-popup" title="Sign up">Get the weekly Scoop</a>
+      </div>
+    </div>
+    <div class="footer-menu container-inline-block column-3">
+      <div class="site-menu-footer">
+        <h2>HOLLYSCOOP</h2>
+        <ul class="menu">
+            <li class="menu-leaf first"><a href="/">Home</a></li>
+            <li class="menu-leaf"><a href="/videos" target="_blank">Videos</a></li>
+            <li class="menu-leaf"><a href="/scandals">Scandals</a></li>
+            <li class="menu-leaf"><a href="/contact.php">Tips</a></li>
+            <li class="menu-leaf"><a href="/celebrities">Celebs</a></li>
+            <li class="menu-leaf last"><a href="/famous-celebrity-birthdays">Celebrity Birthdays</a></li>
+        </ul>
+      </div>
+      <div class="popular-links-footer">
+        <h2>POPULAR</h2>
+        <ul class="menu inline">
+            <li class="menu-leaf first"><a href="/kim-kardashian">Kim Kardashian</a></li>
+            <li class="menu-leaf"><a href="/jennifer-aniston">Jennifer Aniston</a></li>
+            <li class="menu-leaf"><a href="/rihanna">Rihanna</a></li>
+            <li class="menu-leaf"><a href="/lindsay-lohan">Lindsay Lohan</a></li>
+            <li class="menu-leaf"><a href="/taylor-lautner">Taylor Lautner</a></li>
+            <li class="menu-leaf"><a href="/david-beckham">David Beckham</a></li>
+            <li class="menu-leaf"><a href="/robert-pattinson">Robert Pattinson</a></li>
+            <li class="menu-leaf"><a href="/brad-pitt">Brad Pitt</a></li>
+            <li class="menu-leaf"><a href="/angelina-jolie">Angelina Jolie</a></li>
+            <li class="menu-leaf"><a href="/george-clooney">George Clooney</a></li>
+            <li class="menu-leaf"><a href="/jennifer-lopez">Jennifer Lopez</a></li>
+            <li class="menu-leaf last"><a href="/miley-cyrus">Miley Cyrus</a></li>
+        </ul>
+      </div>
+      <div class="shandy-links-footer">
+        <h2>SHANDY MEDIA</h2>
+        <ul class="menu">
+            <li class="menu-leaf first"><a href="/about">About Hollyscoop</a></li>
+            <li class="menu-leaf"><a href="/contact.php">Contact / Tips</a></li>
+            <li class="menu-leaf"><a href="/staff">Staff</a></li>
+            <li class="menu-leaf"><a href="http://feeds.feedburner.com/hollyscoop/news" target="_blank">RSS</a></li>
+            <li class="menu-leaf"><a href="/terms-of-service">Terms of Services / Disclaimer</a></li>
+            <li class="menu-leaf"><a href="/privacy-policy">Privacy Policy</a></li>
+            <li class="menu-leaf last"><a href="/copyright">Copyright</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="copyright">2006-2014 Shandy Media, Inc. All Rights Reserved. Reproduction in whole or in part without permission is prohibited.<br />
+    </p>
+  </div>
+</footer>              </div>
+  </body>
+</html>

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+	
+  <meta charset="utf-8">
+
+  <title>Fanpop - 404 Error!</title>
+  <meta name="description" content="Fanpop - 404 Error Page">
+  <meta name="author" content="Fanpop">
+
+<style>
+		.container {
+			margin-top: 30px;
+			font-family: Lato;
+			font-size: 24px;
+			text-align: center;
+		}
+		
+		.bigtext {
+			font-size: 42px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		
+		.smalltext {
+			font-size: 20px;
+			margin-bottom: 40px;	
+		}
+		
+		.tinytext {
+			margin-top: 20px;
+			font-size: 18px;
+			margin-bottom: 20px;
+		}
+		
+		input#search {
+			width: 200px;
+			height: 36px;
+			font-size: 18px;
+			vertical-align: bottom;
+			padding-left: 5px;
+		}
+		
+		input#button {
+		cursor:pointer;
+		padding:5px 20px; 
+		background:#35b128; 
+		border: 1px solid #33842a; 
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+		border-radius: 10px;
+		/*style the text*/
+		color: #ffffff;
+		font-size: 24px;
+		vertical-align: bottom;
+		}
+		
+		input#button:hover, input#gobutton:focus{
+		background-color :#399630; 
+		}
+		
+		#goog-wm-sb {
+			cursor:pointer;
+			padding:5px 20px; 
+			background:#35b128; 
+			border: 1px solid #33842a; 
+			-moz-border-radius: 10px;
+			-webkit-border-radius: 10px;
+			border-radius: 10px;
+			/*style the text*/
+			color: #ffffff;
+			font-size: 24px;
+			vertical-align: bottom;			
+		}
+		
+		#goog-wm-sb:hover {
+			background-color :#399630; 
+		}
+		
+		#goog-wm-qt {
+			width: 200px;
+			height: 36px;
+			font-size: 18px;
+			vertical-align: bottom;
+			padding-left: 5px;
+		}
+		
+		.other-things {
+			display: none;
+		}
+</style>
+
+</head>
+<body>
+	<div class="container">
+		<div class="bigtext">404.  Uh oh.</div>
+		Looks like this page is a little shy<br /> 
+		from all the recent fan attention!<br />
+	
+		<img src="http://www.fanpop.com/images/2011/shy_page.jpg" width="380" height="275">
+	
+		<br /><br />
+		<div class="smalltext">
+			Don't worry. I'm sure you can find<br />a better one by searching our site.<br />
+		</div>
+	
+	<form action="http://www.fanpop.com/search?query=" method="GET">
+		<input id="search" type="text" name="query">
+		<input id="button" type="submit" value="Search" />
+	</form>
+	
+	<div class="tinytext">
+<!--		<script type="text/javascript">
+		  var GOOG_FIXURL_LANG = 'en';
+		  var GOOG_FIXURL_SITE = 'http://www.fanpop.com'
+		</script>
+		<script type="text/javascript"
+		  src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+		</script>-->
+		or check out the <a href="http://www.fanpop.com">Fanpop Homepage!</a>
+	</div>
+	
+	</div>
+	
+</body>
+</html>

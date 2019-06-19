@@ -1,0 +1,142 @@
+=================================================
+Introduction
+=================================================
+
+This is the documentation for the linux MegaFace Challenge 1 Development Kit.
+
+Table of Contents:
+  1. Overview of included files
+    1.1 Code
+    1.2 Baseline models and template lists
+    1.3 Usage 
+    1.4 Required Installation
+  2. Datasets
+    2.1 MegaFace
+    2.2 FaceScrub
+  3. Running Experiments
+    3.1 Getting Started
+    3.2 Run baseline 
+    3.3 Run with your features
+    3.4 Process Overview
+  4. Reporting results
+
+Please contact us at contact.megaface@gmail.com for questions, comments,
+or bug reports.
+
+=================================================
+1. Overview of included files
+=================================================
+
+1.1 Code:
+    /experiments/run_experiment.py - Runs Identification experiment with different size distractor sets
+    /experiments/create_LBP_feature_list.py - Creates a feature list file for the given feature list template - Used when our feature files were downloaded to use
+    
+1.2 Baseline models and template lists (only needed for baseline code test): 
+    /models/jb_identity.bin - Identity Joint Bayes scoring model. Uses negative squared Euclidean distance.
+    /templatelists/MegaFace_Features - MegaFace feature list template file for use with create_LBP_feature_list.py 
+    /templatelists/FaceScrubSubset_Features - FaceScrub feature list template file for use with create_LBP_feature_list.py 
+
+1.3 Usage
+    run_experiment.py - <distractor_feature_list> <probe_feature_list> <out_root> <keys> optional: -s <sizes> -m <model>
+        distractor_feature_list - JSON distractor feature list file
+        probe_feature_list - JSON probe feature list file
+        out_root - File output directory, outputs score matrix files, feature lists, and results files
+        keys - Feature key(s) to run experiment on
+        -s {size,...}, --sizes {size,...} - (optional) Size(s) of feature list(s) to create. Default: 10 100 1000 10000 100000 1000000
+        -m {model filename}, --model {model filename} - (optional) Scoring model to use. Default: ../models/jb_identity.bin
+        -e, --existing - (optional) Use existing files. Any feature files or score matrices matching naming convention will be used rather than creating new.
+
+        Files Output:
+            Feature List Files - {distractors name}_features_{size}
+            Probe-Distractor Score Matrix Files - {probes name}_{distractors name}_{feature key}_{size}.bin
+            Probe-Probe Score Matrix Files - {probes name}_{probes name}_{feature key}.bin
+            Results files - results/cmc_{probes name}_{distractors name}_{feature key}_{size}.json
+                      - results/matches_{probes name}_{distractors name}_{feature key}_{size}.json
+
+    create_LBP_feature_list.py - <feature_path> <template_file> <out_file>
+        feature_path - root directory of feature files
+        template_file - template list to read from - located in /templatelists/
+        out_file - new feature list to create
+
+    download_facescrub.py - <out_root> optional: -lp <list_path> -t <timeout> -dp <data_path>
+        out_root - File output directory, creates folders for cropped and original images
+        -lp {list_path}, --list_path {list_path} - (optional) Path to file containing list of facescrub images. Default: ../scripts/config/facescrubsubsetlist.txt
+        -t {timeout}, --timeout {timeout} - (optional) Time, in seconds, to wait for server hosting image to send a response. Default: 60
+        -dp {data_path}, --data_path {data_path} - (optional) Path to directory containing json files to accompany facescrub images. Default: ../scripts/config/FaceScrubOnlyJSON/
+
+1.4 Required Installation:
+    * Anaconda - Python distribution that includes the most popular Python packages for science, math, engineering, data analysis
+        (http://continuum.io/downloads)
+        or just install needed packages
+        - concurrent.futures - pip install futures
+        - numpy - pip install numpy
+        - requests - pip install requests
+    * OpenCV - Open source computer vision and machine learning software library 
+        (http://opencv.org/)
+        - opencv python library is only needed
+  
+=================================================
+2. Datasets
+=================================================
+
+2.1 MegaFace 
+    Dataset - Gallery dataset comprised of photos from Flickr users
+        Download link is available on our website (http://megaface.cs.washington.edu/dataset/download.html)
+    Stats
+        View visualization of stats on our website (http://megaface.cs.washington.edu/dataset/visualization.html)
+
+2.2 FaceScrub
+    Dataset - Probe dataset comprised of celebrities
+        Run download_facescrub.py to obtain facescrub dataset. Files to use are placed in cropped folder and original downloaded
+        files are located in original folder. 
+
+=================================================
+3. Running Experiments
+=================================================
+
+3.1 Getting Started
+    prereq: python 2.7, opencv, anaconda
+
+    Downloading FaceScrub dataset
+    > python download_facescrub.py ../../MegaFace/FaceScrub/
+
+    Feature Files Format:
+    Feature files are expected to be formatted as OpenCV mat files with a feature per row
+
+3.2 Run baseline: 
+    Download MegaFace feature files (as .zip or .tar.gz), e.g., 
+        http://megaface.cs.washington.edu/dataset/download/content/MegaFace_Features.zip     
+    Download FaceScrub feature files: 
+        http://megaface.cs.washington.edu/dataset/download/content/FaceScrubSubset_Features.zip
+    Run:
+    > python create_LBP_feature_list.py ../../MegaFace/MegaFace_LBPFeatures ../templatelists/MegaFace_LBPFeatures ../../MegaFace/MegaFace_LBPFeatures_list
+    > python create_LBP_feature_list.py ../../MegaFace/FaceScrub_LBPFeatures ../templatelists/FaceScrubSubset_LBPFeatures ../../MegaFace/FaceScrub_LBPFeatures_list
+    > python run_experiment.py          ../../MegaFace/MegaFace_LBPFeatures_list ../../MegaFace/FaceScrub_LBPFeatures_list ../../MegaFace/Experiment/ LBP_100x100
+
+3.3 Run with your features: 
+    > python run_experiment.py ../../MegaFace/MegaFace_{algorithm name}Features ../../MegaFace/FaceScrub_{algorithm name}Features ../../MegaFace/Experiment/ {feature key,...}
+    
+    For fixed number of distractors (for debugging) use -s option:
+    > python run_experiment.py ../../MegaFace/MegaFace_{algorithm name}Features ../../MegaFace/FaceScrub_{algorithm name}Features ../../MegaFace/Experiment/ {feature key,...} -s 100
+
+3.4 Process Overview
+    1. Align faces and create feature list and feature files for dataset - look at feature list files in /templatelists/ for layout
+    2. Run run_experiment.py with default sizes and all feature keys you wish to perform experiment on
+           Outputs used feature list files: {distractors name}_features_{size}
+           Outputs score matrix files: {probe feature list name}_{distractor feature list name}_{feature key}_{size}.bin
+           Outputs results files: cmc_{probe set name}_{distractor set name}_{feature key}_{distractor set size}.json
+                                  matches_{probe set name}_{distractor set name}_{feature key}_{distractor set size}.json
+    3. Upload outputted results files for each distractor size as specified below
+           * Please also input links to FaceScrub and MegaFace features
+            
+=================================================
+4. Reporting results
+=================================================
+
+Please use the google drive folder you received with access information. This was created for you to upload your results into.
+  Filename Formatting:
+       CMC/ROC - cmc_{probe set name}_{distractor set name}_{feature key}_{distractor set size}.json
+       Matches - matches_{probe set name}_{distractor set name}_{feature key}_{distractor set size}.json
+                
+Input contact information and other information about your group into the ContactInfo spreadsheet located in 
+the google drive folder created for you.

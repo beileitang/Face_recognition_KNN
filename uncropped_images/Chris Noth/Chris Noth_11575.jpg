@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8"        lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9"               lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head><meta charset="utf-8"><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><meta content="width=device-width, initial-scale=1.0" name="viewport"><title>404-content.xml – Metro</title><link href="/(3.37)/templates/v3/css/main.css?v2device=v3" rel="stylesheet"><link href="/(3.37)/templates/v3/css/galleria.azur.css" rel="stylesheet">
+	<link href="/custom-css.css" media="all" rel="stylesheet" type="text/css">
+      <link href="/rss.xml" rel="alternate" title="Metro - Latest News" type="application/rss+xml"><meta content="index,follow,noodp,noydir" name="robots"><meta content="539833318" property="fb:admins"><script src="/templates/v3/javascript/vendor/jquery-1.8.2.min.js"></script><script src="/templates/v3/javascript/vendor/galleria.js"></script><script src="/(3.37)/templates/v3/javascript/main.js"></script><script src="/templates/v3/javascript/vendor/respond.min.js"></script><script src="/(3.37)/templates/v3/javascript/vendor/modernizer.js"></script><script>
+      Modernizr.addTest("lineclamp", function () {
+        var  div = document.createElement("div");
+        return typeof div.style.webkitLineClamp === "string";
+      });
+    </script><script>
+	  var wib_page_type = "section";
+	</script><script type="text/javascript">
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  (function() {
+	    var gads = document.createElement('script');
+	    gads.async = true;
+	    gads.type = 'text/javascript';
+	    var useSSL = 'https:' == document.location.protocol;
+	    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+	    var node = document.getElementsByTagName('script')[0];
+	    node.parentNode.insertBefore(gads, node);
+	  })();
+	</script></head><body class="section"><script type="text/javascript">
+            dataLayer = [{'gaUrl': '/404/?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer + '',
+'gaPagetitle': '404-content.xml',
+'gaSection': '',
+'gaLayout': 'v3',
+'gaMarket': 'us',
+'gaType': 'frontpage'}];
+          </script><!-- Google Tag Manager --><noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-T2RHHP&gaUrl=/404/?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer + '&gaPagetitle=404-content.xml&gaSection=&gaLayout=v3&gaMarket=us&gaType=frontpage" style="display:none;visibility:hidden" width="0"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T2RHHP');</script><!-- End Google Tag Manager --><div id="body-wrapper"><div id="hidden_div" style="display:none;"><span></span></div><div id="wrapper"><script type="text/javascript">
+	  var WrapperWidth = document.getElementById('wrapper');
+	  var kw1 = '';
+					if(WrapperWidth)
+					{
+					  var winW = WrapperWidth.clientWidth;
+
+					  if(winW >= 930)
+						kw1 = 930
+					  else if((winW < 930) && (winW >= 728))
+						kw1= 728;
+					  else if((winW < 728) && (winW >= 468))
+						kw1 = 468;
+					  else if(winW < 468)
+						kw1 = 320;
+					}
+
+	  </script><div  class="ad" id="ad14"><div class="ad-msg"><span class="ad-msg">ADVERTISEMENT</span></div><div class="ad-rectangle" id="ad14_rectangle"><div id="ad14_expander"><div style="display:inline;"><span></span></div></div></div></div><div  class="ad banner" id="ad0"><div class="ad-msg"><span class="ad-msg">ADVERTISEMENT</span></div><div class="ad-rectangle" id="ad0_rectangle"><div id="ad0_expander"> 
+	    <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+googletag.defineSlot('/37505490/ROS_Homepage_728x90_Top', [728, 90], 'div-gpt-ad-1412366190314-4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+googletag.pubads().collapseEmptyDivs(); 
+});
+</script>
+
+<!-- ROS_Homepage_728x90_Top -->
+<div id='div-gpt-ad-1412366190314-4' style='valign="center"'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1412366190314-4'); });
+</script>
+</div>
+<br/>
+
+	  </div></div></div><div id="menu-button-wrapper"><div id="menu-button">Menu<div>·—<br>·—<br>·—</div></div></div><div id="nav-wrapper"><nav><div id="nav-search"><form action="/search/" id="header-search-form" method="post" name="header-search-form"><input class="search-field-nav" id="header-search-query" name="q" placeholder="Search" type="text" value=""><a href="#" onclick="document.getElementById(&#39;header-search-form&#39;).submit();"><div class="search-hyperlink"> </div></a></form></div><div id="close-button-wrapper"><div id="close-button">X</div></div><div id="menu-navigation"><table cellpadding="0" cellspacing="0"><tr class="content-row"></tr></table><div class="clear"><span></span></div></div></nav></div><div class="clearfix" id="header-links"><ul class="left"><li><a href="/new-york/" target="_self">New York</a></li><li><a href="/boston/" target="_self">Boston</a></li><li><a href="/philadelphia/" target="_self">Philadelphia</a></li><li><a href="http://clubmetro.metro.us?redirectUrl=home.action&#38;useDefaultCategory=true&#38;showSplashPopup=true" target="_blank">Club Metro</a></li><li><a href="http://www.ziptrials.us/" target="_blank">ZipTrials</a></li><li><a href="/newsletters/" target="_blank">Newsletters</a></li><li><a href="http://www.metro.us/newyork/advertise/" target="_blank">Advertise</a></li></ul></div><Header class="clearfix"><div class="logotype"><a href="/"><span class="hidden">Metro</span></a></div><div id="promos"><div class="promo-1" data-delay="2" id="columnist-1" style="display: none;"><div class="columnist"><div class="image" id="columnist-image-1"><a href="/monica-dinatale/" target="_self"><img alt="" src="/byline-photos/monica-dinatale.png"></a><span></span></div><div class="text" id="columnist-text-1"><div class="cell"><div class="inner"><a href="/monica-dinatale/" target="_self"><span class="title">Drink. Eat. $ave. NYC.<br></span><span class="body">Follow the blog by MONICA DINATALE</span></a></div></div></div></div></div><div class="promo-1" id="columnist-2" style="display: none;"><div class="columnist"><div class="image" id="columnist-image-2"><a href="/jeremiah-moss/" target="_self"><img alt="" src="/byline-photos/jeremiah-moss_2-0.png"></a><span></span></div><div class="text" id="columnist-text-2"><div class="cell"><div class="inner"><a href="/jeremiah-moss/" target="_self"><span class="title">Vanishing New York<br></span><span class="body">Follow the blog by JEREMIAH MOSS</span></a></div></div></div></div></div><div class="promo-1" id="columnist-3" style="display: none;"><div class="columnist"><div class="image" id="columnist-image-3"><a href="/charles-j-orlando/" target="_self"><img alt="" src="/byline-photos/c-orlando2.png"></a><span></span></div><div class="text" id="columnist-text-3"><div class="cell"><div class="inner"><a href="/charles-j-orlando/" target="_self"><span class="title">Real world love advice<br></span><span class="body">Follow the blog by CHARLES J ORLANDO</span></a></div></div></div></div></div><div class="promo-1" id="columnist-4" style="display: none;"><div class="columnist"><div class="image" id="columnist-image-4"><a href="/timothy-sykes/" target="_self"><img alt="" src="/byline-photos/Tim_Sykes2.png"></a><span></span></div><div class="text" id="columnist-text-4"><div class="cell"><div class="inner"><a href="/timothy-sykes/" target="_self"><span class="title">Your keys to financial success <br></span><span class="body">Follow the blog by self-made millionaire TIMOTHY SYKES</span></a></div></div></div></div></div><div class="promo-1" id="columnist-5" style="display: none;"><div class="columnist"><div class="image" id="columnist-image-5"><a href="/tom-o-keefe/" target="_self"><img alt="" src="/byline-photos/tom-o-keefe-boston2.png"></a><span></span></div><div class="text" id="columnist-text-5"><div class="cell"><div class="inner"><a href="/tom-o-keefe/" target="_self"><span class="title">Increasing awareness about Boston startups<br></span><span class="body">Follow #DownloadBoston blog by TOM O'KEEFE</span></a></div></div></div></div></div><div class="html-component"><div style="text-align:center;width:100%; margin-left: 150px;">
+<a href="/apps/">
+<img src="/get-metro-app.gif" border="0" style="width: 180px;margin-top: 0px; margin-left: 370px;"/>
+</a>
+</div>
+
+<style type="text/css">
+
+@media all and (max-width: 979px)  {
+  #promos .html-component {
+    display: none;
+  }
+}
+
+</style><span></span></div><span></span></div><div id="social-links"><span class="text">Follow us</span><a href="/follow-metro/" target="_blank"><span class="ir" id="header-facebook">Facebook</span></a><a href="/follow-metro/" target="_blank"><span class="ir" id="header-twitter">Twitter</span></a><a href="http://instagram.com/metronewyork/" target="_blank"><span class="ir" id="instagram-plus">Instagram</span></a></div></Header><div class="clearfix" id="subwrapper"><div class="clearfix" id="wrapper-404"><div id="title-404"><span></span></div><div id="subtitle-404"><span></span></div><div id="content-404">
+
+<div  class="article-body" itemprop=""><p><div><b>The page you requested is no longer here.</b></div>
+<div> </div>
+<div>You can search for the article using the search or you will likely find what you're looking for at the homepage for <a href="http://www.metro.us" target="_self">Metro.us</a>.</div></p></div>
+
+<span></span></div><div class="clearfix" id="search-404"><div class="search-title-404" id="search-title-404">You can use the search to find what you are looking for:</div><div class="clear"><span></span></div><form action="/search/" id="search-form-404" method="post" name="search-form-404"><input class="search-field-404" id="search-query-404" name="q" placeholder="Search" type="text"><input alt="Ok" class="search-button-404" src="/(3.37)/templates/v3/img/icons/search-icon.jpg" title="Ok" type="image"></form><div class="clear"><span></span></div></div><div class="clear"><span></span></div></div></div><footer class="clearfix"><div id="footer-extra"><table cellpadding="0" cellspacing="0"><tr class="header-row"><td colspan="1" width="15%">METRO.US:</td><td class="col-divider" width="5%"> </td><td colspan="1" width="15%">READ THE PRINT EDITION ONLINE:</td><td class="col-divider" width="5%"> </td><td colspan="1" width="15%">CONNECT:</td><td class="col-divider" width="5%"> </td><td colspan="1" width="15%">INFO:</td><td class="col-divider" width="5%"> </td></tr><tr class="content-row"><td colspan="1" height="100%"><table cellpadding="0" cellspacing="0" height="100%"><tr><td valign="top" width="100%"><ul>
+    <li><a href="/about-us/" target="_self">About Us</a></li>
+    <li><a href="/advertise/" target="_self">Advertise</a></li>
+    <li><a href="/contact-us/" target="_self">Contact Us</a></li>
+    <li><a href="/jobs/" target="_self">Jobs</a></li>
+    <li><a href="http://clubmetro.metro.us/deal/new-york?redirectUrl=home.action&#38;showSplashPopup=true" target="_blank">Club Metro</a></li>
+</ul></td></tr></table></td><td class="col-divider"><div> </div></td><td colspan="1" height="100%"><table cellpadding="0" cellspacing="0" height="100%"><tr><td valign="top" width="100%"><ul>
+    <li><a href="http://newyork.metro.us/" target="_self">New York</a></li>
+    <li><a href="http://boston.metro.us/" target="_self">Boston</a></li>
+    <li><a href="http://philadelphia.metro.us/" target="_self">Philadelphia</a></li>
+    <li><a href="http://specialpublications.metro.us/" target="_blank">Special Publications</a></li>
+</ul></td></tr></table></td><td class="col-divider"><div> </div></td><td colspan="1" height="100%"><table cellpadding="0" cellspacing="0" height="100%"><tr><td valign="top" width="100%"><ul>
+    <li>Download <a href="/apps" target="_self">Apps</a></li>
+    <li>Facebook: <a href="https://www.facebook.com/MetroBoston" target="_blank">BOS</a> <a href="https://www.facebook.com/MetroNewYork" target="_blank">NYC</a> <a href="https://www.facebook.com/MetroPhilly" target="_blank">PHL</a></li>
+    <li>Twitter: <a href="http://twitter.com/metroBOS" target="_blank">BOS</a> <a href="https://twitter.com/metronewyork" target="_blank">NYC</a> <a href="https://twitter.com/metrophilly" target="_blank">PHL</a></li>
+    <li>Instagram: <a href="http://instagram.com/metroboston" target="_blank">BOS</a> <a href="http://instagram.com/metronewyorkork" target="_blank">NYC</a> <a href="http://instagram.com/metrophilly" target="_blank">PHL</a></li>
+    <li><a href="http://www.stumbleupon.com/stumbler/MetroUS/" target="_self">stumbleupon</a></li>
+    <li><a href="http://www.metro.us/rss/" target="_self">RSS</a></li>
+</ul></td></tr></table></td><td class="col-divider"><div> </div></td><td colspan="1" height="100%"><table cellpadding="0" cellspacing="0" height="100%"><tr><td valign="top" width="100%"><ul>
+    <li><a href="/terms-and-conditions/" target="_self">Terms and Conditions</a></li>
+    <li><a href="/commenting-guidelines/" target="_self">Commenting Guideline</a>s</li>
+    <li><a href="http://www.metro.us/sitemap.xml" target="_self">Site Map</a></li>
+</ul></td></tr></table></td><td class="col-divider"><div> </div></td></tr></table><div class="clear"><span></span></div></div><div id="footer"><div class="texts-0">
+
+<div class="html-component">© Copyright 2014 Metro International - All rights reserved<span></span></div>
+
+<div class="html-component"><script type="text/javascript" language="javascript">
+
+<!-- New code to send Click Events to GA/GTM--->
+
+$(document).ready(function() {
+    $('#header-links a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'HeaderLink', 'gtmAction': 'Header Link Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    $('#social-links a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'SocialLink', 'gtmAction': 'Social Link Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    $('#footer-extra a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'FooterNavLink', 'gtmAction': 'Footer NavLink Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    $('#footer a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'FooterLink', 'gtmAction': 'Footer Link Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    $('#promos a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'PromoLink', 'gtmAction': 'Promo Link Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    $('#custom-main-menu a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'MainNavLink', 'gtmAction': 'Main NavLink Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    $('#topicmfp a').click(function() {
+dataLayer.push({'event': 'trackEvent', 'gtmCategory': 'TopicsLink', 'gtmAction': 'TopicsLink Click', 'gtmLabel': $(this).attr('href')});
+    }); 
+    
+});
+</script>
+<span></span></div>
+
+<div class="html-component"><!-- make facebook comment box to fit --->
+<script>
+
+$( document ).ready(function() {
+// ON PAGE LOAD
+setTimeout(function(){
+  resizeFacebookComments();
+}, 1000);
+
+// ON PAGE RESIZE
+$(window).on('resize', function(){
+  resizeFacebookComments();
+});
+
+function resizeFacebookComments(){
+  var src = $('.fb-comments iframe').attr('src').split('width='),
+      width = $('#comments').width();
+
+  $('.fb-comments iframe').attr('src', src[0] + 'width=' + width);
+}
+
+});
+
+</script> <span></span></div>
+
+<div class="html-component"><a href="http://www.metro.us/native-advertising/">
+<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script></a>
+<span></span></div>
+
+<div class="clear"><span></span></div></div><span></span></div></footer></div><script language="javascript" type="text/javascript">
+      // Notify listeners
+      // JQuery
+      $(document).ready(function() {
+          wib_page_load_event.notify();
+      });
+    </script><!--Crazy Egg--><script type="text/javascript">
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName("script")[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0274.js?"+Math.floor(new Date().getTime()/3600000);
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      </script><!-- Yahoo Analytics --><script language="javascript" type="text/javascript">
+	      
+		       window.ysm_customData = new Object();
+		       window.ysm_customData.conversion = "transId=,currency=,amount=";
+		       var ysm_accountid  = "15MULMO20HEEV6P0RIPDP5451Q8";
+		       document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
+		       + "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
+		       + "></SCR" + "IPT>");		 
+	      
+	    </script><div style="display:none;" class="ad" id="ad19"><div class="ad-msg"><span class="ad-msg">ADVERTISEMENT</span></div><div class="ad-rectangle" id="ad19_rectangle"><div id="ad19_expander"><div style="display:inline;"><span></span></div></div></div></div><div style="display:none;" class="ad" id="ad20"><div class="ad-msg"><span class="ad-msg">ADVERTISEMENT</span></div><div class="ad-rectangle" id="ad20_rectangle"><div id="ad20_expander"><div style="display:inline;"><span></span></div></div></div></div><div style="display:inline;"><span></span></div><script>
+        $(document).ready(function () {
+			$(".fb-comment-wrapper").each(function(index,ele){
+				var comment_text = 'Comment';
+				var comments_text = 'Comments';
+				var site_domain = 'http://www.metro.us';
+				var article_cms_path = $(ele).data('cmspath');
+        var article_href = $(ele).data('href');
+				var gurl= site_domain + escape(article_cms_path);
+				var count = 0;
+				var selfele = $(this);
+				
+				/*Do not call ajax for empty path*/
+				if(article_cms_path !='')
+				{
+					/* show facebox comments count by ajax */
+					$.ajax({
+						url: 'https://graph.facebook.com/' + gurl,
+						dataType: 'jsonp',
+						success: function(data) {
+						    count = parseInt(data.comments);
+						    if(count>0)
+						    {
+							    if(count>1)
+								comment_text = comments_text;
+                var anchor = $('<a></a>').attr('href', article_href);
+                anchor.html('<i class="icon-commentBox"></i><strong>' + count + '</strong> ' + comment_text);
+                selfele.html(anchor).css('display', 'block');
+						    }
+					   }
+					});
+				}
+			});
+          });
+      </script>
+    
+    <script type="text/javascript">
+    $(function(){
+      $(".ad").each(function(e,item) {
+        var adcontent = $(item);
+        var child = $(adcontent.children(".ad-msg")[0]);
+        if(child.is(":visible")) {
+          if(adcontent.height() < 36)
+          {
+            adcontent.hide();
+          }
+        }
+      });
+    });
+    </script>
+    
+    </div></body></html>

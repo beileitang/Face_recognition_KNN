@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>eBay</title>
+<script language=JavaScript>
+<!--
+var pageName = "Page Not Responding";
+//-->
+</script>
+<script type="text/javascript" language="JavaScript1.1">includeHost = 'http://include.ebaystatic.com/';</script>
+<script src="http://include.ebaystatic.com/js/v/us/ebaybase.js"></script>
+<script src="http://include.ebaystatic.com/js/v/us/ebaysup.js"></script>
+</head>
+<body bgcolor="#FFFFFF">
+
+<script>
+<!--
+var site = document.referrer.toLowerCase();
+if (site){
+	if (site.indexOf('.au') > 0){
+		location.replace('http://pages.ebay.com.au/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.ca') > 0){
+
+		location.replace('http://pages.ebay.ca/messages/page_not_responding.html');
+
+	}
+	else if (site.indexOf('.de') > 0 && site.indexOf('.dev') < 0){
+		location.replace('http://pages.ebay.de/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.at') > 0){
+		location.replace('http://pages.ebay.de/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.ch') > 0){
+		location.replace('http://pages.ebay.de/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.chde') > 0){
+		location.replace('http://pages.ebay.de/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.jp') > 0){
+		location.replace('http://pages.ebay.com/messages/page_not_responding.html');
+	
+	}
+	else if (site.indexOf('.uk') > 0){
+		location.replace('http://pages.ebay.co.uk/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.ie') > 0){
+		location.replace('http://pages.ebay.com/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.nz') > 0){
+		location.replace('http://pages.ebay.com.au/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.nl') > 0){
+		location.replace('http://pages.ebay.nl/messages/page_not_responding.html');
+		
+	}
+	else if (site.indexOf('.fr') > 0){
+	
+		location.replace('http://pages.ebay.fr/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.befr') > 0){
+	
+		location.replace('http://pages.ebay.fr/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.benl') > 0){
+	
+		location.replace('http://pages.ebay.nl/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.it') > 0){
+	
+		location.replace('http://pages.ebay.it/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.es') > 0){
+	
+		location.replace('http://pages.ebay.es/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.tw') > 0){
+	
+		location.replace('http://pages.tw.ebay.com/messages/page_not_responding.html');
+	}
+	else if (site.indexOf('.sandbox') > 0){
+	
+		location.replace('http://pages.ebay.com/messages/developer/page_not_responding.html');
+	}		
+	//else{
+	//	location.replace('http://pages.ebay.com/messages/US_page_not_responding.html');
+	//}
+}
+//else
+//{
+//	location.replace('http://pages.ebay.com/messages/US_page_not_responding.html');
+//}
+
+//-->
+</script>
+<!--Header code starts-->
+
+<table border="0" cellspacing="0" width="100%" cellpadding="0" bgcolor="#FFFFFF">
+<tr><td><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="180" height="1"></td></tr>
+<tr><td><a href="http://www.ebay.com/"><img src="http://pics.ebaystatic.com/aw/pics/logos/logoEbay_150x40.gif" width="150" height="40" alt="From collectibles to cars, buy and sell all kinds of items on eBay" border="0"></a></td></tr></table>
+<!--Header code ends--><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="2"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#ffcc00"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="2"></td>
+</tr>
+<tr bgcolor="#ffe580">
+<td width="25"><img src="http://pics.ebaystatic.com/aw/pics/sitewide/leftLine_16x3.gif" width="16" height="3" align="middle"></td>
+<td width="575" valign="middle">
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr>
+<td nowrap="yes" valign="middle">
+<font face="Verdana, Helvetica, Arial, sans-serif" size="3"><b>Page Not Responding</b></font>
+</td>
+<td align="right" nowrap="yes" valign="middle"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#ffcc00"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="1" height="2"></td>
+</tr>
+<tr bgcolor="#ffffcc">
+<td colspan="3" width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="left"><img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="8" height="1"></td>
+<td width="100%" align="left">
+<font face="Arial, Helvetica, sans-serif" size="2"></font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td colspan="4">
+	<img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="10" height="2">
+</td>
+</tr>
+
+<tr valign="top">
+<td width="10">
+	<img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="20" height="2">
+</td>
+<td valign="top" width="40">
+<img src="http://pics.ebaystatic.com/aw/pics/sitewide/warning_39x35.gif" width="39" height="35">
+</td>
+<td width="10">
+	<img src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width="10" height="2">
+</td>
+
+<td>
+<font face="arial" size="2">
+The eBay page or feature you are attempting to access is not responding.<br>
+Please try the options below:
+<ul>
+<li><b>Try to access the feature directly from the eBay <a href="http://www.ebay.com/">Home Page</a></b>, instead of using a bookmark.</li>
+<li><b>Wait a few minutes</b> and try to access the feature again.</li>
+</ul>
+
+If you have waited ten to fifteen minutes and you still can't access your page:
+<ul>
+<li><b>Check our <a href="http://www2.ebay.com/aw/announce.shtml">Announcement Board</a></b> to see if the feature is currently unavailable.</li>
+</ul>
+
+If what you are looking for is unavailable, you may still be able to access other parts of the site from the eBay <a href="http://www.ebay.com/">Home page</a>
+</font>
+</td>
+</tr>
+</table>
+
+
+<br>
+
+<!-- use common footer at: -->
+
+<div id="glbfooter" class="gh-w gh-flex"><div><div id=rtm_html_1650></div><div id=rtm_html_1651></div></div><h2 class=gh-ar-hdn>Additional site navigation</h2><div id="gf-t-box"><table class="gf-t"><tr><td colspan=2><ul id="gf-l" ><li class="gf-li"><a href="http://community.ebay.com" 
+		 _exsp=m571.l3329 class="thrd gf-bar-a"
+	>Community</a></li><li class="gf-li"><a href="http://www.ebayinc.com" 
+		 _exsp=m571.l2602 class="thrd gf-bar-a"
+	>About eBay</a></li><li class="gf-li"><a href="http://announcements.ebay.com" 
+		 _sp=m571.l3330 class="thrd gf-bar-a"
+	>Announcements</a></li><li class="gf-li"><a href="http://pages.ebay.com/securitycenter/index.html" 
+		 _sp=m571.l2616 class="thrd gf-bar-a"
+	>Security Center</a></li><li class="gf-li"><a href="http://resolutioncenter.ebay.com/" 
+		 _sp=m571.l1619 class="thrd gf-bar-a"
+	>Resolution Center</a></li><li class="gf-li"><a href="http://pages.ebay.com/sellerinformation/index.html" 
+		 _sp=m571.l1613 class="thrd gf-bar-a"
+	>Seller Information Center</a></li><li class="gf-li"><a href="http://pages.ebay.com/help/policies/overview.html" 
+		 _sp=m571.l2604 class="thrd gf-bar-a"
+	>Policies</a></li><li class="gf-li"><a href="http://pages.ebay.com/sitemap.html" 
+		 _sp=m571.l1625 class="thrd gf-bar-a"
+	>Site Map</a></li><li class="gf-li"><a href="http://viv.ebay.com/ws/eBayISAPI.dll?EbayTime" 
+		 _sp=m571.l2606 class="thrd gf-bar-a"
+	>eBay official time</a></li><li class="gf-li"><a href="http://garden.ebay.com" 
+		 _sp=m571.l1617 class="thrd gf-bar-a"
+	>Preview new features</a></li><li class="gf-li"><a href="http://ocsnext.ebay.com/ocs/cuhome" 
+		 _sp=m571.l2911 class="thrd gf-bar-a"
+	>Contact us</a></li><li class="gf-li"><a href="http://qu.ebay.com/survey?srvName=globalheader+%28footer-US%29" 
+		 _sp=m571.l2628 class="thrd gh-survey gf-bar-a" title="opens in a new window or tab"
+	>Tell us what you think</a></li></ul></td></tr><tr><td><div class="footerBGPost"><table><tbody><tr><td><a href="http://pages.ebay.com/ebay-money-back-guarantee/" _sp="m571.l4539" id="gf-bp"><span class=gh-ar-hdn>eBay Money Back Guarantee</span></a></td></tr></tbody></table></div></td></tr><tr valign="top"><td class="gf-legal">Copyright © 1995-2014 eBay Inc. All Rights Reserved. <a href="http://pages.ebay.com/help/policies/user-agreement.html?rt=nc">User Agreement</a>, <a href="http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc">Privacy</a> and <a href="http://pages.ebay.com/help/account/cookies-web-beacons.html">Cookies</a>.</td></tr></table></div></div><!--ts:2014.12.02.17:01--><!--rq:--><!--rvr:59rc5-->
+
+<img style="display:none" width="1" height="1" alt="" title="" src="http://rover.ebay.com/roverimp/0/0/9?imp=1018650"/>
+</body>
+</html>

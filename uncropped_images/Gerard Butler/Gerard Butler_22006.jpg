@@ -1,0 +1,867 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<title>Вход на сайт</title>
+<meta http-equiv="Content-type" content="text/html; charset=windows-1251" />
+<base href="http://ru.gde-fon.com/" />
+<link href="http://ru.gde-fon.com/css/fullGlobal.css?sx-app-static-2014-09-05-v3" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://ru.gde-fon.com/css/chosen.css?sx-app-static-2014-09-05-v3" media="screen" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/css/form.css?sx-app-static-2014-09-05-v3" type="text/css" media="screen" />
+                <link rel="alternate" hreflang="ru" href="http://ru.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="en" href="http://en.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="de" href="http://de.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="pt" href="http://pt.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="es" href="http://es.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="fr" href="http://fr.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="it" href="http://it.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="ro" href="http://ro.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="pl" href="http://pl.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="zh-cn" href="http://cn.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+                <link rel="alternate" hreflang="ja" href="http://ja.gde-fon.com/user/login/?ref=%2Fdownload%2Fdzherard-batler_or_gerard-butler%2F54379%2F1600x1200%3Fsx-hash%3Dc064f518fb7d3786c462cb8a85dbed12" /> 
+
+<script src="http://ru.gde-fon.com/js/jquery-1.4.4.min.js?sx-app-static-2014-09-05-v3" type="text/javascript"> </script>
+<script src="http://ru.gde-fon.com/js/chosen.js?sx-app-static-2014-09-05-v3" type="text/javascript"> </script>
+<script src="http://ru.gde-fon.com/js/undescore.js?sx-app-static-2014-09-05-v3" type="text/javascript"> </script>
+<script src="http://ru.gde-fon.com/js/Skeeks.js?sx-app-static-2014-09-05-v3" type="text/javascript"> </script>
+<script src="http://ru.gde-fon.com/js/fullGlobal.js?sx-app-static-2014-09-05-v3" type="text/javascript"> </script>
+<script src="http://ru.gde-fon.com/js/run.js?sx-app-static-2014-09-05-v3" type="text/javascript"> </script>
+
+
+<script src="/js/form.js?sx-app-static-2014-09-05-v3" type="text/javascript"></script><!--[if IE 6]><link href="http://ru.gde-fon.com/css/styles_ie6.css?sx-app-static-2014-09-05-v3" type="text/css" rel="stylesheet" /><![endif]-->
+</head>
+<body>  
+<div id="wrapper">
+<div id="head">
+    <a id="gdefon" href="" title="На главную"></a>
+    <div id="user-top-block">
+        <div id="user-top-content">﻿<div id="user-top-welcome" class="user-top-subblock">
+    <h2>Добро пожаловать!</h2>
+    <p>Добро пожаловать на сайт обоев для рабочего стола <strong>www.GdeFon.ru!</strong></p>
+    <p>Здесь вы найдёте тонны качественных и красивых обоев для вашего рабочего стола.</p>
+</div>
+<div id="user-top-login" class="user-top-subblock with-left-border">
+    <h2>Вход на сайт</h2>
+    <form action="/user/login" method="post">
+        <label for="user-top-login-input">Логин:</label>
+        <input type="text" name="login" class="text" id="user-top-login-input" maxlength="255" />
+        <a href="/user/register">Нет аккаунта?</a>
+
+        <label for="user-top-password-input">Пароль:</label>
+        <input type="password" name="password" class="text password" id="user-top-password-input" maxlength="255" />
+        <!-- <a href="/user/recover-password">Забыли пароль?</a> -->
+        
+        <input type="submit" class="submit" value="Вход" />
+    </form>
+</div>
+<div id="user-top-register" class="user-top-subblock with-left-border">
+    <h2>Регистрация на сайте</h2>
+    <p>После <a href="/user/register">регистрации</a> вам будет целый ряд дополнительных возможностей: альбомы избранных обоев, история скачивания, участие в модерирование и другие :-)</p>
+</div></div>
+        <div id="user-top-bottom"></div>
+    </div>
+    <div id="total-wallpapers-block">Всего обоев: <span id="total-wallpapers">520&nbsp;770</span></div>
+    <div id="top-buttons">
+        <a id="wallpaper-upload" href="/user/wallpaperupload" title="Залить обои"></a>
+        <a id="random" href="/fx/random" title="Случайные обои"></a>
+        <a id="rss" href="/user/rss" title="RSS"></a>
+    </div>
+    <div id="user-top-toggler"><a id="user-top-toggler-a" class="cursor"><span>Вход | Регистрация</span></a></div>
+</div>
+<form method="get" id="search-form">
+    <table id="top-block">
+        <tr>
+            <td id="top-info-panel" nowrap="nowrap">        <div class="language">
+            <div onclick="doLang(); return false;" class="language_head">
+                <span class="ru">Русский</span>
+            </div>
+        </div></td>
+            <td id="search-panel">
+                Поиск:
+                    <input type="text" id="search-input" name="query" value="" autocomplete="off" />
+                    <input type="submit" id="search-submit" value="Найти" />
+                <span id="extended-search-link"><a href="#" id="extended-search-toggler"
+                                                   onclick="toggleExSearch(this);return false;">Фильтры</a> <span class="new-main">←new</span></span>
+            </td>
+            <td id="top-last-panel" nowrap="nowrap"><a href="/fx/services">Сервисы</a>
+                </td>
+        </tr>
+    </table>
+            <div id="lang_list" class="hidden">
+            <ul>
+                <li>
+                   <span class='flag flag1'>
+                       <a href='#' class='img' onclick='location.href="http://gde-fon.com/user/login/"; return false;' title='English'>
+                       </a>
+                       <a href='#' onclick='location.href="http://gde-fon.com/user/login/"; return false;' title='English' style='float: left; margin-left: 5px; background: none;'>
+                            English
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag3'>
+                       <a href='#' class='img' onclick='location.href="http://de.gde-fon.com/user/login/"; return false;' title='Deutsch'>
+                       </a>
+                       <a href='#' onclick='location.href="http://de.gde-fon.com/user/login/"; return false;' title='Deutsch' style='float: left; margin-left: 5px; background: none;'>
+                            Deutsch
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag36'>
+                       <a href='#' class='img' onclick='location.href="http://pt.gde-fon.com/user/login/"; return false;' title='Portugues'>
+                       </a>
+                       <a href='#' onclick='location.href="http://pt.gde-fon.com/user/login/"; return false;' title='Portugues' style='float: left; margin-left: 5px; background: none;'>
+                            Portugues
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag15'>
+                       <a href='#' class='img' onclick='location.href="http://es.gde-fon.com/user/login/"; return false;' title='Espana'>
+                       </a>
+                       <a href='#' onclick='location.href="http://es.gde-fon.com/user/login/"; return false;' title='Espana' style='float: left; margin-left: 5px; background: none;'>
+                            Espana
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag8'>
+                       <a href='#' class='img' onclick='location.href="http://fr.gde-fon.com/user/login/"; return false;' title='France'>
+                       </a>
+                       <a href='#' onclick='location.href="http://fr.gde-fon.com/user/login/"; return false;' title='France' style='float: left; margin-left: 5px; background: none;'>
+                            France
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag14'>
+                       <a href='#' class='img' onclick='location.href="http://it.gde-fon.com/user/login/"; return false;' title='Italia'>
+                       </a>
+                       <a href='#' onclick='location.href="http://it.gde-fon.com/user/login/"; return false;' title='Italia' style='float: left; margin-left: 5px; background: none;'>
+                            Italia
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag46'>
+                       <a href='#' class='img' onclick='location.href="http://ro.gde-fon.com/user/login/"; return false;' title='Romania'>
+                       </a>
+                       <a href='#' onclick='location.href="http://ro.gde-fon.com/user/login/"; return false;' title='Romania' style='float: left; margin-left: 5px; background: none;'>
+                            Romania
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag32'>
+                       <a href='#' class='img' onclick='location.href="http://pl.gde-fon.com/user/login/"; return false;' title='Polski'>
+                       </a>
+                       <a href='#' onclick='location.href="http://pl.gde-fon.com/user/login/"; return false;' title='Polski' style='float: left; margin-left: 5px; background: none;'>
+                            Polski
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag31'>
+                       <a href='#' class='img' onclick='location.href="http://cn.gde-fon.com/user/login/"; return false;' title='China'>
+                       </a>
+                       <a href='#' onclick='location.href="http://cn.gde-fon.com/user/login/"; return false;' title='China' style='float: left; margin-left: 5px; background: none;'>
+                            China
+                       </a>
+                   </span>
+               </li><li>
+                   <span class='flag flag9'>
+                       <a href='#' class='img' onclick='location.href="http://ja.gde-fon.com/user/login/"; return false;' title='Japanece'>
+                       </a>
+                       <a href='#' onclick='location.href="http://ja.gde-fon.com/user/login/"; return false;' title='Japanece' style='float: left; margin-left: 5px; background: none;'>
+                            Japanece
+                       </a>
+                   </span>
+               </li>
+            </ul>
+        </div>    <div id="extended-search-block" class="hidden"">
+    <table id="extended-search-table">
+        <tr class="es-tr" id="tr-include-categories">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label">
+                <label for="include-categories">Искать в категориях:</label>
+            </td>
+            <td class="es-select" nowrap="nowrap">
+                 <span class="es-select-span">
+                    <select style="width: 500px;" data-chosen="start" data-placeholder="Выбрать категории" class="es-category-select"  multiple="multiple" name="include[]" <option value="">Все</option><option value="hi_tech">Hi-tech</option>
+<option value="abstrakcija">Абстракция</option>
+<option value="aviacija">Авиация</option>
+<option value="anime">Аниме</option>
+<option value="gorod">Город</option>
+<option value="girls">Девушки</option>
+<option value="zhivotnye">Животные</option>
+<option value="igry">Игры</option>
+<option value="kinozvezdy">Кинозвезды</option>
+<option value="korabli">Корабли</option>
+<option value="kosmos">Космос</option>
+<option value="makro">Макро</option>
+<option value="mashiny">Машины</option>
+<option value="minimalizm">Минимализм</option>
+<option value="moto">Мотоциклы</option>
+<option value="muzhchiny">Мужчины</option>
+<option value="muzyka">Музыка</option>
+<option value="nastroenija">Настроения</option>
+<option value="oruzhie">Оружие</option>
+<option value="pejzazhi">Пейзажи</option>
+<option value="prazdniki">Праздники</option>
+<option value="priroda">Природа</option>
+<option value="raznoe">Разное</option>
+<option value="rendering">Рендеринг</option>
+<option value="situacii">Ситуации</option>
+<option value="sport">Спорт</option>
+<option value="stil">Стиль</option>
+<option value="tekstury">Текстуры</option>
+<option value="fantastika">Фантастика</option>
+<option value="film">Фильмы</option>
+<option value="cvety">Цветы</option>
+</select>                </span>
+            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+        <tr class="es-tr" id="tr-exclude-categories">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label"><label for="exclude-categories">Исключить категории:</label></td>
+            <td class="es-select" nowrap="nowrap">
+                 <span class="es-select-span">
+                    <select style="width: 500px;" data-chosen="start" data-placeholder="Исключить категории" class="es-category-select"  multiple="multiple" name="exclude[]" <option value="">Все</option><option value="hi_tech">Hi-tech</option>
+<option value="abstrakcija">Абстракция</option>
+<option value="aviacija">Авиация</option>
+<option value="anime">Аниме</option>
+<option value="gorod">Город</option>
+<option value="girls">Девушки</option>
+<option value="zhivotnye">Животные</option>
+<option value="igry">Игры</option>
+<option value="kinozvezdy">Кинозвезды</option>
+<option value="korabli">Корабли</option>
+<option value="kosmos">Космос</option>
+<option value="makro">Макро</option>
+<option value="mashiny">Машины</option>
+<option value="minimalizm">Минимализм</option>
+<option value="moto">Мотоциклы</option>
+<option value="muzhchiny">Мужчины</option>
+<option value="muzyka">Музыка</option>
+<option value="nastroenija">Настроения</option>
+<option value="oruzhie">Оружие</option>
+<option value="pejzazhi">Пейзажи</option>
+<option value="prazdniki">Праздники</option>
+<option value="priroda">Природа</option>
+<option value="raznoe">Разное</option>
+<option value="rendering">Рендеринг</option>
+<option value="situacii">Ситуации</option>
+<option value="sport">Спорт</option>
+<option value="stil">Стиль</option>
+<option value="tekstury">Текстуры</option>
+<option value="fantastika">Фантастика</option>
+<option value="film">Фильмы</option>
+<option value="cvety">Цветы</option>
+</select>                </span>
+            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+        <tr class="es-tr" id="tr-search-by-resolution">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label">
+                <label for="search-by-resolution">Искать по разрешению:</label></td>
+            <td class="es-select es-resolution">
+                    <span class="es-resolution-span">
+                    <input type="hidden" name="wsize[do]" value="no" />
+                    <input type="checkbox" name=" wsize[do]" value="yes"  /><select style="width: 45px;" data-chosen="start" name="wsize[type]" >
+                        <option value="=">=</option>
+                        <option value=">" >&gt;</option>
+                        <option value="<" >&lt;</option>
+                    </select>
+                    <input type="text" class="text" name="wsize[val]" maxlength="5" value="1280" />
+                </span>                <strong>x</strong>
+                    <span class="es-resolution-span">
+                    <input type="hidden" name="hsize[do]" value="no" />
+                    <input type="checkbox" name=" hsize[do]" value="yes"  /><select style="width: 45px;" data-chosen="start" name="hsize[type]" >
+                        <option value="=">=</option>
+                        <option value=">" >&gt;</option>
+                        <option value="<" >&lt;</option>
+                    </select>
+                    <input type="text" class="text" name="hsize[val]" maxlength="5" value="1024" />
+                </span>            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+        <tr class="es-tr" id="tr-status" style="display: none;">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label"><label for="status">Автор:</label></td>
+            <td class="es-select" nowrap="nowrap">
+                 <span class="es-select-span">
+                    <input type="text" name="author_id" value="" placeholder="Автор"/>
+                </span>
+            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+        <tr class="es-tr" id="tr-status">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label"><label for="status">Статус изображения:</label></td>
+            <td class="es-select" nowrap="nowrap">
+                 <span class="es-select-span">
+                    <select style="width: 200px;" data-chosen="start" class="es-status-select" name="status"><option value=""> Показывать все </option><option value="1">Принятые</option>
+<option value="0">Только непроверенные</option>
+<option value="2">Только непринятые</option>
+</select>                </span>
+            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+        <!--es-tr-off-->
+        <tr class="es-tr " id="tr-google">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label"><label for="google">Уровень безопасности:</label></td>
+            <td class="es-select" nowrap="nowrap">
+                 <span class="es-select-span">
+                    <select style="width: 200px;" data-chosen="start" class="es-google-select" name="google"><option value="">Показывать все</option><option value="1">Безопасные</option>
+<option value="2">Только опасные</option>
+<option value="0">Только непроверенные</option>
+</select>                </span>
+            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+
+        <tr class="es-tr" id="tr-sort">
+            <td class="es-margin es-margin-left"></td>
+            <td class="es-label"><label for="google">Сортировка / отображение:</label></td>
+            <td class="es-select" nowrap="nowrap">
+                 <span class="es-select-span">
+                    <select style="width: 200px;" data-chosen="start" class="es-google-select" name="by[]"><option value="_moderedAt">Дата модерации</option>
+<option value="date">Дата добавления</option>
+<option value="_updatedAt">Дата обновления</option>
+<option value="rate">Рейтинг</option>
+<option value="downloads">Загрузки</option>
+<option value="comments">Число комментариев</option>
+</select>                    <select style="width: 45px;" data-chosen="start" class="es-google-select" name="order[]"><option value="DESC">↓</option>
+<option value="ASC">↑</option>
+</select>                    <select title="Укажите количество обоев, отображаемых на странице" style="width: 50px;" data-chosen="start" class="es-google-select" name="limit[]"><option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+</select>                </span>
+            </td>
+            <td class="es-margin es-margin-right"></td>
+        </tr>
+
+    </table>
+</div>
+    ﻿<style>
+.top-block ul {
+    height: 30px;
+    margin-right: 50px;
+}
+    .top-block ul li {
+        float: left;
+        margin-left: 25px;
+        background-repeat: no-repeat;
+        background-position: 0 3px;
+    }
+        .top-block ul li span {
+            font-size: 15px;;
+        }
+</style>
+<div class="extended-search-block top-block">
+    <ul>
+        <li>
+           <span class="flag flag1">
+               <span class="new-main">new→</span> <b>Готовые подборки (фильтры)</b>:
+           </span>
+       </li>
+
+        <li>
+           <span class="flag flag1">
+               <a title="Тут собраны картинки, которые попали в основной список" href="/search/?query=&wsize%5Bdo%5D=no&wsize%5Btype%5D=%3D&wsize%5Bval%5D=1280&hsize%5Bdo%5D=no&hsize%5Btype%5D=%3D&hsize%5Bval%5D=1024&author_id=&status=1&google=1&by%5B%5D=date&order%5B%5D=DESC&limit%5B%5D=9">
+                    Только качественные               </a>
+           </span>
+        </li>
+
+        <li>
+           <span class="flag flag1">
+               <a title="Смотрите картинки, которые подойдут на 2 монитора" href="/search/?query=&wsize%5Bdo%5D=no&+wsize%5Bdo%5D=yes&wsize%5Btype%5D=>&wsize%5Bval%5D=3001&hsize%5Bdo%5D=no&hsize%5Btype%5D=%3D&hsize%5Bval%5D=1024&author_id=&status=1&google=1&by%5B%5D=date&order%5B%5D=DESC&limit%5B%5D=9">
+                    Качественные широкоформатные               </a>
+           </span>
+        </li>
+
+        <li>
+           <span class="flag flag1">
+               <a title="Тут собраны картинки, которые попали в основной список" href="/search/?query=&wsize%5Bdo%5D=no&wsize%5Btype%5D=%3D&wsize%5Bval%5D=3001&hsize%5Bdo%5D=no&hsize%5Btype%5D=%3D&hsize%5Bval%5D=1024&author_id=&status=&google=&by%5B%5D=date&order%5B%5D=DESC&limit%5B%5D=9">
+                    Смотреть все подряд               </a>
+           </span>
+        </li>
+
+        <li>
+           <span class="flag flag1">
+               <a title="Покажите, мне что нибудь случайно. Или на ваш выбор." href="/fx/random">
+                    Случайные               </a>
+           </span>
+        </li>
+
+        <li>
+           <span class="flag flag1">
+               <a class="private" title="В этом разделе показываются все изображения, которые были раньше на сайте girls.gdefon.ru'" href="/search/?query=&include%5B%5D=girls&wsize%5Bdo%5D=no&wsize%5Btype%5D=%3D&wsize%5Bval%5D=1280&hsize%5Bdo%5D=no&hsize%5Btype%5D=%3D&hsize%5Bval%5D=1024&author_id=&status=1&google=&by%5B%5D=date&order%5B%5D=DESC&limit%5B%5D=9">
+                    Girls Gdefon (девушки)               </a>
+           </span>
+        </li>
+    </ul>
+</div>
+<script>
+    $(function()
+    {
+        $(".private").click(function()
+        {
+            if (confirm("Данный раздел доступен только авторизованным пользователям. \n\r У вас уже есть аккаунт на нашем сайте?"))
+            {
+                location.href = "/user/login";
+            } else
+            {
+                location.href = "/user/register";
+            }
+            return false;
+        });
+    });
+</script>
+</form>
+<!-- pager -->
+<div class="selector pager hidden" id="pager">
+	        <div class="selector-option selector-option-page">9</div>
+            <div class="selector-option selector-option-page">10</div>
+            <div class="selector-option selector-option-page">11</div>
+            <div class="selector-option selector-option-page">12</div>
+            <div class="selector-option selector-option-page">13</div>
+            <div class="selector-option selector-option-page">14</div>
+            <div class="selector-option selector-option-page">15</div>
+            <div class="selector-option selector-option-page">16</div>
+            <div class="selector-option selector-option-page">17</div>
+            <div class="selector-option selector-option-page">18</div>
+            <div class="selector-option selector-option-page">19</div>
+            <div class="selector-option selector-option-page">20</div>
+            <div class="selector-option selector-option-page">21</div>
+            <div class="selector-option selector-option-page">22</div>
+            <div class="selector-option selector-option-page">23</div>
+            <div class="selector-option selector-option-page">24</div>
+            <div class="selector-option selector-option-page">25</div>
+            <div class="selector-option selector-option-page">26</div>
+            <div class="selector-option selector-option-page">27</div>
+            <div class="selector-option selector-option-page">28</div>
+            <div class="selector-option selector-option-page">29</div>
+            <div class="selector-option selector-option-page">30</div>
+    </div>
+<!-- sorter_by -->
+<div class="selector sorter hidden" id="sorter-by">
+    <div title="Сортировать по дате добавления" class="selector-option selector-option-sort sort-by-date">
+        <img src="/images/by_date.png" name="date"/>
+        <span>date</span>
+    </div>
+    <div title="Сортировать по рейтингу" class="selector-option selector-option-sort sort-by-rate">
+        <img src="/images/by_rate.png" name="rate"/>
+        <span>rate</span></div>
+    <div title="Сортировать по количеству скачиваний" class="selector-option selector-option-sort sort-by-downloads">
+        <img src="/images/by_downloads.png" name="downloads" />
+        <span>downloads</span></div>
+    <div title="Сортировать по количеству комментариев" class="selector-option selector-option-sort sort-by-comments">
+        <img src="/images/by_comments.png" name="comments"/>
+        <span>comments</span></div>
+   <!-- <div title="по количеству голосов" class="selector-option selector-option-sort sort-by-votes">
+        <img src="/images/by_votes.gif" />
+        <span>votes</span></div> -->
+</div>
+<!-- sorter_order -->
+<div class="selector sorter hidden" id="sorter-order">
+    <div title="Показывать в порядке убывания" class="selector-option selector-option-sort sort-desc">
+        <img src="/images/desc.png" name="desc"/>
+        <span>desc</span>
+    </div>
+    <div title="Показывать в порядке возрастания" class="selector-option selector-option-sort sort-asc">
+        <img src="/images/asc.png" name="asc"/>
+        <span>asc</span></div>
+</div>
+
+
+<div id="content-wrapper" class="left-pad-expanded">
+    <div id="left-content">
+        ﻿<div id="left-pad-top" class="left-pad left-pad-without-toggler">
+    <div class="left-pad-content">
+        <div class="left-pad-header">Топ</div>
+        <div class="left-pad-items">
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="/top/uploaders">Рейтинг заливающих</a></td>
+                    <td class="dots" style='visibility:hidden;'></td>
+                    <td class="item-total" style='visibility:hidden;'>100</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="/top/users">Рейтинг Пользователей</a></td>
+                    <td class="dots" style='visibility:hidden;'></td>
+                    <td class="item-total" style='visibility:hidden;'>100</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="/fx/lastcomments">Последние комментарии</a></td>
+                    <td class="dots" style='visibility:hidden;'></td>
+                    <td class="item-total" style='visibility:hidden;'>100</td>
+                </tr>
+            </table>
+               </div>
+    </div>
+</div>﻿<div id="left-pad-categories" class="left-pad">
+    <div class="left-pad-content">
+        <div class="left-pad-header">Категории</div>
+        <div class="left-pad-items">
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/hi_tech">Hi-tech</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">1&nbsp;627</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/abstrakcija">Абстракция</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">5&nbsp;983</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/aviacija">Авиация</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">2&nbsp;693</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/anime">Аниме</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">10&nbsp;484</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/gorod">Город</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">8&nbsp;714</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/girls">Девушки</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">219&nbsp;390</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/zhivotnye">Животные</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">13&nbsp;062</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/igry">Игры</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">9&nbsp;682</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/kinozvezdy">Кинозвезды</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">33&nbsp;847</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/korabli">Корабли</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">150</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/kosmos">Космос</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">4&nbsp;150</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/makro">Макро</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">5&nbsp;642</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/mashiny">Машины</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">45&nbsp;726</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/minimalizm">Минимализм</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">2&nbsp;924</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/moto">Мотоциклы</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">16&nbsp;719</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/muzhchiny">Мужчины</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">1&nbsp;782</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/muzyka">Музыка</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">1&nbsp;994</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/nastroenija">Настроения</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">4&nbsp;792</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/oruzhie">Оружие</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">2&nbsp;256</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/pejzazhi">Пейзажи</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">37&nbsp;686</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/prazdniki">Праздники</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">2&nbsp;853</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/priroda">Природа</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">10&nbsp;734</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/raznoe">Разное</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">16&nbsp;123</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/rendering">Рендеринг</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">3&nbsp;455</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/situacii">Ситуации</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">1&nbsp;977</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/sport">Спорт</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">2&nbsp;470</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/stil">Стиль</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">4&nbsp;219</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/tekstury">Текстуры</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">3&nbsp;069</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/fantastika">Фантастика</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">6&nbsp;248</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/film">Фильмы</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">34&nbsp;453</td>
+                </tr>
+            </table>
+                    <table class="left-pad-item">
+                <tr>
+                    <td class="item-link" nowrap><a href="http://ru.gde-fon.com/cvety">Цветы</a></td>
+                    <td class="dots"></td>
+                    <td class="item-total">5&nbsp;869</td>
+                </tr>
+            </table>
+               </div>
+    </div>
+    <div class="left-pad-toggler"><a class="left-pad-toggler-a" title="Свернуть/развернуть блок" accesskey="k"></a></div>
+</div>        <div style="padding:15px;padding-left:50px;">﻿</div>
+    </div>
+    <div id="right-content">
+        <h1 id="page-title">
+            <div class="page-title-icon" id="page-icon-user"></div>
+            <div id="page-title-content">Вход на сайт</div><div id="page-title-shadow">Вход на сайт</div>
+            <a id="reformal"></a>
+        </h1>
+
+                <!--<div class="message with-medium-border-radius" style="height: 200px;" align="center">
+            &lt;!&ndash;<script language='JavaScript' type='text/javascript'>var postRmbn_width = "800px"; var postRmbn_height = "200px"; var postRmbn_placeID = 1694; document.write("<" + "script language='JavaScript' type='text/javascript' src='http://post.rmbn.ru/js/smartblock/get_code.js?n="+Math.random()+"'" + ">" + "<" + "/script" + ">");</script>&ndash;&gt;
+            &lt;!&ndash;<script type='text/javascript' src='http://c.am11.ru/code/bn/js.php?u=28887&f=3'></script>&ndash;&gt;
+        </div>-->
+
+        &nbsp;
+        
+                <script type="text/javascript"><!--
+google_ad_client = "ca-pub-4030154701217591";
+/* gdefon_sekond_728_90 */
+google_ad_slot = "6907362197";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+        
+        <div class="form-wrapper with-medium-border-radius"><form action="/user/login" method="post"><table class="form-table"><tbody><tr class=" required" ><td class="form-field-label"><label class="form-label">Логин*:</label></td><td class="form-field-value"><input maxlength="255" type="text" name="login" value="" class="text"/></td><td class="form-field-description"></td><td class="form-field-errors"><div class="form-errors"></div></td></td><tr class=" required" ><td class="form-field-label"><label class="form-label">Пароль*:</label></td><td class="form-field-value"><input maxlength="255" type="password" name="password" class="password"/></td><td class="form-field-description"></td><td class="form-field-errors"><div class="form-errors"></div></td></td><tr><td class="form-field-label"><label class="form-label"></label></td><td class="form-field-value"><input type="submit" name="submit" value="Войти" class="submit"/></td><td class="form-field-description"></td><td class="form-field-errors"><div class="form-errors"></div></td></td></tbody></table></form></div>
+                
+
+                    
+        <script type="text/javascript"><!--
+google_ad_client = "ca-pub-4030154701217591";
+/* gdefon_sekond_728_90 */
+google_ad_slot = "6907362197";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        
+        
+
+        <div style="clear:both;"></div>
+    </div>
+
+    
+</div>
+</div>
+<!-- gdefon widgets -->
+<script type="text/javascript">
+               //<![CDATA[
+new j.LoginBlock({name:'loginBlock'});
+new j.LeftPad({name: 'leftPad'});
+ //]]>
+               </script>﻿
+<div id="footer">
+    <table width="99%">
+    <tr>
+    <td valign="top" style="padding-bottom:20px;">
+    &copy; 2011 www.GdeFon.com &mdash; Обои и картинки для рабочего стола. Если у вас возникли вопросы, пишите нам на <a href="mailto:support@gdefon.ru">support@gdefon.ru</a>. <br />
+        <a href="/fx/rules" title="Rules and copyrights">Rules and copyrights (copyright@gdefon.ru)</a>. 18+
+    </td>
+    <td valign="center" width="20%" align="right">
+
+        <noindex>
+                    
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2516287", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2516287;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+<!-- begin of Top100 code -->
+
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?3020919"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/3020919/">
+<img src="http://counter.rambler.ru/top100.cnt?3020919" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter24925871 = new Ya.Metrika({id:24925871, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/24925871" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+                </noindex>
+    </td>
+    </tr>
+    </table>
+
+    <noindex>
+    <!--LiveInternet counter-->
+    <script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img style='position:absolute;top: -10000px;' src='http://counter.yadro.ru/hit?t52.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=0 height=0 alt='' title='LiveInternet: показано число просмотров и посетителей за 24 часа'></a>")</script>
+    <!--/LiveInternet-->
+    </noindex>
+</div>
+<div id="social-icons-wrapper">
+</div><!---->
+
+</body>
+</html>

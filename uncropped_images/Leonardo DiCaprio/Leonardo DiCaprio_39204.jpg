@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+
+<link rel="stylesheet" type="text/css" href="http://www.metrocomedy.com/wp-content/themes/metrocomedy/css/layout.css">
+
+<link rel="stylesheet" type="text/css" href="http://www.metrocomedy.com/wp-content/themes/metrocomedy/css/home-blog.css">
+
+
+
+<!-- Flexi Slider-->
+
+<link rel="stylesheet" href="http://www.metrocomedy.com/wp-content/themes/metrocomedy/css/flexslider.css" type="text/css" media="screen" />
+
+
+
+<link rel="pingback" href="http://www.metrocomedy.com/xmlrpc.php" />
+
+<style type="text/css">
+/* File:       uki_facebook_wall_feed.css
+   Author:     Fedil Grogan
+   Date:       01/03/2011
+   Copyright:  Fedil Grogan 2011
+   Purpose:
+   This is the styling sheet for the facebook feed. I tried to make it as
+   close to facebook as possible. Feel free to change as you wish.
+*/
+#facebook_status_box {
+  background: #ffffff;
+  color: #383838;
+  margin: 0px;
+  padding: 0px;
+  width: 296px;
+  height: 450px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+#facebook_status_box h2, #facebook_status_box h5 {
+  margin: 0px;
+  padding: 0px;
+}
+#facebook_status_box p {
+  margin: 0px;
+  padding: 5px 0px 0px 0px;
+  color: #383838;
+  line-height: 150%;
+}
+#facebook_status_box h2 {
+  padding: 10px 0px 10px 30px;
+  background: #F6F6F6;
+  letter-spacing: -.5px;
+  font-size: 1.4em;
+  color: #383838;
+}
+#facebook_status_box #facebook_canvas {
+  overflow: auto;
+  height: 409px;  
+}
+#facebook_status_box .fb_post {
+  margin: 10px 4px;
+  border: 1px solid #C4CDE0;
+  padding: 3px;
+  border-radius: 3px;
+}
+#facebook_status_box .fb_post h5 {
+  padding: 0px;
+  font-size: 11px;
+  margin-bottom: 2px;
+  line-height: 1;
+}
+#facebook_status_box .fb_post h5 a {
+  color: #0A7A98;
+  text-decoration: none;
+}
+#facebook_status_box .fb_post .fb_photoblock {
+  border-bottom: 1px solid #e6e6fa;
+  overflow: hidden;
+  padding: 7px;
+  margin: 0;
+}
+#facebook_status_box .fb_post .fb_photo {
+  float: left;
+  width: 32px;
+  margin-right: 2px;
+}
+#facebook_status_box .fb_post .fb_time {
+  color: #999999;
+}
+#facebook_status_box .fb_post .fb_time img {
+  padding-right: 5px;
+}
+#facebook_status_box .fb_post .fb_photo img {
+  border: none;
+  width: 32px;
+  height: 32px;
+}
+#facebook_status_box .fb_post .fb_photo_content {
+  font-size: 11px;
+  float: left;
+  width: 85%;
+}
+#facebook_status_box .fb_post .fb_msg {
+  clear: both;
+  padding: 7px;
+  overflow: hidden;
+}
+#facebook_status_box .fb_post .fb_msg p {
+  font-size: 12px;
+}
+#facebook_status_box .fb_link_post img {
+  margin: 0px 3px 0px 0px;
+  float: left;
+}
+#facebook_status_box .fb_link_post h6 {
+  font-size: .9em;
+  margin: 3px 0px 0px 0px;
+}
+#facebook_status_box .fb_link_post a {
+  color: #0A7A98;
+  text-decoration: none;
+}
+#facebook_status_box .fb_link_post a:hover {
+  text-decoration: underline;
+}
+#facebook_status_box .fb_link_post p {
+  font-size: .9em;
+  color: #999999;
+}
+#facebook_status_box .fb_link_post p.fb_link_caption {
+  margin: 0px;
+  margin-top: -5px;
+  color: #383838;
+}
+#facebook_status_box .fb_link_post p.fb_vid_length {
+  font-size: 10px;
+}
+#facebook_status_box .fb_link_post p.fb_desc {
+  font-size: 11px;
+}
+#facebook_status_box .fb_link_post p.fb_cap {
+  font-size: 11px;
+  color: #000000;
+}
+#facebook_status_box .fb_post img.fb_post_icon {
+  float: left;
+  margin: 2px;
+}
+#facebook_status_box .fb_post .fb_commLink {
+  font-size: 11px;
+  background: #EDEFF4;
+  padding: 3px 7px;
+  clear: both;
+}
+#facebook_status_box .fb_post .fb_commLink a {
+  color: #0A7A98;
+  text-decoration: none;
+}
+#facebook_status_box .fb_post .fb_msg .fb_commLink a:hover {
+  text-decoration: underline;
+}
+#facebook_status_box .fb_post .fb_likes {
+  float: right;
+  margin-left: 5px;
+}
+#facebook_status_box .fb_post .fb_likes a {
+  background-image: url("https://fbstatic-a.akamaihd.net/rsrc.php/v2/y-/r/tbhIfdAHjXE.png");
+  background-repeat: no-repeat;
+  background-position: 0 -60px;
+  height: 14px;
+  padding-left: 18px;
+}
+#facebook_status_box .fb_msg p.fb_story {
+  font-size: 10px;
+  color: #999999;
+}
+#facebook_status_box .fb_post .fb_comments {
+  background-color: #EDEFF4;
+  font-size: 11px;
+  border-bottom: 1px solid #e6e6fa;
+  overflow: hidden;
+  padding: 7px;
+  margin: 0;
+}
+#facebook_status_box .fb_post .fb_comments p {
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+#facebook_status_box .fb_post .fb_comments a {
+  color: #0A7A98;
+  text-decoration: none;
+}
+
+#facebook_status_box #facebook_canvas .fb_post .fb_commLink .fb_likes .tooltip
+{
+  position: static !important;
+  padding: 0 0 0 18px !important;
+  opacity: 1 !important;
+  filter: alpha(opacity=1) !important;
+}
+
+#facebook_status_box .fb_post .fb_comments .fb_comment_likes {
+  background-image: url("https://fbstatic-a.akamaihd.net/rsrc.php/v2/y-/r/tbhIfdAHjXE.png");
+  background-repeat: no-repeat;
+  background-position: 0 -60px;
+  height: 14px;
+  padding-left: 18px;
+  margin-left: 5px;
+}
+
+</style>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>ATFAT: Page Not Found</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="ATFAT: Page Not Found" />
+<meta property="og:site_name" content="Metro Comedy" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Metro Comedy &raquo; Feed" href="http://www.metrocomedy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Metro Comedy &raquo; Comments Feed" href="http://www.metrocomedy.com/comments/feed/" />
+<link rel='stylesheet' id='accordioncss-css'  href='http://www.metrocomedy.com/wp-content/plugins/sp-faq/css/jqueryuicss.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flick-css'  href='http://www.metrocomedy.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://www.metrocomedy.com/?mcsf_action=main_css&#038;ver=3.9.1' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.metrocomedy.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.9.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='events-manager-css'  href='http://www.metrocomedy.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.52' type='text/css' media='all' />
+<link rel='stylesheet' id='news-manager-front-css'  href='http://www.metrocomedy.com/wp-content/plugins/news-manager/css/front.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='math-captcha-front-css'  href='http://www.metrocomedy.com/wp-content/plugins/wp-math-captcha/css/front.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ffg_style-css'  href='http://www.metrocomedy.com/wp-content/plugins/facebook-feed-grabber/style-2.css?ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/sp-faq/js/jqueryuijs.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/www.metrocomedy.com\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/www.metrocomedy.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.metrocomedy.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/www.metrocomedy.com\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/www.metrocomedy.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","cache":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.52'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/events-manager-pro/includes/js/events-manager-pro.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://www.metrocomedy.com/wp-content/plugins/useful-banner-manager/scripts.js?ver=3.9.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.metrocomedy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.metrocomedy.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd/yyyy';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: true,
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+			});
+			d = new Date();
+			$('.birthdate-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: false,
+					minDate: new Date(d.getFullYear(), 1-1, 1),
+					maxDate: new Date(d.getFullYear(), 12-1, 31),
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+
+			});
+
+		});
+	</script>
+			<style type="text/css">
+		.em-booking-form span.form-tip { text-decoration:none; border-bottom:1px dotted #aaa; padding-bottom:2px; }
+		.input-group .em-date-range input { width:100px; }
+		.input-group .em-time-range input { width:80px; }
+		 div.em-gateway-buttons { height:50px; width: 100%; }
+		 div.em-gateway-buttons .first { padding-left:0px; margin-left:0px; border-left:none; }
+		 div.em-gateway-button { float:left; padding-left:20px; margin-left:20px; border-left:1px solid #777; }
+		/* Cart CSS */
+		.em-cart-widget-content .em-cart-widget-total { border-top:1px solid #efefef; margin-top:5px; }
+		.em-cart-actions { text-align:right; margin:10px 0px;}
+		 /* Checkout Form CSS */
+		.em-cart-table { border-collapse:collapse; border-spacing:0; width:100%; }		 
+		.em-cart-table { border-collapse:0px; }
+		.em-cart-table th, table.em-cart-table td { border:1px solid #efefef; padding:10px; }
+		.em-cart-table th { background-color:#eee; text-align:center; }
+		.em-cart-table td { background-color:#fff; }
+		.em-cart-table th.em-cart-title-event { text-align:left; }
+		.em-cart-table tbody.em-cart-totals th { text-align:right; padding-right:20px; }
+		.em-cart-table .em-cart-table-details-hide { display:none; visibility:none; }
+		.em-cart-table .em-cart-table-event-details { display:none; visibility:none; }
+		.em-cart-table .em-cart-table-event-title { font-weight:bold; }
+		.em-cart-table .em-cart-table-spaces { text-align:center; }
+		.em-cart-table .em-cart-table-price, tbody.em-cart-totals td { text-align:right; }
+		.em-cart-table-event-details .em-cart-table-ticket { font-weight:bold; }
+		.em-cart-info .em-cart-info-title { text-decoration:underline; }
+		.em-cart-info .em-cart-info-booking-title { font-weight:bold; }
+		.em-cart-info .em-cart-info-values label { font-style:italic; display: inline-block; width:150px; }		 
+		/*! qTip2 v2.0.0 | http://craigsworks.com/projects/qtip2/ | Licensed MIT, GPL */#qtip-rcontainer{position:absolute;left:-28000px;top:-28000px;display:block;visibility:hidden}#qtip-rcontainer .ui-tooltip{display:block!important;visibility:hidden!important;position:static!important;float:left!important}.ui-tooltip,.qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:280px;min-width:50px;font-size:10.5px;line-height:12px}.ui-tooltip-content{position:relative;padding:5px 9px;overflow:hidden;text-align:left;word-wrap:break-word}.ui-tooltip-titlebar{position:relative;min-height:14px;padding:5px 35px 5px 10px;overflow:hidden;border-width:0 0 1px;font-weight:700}.ui-tooltip-titlebar+.ui-tooltip-content{border-top-width:0!important}.ui-tooltip-titlebar .ui-state-default{position:absolute;right:4px;top:50%;margin-top:-9px;cursor:pointer;outline:medium none;border-width:1px;border-style:solid}* html .ui-tooltip-titlebar .ui-state-default{top:16px}.ui-tooltip-titlebar .ui-icon,.ui-tooltip-icon .ui-icon{display:block;text-indent:-1000em;direction:ltr}.ui-tooltip-icon,.ui-tooltip-icon .ui-icon{-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;text-decoration:none}.ui-tooltip-icon .ui-icon{width:18px;height:14px;text-align:center;text-indent:0;font:normal bold 10px/13px Tahoma,sans-serif;color:inherit;background:transparent none no-repeat -100em -100em}.ui-tooltip-focus{}.ui-tooltip-hover{}.ui-tooltip-default{border-width:1px;border-style:solid;border-color:#F1D031;background-color:#FFFFA3;color:#555}.ui-tooltip-default .ui-tooltip-titlebar{background-color:#FFEF93}.ui-tooltip-default .ui-tooltip-icon{border-color:#CCC;background:#F1F1F1;color:#777}.ui-tooltip-default .ui-tooltip-titlebar .ui-state-hover{border-color:#AAA;color:#111}/*! Light tooltip style */.ui-tooltip-light{background-color:#fff;border-color:#E2E2E2;color:#454545}.ui-tooltip-light .ui-tooltip-titlebar{background-color:#f1f1f1}/*! Dark tooltip style */.ui-tooltip-dark{background-color:#505050;border-color:#303030;color:#f3f3f3}.ui-tooltip-dark .ui-tooltip-titlebar{background-color:#404040}.ui-tooltip-dark .ui-tooltip-icon{border-color:#444}.ui-tooltip-dark .ui-tooltip-titlebar .ui-state-hover{border-color:#303030}/*! Cream tooltip style */.ui-tooltip-cream{background-color:#FBF7AA;border-color:#F9E98E;color:#A27D35}.ui-tooltip-cream .ui-tooltip-titlebar{background-color:#F0DE7D}.ui-tooltip-cream .ui-state-default .ui-tooltip-icon{background-position:-82px 0}/*! Red tooltip style */.ui-tooltip-red{background-color:#F78B83;border-color:#D95252;color:#912323}.ui-tooltip-red .ui-tooltip-titlebar{background-color:#F06D65}.ui-tooltip-red .ui-state-default .ui-tooltip-icon{background-position:-102px 0}.ui-tooltip-red .ui-tooltip-icon{border-color:#D95252}.ui-tooltip-red .ui-tooltip-titlebar .ui-state-hover{border-color:#D95252}/*! Green tooltip style */.ui-tooltip-green{background-color:#CAED9E;border-color:#90D93F;color:#3F6219}.ui-tooltip-green .ui-tooltip-titlebar{background-color:#B0DE78}.ui-tooltip-green .ui-state-default .ui-tooltip-icon{background-position:-42px 0}/*! Blue tooltip style */.ui-tooltip-blue{background-color:#E5F6FE;border-color:#ADD9ED;color:#5E99BD}.ui-tooltip-blue .ui-tooltip-titlebar{background-color:#D0E9F5}.ui-tooltip-blue .ui-state-default .ui-tooltip-icon{background-position:-2px 0}.ui-tooltip-shadow{-webkit-box-shadow:1px 1px 3px 1px rgba(0,0,0,.15);-moz-box-shadow:1px 1px 3px 1px rgba(0,0,0,.15);box-shadow:1px 1px 3px 1px rgba(0,0,0,.15)}.ui-tooltip-rounded,.ui-tooltip-tipsy,.ui-tooltip-bootstrap{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.ui-tooltip-youtube{-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 0 3px #333;-moz-box-shadow:0 0 3px #333;box-shadow:0 0 3px #333;color:#fff;border-width:0;background:#4A4A4A;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #4A4A4A),color-stop(100%,black));background-image:-webkit-linear-gradient(top, #4A4A4A 0,black 100%);background-image:-moz-linear-gradient(top, #4A4A4A 0,black 100%);background-image:-ms-linear-gradient(top, #4A4A4A 0,black 100%);background-image:-o-linear-gradient(top, #4A4A4A 0,black 100%)}.ui-tooltip-youtube .ui-tooltip-titlebar{background-color:#4A4A4A;background-color:rgba(0,0,0,0)}.ui-tooltip-youtube .ui-tooltip-content{padding:.75em;font:12px arial,sans-serif;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);-ms-filter:"progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);"}.ui-tooltip-youtube .ui-tooltip-icon{border-color:#222}.ui-tooltip-youtube .ui-tooltip-titlebar .ui-state-hover{border-color:#303030}.ui-tooltip-jtools{background:#232323;background:rgba(0,0,0,.7);background-image:-webkit-gradient(linear,left top,left bottom,from( #717171),to( #232323));background-image:-moz-linear-gradient(top, #717171, #232323);background-image:-webkit-linear-gradient(top, #717171, #232323);background-image:-ms-linear-gradient(top, #717171, #232323);background-image:-o-linear-gradient(top, #717171, #232323);border:2px solid #ddd;border:2px solid rgba(241,241,241,1);-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 0 12px #333;-moz-box-shadow:0 0 12px #333;box-shadow:0 0 12px #333}.ui-tooltip-jtools .ui-tooltip-titlebar{background-color:transparent;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A)"}.ui-tooltip-jtools .ui-tooltip-content{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323)"}.ui-tooltip-jtools .ui-tooltip-titlebar,.ui-tooltip-jtools .ui-tooltip-content{background:transparent;color:#fff;border:0 dashed transparent}.ui-tooltip-jtools .ui-tooltip-icon{border-color:#555}.ui-tooltip-jtools .ui-tooltip-titlebar .ui-state-hover{border-color:#333}.ui-tooltip-cluetip{-webkit-box-shadow:4px 4px 5px rgba(0,0,0,.4);-moz-box-shadow:4px 4px 5px rgba(0,0,0,.4);box-shadow:4px 4px 5px rgba(0,0,0,.4);background-color:#D9D9C2;color:#111;border:0 dashed transparent}.ui-tooltip-cluetip .ui-tooltip-titlebar{background-color:#87876A;color:#fff;border:0 dashed transparent}.ui-tooltip-cluetip .ui-tooltip-icon{border-color:#808064}.ui-tooltip-cluetip .ui-tooltip-titlebar .ui-state-hover{border-color:#696952;color:#696952}.ui-tooltip-tipsy{background:#000;background:rgba(0,0,0,.87);color:#fff;border:0 solid transparent;font-size:11px;font-family:'Lucida Grande',sans-serif;font-weight:700;line-height:16px;text-shadow:0 1px black}.ui-tooltip-tipsy .ui-tooltip-titlebar{padding:6px 35px 0 10;background-color:transparent}.ui-tooltip-tipsy .ui-tooltip-content{padding:6px 10}.ui-tooltip-tipsy .ui-tooltip-icon{border-color:#222;text-shadow:none}.ui-tooltip-tipsy .ui-tooltip-titlebar .ui-state-hover{border-color:#303030}.ui-tooltip-tipped{border:3px solid #959FA9;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;background-color:#F9F9F9;color:#454545;font-weight:400;font-family:serif}.ui-tooltip-tipped .ui-tooltip-titlebar{border-bottom-width:0;color:#fff;background:#3A79B8;background-image:-webkit-gradient(linear,left top,left bottom,from( #3A79B8),to( #2E629D));background-image:-webkit-linear-gradient(top, #3A79B8, #2E629D);background-image:-moz-linear-gradient(top, #3A79B8, #2E629D);background-image:-ms-linear-gradient(top, #3A79B8, #2E629D);background-image:-o-linear-gradient(top, #3A79B8, #2E629D);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D)"}.ui-tooltip-tipped .ui-tooltip-icon{border:2px solid #285589;background:#285589}.ui-tooltip-tipped .ui-tooltip-icon .ui-icon{background-color:#FBFBFB;color:#555}.ui-tooltip-bootstrap{font-size:13px;line-height:18px;color:#333;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.2);*border-right-width:2px;*border-bottom-width:2px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,.2);box-shadow:0 5px 10px rgba(0,0,0,.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}.ui-tooltip-bootstrap .ui-tooltip-titlebar{font-size:18px;line-height:22px;border-bottom:1px solid #ccc;background-color:transparent}.ui-tooltip-bootstrap .ui-tooltip-titlebar .ui-state-default{right:9px;top:49%;border-style:none}.ui-tooltip-bootstrap .ui-tooltip-icon{background:#fff}.ui-tooltip-bootstrap .ui-tooltip-icon .ui-icon{width:auto;height:auto;float:right;font-size:20px;font-weight:700;line-height:18px;color:#000;text-shadow:0 1px 0 #fff;opacity:.2;filter:alpha(opacity=20)}.ui-tooltip-bootstrap .ui-tooltip-icon .ui-icon:hover{color:#000;text-decoration:none;cursor:pointer;opacity:.4;filter:alpha(opacity=40)}.ui-tooltip:not(.ie9haxors) div.ui-tooltip-content,.ui-tooltip:not(.ie9haxors) div.ui-tooltip-titlebar{filter:none;-ms-filter:none}.ui-tooltip .ui-tooltip-tip{margin:0 auto;overflow:hidden;z-index:10}.ui-tooltip .ui-tooltip-tip,.ui-tooltip .ui-tooltip-tip .qtip-vml{position:absolute;line-height:.1px!important;font-size:.1px!important;color:#123456;background:transparent;border:0 dashed transparent}.ui-tooltip .ui-tooltip-tip canvas{top:0;left:0}.ui-tooltip .ui-tooltip-tip .qtip-vml{behavior:url(#default#VML);display:inline-block;visibility:visible}#qtip-overlay{position:fixed;left:-10000em;top:-10000em}#qtip-overlay.blurs{cursor:pointer}#qtip-overlay div{position:absolute;left:0;top:0;width:100%;height:100%;background-color:#000;opacity:.7;filter:alpha(opacity=70);-ms-filter:"alpha(Opacity=70)"}
+		</style>
+				<style type="text/css">
+			.em-coupon-code { width:150px; }
+			#em-coupon-loading { display:inline-block; width:16px; height: 16px; margin-left:4px; background:url(http://www.metrocomedy.com/wp-content/plugins/events-manager-pro/includes/images/spinner.gif)}
+			.em-coupon-message { display:inline-block; margin:5px 0px 0px 105px; text-indent:22px; }
+			.em-coupon-success { color:green; background:url(http://www.metrocomedy.com/wp-content/plugins/events-manager-pro/includes/images/success.png) 0px 0px no-repeat }
+			.em-coupon-error { color:red; background:url(http://www.metrocomedy.com/wp-content/plugins/events-manager-pro/includes/images/error.png) 0px 0px no-repeat }
+			.em-cart-coupons-form .em-coupon-message{ margin:5px 0px 0px 0px; }
+			#em-coupon-loading { margin-right:4px; }	
+		</style>
+		
+</head>
+
+
+
+<body class="error404 custom-background">
+
+<header>
+
+  <div class="topbar">
+
+    <div class="centerdiv">
+
+      <div class="logo"><a href="http://www.metrocomedy.com/" title="Metro Comedy" rel="home"><img src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/images/logo.png"></a></div>
+
+      <div class="top-bar-right">
+
+        <div class="socnetdiv">
+
+            <div class="socicon"><a href="https://www.facebook.com/metrocomedy" target="_blank"><img src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/images/facebook.png"></a></div>
+
+            <div class="socicon"><a href="https://twitter.com/Metrocomedy" target="_blank"><img src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/images/twitter.png"></a></div>
+
+            <div class="socicon"><a href="https://plus.google.com/u/0/+MetroComedy/posts"><img src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/images/googleplus.png"></a></div>
+
+            <div class="socicon"><a href="https://www.youtube.com/user/MetroComedyPresents/videos"><img src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/images/youtube.png"></a></div>
+
+        </div>
+
+        <div class="spacer"></div>
+
+        <nav>
+
+          <div class="menucon">
+
+            <ul id="nav" class=""><li ><a href="http://www.metrocomedy.com/">Home</a></li><li class="menudevider"></li><li ><a href="http://www.metrocomedy.com/events/">Events</a></li><li class="menudevider"></li><li ><a href="http://www.metrocomedy.com/news/category/comedy-news/">Comedy News</a></li><li class="menudevider"></li><li ><a href="http://www.metrocomedy.com/news/category/entertainment/">Entertainment</a></li><li class="menudevider"></li><li ><a href="http://www.metrocomedy.com/news/category/world/">World</a></li><li class="menudevider"></li><li ><a href="http://www.metrocomedy.com/sponsors/">Sponsors</a></li><li class="menudevider"></li><li ><a href="http://shop.metrocomedy.com/">Shop</a></li></ul>
+          </div>
+
+        </nav>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+	    
+<section>    
+<div class="centerdiv">    
+<div class="inner-content-sec">    	
+<div class="spacer20"></div>        
+<h1 class="fll blk">Not Found</h1>        
+<div class="spacer20"></div>        
+<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>        
+    
+<div class="spacer20"></div>    
+</div>    
+</div>
+</section>	
+<script type="text/javascript">		
+// focus on search field after it has loaded		
+document.getElementById('s') && document.getElementById('s').focus();	
+</script>
+
+<!-- Newsletter -->
+
+<section>
+
+<div class="newsletter">
+
+	<div class="centerdiv">
+
+    		<h1 style="padding: 0px !important;">Subscribe to our Newsletter for latest news</h1>
+
+            <div class="newsletter-con"><h1></h1>	
+				<form action="/wp-content/uploads/2012/09/Leonardo-Dicaprio-photo-1600X1200.jpg" id="ns_widget_mailchimp_form-2" method="post">
+																<input type="hidden" name="ns_mc_number" value="2" />
+						<label for="ns_widget_mailchimp-email-2"></label>
+						<input id="ns_widget_mailchimp-email-2" type="text" name="ns_widget_mailchimp_email" placeholder="Enter Your Email Address" class=" newsletter-tb fll"/>
+						<input class="button flr" type="submit" name="Subscribe" value="Subscribe" />
+					</form>
+						<script>jQuery('#ns_widget_mailchimp_form-2').ns_mc_widget({"url" : "/index.php", "cookie_id" : "ns_widget_mailchimp-2", "cookie_value" : "839e533aa14b1ede34b23fd647807901", "loader_graphic" : "http://www.metrocomedy.com/wp-content/plugins/mailchimp-widget/images/ajax-loader.gif"}); </script>
+				</div>
+            <div class="spacer20"></div>
+
+            <p style="margin: 0px;">We don't spam! We Promise : )</p> 
+
+            
+
+    </div>
+
+</div>
+
+</section>
+<!-- @end Newsletter -->
+
+    
+
+<footer>
+
+  <section>
+
+    <div class="footer-one">
+
+      <div class="spacer20"></div>
+
+      <div class="footerdiv" id="footer">
+
+        <div class="foot-box">
+
+          <h3>Metro Comedy</h3>
+
+          <div class="spacer10"></div>
+
+          <ul id="" class="list"><li ><a href="http://www.metrocomedy.com/events/">Events</a></li><li ><a href="http://www.metrocomedy.com/news/category/comedy-news/">Comedy News</a></li><li ><a href="http://www.metrocomedy.com/news/category/entertainment/">Entertainment</a></li><li ><a href="http://www.metrocomedy.com/sponsors/">Sponsors</a></li><li ><a href="http://www.metrocomedy.com/about/">About</a></li><li ><a href="http://shop.metrocomedy.com/">Shop</a></li></ul>
+        </div>
+
+        <div class="foot-box">
+
+          <h3>Quick Links </h3>
+
+          <div class="spacer10"></div>
+
+          <ul id="" class="list"><li ><a href="http://www.metrocomedy.com/events/upcoming-events/">Upcoming Events</a></li><li ><a href="http://www.metrocomedy.com/testimonials/">Testimonials</a></li><li ><a href="http://www.metrocomedy.com/downloads/">Downloads</a></li></ul>
+        </div>
+
+        <div class="foot-box">
+
+          <h3>Help &amp; Support</h3>
+
+          <div class="spacer10"></div>
+
+          <ul id="" class="list"><li ><a href="http://www.metrocomedy.com/faqs/">FAQs</a></li><li ><a href="http://www.metrocomedy.com/contact-us/">Contact Us</a></li><li ><a href="http://www.metrocomedy.com/sitemap/">Sitemap</a></li></ul>
+        </div>
+
+        <div class="contact-col">
+
+          <div align="center"><a href="http://www.metrocomedy.com/"><img src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/images/footlogo.png"></a></div>
+
+          
+
+          <div class="spacer10"></div>
+
+          <div align="center" class="contact-mail">info@metrocomedy.com</div>
+
+        </div>
+
+      </div>
+
+      <div class="spacer"></div>
+
+    </div>
+
+  </section>
+
+  <section>
+
+    <div class="footer-two">
+
+      <div class="centerdiv">
+
+        <div class="spacer10"></div>
+
+        <div align="center">&copy;2014,All Rights Reserved. metrocomedy.com<br>
+
+          <a href="http://www.metrocomedy.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.metrocomedy.com/terms/">Terms</a> | <a href="http://www.metrocomedy.com/sitemap/">Sitemap</a>
+        </div>
+
+        <div class="spacer10"></div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+</footer>
+
+
+
+
+	<script type="text/javascript">
+	
+	 //jQuery( "#accordion" ).accordion(); 
+	 
+	   jQuery( ".accordion" ).accordion({
+heightStyle: "content"
+});
+	</script>
+	
+<script type="text/javascript" src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/js/jquery-1.7.2.min.js"></script>
+
+<script defer src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/js/jquery.flexslider.js"></script>
+
+<script type="text/javascript" src="http://www.metrocomedy.com/wp-content/themes/metrocomedy/js/scrolltop.js"></script>
+
+<script type="text/javascript">
+
+$(function(){
+
+		$('#banner').flexslider({
+
+			animation: "fade",
+
+			easing: "swing",
+
+			slideshow: true, 
+
+			animationLoop:true,
+
+			slideshowSpeed:6000,
+
+			animationSpeed:1000,
+
+			controlNav:false,
+
+			directionNav:true,
+
+		});
+
+	});
+
+</script> 
+
+<script type="text/javascript">
+
+ $(window).load(function() {
+
+  $('#partners').flexslider({
+
+    animation: "slide",
+
+    animationLoop: false,
+
+	controlNav:false,
+
+    itemWidth: 130,
+
+	itemHeight: 50,
+
+    itemMargin: 5,
+
+    minItems: 1,
+
+    maxItems: 6
+
+  });
+
+});
+
+</script> 
+
+<a href="#" class="scroll-to-top"></a>
+
+</body>
+</html>
+

@@ -1,0 +1,786 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
+<link rel="stylesheet" type="text/css" href="http://cdn.crownmediadev.com/resource/assets/less/hallmark-main.min.5c1d3759a15f7ded2a10ba9ce3d2e8b4.gz.css">
+<title>404 Error Page | Hallmark Channel</title>
+<meta property="og:title" content="404 Error Page | Hallmark Channel">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=320, user-scalable=no, initial-scale=1, maximum-scale=1">
+<link rel="canonical" href="http://www.hallmarkchannel.com/error-404">
+<meta property="og:url" content="http://www.hallmarkchannel.com/error-404">
+<link rel="shortcut icon" type="image/x-icon" href="/hc-fav.ico">
+<meta property="og:fb_appid" content="345795075581250">
+<meta property="og:site_name" content="Hallmark Channel">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="404 Error Page | Hallmark Channel"><script type="text/javascript">var HM = {"disableInfiniteScroll":false,"isTablet":false,"isDesktop":true,"omniture":{"pageType":"Error Page","pageName":"404 Error Page | Hallmark Channel","prop2":"Web","prop1":"","account":"hallmarkchannel","server":"www.hallmarkchannel.com","prop3":"","prop4":"","domainFilter":"hallmarkchannel.com"},"comScore":{"c1":"2","c2":"0as","c6":"Error Page"},"isMobile":false};</script><script type="text/javascript" src="http://platform.twitter.com/widgets.js" defer="defer"></script>
+<script type="text/javascript" src="http://cdn.crownmediadev.com/resource/assets/js.min/main.1cee3913cc0da1a619d892461fb1b741.gz.js"></script>
+<script type="text/javascript" data-id="i053af1fd733d4e0faf4d018c4c8ad3b3">function HM_setOmnitureParams() {
+s.pageName = HM.omniture.pageName;
+s.server = HM.omniture.server;
+s.channel = HM.omniture.channel;
+s.pageType = HM.omniture.pageType;
+s.prop1 = HM.omniture.prop1;
+s.prop2 = HM.omniture.prop2;
+s.prop3 = HM.omniture.prop3;
+s.prop4 = HM.omniture.prop4;
+};
+</script>
+        
+
+
+
+
+
+<script>
+    function getOffset () {
+        var now = new Date();
+        var jan = new Date(now.getFullYear(), 0, 1);
+        var jul = new Date(now.getFullYear(), 6, 1);
+        return Math.max(jan.getTimezoneOffset(), jul.getTimezoneOffset());
+    }
+
+    document.cookie = 'tzcookie=-' + getOffset() + ';max-age=31536000;path=/;';
+</script>
+
+    </head>
+
+    <body itemscope itemtype="http://schema.org/WebPage" class="desktop">
+        
+
+
+
+
+
+
+    <script>
+        var _comscore = _comscore || [];
+        _comscore.push(HM.comscore);
+
+        (function() {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+        
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=0as&c5=&cv=2&cj=1"/>
+    </noscript>
+
+
+        <script src="/assets/js/omniture.js"></script>
+
+<div class="header">
+
+
+
+
+
+
+
+
+<div class="navigation-global-wrap" style="background-color:#b5262b;background-image: url('http://cdn.crownmediadev.com/df/ea/ece68a804eabad7f438309637d3b/b4262b.png');background-repeat:no-repeat;background-position:center;" >
+    <div class="navigation-global">
+        <div class="m-navigation-global" style="background-color:#b5262b;background-image: url('http://cdn.crownmediadev.com/df/ea/ece68a804eabad7f438309637d3b/b4262b.png');background-repeat:no-repeat;background-position:center;"
+              data-bsp-plugin-mobile-header-navigation >
+            <span class="m-navigation-trigger">
+                <i></i>
+            </span>
+            <div class="m-navigation-branding">
+                <a href="http://www.hallmarkchannel.com">
+                <i></i>
+                </a>
+            </div>
+            <span class="m-navigation-search">
+                <a href="/search" class="navigation-search-link">
+                    <i class="navigation-search-icon"></i>
+                </a>
+            </span>
+        </div>
+
+        <nav class="navigation-primary" role="navigation">
+            <div class="navigation-branding">
+                <a href="http://www.hallmarkchannel.com">
+               <i></i></a>
+            </div>
+            
+            <ul class="navigation-menu-items">
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                            <li class="navigation-menu-item">
+                                <a href="http://www.hallmarkchannel.com/schedule" class="navigation-menu-item-dropdown-link">Schedule</a>
+                                
+
+
+
+
+
+
+
+                            </li>
+                        
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                            <li class="navigation-menu-item">
+                                <a href="http://www.hallmarkchannel.com/movies" class="navigation-menu-item-dropdown-link">Movies</a>
+                                
+
+
+
+
+
+
+
+                            </li>
+                        
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                            <li class="navigation-menu-item">
+                                <a href="http://www.hallmarkchannel.com/shows" class="navigation-menu-item-dropdown-link">Shows</a>
+                                
+
+
+
+
+
+
+
+                            </li>
+                        
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                            <li class="navigation-menu-item">
+                                <a href="http://www.hallmarkchannel.com/videos" class="navigation-menu-item-dropdown-link">Videos</a>
+                                
+
+
+
+
+
+
+
+                            </li>
+                        
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                            <li class="navigation-menu-item">
+                                <a href="http://www.hallmarkchannel.com/christmas" class="navigation-menu-item-dropdown-link">Christmas</a>
+                                
+
+
+
+
+
+
+
+                            </li>
+                        
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                            <li class="navigation-menu-item">
+                                <a href="http://www.hallmarkchannel.com/home-and-family" class="navigation-menu-item-dropdown-link">Home & Family</a>
+                                
+
+
+
+
+
+
+
+                            </li>
+                        
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                        
+                            
+                                <li class="navigation-menu-item-dropdown more">
+                                    <a href="/error-404" class="navigation-menu-item-dropdown-link">More</a>
+                                    <ul class="navigation-menu-item-dropdown-container more-nav-item" role="header-menu" aria-labelledby="dLabel">
+                            
+                                        <li class="navigation-menu-item-dropdown-container-traditional-link">
+                                            <a href="http://www.hallmarkchannel.com/shop">Shop</a>
+                                        </li>
+                        
+                    
+                    
+                
+                    
+                    
+                    
+                        
+                        
+                            
+                                        <li class="navigation-menu-item-dropdown-container-traditional-link">
+                                            <a href="http://www.hallmarkchannel.com/kitten-bowl">Kitten Bowl</a>
+                                        </li>
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                        
+                            
+                                        <li class="navigation-menu-item-dropdown-container-traditional-link">
+                                            <a href="http://www.hallmarkchanneleverywhere.com" target="_blank">Hallmark Channel Everywhere</a>
+                                        </li>
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                        
+                            
+                                        <li class="navigation-menu-item-dropdown-container-traditional-link">
+                                            <a href="http://www.hallmarkchannel.com/happy">Happy the Cat</a>
+                                        </li>
+                        
+                    
+                    
+                
+                    
+                    
+                        
+                    
+                    
+                        
+                        
+                            
+                                        <li class="navigation-menu-item-dropdown-container-traditional-link">
+                                            <a href="http://www.hallmarkchannel.com/cat-center">Cat Center</a>
+                                        </li>
+                        
+                    
+                    
+                        </ul>
+                        </li>
+                    
+                
+                
+                
+                    <li class="navigation-search">
+                        <a href="/search" class="navigation-search-link">
+                            <i class="navigation-search-icon"></i>
+                        </a>
+                    </li>
+                
+            </ul>
+        </nav>
+
+        <div class="navigation-secondary">
+            <div class="navigation-secondary-social-share">
+                
+                    <a href="https://www.facebook.com/hallmarkchannel" class="navigation-secondary-social-share-link" target="_blank">
+                        <i class="navigation-secondary-link-facebook-icon"></i>
+                    </a>
+                
+                
+                    <a href="http://www.pinterest.com/hallmarkchannel/" class="navigation-secondary-social-share-link" target="_blank">
+                        <i class="navigation-secondary-link-pinterest-icon"></i>
+                    </a>
+                
+                
+                    <a href="https://twitter.com/hallmarkchannel" class="navigation-secondary-social-share-link" target="_blank">
+                        <i class="navigation-secondary-link-twitter-icon"></i>
+                    </a>
+                
+            </div>
+            
+            
+                <div class="navigation-secondary-channel-locator">
+                    <a href="http://www.hallmarkchannel.com/channel-locator" class="navigation-secondary-channel-locator-link">
+                        <i class="navigation-secondary-link-crown-icon"></i>Channel Locator</a>
+                </div>
+            
+            
+                <div class="navigation-secondary-movies-mysteries">
+                    <a href="http://www.hallmarkmoviesandmysteries.com/" class="navigation-secondary-movies-mysteries-link">
+                        Hallmark Movies & Mysteries<i></i>
+                    </a>
+                </div>
+            
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="header-search-dropdown" data-bsp-plugin-header-search>
+    <div class="header-search-controls">
+        <form class="searchForm" name="search" method="GET" action="/search">
+        <i></i><input name="q" class="searchResults" type="text" placeholder="Search..."/>
+        </form>
+    </div>
+</div>
+
+</div>
+<div class="header-search-overlay"></div>
+<div class="content" data-bsp-plugin-brandscape>
+    <a href="http://www.hallmarkchannel.com/christmas" target="_blank">
+        <div class="brandscape-left" style="background-color:#b5262b;background-image: url('http://cdn.crownmediadev.com/ff/fa/ec52557341d4aea88155940fb013/b4262b.png');background-repeat:no-repeat;background-position:right;"></div>
+    </a>
+    <div class="content-inner content-noMicrosite">
+        
+
+
+
+
+
+
+
+
+    <style>
+        .leaderboard-ad { background-color: #b5262b;}
+    </style>
+
+
+
+    
+        
+        
+            
+                <div class="leaderboard-ad">
+                    <div class="leaderboard-container">
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+        
+        
+        
+            
+            
+                
+            
+        
+    
+
+    <div class="display-ad">
+        
+            
+            
+                
+                <span id="728x90_slot_1_1417570574909" class="_fwph">
+                    <form id="_fw_form_728x90_slot_1_1417570574909" style="display:none">
+                        <input id="_fw_input_728x90_slot_1_1417570574909" name="_fw_input_728x90_slot_1_1417570574909" type="hidden" value="ptgt=s&w=728&h=90&slau=display">
+                    </form>
+                    <span id="_fw_container_728x90_slot_1_1417570574909" class="_fwac"></span>
+                </span>
+            
+        
+    </div>
+
+
+
+                    </div>
+                </div>
+            
+        
+    
+
+        
+        
+
+
+
+
+
+
+
+
+<div class="mediaBar" data-bsp-plugin-mediaBar>
+    <ul class="mediaBar-items">
+        <li class="mediaBar-item">
+            
+                <div class="mediaBar-count">0</div>
+            
+            <div class="mediaBar-icon-facebook" data-bsp-share data-bsp-share-options='{"service":"facebook", "appId":"345795075581250"}'></div>
+        </li>
+
+        <li class="mediaBar-item">
+            
+                <div class="mediaBar-count">0</div>
+            
+            
+            <div class="mediaBar-icon-twitter">
+                <a href="https://twitter.com/intent/tweet?text=404%20Error%20Page%20%7C%20Hallmark%20Channel&url=http%3A%2F%2Fwww.hallmarkchannel.com%2Ferror-404"></a>
+            </div>
+        </li>
+
+        <li class="mediaBar-item">
+            
+                <div class="mediaBar-count">0</div>
+            
+            <div class="mediaBar-icon-pinterest" data-bsp-share data-bsp-share-options='{"service":"pinterest"}'></div>
+        </li>
+
+        
+            <li class="mediaBar-item">
+                <a href="mailto:?subject=404%20Error%20Page%20%7C%20Hallmark%20Channel&body=http%3A%2F%2Fwww.hallmarkchannel.com%2Ferror-404">
+                    <div class="mediaBar-icon-email"></div>
+                </a>
+            </li>
+        
+
+        <li class="mediaBar-item">
+            <a href="javascript:window.print()">
+                <div class="mediaBar-icon-print"></div>
+            </a>
+        </li>
+    </ul>
+</div>
+
+        
+
+
+
+
+
+<div class="error mediaBar-hide">
+    <div class="error-heading">
+        We're sorry.
+    </div>
+    <div class="error-subtext">
+        We can't seem to find the page you're looking. Try a search term here.
+    </div>
+    
+    
+        <form class="error-search-form" action="/search" method="get">
+            <input class="error-search-input" type="text" name="q" placeholder="Search..." maxlength="100"/>
+            <input class="error-search-submit" type="submit" value="Search" />
+        </form>
+    
+</div>
+
+    </div>
+    <a href="http://www.hallmarkchannel.com/christmas" target="_blank">
+        <div class="brandscape-right" style="background-color:#b5262b;background-image: url('http://cdn.crownmediadev.com/3d/a4/54d929224d37a366a458ea9c3b3e/b4262b.png');background-repeat:no-repeat;background-position:left;"></div>
+    </a>
+</div>
+
+
+<div class="device-xs visible-xs"></div>
+<div class="device-sm visible-sm"></div>
+<div class="device-md visible-md"></div>
+<div class="device-lg visible-lg"></div>
+
+<div class="footer">
+
+
+
+
+
+<div class="navigation-footer-branding">
+    <a href="http://www.hallmarkchannel.com" class="navigation-footer-branding-link"></a>
+</div>
+<ul class="navigation-footer-items">
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="http://ir.crownmedia.net/" target="_blank">Investor Relations</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannel.com/about-us">About Us</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="/jobs">Jobs</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannel.com/faq">Feedback</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="/advertising">Advertising</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannelpress.com/?SiteID=142&amp;NodeID=144" target="_blank">Press</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannel.com/channel-locator">Channel Locator</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="/newsletter">Newsletter</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="/games">Games</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="/privacy-policy">Privacy Policy</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="/crown-media-family-networks-terms-of-use">Terms of Use</a></span>
+        </li>
+    
+        <li class="navigation-footer-item">
+            <span class="navigation-footer-item-link"><a href="http://www.hallmark.com/" target="_blank">Hallmark Cards</a></span>
+        </li>
+    
+</ul>
+<div class="navigation-footer-copyright">Copyright &copy; 2014 Crown Media, all rights reserved</div>
+</div>
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+        
+        
+        
+            
+
+
+
+
+
+
+
+
+
+
+<script>
+    (function () {
+        var script;
+        var inCmsPreview = (window.location.pathname.indexOf('/_preview') > -1);
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        window.HM = window.HM || {};
+
+        
+        if (!inCmsPreview && true) {
+            script =  document.createElement('script');
+
+            
+            if (window.HM.isVideoAd) {
+
+                
+                script.src = "http://adm.fwmrm.net/p/hallmark_bc_html5/BrightcovePlugin.js";
+
+                
+                window.fw_config = function () {
+                    return {
+                        amLocation_js: "http://adm.fwmrm.net/p/hallmark_bc_html5/AdManager.js",
+                        assetIdField: "standardBC_id",
+                        fw_server: "http://5c910.v.fwmrm.net",
+                        networkId: "379152",
+                        videoAssetNetworkId: "379152",
+                        siteSectionNetworkId: "379152",
+                        cb_profile_js: "379152:hallmark_bc_html5_live",
+                        siteSectionFallbackId: "2811954",
+                        siteSection: "hc_microsite_videos",
+                        keyValues: ""
+                    };
+                };
+            }
+            
+            else {
+                
+                window._fw_linktag_script_url = "http://adm.fwmrm.net/p/hallmark_live/LinkTag2.js";
+                script.src = window._fw_linktag_script_url;
+                script.async = true;
+
+                
+                window._fw_linktag_params = {
+                    scan_delay: 0,
+                    allow_rescan_after: 15000, 
+                    server: "http://5c910.v.fwmrm.net",
+                    network_id: "379152",
+                    profile: "379152:hallmark_bc_html5_live",
+                    other_global_params: "csid=hc_microsite_videos&",
+                    key_values: ""
+                };
+
+                
+                var e = function () {
+                    if (document.addEventListener) document.removeEventListener('DOMContentLoaded', e, false);
+                    else window.detachEvent('onload', e);
+                    window._fw_page_ready = true;
+                };
+                if (document.addEventListener) document.addEventListener('DOMContentLoaded', e, false);
+                else if (window.attachEvent) window.attachEvent('onload', e);
+            }
+
+            firstScriptTag.parentNode.insertBefore(script, firstScriptTag);
+        }
+
+        
+        window.HM.createAdRequestUrl = function (slotId, width, height, customSlotValues) {
+            var server = "http://5c910.v.fwmrm.net";
+            var profile = "379152:hallmark_bc_html5_live";
+            var siteSection = "hc_microsite_videos";
+            var network = "379152";
+            if (!customSlotValues) {
+                customSlotValues = "ptgt=s&w=" + width + "&h=" + height + "&slau=display&slid=" + slotId + "&flag=+cmpn";
+            }
+            return server + "/ad/g/1?nw=" + network + "&prof=" + profile + "&csid=" + siteSection + "&resp=ad&pvrn=" +
+                    (Math.random() * 1000000) + "&vprn=" + (Math.random() * 1000000) + ";;" + customSlotValues;
+        };
+    })();
+</script>
+
+
+
+
+        
+    
+
+
+        
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        <!--
+        HM_setOmnitureParams();
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code = s.t();
+        if (s_code)document.write(s_code)
+        //-->
+    </script>
+    <script language="JavaScript" type="text/javascript">
+        <!--
+        if (navigator.appVersion.indexOf('MSIE') >= 0)
+            document.write(unescape('%3C') + '\!-' + '-')
+        //-->
+    </script>
+    <noscript>
+        <a href="http://www.omniture.com" title="Web Analytics">
+            <img src="http://hallmarkcrownmediadev.112.2O7.net/b/ss/hallmarkcrownmediadev/1/H.20.3--NS/0" height="1" width="1" border="0" alt=""/>
+        </a>
+    </noscript>
+    <!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.20.3. -->
+
+
+    </body>
+</html>
+

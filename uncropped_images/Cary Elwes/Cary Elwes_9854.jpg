@@ -1,0 +1,1328 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+
+<title>
+SciFiPulse.net - Taking the pulse of SciFi</title>
+<!-- keywords description author -->
+<meta name="keywords" content="  SciFiPulse.net , SciFiPulse.net" />
+<meta name="description" content="  Taking the pulse of SciFi" />
+<!--apple icon-->
+<link rel="apple-touch-icon" href="http://scifipulse.net/wp-content/uploads/2014/08/scifipulseApple.jpg"/>
+<!--favicon-->
+<link rel="shortcut icon" href="http://scifipulse.net/wp-content/uploads/2014/08/scifipulseFlogo.jpg" />
+<!--stylesheet-->
+<link rel="stylesheet" type="text/css" href="http://scifipulse.net/wp-content/themes/TN/style.css" />
+<!--viewport-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--charset-->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+<!--rss-comments-->
+<link rel="alternate" type="application/rss+xml" href="http://scifipulse.net/?feed=comments-rss2"/>
+<!--rss-->
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://scifipulse.net/?feed=rss2" />
+<!--atom-->
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://scifipulse.net/?feed=atom" />
+<!--pingback-->
+<link rel="pingback" href="http://scifipulse.net/xmlrpc.php" />
+
+
+
+<!--Facebook Open Graph-->
+	<!--FB page title-->
+<meta property="og:title" content="SciFiPulse.net" />
+	<!--FB description-->
+<meta property="og:description" content="Taking the pulse of SciFi"/>
+	<!--FB url-->
+<meta property="og:url" content="http://scifipulse.net"/>
+	<!--FB image-->
+<meta property="og:image" content="" />  
+	<!--FB type-->
+<meta property="og:type" content="website"/>
+	<!--FB site name-->
+<meta property="og:site_name" content="SciFiPulse.net"/>
+
+
+<link rel="alternate" type="application/rss+xml" title="SciFiPulse.net &raquo; Feed" href="http://scifipulse.net/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="SciFiPulse.net &raquo; Comments Feed" href="http://scifipulse.net/?feed=comments-rss2" />
+<link rel='stylesheet' id='ace_responsive-css'  href='http://scifipulse.net/wp-content/plugins/simple-embed-code/css/ace-video-container.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;family=Open+Sans%3A400%2C600%2C700%2C800%7COpen+Sans+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-menu-fonts-css'  href='http://fonts.googleapis.com/css?subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;family=Open+Sans%3A400%2C600%2C700%2C800%7COpen+Sans+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://scifipulse.net/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://scifipulse.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://scifipulse.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://scifipulse.net/wp-content/themes/TN/js/jquery.flexslider-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://scifipulse.net/wp-content/themes/TN/js/tn-scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://scifipulse.net/wp-content/themes/TN/js/respond.min.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://scifipulse.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://scifipulse.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<style type='text/css'>img#wpstats{display:none}</style>
+
+<style type='text/css'>
+#site-logo, #content-social {background: #000000;}
+body{font-family:Open Sans;}
+.magic-line, .square-review-score, .total-score, .score-width, .newest-posts-thumb:hover .play-icon, .carousel-image:hover .play-icon, .square-image:hover .play-icon, .category-name h1{background: #0099ff;}
+.menu-item .menu-link, #mob-menu{color:#FFFFFF;}
+.sub-menu-wrapper{border-color:#000000}
+.flex-active .wide-slider-thumb:after{border-color:#0099ff;}
+.home-widget h3, .sidebar-title-line, ul.tabs li.active, ul.tabs li{border-color:#000000;}
+.tv-featured{background:#000000;}
+ul.tabs li.active{background:#000000;}
+#footer-widgets{background:#000000;}
+.menu-item-object-category.menu-item-has-children:after{content:"+";color:#0099ff;}
+.submit-button{background:#0099ff url(http://scifipulse.net/wp-content/themes/TN/images/search-icon.png) no-repeat 3px;}
+.fb-social-icon, .twitter-social-icon, .pinterest-social-icon, .google-social-icon, .instagram-social-icon, .rss-social-icon, .youtube-social-icon{background-image:url(http://scifipulse.net/wp-content/themes/TN/images/social-buttons-header.png);}
+.about-social .fb-social-icon, .about-social .twitter-social-icon, .about-social .pinterest-social-icon, .about-social .google-social-icon, .about-social .instagram-social-icon, .about-social .rss-social-icon, .about-social .youtube-social-icon{background-image:url(http://scifipulse.net/wp-content/themes/TN/images/social-buttons-footer.png);}
+#searchform input{background-image:url(http://scifipulse.net/wp-content/themes/TN/images/search-icon.png);}
+#footer, #footer .widget-title, #footer .post-date, #footer a, #footer a:visited, #footer .big-featured-posts-content, #footer .medium-featured-posts-content, #footer .big-featured-posts-text, #submit{color:#FFFFFF;}
+#footer .tagcloud a{border-color:#FFFFFF;}
+#submit{background:#000000;}
+#ticker-today-date, .ticker-heading, .ticker-star{color:;}
+::selection{background:#000000;color:#FFFFFF;}
+::-moz-selection{background:#000000;color:#FFFFFF;}
+#post-content a, ul.tabs li.active h4 a:hover, .mosaic-title h2 a:hover, .slide-title a:hover, .big-featured-posts-title h2 a:hover, #ticker a:hover, #top-menu ul li a:hover, .category-tv-icon a, #top-menu-today-date{color:#0099ff;}
+#primary{float:left;}
+#wide-containter .flex-control-paging li a:hover, #navigation{background:#000000;}
+.page-numbers.current, .sticky h2 a, #author-desc h2 a, .previous-article a, .next-article a, .slide-info .slide-author a, #cancel-comment-reply-link, .medium-featured-posts-title h2 a:hover, .three-posts-title a:hover, .required, .tagcloud a:hover, .post-tags a:hover, .slider-text-box .category-icon a:hover, #main-nav .menu-text a:hover, .carousel-text a:hover, #main-nav #menu-links li:hover .menu-text a:hover, .bypostauthor a, .post-author a, .three-posts-read-more a:hover, .post-author a:visited, a:hover, .feat-cat-categories a, .tv-featured-post-title a:hover, .tv-featured-text .category-icon a, .carousel-category a, .category-sidebar-news a, .ticker-cat a, #main-nav ul .category-sidebar-news a, .post-arrow, .good-title, .bad-title {color:#0099ff;}
+#main-nav ul li a, #mob-menu{font-family: Open Sans;}
+#post-content blockquote{border-left: 4px solid #000000;}
+.mosaic-posts-image:hover .mosaic-title h2:after{border-bottom: 2px solid ;}
+@media screen and (max-width: 708px) {#main-nav ul li {background:#000000;}#main-nav ul li:hover a{color:#0099ff;}}
+</style><script type='text/javascript'>
+	var slide_picker = 'slide';
+	</script>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #13388e; }
+</style>
+</head>
+
+<body class="home blog custom-background">
+<header id="header">
+	<div id="top-navigation">
+			<nav id="top-menu">
+				<div class="menu-small-menu-container"><ul id="menu-small-menu" class="menu"><li id="menu-item-1136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1136"><a href="http://scifipulse.net/?cat=6">Reviews</a></li>
+<li id="menu-item-1135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1135"><a href="http://scifipulse.net/?cat=8">Indieweb Television</a></li>
+<li id="menu-item-1137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1137"><a href="http://scifipulse.net/?cat=285">Books</a></li>
+<li id="menu-item-1138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1138"><a href="http://ScifiPulseRadio.com">Podcast</a></li>
+</ul></div>			</nav><!--top-menu-->
+            <div class="top-menu-title-date">
+                <div id="top-menu-title-side">
+                    Todays Date                </div><!--top-menu-title-side-->
+                <div id="top-menu-today-date">
+                    November 24                </div><!--top-menu-today-date-->
+            </div><!--top-menu-title-date-->
+	</div><!--top-navigation-->
+	<div id="logo">
+		<div id="site-logo">
+			<a href="http://scifipulse.net"><img src="http://scifipulse.net/wp-content/uploads/2014/08/cropped-scifi-pulse-370x751.png" height="75" width="370" alt="SciFiPulse.net"/></a>	
+		</div><!--site-logo-->
+		<div id="ticker">
+			<div class="ticker">
+	<ul class="slides">
+		
+		<li>
+			<div class="ticker-image">
+								<a href="http://scifipulse.net/?p=4299" title="&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/star-wars-vii.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="star-wars-vii" />				</a>
+							</div><!--ticker-image-->
+			<div class="ticker-posts-text">
+            	<div class="ticker-cat"><a href="http://scifipulse.net/?cat=1">SF-TV AND Movie News</a></div>
+				<h2><a href="http://scifipulse.net/?p=4299" class="small-featured-posts-title">
+					&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday					</a></h2>
+				<div class="ticker-date-posted">
+					<div class="post-date">
+						<span class="date">November 24, 2014</span>
+					</div><!--post-date-->
+				</div><!--ticker-date-posted--> 
+			</div><!--ticker-posts-text--> 
+		</li>
+
+		
+		<li>
+			<div class="ticker-image">
+								<a href="http://scifipulse.net/?p=4185" title="Constantine Production Halted at Unlucky 13 Episodes">
+				<img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/Constantinelogo.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="Constantinelogo" />				</a>
+							</div><!--ticker-image-->
+			<div class="ticker-posts-text">
+            	<div class="ticker-cat"><a href="http://scifipulse.net/?cat=1">SF-TV AND Movie News</a></div>
+				<h2><a href="http://scifipulse.net/?p=4185" class="small-featured-posts-title">
+					Constantine Production Halted at Unlucky 13 Episodes					</a></h2>
+				<div class="ticker-date-posted">
+					<div class="post-date">
+						<span class="date">November 24, 2014</span>
+					</div><!--post-date-->
+				</div><!--ticker-date-posted--> 
+			</div><!--ticker-posts-text--> 
+		</li>
+
+		
+		<li>
+			<div class="ticker-image">
+								<a href="http://scifipulse.net/?p=4280" title="In Review: Sleepy Hollow: Children of the Revolution">
+				<img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/SleepyHollowChildrenoftheRevolution.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="SleepyHollowChildrenoftheRevolution" />				</a>
+							</div><!--ticker-image-->
+			<div class="ticker-posts-text">
+            	<div class="ticker-cat"><a href="http://scifipulse.net/?cat=285">Books</a></div>
+				<h2><a href="http://scifipulse.net/?p=4280" class="small-featured-posts-title">
+					In Review: Sleepy Hollow: Children of the Revolution					</a></h2>
+				<div class="ticker-date-posted">
+					<div class="post-date">
+						<span class="date">November 24, 2014</span>
+					</div><!--post-date-->
+				</div><!--ticker-date-posted--> 
+			</div><!--ticker-posts-text--> 
+		</li>
+
+		
+		<li>
+			<div class="ticker-image">
+								<a href="http://scifipulse.net/?p=4268" title="In Review: Ripper Street &#8211; Ashes And Diamonds">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/ripper-street.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="ripper-street" />				</a>
+							</div><!--ticker-image-->
+			<div class="ticker-posts-text">
+            	<div class="ticker-cat"><a href="http://scifipulse.net/?cat=6">Reviews</a></div>
+				<h2><a href="http://scifipulse.net/?p=4268" class="small-featured-posts-title">
+					In Review: Ripper Street &#8211; Ashes And Diamonds					</a></h2>
+				<div class="ticker-date-posted">
+					<div class="post-date">
+						<span class="date">November 24, 2014</span>
+					</div><!--post-date-->
+				</div><!--ticker-date-posted--> 
+			</div><!--ticker-posts-text--> 
+		</li>
+
+		
+		<li>
+			<div class="ticker-image">
+								<a href="http://scifipulse.net/?p=4276" title="First &#8216;Jurrassic World&#8217; Trailer Shows The Parks Opening">
+				<img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/jurassic-world.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="jurassic-world" />				</a>
+							</div><!--ticker-image-->
+			<div class="ticker-posts-text">
+            	<div class="ticker-cat"><a href="http://scifipulse.net/?cat=1">SF-TV AND Movie News</a></div>
+				<h2><a href="http://scifipulse.net/?p=4276" class="small-featured-posts-title">
+					First &#8216;Jurrassic World&#8217; Trailer Shows The Parks Opening					</a></h2>
+				<div class="ticker-date-posted">
+					<div class="post-date">
+						<span class="date">November 24, 2014</span>
+					</div><!--post-date-->
+				</div><!--ticker-date-posted--> 
+			</div><!--ticker-posts-text--> 
+		</li>
+
+		
+		<li>
+			<div class="ticker-image">
+								<a href="http://scifipulse.net/?p=4270" title="Richard Hatch Gives Full Support For &#8216;Battlestar Galactica&#8217; Movie">
+				<img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/BGApolloStarbuck.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="BGApolloStarbuck" />				</a>
+							</div><!--ticker-image-->
+			<div class="ticker-posts-text">
+            	<div class="ticker-cat"><a href="http://scifipulse.net/?cat=1">SF-TV AND Movie News</a></div>
+				<h2><a href="http://scifipulse.net/?p=4270" class="small-featured-posts-title">
+					Richard Hatch Gives Full Support For &#8216;Battlestar Galactica&#8217; Movie					</a></h2>
+				<div class="ticker-date-posted">
+					<div class="post-date">
+						<span class="date">November 24, 2014</span>
+					</div><!--post-date-->
+				</div><!--ticker-date-posted--> 
+			</div><!--ticker-posts-text--> 
+		</li>
+
+			</ul>
+</div><!--ticker-->
+<div class="ticker-nav">
+        <a href="#" class="tick-prev" ></a>
+        <a href="#" class="tick-next"></a>
+</div><!--ticker-nav-->
+
+		</div><!--ticker--> 
+                <div id="content-social">
+            <ul>
+                                <li><a href="http://www.facebook.com/ScifiPulse" class="fb-social-icon" target="_blank"></a></li>
+                                                <li><a href="http://www.twitter.com/@scifipulse" class="twitter-social-icon" target="_blank"></a></li>
+                                                                                
+                <li><a href="http://scifipulse.net/?feed=rss" class="rss-social-icon"></a></li>
+            </ul>
+		</div><!--content-social-->  
+         
+        
+	</div><!--logo-->
+	<div id="nav-wrapper">
+		<div id="navigation">
+			<nav id="main-nav">
+				<div id="mob-menu">
+					&#9776;  Menu
+				</div><!--mob-menu-->
+				<div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://scifipulse.net/?cat=1" title="SF-TV AND Movie News" class="menu-link">SF-TV AND Movie News</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://scifipulse.net/?cat=4" title="Comic Book News & Reviews" class="menu-link">Comic Book News &#038; Reviews</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://scifipulse.net/?cat=5" title="Interviews" class="menu-link">Interviews</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://scifipulse.net/?cat=7" title="Games & Merch" class="menu-link">Games &#038; Merch</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://scifipulseradio.com" title="SciFiPulse Radio" class="menu-link">SciFiPulse Radio</a></li>
+</ul></div>				<div class="search-box">
+					<form method="get" id="searchform" action="http://scifipulse.net/">
+  <input type="text" name="s" id="s"/>
+  <button type="submit" class="submit-button" />
+</form>
+				</div><!--search-box-->
+			</nav><!--main-nav-->
+		</div><!--navigation-->
+	</div><!--nav-wrapper-->
+</header><!--header-->
+
+<section id="wrapper" class="hfeed">
+<div id="main">
+	      <div class="wide-slider-box">
+     	 <div id="slider-container">
+	<div class="wide-slider">
+		<ul class="slides">
+						<li>
+								<a href="http://scifipulse.net/?p=4299" title="&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/star-wars-vii.jpg?resize=802%2C499" class="attachment-slider-img wp-post-image" alt="star-wars-vii" />				</a>
+								<div class="slider-text-box">
+                	<span class="slide-date">November 24, 2014</span>		
+					<div class="slide-title"><h2><a href="http://scifipulse.net/?p=4299">
+						&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday						</a></h2>
+					</div><!--slider-text-box-->
+					<div class="slide-info">
+						<span class="slide-excerpt">
+							The announcement came earlier today that a select number of North American theatres will play host to the first promos from the new Star Wars episode this Thanksgiving weekend.                         
+						</span>
+					</div><!--slider-info-->
+				</div><!--slider-text-box-->
+			</li>
+						<li>
+								<a href="http://scifipulse.net/?p=4185" title="Constantine Production Halted at Unlucky 13 Episodes">
+				<img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/Constantinelogo.jpg?resize=802%2C480" class="attachment-slider-img wp-post-image" alt="Constantinelogo" />				</a>
+								<div class="slider-text-box">
+                	<span class="slide-date">November 24, 2014</span>		
+					<div class="slide-title"><h2><a href="http://scifipulse.net/?p=4185">
+						Constantine Production Halted at Unlucky 13 Episodes						</a></h2>
+					</div><!--slider-text-box-->
+					<div class="slide-info">
+						<span class="slide-excerpt">
+							I hope the show comes back next season, but my hopes are low.                          
+						</span>
+					</div><!--slider-info-->
+				</div><!--slider-text-box-->
+			</li>
+						<li>
+								<a href="http://scifipulse.net/?p=4280" title="In Review: Sleepy Hollow: Children of the Revolution">
+				<img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/SleepyHollowChildrenoftheRevolution.jpg?resize=802%2C499" class="attachment-slider-img wp-post-image" alt="SleepyHollowChildrenoftheRevolution" />				</a>
+								<div class="slider-text-box">
+                	<span class="slide-date">November 24, 2014</span>		
+					<div class="slide-title"><h2><a href="http://scifipulse.net/?p=4280">
+						In Review: Sleepy Hollow: Children of the Revolution						</a></h2>
+					</div><!--slider-text-box-->
+					<div class="slide-info">
+						<span class="slide-excerpt">
+							This has me hopeful that more original adventures of this series will be produced and DeCandido will be invited back.                         
+						</span>
+					</div><!--slider-info-->
+				</div><!--slider-text-box-->
+			</li>
+						<li>
+								<a href="http://scifipulse.net/?p=4268" title="In Review: Ripper Street &#8211; Ashes And Diamonds">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/ripper-street.jpg?resize=802%2C499" class="attachment-slider-img wp-post-image" alt="ripper-street" />				</a>
+								<div class="slider-text-box">
+                	<span class="slide-date">November 24, 2014</span>		
+					<div class="slide-title"><h2><a href="http://scifipulse.net/?p=4268">
+						In Review: Ripper Street &#8211; Ashes And Diamonds						</a></h2>
+					</div><!--slider-text-box-->
+					<div class="slide-info">
+						<span class="slide-excerpt">
+							The mysterious death of a clairvoyant unlocks the heart of a deceptive scheme.                         
+						</span>
+					</div><!--slider-info-->
+				</div><!--slider-text-box-->
+			</li>
+						<li>
+								<a href="http://scifipulse.net/?p=4276" title="First &#8216;Jurrassic World&#8217; Trailer Shows The Parks Opening">
+				<img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/jurassic-world.jpg?resize=802%2C499" class="attachment-slider-img wp-post-image" alt="jurassic-world" />				</a>
+								<div class="slider-text-box">
+                	<span class="slide-date">November 24, 2014</span>		
+					<div class="slide-title"><h2><a href="http://scifipulse.net/?p=4276">
+						First &#8216;Jurrassic World&#8217; Trailer Shows The Parks Opening						</a></h2>
+					</div><!--slider-text-box-->
+					<div class="slide-info">
+						<span class="slide-excerpt">
+							The first teaser for 'Jurassic World' has been released and it shows off the re opening of 'Jurassic Park'.                         
+						</span>
+					</div><!--slider-info-->
+				</div><!--slider-text-box-->
+			</li>
+					</ul>
+	</div><!--flexslider-->
+</div><!--slider-container-->
+
+
+
+
+<div class="wide-slider-control">
+	<ul>
+				<li>
+			<div class="wide-slider-thumb">
+								<a href="#" title="&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/star-wars-vii.jpg?resize=165%2C99" class="attachment-slider-thumb wp-post-image" alt="star-wars-vii" />				</a>
+							</div><!---wide-slider-thumb--> 
+		</li>
+				<li>
+			<div class="wide-slider-thumb">
+								<a href="#" title="Constantine Production Halted at Unlucky 13 Episodes">
+				<img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/Constantinelogo.jpg?resize=165%2C99" class="attachment-slider-thumb wp-post-image" alt="Constantinelogo" />				</a>
+							</div><!---wide-slider-thumb--> 
+		</li>
+				<li>
+			<div class="wide-slider-thumb">
+								<a href="#" title="In Review: Sleepy Hollow: Children of the Revolution">
+				<img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/SleepyHollowChildrenoftheRevolution.jpg?resize=165%2C99" class="attachment-slider-thumb wp-post-image" alt="SleepyHollowChildrenoftheRevolution" />				</a>
+							</div><!---wide-slider-thumb--> 
+		</li>
+				<li>
+			<div class="wide-slider-thumb">
+								<a href="#" title="In Review: Ripper Street &#8211; Ashes And Diamonds">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/ripper-street.jpg?resize=165%2C99" class="attachment-slider-thumb wp-post-image" alt="ripper-street" />				</a>
+							</div><!---wide-slider-thumb--> 
+		</li>
+				<li>
+			<div class="wide-slider-thumb">
+								<a href="#" title="First &#8216;Jurrassic World&#8217; Trailer Shows The Parks Opening">
+				<img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/jurassic-world.jpg?resize=165%2C99" class="attachment-slider-thumb wp-post-image" alt="jurassic-world" />				</a>
+							</div><!---wide-slider-thumb--> 
+		</li>
+			</ul>
+</div><!--wide-slider-control-->
+
+
+
+
+
+      </div>
+          <div id="primary" class="widget-area">
+     	 <div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">SF-TV And Movie News</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4299" title="&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/star-wars-vii.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="star-wars-vii" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4299" class="big-featured-posts-title">&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      J.J. Abrams &#8216;Star Wars: The Force Awakens&#8217; is looking set to wake up American movie goers on Friday of...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 24, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4185" title="Constantine Production Halted at Unlucky 13 Episodes"><img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/Constantinelogo.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="Constantinelogo" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4185" class="big-featured-posts-title">Constantine Production Halted at Unlucky 13 Episodes</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Lacking the more upbeat spark of lead-in Grimm, up against the world series, and airing on a night where...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=4" title="Posts by Patrick Hayes" rel="author">Patrick Hayes</a></span>                      <span class="date">November 24, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">Comic Book News &amp; Reviews</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4285" title="In Review: Guardians 3000 #2"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/guardians-3000_2.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="guardians 3000_2" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4285" class="big-featured-posts-title">In Review: Guardians 3000 #2</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      From Marvel Comics and the creative team of Dan Abnet (writer), Gereardo Sandoval (penciler) and Edgar Delgado (colorist), the...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=9" title="Posts by Tye Bourdony" rel="author">Tye Bourdony</a></span>                      <span class="date">November 24, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4209" title="In Review: Protectors Inc. #10"><img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/0013.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="001" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4209" class="big-featured-posts-title">In Review: Protectors Inc. #10</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      The covers: Gordon Purcell and Michael Atiyeh do the A cover showing the Patriot doing battle with an unseen...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=4" title="Posts by Patrick Hayes" rel="author">Patrick Hayes</a></span>                      <span class="date">November 24, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">Interviews</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4190" title="Brittany Allen Chats About Her ‘Extraterrestrial’ Experience"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/EXTRATERRESTRIAL_UK_QUAD.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="EXTRATERRESTRIAL_UK_QUAD" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4190" class="big-featured-posts-title">Brittany Allen Chats About Her ‘Extraterrestrial’ Experience</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Just out today is a brand new movie from The Viscous Brothers. The film is called &#8216;Extraterrestrial&#8217; and is...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 20, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4099" title="SFP-NOW Featuring Ben Enke &#8211; The Creator Of Superhumen"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/Superhuman.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="Superhuman" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4099" class="big-featured-posts-title">SFP-NOW Featuring Ben Enke &#8211; The Creator Of Superhumen</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Hello and welcome to another episode of SFP-NOW. In this episode Raissa and I review the final two episodes...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 18, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">Reviews</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4268" title="In Review: Ripper Street &#8211; Ashes And Diamonds"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/ripper-street.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="ripper-street" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4268" class="big-featured-posts-title">In Review: Ripper Street &#8211; Ashes And Diamonds</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Synopsis: The mysterious death of a clairvoyant unlocks the heart of a deceptive scheme. Review: With Detective inspector Ried...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 24, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4266" title="In Review: Atlantis &#8211; A New Dawn Part 2"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/10/Atlantis.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="Atlantis" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4266" class="big-featured-posts-title">In Review: Atlantis &#8211; A New Dawn Part 2</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Synopsis: Pasiphae lays siege to Atlantis and without the Palladium to protect it, the city looks set to fall....                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 22, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">SCI-FI B Movies</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4251" title="SCI-FI B Movies Presents ‘Undersea Kingdom’ Chapter Ten"><img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/09/Undersea-Kingdom-Republic.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="Undersea-Kingdom-Republic" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4251" class="big-featured-posts-title">SCI-FI B Movies Presents ‘Undersea Kingdom’ Chapter Ten</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Welcome to the tenth chapter of Republic Serials &#8216;Undersea Kingdom&#8217;, which is titled &#8216;Atlantis Destroyed&#8217;. In this episode Crash...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                                            <span class="date">November 21, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4170" title="SCI-FI B Movies Presents ‘The Crimson Ghost’ Chapter Ten"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/09/crimson_ghost.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="crimson_ghost" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4170" class="big-featured-posts-title">SCI-FI B Movies Presents ‘The Crimson Ghost’ Chapter Ten</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Welcome to the tenth chapter of our ongoing coverage or Republic Serials &#8216;The Crimson Ghost&#8217;. In this episode, which...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                                            <span class="date">November 19, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">Books</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4280" title="In Review: Sleepy Hollow: Children of the Revolution"><img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/SleepyHollowChildrenoftheRevolution.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="SleepyHollowChildrenoftheRevolution" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4280" class="big-featured-posts-title">In Review: Sleepy Hollow: Children of the Revolution</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Sleepy Hollow: Children of the Revolution by Keith R.A. DeCandido Published by Broadway Books, September 18, 2014. Paperback of...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=4" title="Posts by Patrick Hayes" rel="author">Patrick Hayes</a></span>                      <span class="date">November 24, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4126" title="In Review: Mutation"><img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/0012.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="001" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4126" class="big-featured-posts-title">In Review: Mutation</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Mutation by Roland Smith Published by Scholastic Press, October 2014. Hardcover of 333 pages. Also available as an ebook....                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=4" title="Posts by Patrick Hayes" rel="author">Patrick Hayes</a></span>                      <span class="date">November 17, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_big_category_tn"><h3><div class="widget-title">Indieweb Television</div></h3>			
+<div class="big-category">
+	<ul class="featured-posts-category-big">
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=4099" title="SFP-NOW Featuring Ben Enke &#8211; The Creator Of Superhumen"><img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/Superhuman.jpg?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="Superhuman" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=4099" class="big-featured-posts-title">SFP-NOW Featuring Ben Enke &#8211; The Creator Of Superhumen</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      Hello and welcome to another episode of SFP-NOW. In this episode Raissa and I review the final two episodes...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 18, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+	          <li>
+              <div class="big-featured-posts-image">
+                                    <a href="http://scifipulse.net/?p=3891" title="GenreTainment &#8211; Featuring Producer Jason Fischer"><img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/divine-banner.png?resize=305%2C191" class="attachment-feat-cat-thumb wp-post-image" alt="Divine: The Series" /></a>
+                                    <div class="big-featured-posts-title-box">
+                      <div class="big-featured-posts-title">
+                          <h2><a href="http://scifipulse.net/?p=3891" class="big-featured-posts-title">GenreTainment &#8211; Featuring Producer Jason Fischer</a></h2>
+                      </div><!--big-featured-posts-title-->
+                  </div><!--big-featured-posts-title-box-->
+              </div><!--big-featured-posts-image-->
+                  <div class="big-featured-posts-content">
+                      &nbsp; Welcome to another episode of GenreTainment! This time we chat with Jason Fischer, executive producer and COO of...                  </div><!--big-featured-posts-content-->	
+                  <div class="post-date">
+                      <span class="bypostauthor"><a href="http://scifipulse.net/?author=2" title="Posts by Ian Cullen" rel="author">Ian Cullen</a></span>                      <span class="date">November 5, 2014</span>
+                  </div><!--post-date-->				
+          </li>
+		</ul>   
+</div><!--featured-category-medium-->
+
+	</div></div><div class="home-widget"><div class="widget_archive"><h3><div class="widget-title">Archives</div></h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://scifipulse.net/?m=201411'> November 2014 &nbsp;(118)</option>
+	<option value='http://scifipulse.net/?m=201410'> October 2014 &nbsp;(179)</option>
+	<option value='http://scifipulse.net/?m=201409'> September 2014 &nbsp;(157)</option>
+	<option value='http://scifipulse.net/?m=201408'> August 2014 &nbsp;(137)</option>
+	<option value='http://scifipulse.net/?m=201407'> July 2014 &nbsp;(58)</option>
+	<option value='http://scifipulse.net/?m=201406'> June 2014 &nbsp;(16)</option>
+	<option value='http://scifipulse.net/?m=201405'> May 2014 &nbsp;(6)</option>
+	<option value='http://scifipulse.net/?m=201404'> April 2014 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201403'> March 2014 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201402'> February 2014 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201401'> January 2014 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201312'> December 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201311'> November 2013 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201310'> October 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201308'> August 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201307'> July 2013 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201306'> June 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201305'> May 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201304'> April 2013 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201303'> March 2013 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201302'> February 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201301'> January 2013 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201212'> December 2012 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201210'> October 2012 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201209'> September 2012 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201208'> August 2012 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201207'> July 2012 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201206'> June 2012 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201205'> May 2012 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201204'> April 2012 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201203'> March 2012 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201202'> February 2012 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201201'> January 2012 &nbsp;(13)</option>
+	<option value='http://scifipulse.net/?m=201112'> December 2011 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201111'> November 2011 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=201110'> October 2011 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201109'> September 2011 &nbsp;(7)</option>
+	<option value='http://scifipulse.net/?m=201108'> August 2011 &nbsp;(7)</option>
+	<option value='http://scifipulse.net/?m=201107'> July 2011 &nbsp;(11)</option>
+	<option value='http://scifipulse.net/?m=201106'> June 2011 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201105'> May 2011 &nbsp;(6)</option>
+	<option value='http://scifipulse.net/?m=201104'> April 2011 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=201103'> March 2011 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201102'> February 2011 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=201101'> January 2011 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201012'> December 2010 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201011'> November 2010 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201010'> October 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201009'> September 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201008'> August 2010 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201006'> June 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201003'> March 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201001'> January 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200911'> November 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200910'> October 2009 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=200909'> September 2009 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200908'> August 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200907'> July 2009 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=200906'> June 2009 &nbsp;(6)</option>
+	<option value='http://scifipulse.net/?m=200905'> May 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200904'> April 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200903'> March 2009 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=200902'> February 2009 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=200901'> January 2009 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=200812'> December 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200811'> November 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200810'> October 2008 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=200809'> September 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200806'> June 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200805'> May 2008 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200803'> March 2008 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200801'> January 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200707'> July 2007 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200608'> August 2006 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200502'> February 2005 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200410'> October 2004 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200404'> April 2004 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200308'> August 2003 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200303'> March 2003 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200212'> December 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200209'> September 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200208'> August 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200206'> June 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200205'> May 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200204'> April 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200202'> February 2002 &nbsp;(1)</option>
+		</select>
+</div></div>      </div><!--primary-->
+       
+<div id="secondary" class="widget-area">
+	<div class="home-widget"><div class="widget widget_tabs_tn">
+<div class="tabber-container">
+	<ul class="tabs">
+		<li>
+			<h4><a href="#tab1">Latest</a></h4>
+		</li>
+		<li>
+			<h4><a href="#tab2">Popular</a></h4>
+		</li>
+		<li>
+			<h4><a href="#tab3">Comments</a></h4>
+		</li>
+	</ul>
+	<div id="tab1" class="tabber-content">
+		<ul class="featured-posts-category-small">
+			                    <li>
+                        <div class="small-featured-posts-image">
+                                                        <a href="http://scifipulse.net/?p=4299" title="&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday">
+                            <img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/star-wars-vii.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="star-wars-vii" />                            </a>
+                                                    </div><!--small-featured-posts-image-->
+                        <div class="small-featured-posts-text">
+                            <h2><a href="http://scifipulse.net/?p=4299" class="small-featured-posts-title">
+                                &#8216;Star Wars: The Force Awakens&#8217; Tr ...                                </a></h2>
+                            <div class="small-featured-posts-content">
+                                J.J. Abrams &#8216;Star Wars: The Force Awakens&#8217; is looking...                            </div><!--small-featured-posts-content-->	
+                            <div class="small-featured-posts-date-posted">
+                                <div class="post-date">
+                                    <span class="date">Posted 2 hours ago</span>
+                                </div><!--post-date-->
+                            </div><!--small-featured-posts-date-posted--> 
+                        </div><!--small-featured-posts-text--> 
+                    </li>
+			                    <li>
+                        <div class="small-featured-posts-image">
+                                                        <a href="http://scifipulse.net/?p=4185" title="Constantine Production Halted at Unlucky 13 Episodes">
+                            <img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/Constantinelogo.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="Constantinelogo" />                            </a>
+                                                    </div><!--small-featured-posts-image-->
+                        <div class="small-featured-posts-text">
+                            <h2><a href="http://scifipulse.net/?p=4185" class="small-featured-posts-title">
+                                Constantine Production Halted at Unlucky 13 E ...                                </a></h2>
+                            <div class="small-featured-posts-content">
+                                Lacking the more upbeat spark of lead-in Grimm, up...                            </div><!--small-featured-posts-content-->	
+                            <div class="small-featured-posts-date-posted">
+                                <div class="post-date">
+                                    <span class="date">Posted 3 hours ago</span>
+                                </div><!--post-date-->
+                            </div><!--small-featured-posts-date-posted--> 
+                        </div><!--small-featured-posts-text--> 
+                    </li>
+			                    <li>
+                        <div class="small-featured-posts-image">
+                                                        <a href="http://scifipulse.net/?p=4280" title="In Review: Sleepy Hollow: Children of the Revolution">
+                            <img src="http://i0.wp.com/scifipulse.net/wp-content/uploads/2014/11/SleepyHollowChildrenoftheRevolution.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="SleepyHollowChildrenoftheRevolution" />                            </a>
+                                                    </div><!--small-featured-posts-image-->
+                        <div class="small-featured-posts-text">
+                            <h2><a href="http://scifipulse.net/?p=4280" class="small-featured-posts-title">
+                                In Review: Sleepy Hollow: Children of the Rev ...                                </a></h2>
+                            <div class="small-featured-posts-content">
+                                Sleepy Hollow: Children of the Revolution by Keith R.A....                            </div><!--small-featured-posts-content-->	
+                            <div class="small-featured-posts-date-posted">
+                                <div class="post-date">
+                                    <span class="date">Posted 4 hours ago</span>
+                                </div><!--post-date-->
+                            </div><!--small-featured-posts-date-posted--> 
+                        </div><!--small-featured-posts-text--> 
+                    </li>
+					</ul>
+	</div><!--tab1-->
+	<div id="tab2" class="tabber-content">
+				<ul class="featured-posts-category-small">
+			                    <li>
+                        <div class="small-featured-posts-image">
+                                                        <a href="http://scifipulse.net/?p=3841" title="In Review: Walking Dead &#8216;Slabtown&#8217;">
+                            <img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/walking-dead-slabtown-emily-kinney-beth-atlanta-600x300.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="walking-dead-slabtown-emily-kinney-beth-atlanta-600x300" />                            </a>
+                                                    </div><!--small-featured-posts-image-->
+                        <div class="small-featured-posts-text">
+                            <h2><a href="http://scifipulse.net/?p=3841" class="small-featured-posts-title">
+                                In Review: Walking Dead &#8216;Slabtown&#8217 ...                                </a></h2>
+                            <div class="small-featured-posts-content">
+                                While the fifth season of AMC&#8217;s hit zombie apocalypse...                            </div><!--small-featured-posts-content-->	
+                            <div class="small-featured-posts-date-posted">
+                                <div class="post-date">
+                                    <span class="date">Posted 3 weeks ago</span>
+                                </div><!--post-date-->
+                            </div><!--small-featured-posts-date-posted--> 
+                        </div><!--small-featured-posts-text--> 
+                    </li>
+			                    <li>
+                        <div class="small-featured-posts-image">
+                                                        <a href="http://scifipulse.net/?p=3814" title="Interview: Louis Doerge discusses indie film production and his horror movie, &#8220;Night of the Babysitter&#8221;">
+                            <img src="http://i1.wp.com/scifipulse.net/wp-content/uploads/2014/11/Night-of-the-Babysitter-Feature.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="Night-of-the-Babysitter-Feature" />                            </a>
+                                                    </div><!--small-featured-posts-image-->
+                        <div class="small-featured-posts-text">
+                            <h2><a href="http://scifipulse.net/?p=3814" class="small-featured-posts-title">
+                                Interview: Louis Doerge discusses indie film  ...                                </a></h2>
+                            <div class="small-featured-posts-content">
+                                Louis Doerge is an Iowa native and film producer...                            </div><!--small-featured-posts-content-->	
+                            <div class="small-featured-posts-date-posted">
+                                <div class="post-date">
+                                    <span class="date">Posted 3 weeks ago</span>
+                                </div><!--post-date-->
+                            </div><!--small-featured-posts-date-posted--> 
+                        </div><!--small-featured-posts-text--> 
+                    </li>
+			                    <li>
+                        <div class="small-featured-posts-image">
+                                                        <a href="http://scifipulse.net/?p=3876" title="New &#8216;Star Wars&#8217; Movie Has Potential To Best &#8216;Empire Strikes Back&#8217;">
+                            <img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/Empire.jpg?resize=75%2C75" class="attachment-small-thumb wp-post-image" alt="Empire" />                            </a>
+                                                    </div><!--small-featured-posts-image-->
+                        <div class="small-featured-posts-text">
+                            <h2><a href="http://scifipulse.net/?p=3876" class="small-featured-posts-title">
+                                New &#8216;Star Wars&#8217; Movie Has Potenti ...                                </a></h2>
+                            <div class="small-featured-posts-content">
+                                Anthony Daniels, who is best known to science fiction...                            </div><!--small-featured-posts-content-->	
+                            <div class="small-featured-posts-date-posted">
+                                <div class="post-date">
+                                    <span class="date">Posted 3 weeks ago</span>
+                                </div><!--post-date-->
+                            </div><!--small-featured-posts-date-posted--> 
+                        </div><!--small-featured-posts-text--> 
+                    </li>
+					</ul>
+			</div><!--tab2-->
+	
+	
+	
+	<div id="tab3" class="tabber-content">
+		<ul class="featured-posts-category-small">
+							
+				 
+				<li>
+					<div class="gravatar-comment">
+						<img alt='' src='http://1.gravatar.com/avatar/5d36404c1def2fa100e85b415bbb6210?s=60&amp;d=retro&amp;r=G' class='avatar avatar-60 photo' height='60' width='60' />					</div>
+				
+					<div class="comment-author-name">
+						Raissa Devereux (@RaissaDevereux)					</div>
+					<div class="comment-date-time">
+						2014-11-23 03:22:07					</div>
+					<a href="http://scifipulse.net/?p=4266#comment-4266" title="on Yes, we need more Pasiphae, but I'd like to see more of Juliet Stevens ...">Yes, we need more Pasiphae, but I'd like to see more of Juliet Stevens ...</a>
+				</li>
+					
+				 
+				<li>
+					<div class="gravatar-comment">
+						<img alt='' src='http://1.gravatar.com/avatar/5d36404c1def2fa100e85b415bbb6210?s=60&amp;d=retro&amp;r=G' class='avatar avatar-60 photo' height='60' width='60' />					</div>
+				
+					<div class="comment-author-name">
+						Raissa Devereux (@RaissaDevereux)					</div>
+					<div class="comment-date-time">
+						2014-11-19 23:45:46					</div>
+					<a href="http://scifipulse.net/?p=4151#comment-4151" title="on "The good: Tom Cavanagh and Jesse L. Martin’s scenes,"
+
+Those two  ...">"The good: Tom Cavanagh and Jesse L. Martin’s scenes,"
+
+Those two  ...</a>
+				</li>
+					
+				 
+				<li>
+					<div class="gravatar-comment">
+						<img alt='' src='http://1.gravatar.com/avatar/3142fe9f91530e1e1f4e355208fc50f7?s=60&amp;d=retro&amp;r=G' class='avatar avatar-60 photo' height='60' width='60' />					</div>
+				
+					<div class="comment-author-name">
+						Ian Cullen					</div>
+					<div class="comment-date-time">
+						2014-11-18 18:58:22					</div>
+					<a href="http://scifipulse.net/?p=4136#comment-4136" title="on To bad that are tabloid media are not considering the delayed viewing  ...">To bad that are tabloid media are not considering the delayed viewing  ...</a>
+				</li>
+				</ul>
+	</div><!--tab3-->
+	
+	
+</div><!--tabber-container-->
+</div></div><div class="home-widget"><div class="widget widget_text">			<div class="textwidget"><script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/21368408/scifipulse-net_300x250', [300, 250],
+'div-gpt-ad-1409559652108-0').addService(googletag.pubads());
+googletag.defineSlot('/21368408/scifipulse-net_728x90', [728, 90],
+'div-gpt-ad-1409559652108-1').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- scifipulse-net_300x250 -->
+<div id='div-gpt-ad-1409559652108-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.display('div-gpt-ad-1409559652108-0'); });
+</script>
+</div>
+</div>
+		</div></div><div class="home-widget"><div class="widget jetpack_subscription_widget"><h3><div class="widget-title"><label for="subscribe-field">Subscribe to Blog via Email</label></div></h3>
+		<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-5">
+			<p id="subscribe-text">Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p><p>Join 5 other subscribers</p>
+
+			<p id="subscribe-email">
+				<label id="jetpack-subscribe-label" for="email">
+					Email Address				</label>
+				<input type="email" name="email" value="" id="subscribe-field" placeholder="Email Address" />
+			</p>
+
+			<p id="subscribe-submit">
+				<input type="hidden" name="action" value="subscribe" />
+				<input type="hidden" name="source" value="http://scifipulse.net/wp-content/uploads/2013/07/cary-elwes.jpg/" />
+				<input type="hidden" name="sub-type" value="widget" />
+				<input type="hidden" name="redirect_fragment" value="blog_subscription-5" />
+								<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+			</p>
+		</form>
+
+		<script>
+			( function( d ) {
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.getElementById( 'jetpack-subscribe-label' );
+ 					label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+ 					label.style.position = 'absolute';
+ 					label.style.height   = '1px';
+ 					label.style.width    = '1px';
+ 					label.style.overflow = 'hidden';
+ 						
+				}
+			} ) ( document );
+		</script>
+
+		
+</div></div><div class="home-widget"><div class="widget widget_featured_sqare_posts_tn"><h3><div class="widget-title">Stories You May Have Missed</div></h3>
+<div class="category-square">
+	<ul class="featured-square">
+				<li>
+			<div class="multiple-cat-image">
+								<a href="http://scifipulse.net/?p=4285" title="In Review: Guardians 3000 #2">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/guardians-3000_2.jpg?resize=141%2C141" class="attachment-carousel-thumb wp-post-image" alt="guardians 3000_2" />				</a>
+								<div class="multiple-cat-text">
+					<div class="multiple-cat-title">
+						<a href="http://scifipulse.net/?p=4285">
+						In Review: Guardians 3000 #2						</a>
+					</div><!--multiple-cat-title-->
+				</div><!--multiple-cat-text-->
+			</div><!--multiple-cat-image-->
+		</li>
+			</ul>
+	<ul class="featured-category-sqare-links">
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4209" class="small-featured-posts-title">
+				In Review: Protectors Inc. #10				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4202" class="small-featured-posts-title">
+				In Review: Spider-Woman #1				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4198" class="small-featured-posts-title">
+				In Review: Terminator Salvation: The Final Ba ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4173" class="small-featured-posts-title">
+				In Review: Klarion #2				</a>
+			</h2>
+		</li>
+			</ul>
+</div><!--category-square-->
+
+<div class="category-square">
+	<ul class="featured-square">
+				<li>
+			<div class="multiple-cat-image">
+								<a href="http://scifipulse.net/?p=4190" title="Brittany Allen Chats About Her ‘Extraterrestrial’ Experience">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/EXTRATERRESTRIAL_UK_QUAD.jpg?resize=141%2C141" class="attachment-carousel-thumb wp-post-image" alt="EXTRATERRESTRIAL_UK_QUAD" />				</a>
+								<div class="multiple-cat-text">
+					<div class="multiple-cat-title">
+						<a href="http://scifipulse.net/?p=4190">
+						Brittany Allen Chats About Her ‘Extrat ...						</a>
+					</div><!--multiple-cat-title-->
+				</div><!--multiple-cat-text-->
+			</div><!--multiple-cat-image-->
+		</li>
+			</ul>
+	<ul class="featured-category-sqare-links">
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4099" class="small-featured-posts-title">
+				SFP-NOW Featuring Ben Enke &#8211; The Creato ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=3891" class="small-featured-posts-title">
+				GenreTainment &#8211; Featuring Producer Jaso ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=3814" class="small-featured-posts-title">
+				Interview: Louis Doerge discusses indie film  ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=3773" class="small-featured-posts-title">
+				SFP-NOW Featuring Writer Leonardo Ramirez				</a>
+			</h2>
+		</li>
+			</ul>
+</div><!--category-square-->
+
+<div class="category-square">
+	<ul class="featured-square">
+				<li>
+			<div class="multiple-cat-image">
+								<a href="http://scifipulse.net/?p=4268" title="In Review: Ripper Street &#8211; Ashes And Diamonds">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/ripper-street.jpg?resize=141%2C141" class="attachment-carousel-thumb wp-post-image" alt="ripper-street" />				</a>
+								<div class="multiple-cat-text">
+					<div class="multiple-cat-title">
+						<a href="http://scifipulse.net/?p=4268">
+						In Review: Ripper Street &#8211; Ashes A ...						</a>
+					</div><!--multiple-cat-title-->
+				</div><!--multiple-cat-text-->
+			</div><!--multiple-cat-image-->
+		</li>
+			</ul>
+	<ul class="featured-category-sqare-links">
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4266" class="small-featured-posts-title">
+				In Review: Atlantis &#8211; A New Dawn Part 2				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4260" class="small-featured-posts-title">
+				In Review: Constantine, Episode 5 &#8220;Dans ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4256" class="small-featured-posts-title">
+				In Review: Grimm, Episode 77 &#8220;Cry Luiso ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4237" class="small-featured-posts-title">
+				In Review: Ripper Street &#8211; The Beating  ...				</a>
+			</h2>
+		</li>
+			</ul>
+</div><!--category-square-->
+<div class="category-square">
+	<ul class="featured-square">
+				<li>
+			<div class="multiple-cat-image">
+								<a href="http://scifipulse.net/?p=4299" title="&#8216;Star Wars: The Force Awakens&#8217; Trailer To Premier in US Cinemas On Friday">
+				<img src="http://i2.wp.com/scifipulse.net/wp-content/uploads/2014/11/star-wars-vii.jpg?resize=141%2C141" class="attachment-carousel-thumb wp-post-image" alt="star-wars-vii" />				</a>
+								<div class="multiple-cat-text">
+					<div class="multiple-cat-title">
+						<a href="http://scifipulse.net/?p=4299">
+						&#8216;Star Wars: The Force Awakens&#821 ...						</a>
+					</div><!--multiple-cat-title-->
+				</div><!--multiple-cat-text-->
+			</div><!--multiple-cat-image-->
+		</li>
+			</ul>
+	<ul class="featured-category-sqare-links">
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4185" class="small-featured-posts-title">
+				Constantine Production Halted at Unlucky 13 E ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4281" class="small-featured-posts-title">
+				In Review: Walking Dead ‘Crossed’				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4268" class="small-featured-posts-title">
+				In Review: Ripper Street &#8211; Ashes And Di ...				</a>
+			</h2>
+		</li>
+				<li>
+			<h2>
+				<a href="http://scifipulse.net/?p=4276" class="small-featured-posts-title">
+				First &#8216;Jurrassic World&#8217; Trailer S ...				</a>
+			</h2>
+		</li>
+			</ul>
+</div><!--category-square-->
+
+
+</div></div></div><!--secondary--></div><!--main-->
+</section><!--wrapper-->
+
+<footer id="footer">
+	<div id="footer-widgets">
+		<div class="home-widget"><div class="widget widget_about_tn"><h3><div class="widget-title"><div class="widget-title">About us</div></div></h3>			
+			<div class="about-widget">
+                <div class="about-logo">
+                    <a href="http://scifipulse.net"><img src="http://scifipulse.net/wp-content/uploads/2014/08/cropped-scifi-pulse-370x751.png" height="75" width="370" alt="SciFiPulse.net"/></a>
+                </div><!--about-logo-->
+				                  <div class="about-social">
+                      <ul>
+                                                    <li><a href="http://www.facebook.com/ScifiPulse" class="fb-social-icon" target="_blank"></a></li>
+                                                                              <li><a href="http://www.twitter.com/@scifipulse" class="twitter-social-icon" target="_blank"></a></li>
+                                                                                                                                                            <li><a href="http://scifipulse.net/?feed=rss" class="rss-social-icon"></a></li>
+                      </ul>
+                  </div><!--content-social-->  
+                                    <div class="about-text">
+                  <p>SciFiPulse has been bringing you all the latest in genre TV and Movie news since May 2001. The website’s mission is to provide fans of Science Fiction and Fantasy with all the latest news, interviews & reviews. </p>
+                  </div><!--about-text-->
+			</div><!--about-widget-->
+		
+			</div></div><div class="home-widget"><div class="widget widget_recent_comments"><h3><div class="widget-title">Recent Comments</div></h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://twitter.com/RaissaDevereux' rel='external nofollow' class='url'>Raissa Devereux (@RaissaDevereux)</a></span> on <a href="http://scifipulse.net/?p=4266#comment-1466">In Review: Atlantis &#8211; A New Dawn Part 2</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://twitter.com/RaissaDevereux' rel='external nofollow' class='url'>Raissa Devereux (@RaissaDevereux)</a></span> on <a href="http://scifipulse.net/?p=4151#comment-1329">In Review: The Flash, Episode 6 &#8220;The Flash is Born&#8221;</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://scifipulse.net' rel='external nofollow' class='url'>Ian Cullen</a></span> on <a href="http://scifipulse.net/?p=4136#comment-1305">Capaldi Turned Down &#8216;Doctor Who&#8217; TV Movie, Plus Ratings For Series 8 Were Good</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://scifipulse.net' rel='external nofollow' class='url'>Ian Cullen</a></span> on <a href="http://scifipulse.net/?p=4108#comment-1304">In Review: Atlantis &#8211; A New Dawn</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://twitter.com/RaissaDevereux' rel='external nofollow' class='url'>Raissa Devereux (@RaissaDevereux)</a></span> on <a href="http://scifipulse.net/?p=4136#comment-1298">Capaldi Turned Down &#8216;Doctor Who&#8217; TV Movie, Plus Ratings For Series 8 Were Good</a></li></ul></div></div><div class="home-widget"><div class="widget widget_categories"><h3><div class="widget-title">Categories</div></h3>		<ul>
+	<li class="cat-item cat-item-648"><a href="http://scifipulse.net/?cat=648" >Audio</a>
+</li>
+	<li class="cat-item cat-item-579"><a href="http://scifipulse.net/?cat=579" >Blu Ray</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://scifipulse.net/?cat=285" >Books</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://scifipulse.net/?cat=4" title="The latest comic book news and reviews.">Comic Book News &amp; Reviews</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://scifipulse.net/?cat=10" title="Latest convention reports">Convention Reports</a>
+</li>
+	<li class="cat-item cat-item-635"><a href="http://scifipulse.net/?cat=635" >Crown Books</a>
+</li>
+	<li class="cat-item cat-item-578"><a href="http://scifipulse.net/?cat=578" >DVD</a>
+</li>
+	<li class="cat-item cat-item-640"><a href="http://scifipulse.net/?cat=640" >Feature</a>
+</li>
+	<li class="cat-item cat-item-1640"><a href="http://scifipulse.net/?cat=1640" >Galactic Enquirer</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://scifipulse.net/?cat=7" title="Section dedicated to gaming and science fiction and fantasy merchandise. ">Games &amp; Merch</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://scifipulse.net/?cat=8" title="A section to celebrate all that is independently produced on the web. ">Indieweb Television</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://scifipulse.net/?cat=5" title="Interviews with comic book, movie and television professionals. ">Interviews</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://scifipulse.net/?cat=11" title="Miscellaneous">Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-1094"><a href="http://scifipulse.net/?cat=1094" >Podcast</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://scifipulse.net/?cat=6" title="Reviews for mixed range of media including books, audio and visual media. ">Reviews</a>
+</li>
+	<li class="cat-item cat-item-1523"><a href="http://scifipulse.net/?cat=1523" >Sci-Fi B Movies</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://scifipulse.net/?cat=1" title="News of all the latest in movies and television.">SF-TV AND Movie News</a>
+</li>
+		</ul>
+</div></div><div class="home-widget"><div class="widget widget_archive"><h3><div class="widget-title">Archives</div></h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://scifipulse.net/?m=201411'> November 2014 &nbsp;(118)</option>
+	<option value='http://scifipulse.net/?m=201410'> October 2014 &nbsp;(179)</option>
+	<option value='http://scifipulse.net/?m=201409'> September 2014 &nbsp;(157)</option>
+	<option value='http://scifipulse.net/?m=201408'> August 2014 &nbsp;(137)</option>
+	<option value='http://scifipulse.net/?m=201407'> July 2014 &nbsp;(58)</option>
+	<option value='http://scifipulse.net/?m=201406'> June 2014 &nbsp;(16)</option>
+	<option value='http://scifipulse.net/?m=201405'> May 2014 &nbsp;(6)</option>
+	<option value='http://scifipulse.net/?m=201404'> April 2014 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201403'> March 2014 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201402'> February 2014 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201401'> January 2014 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201312'> December 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201311'> November 2013 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201310'> October 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201308'> August 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201307'> July 2013 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201306'> June 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201305'> May 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201304'> April 2013 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201303'> March 2013 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201302'> February 2013 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201301'> January 2013 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201212'> December 2012 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201210'> October 2012 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201209'> September 2012 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201208'> August 2012 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201207'> July 2012 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201206'> June 2012 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201205'> May 2012 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201204'> April 2012 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201203'> March 2012 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201202'> February 2012 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201201'> January 2012 &nbsp;(13)</option>
+	<option value='http://scifipulse.net/?m=201112'> December 2011 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201111'> November 2011 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=201110'> October 2011 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201109'> September 2011 &nbsp;(7)</option>
+	<option value='http://scifipulse.net/?m=201108'> August 2011 &nbsp;(7)</option>
+	<option value='http://scifipulse.net/?m=201107'> July 2011 &nbsp;(11)</option>
+	<option value='http://scifipulse.net/?m=201106'> June 2011 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=201105'> May 2011 &nbsp;(6)</option>
+	<option value='http://scifipulse.net/?m=201104'> April 2011 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=201103'> March 2011 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201102'> February 2011 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=201101'> January 2011 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201012'> December 2010 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201011'> November 2010 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=201010'> October 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201009'> September 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201008'> August 2010 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=201006'> June 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201003'> March 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=201001'> January 2010 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200911'> November 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200910'> October 2009 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=200909'> September 2009 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200908'> August 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200907'> July 2009 &nbsp;(4)</option>
+	<option value='http://scifipulse.net/?m=200906'> June 2009 &nbsp;(6)</option>
+	<option value='http://scifipulse.net/?m=200905'> May 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200904'> April 2009 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200903'> March 2009 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=200902'> February 2009 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=200901'> January 2009 &nbsp;(3)</option>
+	<option value='http://scifipulse.net/?m=200812'> December 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200811'> November 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200810'> October 2008 &nbsp;(5)</option>
+	<option value='http://scifipulse.net/?m=200809'> September 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200806'> June 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200805'> May 2008 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200803'> March 2008 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200801'> January 2008 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200707'> July 2007 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200608'> August 2006 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200502'> February 2005 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200410'> October 2004 &nbsp;(2)</option>
+	<option value='http://scifipulse.net/?m=200404'> April 2004 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200308'> August 2003 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200303'> March 2003 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200212'> December 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200209'> September 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200208'> August 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200206'> June 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200205'> May 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200204'> April 2002 &nbsp;(1)</option>
+	<option value='http://scifipulse.net/?m=200202'> February 2002 &nbsp;(1)</option>
+		</select>
+</div></div>        <div class="copyright">
+            <div class="copyright-text">
+                    Copyright 2013 Trending news Theme.Powered by Wordpress.                </div><!--copyright-text-->
+        </div><!--copyright-->
+    </div><!--footer-widgets-->
+</footer><!--footer-->
+<script type='text/javascript' src='http://scifipulse.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script>
+
+	<script src="http://stats.wp.com/e-201448.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'26067717',post:'0',tz:'0'});
+	var load_cmc = function(){linktracker_init(26067717,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body></html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: scifipulse.net @ 2014-11-24 22:28:38 by W3 Total Cache -->

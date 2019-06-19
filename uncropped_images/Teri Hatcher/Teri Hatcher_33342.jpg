@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en" prefix="fb: http://www.facebook.com/2008/fbml"><head>
+
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>
+<link rel="shortcut icon" href="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/apple-touch-icon-144x144-precomposed.png" />
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+	(function() {
+  		var useSSL = 'https:' == document.location.protocol;
+   		var src = (useSSL ? 'https:' : 'http:') +
+   		'//www.googletagservices.com/tag/js/gpt_mobile.js';
+   		document.write('<script src="' + src + '"><\/script>');
+   		})();
+</script>
+
+<script type='text/javascript'>
+	googletag.cmd.push(function() {
+
+	var homeMRECSizeMapping = googletag.sizeMapping().
+	addSize([670, 264], [300, 250]).
+	addSize([0, 0], [7,7]).
+	build();
+	
+	var mrecSizeMapping = googletag.sizeMapping().
+	addSize([769, 264], [300, 250]).
+	addSize([0, 0], [7,7]).
+	build();
+
+    googletag.pubads().enableAsyncRendering();
+
+	googletag.defineSlot('/7046/bbl/celebrity', [[728,90], [970, 66] , [970, 90] , [970, 250] , [970, 415]], 'div-gpt-ad-leaderboard1').
+	defineSizeMapping([[[728, 104], [[728, 90], [970, 66], [970, 90], [970, 250], [970, 415]]], [[0, 0], [320, 50]]]).
+	addService(googletag.pubads()).
+	setTargeting('position', ['atf']);
+
+	googletag.defineSlot('/7046/bbl/celebrity', [300, 250], 'div-gpt-ad-mrec-home').defineSizeMapping(homeMRECSizeMapping).addService(googletag.pubads()).setTargeting('position', ['atf']);
+	googletag.defineSlot('/7046/bbl/celebrity', [300, 250], 'div-gpt-ad-rectangle1').defineSizeMapping(mrecSizeMapping).addService(googletag.pubads()).setTargeting('position', ['atf']);
+	//googletag.defineSlot('/7046/bbl/celebrity', [320, 50], 'div-gpt-ad-mobile-rectangle1').addService(googletag.pubads()).setTargeting('position', ['atf']);
+	googletag.defineSlot('/7046/bbl/celebrity', [[2, 2]] ,'div-gpt-ad-wallpaper').addService(googletag.pubads()).setTargeting('position', ['atf']);
+	
+	googletag.pubads().setTargeting('contentType', ['celebrity']);
+	googletag.pubads().setTargeting('contentId', ['357']);
+	googletag.pubads().setTargeting('siteSection', ['celebrity']);
+	googletag.pubads().setTargeting('pageName', ['celebrity']);
+	googletag.pubads().setTargeting('unit', ['dol']);
+	googletag.pubads().setTargeting('Keywords', ['celebrity']);
+	googletag.pubads().collapseEmptyDivs();
+
+	googletag.enableServices();
+	});
+</script><script type="text/javascript" src="//cdn.optimizely.com/js/271914578.js"></script>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<title>Celebrity | Babble</title>
+<meta name="robots" content="noodp,noydir"/>
+<link rel="canonical" href="http://www.babble.com/celebrity/" />
+<link rel="next" href="http://www.babble.com/celebrity/page/2/" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='stylesheet' id='babyname_admin_styles-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/babyname-admin-styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://a.dilcdn.com/bl/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vqzb_shortcode-css'  href='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/css/quiz_shortcode.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blogs_styles-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/blogs_styles.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='babble_nav-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/babble_nav.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='babble_contributors-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/babble_contributors.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blogs_media_styles-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/blogs_media_styles.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blogs_icons-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/blogs_icons.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='disney_chrome-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/css/disney_chrome.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider_css-css'  href='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/flexslider/flexslider.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-css'  href='http://a.dilcdn.com/bl/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/jquery-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/jquery-min.js?ver=1.24.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/js/jquery.validate.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/js/jquery.placeholder.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/js/itpoverlay.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/js/fastclick.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/js/imagesloaded.pkgd.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/viral-quiz-builder-plugin/public/js/vqzb_shortcode.js?ver=4.0.1'></script>
+
+<meta property="og:site_name" content="Babble" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="415310475147711" />
+<meta property="og:title" content="Celebrity | Babble" />
+
+<script src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/imagesLoaded.js"></script>
+</head>
+
+<body class="archive category category-celebrity category-357">
+<div id="goc-body" class="chrome">
+<div class="chrome-flyout">
+	<div class="flyout-list">
+        <div class="flyout-header">Categories</div>
+        <ul id="menu-main" class="menu"><li id="menu-item-298266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-298266"><a href="/lifestyle/">Lifestyle</a></li>
+<li id="menu-item-298265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-298265"><a href="/parenting/">Parenting</a></li>
+<li id="menu-item-645631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-645631"><a href="/best-recipes/">Food</a></li>
+<li id="menu-item-3513080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3513080"><a href="/body-mind/">Body &amp; Mind</a></li>
+<li id="menu-item-547739" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-547739"><a href="/entertainment/">Entertainment</a></li>
+<li id="menu-item-298269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298269"><a href="/contributors/">Bloggers</a></li>
+</ul>    </div>
+    
+    <div class="did-flyout">
+        <div class="disney-id-box">
+    <div class="did-loading">Loading</div>
+    <div class="did-logged-in">
+        <div class="did-welcome">Welcome to Babble, <span class="did-guest-name"></span></div>
+        <div class="did-update">Settings</div><div class="did-logout">Sign Out</div>
+    </div>
+    <div class="did-logged-out">
+        <h2>Get the Babble Newsletter!</h2>
+        <a href="javascript:void(0);" class="did-sign-up">Sign Up Now</a>
+        <p>Already have an account? <a href="javascript:void(0);" class="did-sign-in">Sign in</a>.
+    </div>
+</div>    </div>
+    
+    <div id="flyout-bottom-space"><!-- --></div>
+</div>
+<script>
+    $( '.flyout-list' ).find( 'a' ).each( function() {
+        var theLink = $(this).attr( 'href' );
+        $( this ).attr( 'name', '&amp;lpos=nav-mobile&amp;lid=nav-mobile/text' + theLink );
+    });
+</script>
+
+<div id="page-wrap">
+
+<div id="goc" style="height:40px">
+  <script type="text/javascript">
+    var GOC = { opts: {
+      bg : "dark"
+    }, queue: [ ] };
+    (function (d) {
+      var s = d.createElement("script");
+      s.async = true;
+      s.src = "//a.dilcdn.com/g/us/home/responsive.js";
+      d.getElementsByTagName("head")[0].appendChild(s);
+    })(document);
+  </script>
+  <noscript>
+    <iframe src="//a.dilcdn.com/g/us/home/responsive.html?bg=dark" frameborder="0" style="display:block;width:100%;height:40px"></iframe>
+  </noscript>
+</div>
+<div id="goc-nav-family" class="goc-el disney_mobile_inner">
+  <span id="goc-e" role="button" title="Navigate" onclick="GOC.queue.push(['openMenu']);"><span class="menu-icon">MENU</span></span>
+  <a id="goc-logo" title="Babble" href="/"><img src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/dot1.gif" class="centered-logo" width="162" height="60" alt="Mobile Babble Logo"></a>
+  <div id="disney-mobile-nav"><!-- --></div>
+</div>
+
+
+
+
+
+
+
+<div id="leader-board">
+	
+	<div id="div-gpt-ad-leaderboard1" class="leader-board-ad leader-board-slug"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-leaderboard1"); });</script></div>
+
+</div><header class="page-header">
+    <div class="inner">
+        
+        <a name="&amp;lpos=nav-category&amp;lid=nav-category/image/logo" href="http://www.babble.com" class="logo">Babble</a><div class="nav">
+
+            <ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-298266"><a href="/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li id="menu-item-3097390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3097390"><a href="/home/">Home</a></li>
+	<li id="menu-item-3513268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513268"><a href="/relationships/">Relationships</a></li>
+	<li id="menu-item-3075529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3075529"><a href="/beauty/">Beauty</a></li>
+	<li id="menu-item-3227902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3227902"><a href="/style/">Style</a></li>
+	<li id="menu-item-3075530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3075530"><a href="/travel/">Travel</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-298265"><a href="/parenting/">Parenting</a>
+<ul class="sub-menu">
+	<li id="menu-item-3513069" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513069"><a href="/pregnancy/">Pregnancy</a></li>
+	<li id="menu-item-3513051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513051"><a href="/baby/">Baby</a></li>
+	<li id="menu-item-298299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298299"><a href="/toddler/">Toddler</a></li>
+	<li id="menu-item-298300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298300"><a href="/kid/">Kid</a></li>
+	<li id="menu-item-4784391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4784391"><a href="http://www.babble.com/baby-names/">Baby Names</a></li>
+	<li id="menu-item-4612573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4612573"><a href="http://www.babble.com/tag/news/">News</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-645631"><a href="/best-recipes/">Food</a>
+<ul class="sub-menu">
+	<li id="menu-item-2975141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2975141"><a href="/best-recipes/breakfast/">Breakfast</a></li>
+	<li id="menu-item-645646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645646"><a href="/best-recipes/dinner/">Dinner</a></li>
+	<li id="menu-item-3021328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3021328"><a href="/best-recipes/easy-recipes/">Easy Recipes</a></li>
+	<li id="menu-item-645639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645639"><a href="/best-recipes/healthy-eating/">Healthy Eating</a></li>
+	<li id="menu-item-2975786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2975786"><a href="/best-recipes/lunch/">Lunch</a></li>
+	<li id="menu-item-3513190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513190"><a href="/best-recipes/snacks-and-dessert/">Snacks &amp; Desserts</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3513080"><a href="/body-mind/">Body &amp; Mind</a>
+<ul class="sub-menu">
+	<li id="menu-item-3513088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513088"><a href="/body-mind/diet-and-nutrition/">Diet &amp; Nutrition</a></li>
+	<li id="menu-item-3513090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513090"><a href="/body-mind/fitness/">Fitness</a></li>
+	<li id="menu-item-4036749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4036749"><a href="/body-mind/health/">Health</a></li>
+	<li id="menu-item-3514240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3514240"><a href="/body-mind/stress/">Stress</a></li>
+	<li id="menu-item-3513096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513096"><a href="/body-mind/weight-loss/">Weight Loss</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-547739"><a href="/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2993124" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-2993124"><a href="/celebrity/">Celebrity</a></li>
+	<li id="menu-item-3176221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3176221"><a href="/entertainment/music/">Music</a></li>
+	<li id="menu-item-4037801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4037801"><a href="/entertainment/pop-culture/">Pop Culture</a></li>
+	<li id="menu-item-3021124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3021124"><a href="/entertainment/tv-movies/">TV &amp; Movies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298269"><a href="/contributors/">Bloggers</a></li>
+</ul>
+        </div>
+    </div>
+
+
+        
+</header><div id="blogs-container">
+	
+
+
+	<div id="c-right-side">
+        <div class="disney-id-box">
+    <div class="did-loading">Loading</div>
+    <div class="did-logged-in">
+        <div class="did-welcome">Welcome to Babble, <span class="did-guest-name"></span></div>
+        <div class="did-update">Settings</div><div class="did-logout">Sign Out</div>
+    </div>
+    <div class="did-logged-out">
+        <h2>Get the Babble Newsletter!</h2>
+        <a href="javascript:void(0);" class="did-sign-up">Sign Up Now</a>
+        <p>Already have an account? <a href="javascript:void(0);" class="did-sign-in">Sign in</a>.
+    </div>
+</div>
+                <div id="c-social">
+          <ul>
+            <li><a target="_blank" name="&amp;lpos=social/sharebar/article-right-side&amp;lid=social/sharebar/article-right-side/social_twitter" href="https://twitter.com/BabbleEditors"><img src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/footer_twitter.jpg" alt="Twitter" /></a></li>
+            <li><a target="_blank" name="&amp;lpos=social/sharebar/article-right-side&amp;lid=social/sharebar/article-right-side/social_facebook" href="https://www.facebook.com/BabbleEditors"><img src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/footer_facebook.jpg" alt="Facebook" /></a></li>
+            <li><a target="_blank" name="&amp;lpos=social/sharebar/article-right-side&amp;lid=social/sharebar/article-right-side/social_pinterest" href="http://www.pinterest.com/babble/"><img src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/footer_pinterest.jpg" alt="Pinterest" /></a></li>
+            <li><a target="_blank" name="&amp;lpos=social/sharebar/article-right-side&amp;lid=social/sharebar/article-right-side/social_instagram" href="https://instagram.com/BabbleEditors"><img src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/footer_insta.png" alt="Instangram" /></a></li>
+            <li><a target="_blank" name="&amp;lpos=social/sharebar/article-right-side&amp;lid=social/sharebar/article-right-side/social_rss" href="http://www.babble.com/feed/"><img src="http://a.dilcdn.com/bl/wp-content/themes/babble-theme/images/footer_rss.jpg" alt="RSS" /></a></li>
+          </ul>
+          <div class="clear"><!-- - --></div>
+        </div>
+          <div id="div-gpt-ad-rectangle1" class="c-ad-box"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-rectangle1"); });</script></div>
+
+        
+<div id="c-featured">
+	<h2>Featured Articles</h2>
+	<div id="c-featured-list">
+					<div class="c-featured-item">
+                 <a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/24+Citizen+Kids+Who+Are+Doing+Amazing+Things" href="http://www.babble.com/kid/citizen-kids-doing-amazing-things/">
+					<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/10/478249715-250x188.jpg" alt="24 Citizen Kids Who Are Doing Amazing Things">
+					<p>24 Citizen Kids Who Are Doing Amazing Things</p>
+				</a>
+			</div>
+					<div class="c-featured-item">
+                 <a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/10+Signs+You+Live+with+a+Two-Year-Old" href="http://www.babble.com/toddler/10-signs-you-live-with-a-two-year-old/">
+					<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/120700057feat-copy-250x188.jpg" alt="10 Signs You Live with a Two-Year-Old">
+					<p>10 Signs You Live with a Two-Year-Old</p>
+				</a>
+			</div>
+					<div class="c-featured-item">
+                 <a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/Hipster+Baby+Names+So+Cool+You+Haven%26%238217%3Bt+Even+Heard+of+Them+Yet" href="http://www.babble.com/pregnancy/parent-hipster-names-alternative-baby/">
+					<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2011/09/470286393-featcopy-250x188.jpg" alt="Hipster Baby Names So Cool You Haven&#8217;t Even Heard of Them Yet">
+					<p>Hipster Baby Names So Cool You Haven&#8217;t Even Heard of Them Yet</p>
+				</a>
+			</div>
+					<div class="c-featured-item">
+                 <a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/It%26%238217%3Bs+Not+My+Job+to+Make+Sure+My+Kids+Eat" href="http://www.babble.com/kid/its-not-my-job-to-get-my-kids-to-eat/">
+					<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/monicabielanko_eating-250x188.jpg" alt="It&#8217;s Not My Job to Make Sure My Kids Eat">
+					<p>It&#8217;s Not My Job to Make Sure My Kids Eat</p>
+				</a>
+			</div>
+			   
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+        
+<div id="c-popular">
+	<div id="c-popular-head">Popular Posts</div>
+	<div id="c-popular-list">
+					<div class="c-popular-item">
+				<div class="c-popular-image">
+					
+					<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/Today+I+Didn%26%238217%3Bt+Want+to+Be+a+Mom" href="http://www.babble.com/parenting/today-i-didnt-want-to-be-a-mom/">
+						<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/tobeamama-250x188.jpg"  alt="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/tobeamama-250x188.jpg">
+					</a>
+				
+				</div>
+
+				<div class="c-popular-text">
+					
+					<h2 class="c-fColor-">
+						<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/text/article-right-side/Today+I+Didn%26%238217%3Bt+Want+to+Be+a+Mom" href="http://www.babble.com/parenting/today-i-didnt-want-to-be-a-mom/">
+							Today I Didn&#8217;t Want to Be a Mom						</a>
+					</h2>
+				
+				
+				</div>
+				
+			</div>	
+					<div class="c-popular-item">
+				<div class="c-popular-image">
+					
+					<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/The+Toy+Pick-Up+Squat+and+8+Other+Mom+Workout+Moves+You+Already+Do" href="http://www.babble.com/body-mind/toy-pick-up-squat-and-other-mom-workout-moves-you-already-do/">
+						<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/09/86508841-250x188.jpg"  alt="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/09/86508841-250x188.jpg">
+					</a>
+				
+				</div>
+
+				<div class="c-popular-text">
+					
+					<h2 class="c-fColor-">
+						<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/text/article-right-side/The+Toy+Pick-Up+Squat+and+8+Other+Mom+Workout+Moves+You+Already+Do" href="http://www.babble.com/body-mind/toy-pick-up-squat-and-other-mom-workout-moves-you-already-do/">
+							The Toy Pick-Up Squat and 8 Other Mom Workout Moves You Already Do						</a>
+					</h2>
+				
+				
+				</div>
+				
+			</div>	
+					<div class="c-popular-item">
+				<div class="c-popular-image">
+					
+					<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/22+Lunchbox+Creations+That+Will+Entice+Even+the+Pickiest+Eater" href="http://www.babble.com/best-recipes/22-lunchbox-creations-that-will-entice-even-the-pickiest-eater/">
+						<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/Screen-Shot-2014-11-18-at-11.46.41-AM1-250x188.jpg"  alt="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/Screen-Shot-2014-11-18-at-11.46.41-AM1-250x188.jpg">
+					</a>
+				
+				</div>
+
+				<div class="c-popular-text">
+					
+					<h2 class="c-fColor-">
+						<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/text/article-right-side/22+Lunchbox+Creations+That+Will+Entice+Even+the+Pickiest+Eater" href="http://www.babble.com/best-recipes/22-lunchbox-creations-that-will-entice-even-the-pickiest-eater/">
+							22 Lunchbox Creations That Will Entice Even the Pickiest Eater						</a>
+					</h2>
+				
+				
+				</div>
+				
+			</div>	
+					<div class="c-popular-item">
+				<div class="c-popular-image">
+					
+					<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/image/article-right-side/%26%238220%3BAre+They+All+Yours%3F%26%238221%3B+and+Other+Things+I%26%238217%3Bm+Asked+as+a+Mom+of+Six" href="http://www.babble.com/parenting/are-they-all-yours-and-other-things-im-asked-as-a-mom-of-six/">
+						<img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/momofsix-250x188.jpg"  alt="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/momofsix-250x188.jpg">
+					</a>
+				
+				</div>
+
+				<div class="c-popular-text">
+					
+					<h2 class="c-fColor-">
+						<a name="&amp;lpos=WhatsPopular&amp;lid=WhatsPopular/text/article-right-side/%26%238220%3BAre+They+All+Yours%3F%26%238221%3B+and+Other+Things+I%26%238217%3Bm+Asked+as+a+Mom+of+Six" href="http://www.babble.com/parenting/are-they-all-yours-and-other-things-im-asked-as-a-mom-of-six/">
+							&#8220;Are They All Yours?&#8221; and Other Things I&#8217;m Asked as a Mom of Six						</a>
+					</h2>
+				
+				
+				</div>
+				
+			</div>	
+			   
+	</div>
+</div>
+
+    </div>
+
+
+    <div id="c-left-side">
+    <div class="bb-cat-header"><h1>Celebrity</h1></div>
+	<div class="bb-cat-description"></div>
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/10+Reasons+Why+Chris+Pratt+Is+Our+New+Celebrity+Dad+Crush" href="http://www.babble.com/celebrity/10-reasons-why-chris-pratt-is-the-dad-we-all-want/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/08/123122PCN_GUARDIANS_058-242x141-662898005452.jpg" class="attachment-category-list wp-post-image" alt="Anna Faris, Chris Pratt attends the premiere of &#039;Guardians Of The Galaxy&#039; in LA" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/10+Reasons+Why+Chris+Pratt+Is+Our+New+Celebrity+Dad+Crush" href="http://www.babble.com/celebrity/10-reasons-why-chris-pratt-is-the-dad-we-all-want/">
+							10 Reasons Why Chris Pratt Is Our New Celebrity Dad Crush						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/10+Reasons+Why+Chris+Pratt+Is+Our+New+Celebrity+Dad+Crush" href="http://www.babble.com/celebrity/10-reasons-why-chris-pratt-is-the-dad-we-all-want/">He's the Star-Lord of our hearts. </a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-dads/">celebrity dads</a>
+												<span class="bb-post-date ">Posted 3 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/Boyhood+Is+the+One+Film+You+Must+See+This+Year" href="http://www.babble.com/celebrity/boyhood-is-the-one-film-you-must-see-this-year/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/NY-DB320_FILM1_G_20140617174324-242x141.jpg" class="attachment-category-list wp-post-image" alt="NY-DB320_FILM1_G_20140617174324" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/Boyhood+Is+the+One+Film+You+Must+See+This+Year" href="http://www.babble.com/celebrity/boyhood-is-the-one-film-you-must-see-this-year/">
+							<em>Boyhood</em> Is the One Film You Must See This Year						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/Boyhood+Is+the+One+Film+You+Must+See+This+Year" href="http://www.babble.com/celebrity/boyhood-is-the-one-film-you-must-see-this-year/">Filmed over a span of 12 years with the same cast (really!), <em>Boyhood</em> is a story of growing up as seen through the eyes of a young boy named Mason.</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/tv-movies/">TV &amp; Movies</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/This+Mom+Ran+an+800-Meter+Race+While+8+Months+Pregnant" href="http://www.babble.com/celebrity/this-mom-ran-an-800-meter-race-at-8-months-pregnant/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/Screen-Shot-2014-06-29-at-3.16.11-PM-242x141.jpg" class="attachment-category-list wp-post-image" alt="Screen Shot 2014-06-29 at 3.16.11 PM" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/This+Mom+Ran+an+800-Meter+Race+While+8+Months+Pregnant" href="http://www.babble.com/celebrity/this-mom-ran-an-800-meter-race-at-8-months-pregnant/">
+							This Mom Ran an 800-Meter Race While 8 Months Pregnant 						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/This+Mom+Ran+an+800-Meter+Race+While+8+Months+Pregnant" href="http://www.babble.com/celebrity/this-mom-ran-an-800-meter-race-at-8-months-pregnant/">Is there anything a woman CAN'T do?</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-moms/">celebrity moms</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/6+Family-Friendly+Summer+Vacation+Ideas+Inspired+by+Our+Favorite+Animated+Characters" href="http://www.babble.com/celebrity/5-family-friendly-summer-vacation-ideas-inspired-by-our-favorite-animated-characters/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/Screen-Shot-2014-06-23-at-9.35.31-PM-242x141.png" class="attachment-category-list wp-post-image" alt="Screen Shot 2014-06-23 at 9.35.31 PM" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/6+Family-Friendly+Summer+Vacation+Ideas+Inspired+by+Our+Favorite+Animated+Characters" href="http://www.babble.com/celebrity/5-family-friendly-summer-vacation-ideas-inspired-by-our-favorite-animated-characters/">
+							6 Family-Friendly Summer Vacation Ideas Inspired by Our Favorite Animated Characters						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/6+Family-Friendly+Summer+Vacation+Ideas+Inspired+by+Our+Favorite+Animated+Characters" href="http://www.babble.com/celebrity/5-family-friendly-summer-vacation-ideas-inspired-by-our-favorite-animated-characters/">Ready to head under the sea?</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/travel-2/">travel</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/Eddie+Vedder+Proves+He%E2%80%99s+a+Rock+Star+Dad+by+Covering+Frozen%E2%80%99s+%E2%80%9CLet+It+Go%E2%80%9D" href="http://www.babble.com/celebrity/eddie-vedder-proves-that-hes-a-rock-star-dad-by-covering-frozens-let-it-go/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/121372PCN_Vedder01-242x141-602186640258.jpg" class="attachment-category-list wp-post-image" alt="Eddie Vedder and some friends enjoy some time sight-seeing in Milan, ahead of the Pearl Jam concert at San Siro Stadium" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/Eddie+Vedder+Proves+He%E2%80%99s+a+Rock+Star+Dad+by+Covering+Frozen%E2%80%99s+%E2%80%9CLet+It+Go%E2%80%9D" href="http://www.babble.com/celebrity/eddie-vedder-proves-that-hes-a-rock-star-dad-by-covering-frozens-let-it-go/">
+							Eddie Vedder Proves He’s a Rock Star Dad by Covering <em>Frozen</em>’s “Let It Go”						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/Eddie+Vedder+Proves+He%E2%80%99s+a+Rock+Star+Dad+by+Covering+Frozen%E2%80%99s+%E2%80%9CLet+It+Go%E2%80%9D" href="http://www.babble.com/celebrity/eddie-vedder-proves-that-hes-a-rock-star-dad-by-covering-frozens-let-it-go/">Here's what happens when you mix grunge music with Disney hits.</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-dads/">celebrity dads</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/Megan+Fox+Put+a+Television+and+Internet+Ban+on+Her+Children%3A+Is+This+Realistic+Parenting%3F" href="http://www.babble.com/celebrity/megan-fox-puts-a-television-and-internet-ban-on-her-children-is-this-realistic-parenting/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/101143PCN_Megan01-242x141-572721894457.jpg" class="attachment-category-list wp-post-image" alt="101143PCN_Megan01" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/Megan+Fox+Put+a+Television+and+Internet+Ban+on+Her+Children%3A+Is+This+Realistic+Parenting%3F" href="http://www.babble.com/celebrity/megan-fox-puts-a-television-and-internet-ban-on-her-children-is-this-realistic-parenting/">
+							Megan Fox Put a Television and Internet Ban on Her Children: Is This Realistic Parenting?						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/Megan+Fox+Put+a+Television+and+Internet+Ban+on+Her+Children%3A+Is+This+Realistic+Parenting%3F" href="http://www.babble.com/celebrity/megan-fox-puts-a-television-and-internet-ban-on-her-children-is-this-realistic-parenting/">"My goal is no computer, no cell phones until at least eighth grade."</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-moms/">celebrity moms</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/How+Honest+Should+We+Be+With+Our+Kids%3F+Michael+Douglas+Weighs+In" href="http://www.babble.com/celebrity/the-good-the-bad-and-the-ugly-how-honest-should-we-be-with-our-kids-michael-douglas-weighs-in/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/117662PCN_ChaplinAward53-242x141-330699546216.jpg" class="attachment-category-list wp-post-image" alt="117662PCN_ChaplinAward53" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/How+Honest+Should+We+Be+With+Our+Kids%3F+Michael+Douglas+Weighs+In" href="http://www.babble.com/celebrity/the-good-the-bad-and-the-ugly-how-honest-should-we-be-with-our-kids-michael-douglas-weighs-in/">
+							How Honest Should We Be With Our Kids? Michael Douglas Weighs In						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/How+Honest+Should+We+Be+With+Our+Kids%3F+Michael+Douglas+Weighs+In" href="http://www.babble.com/celebrity/the-good-the-bad-and-the-ugly-how-honest-should-we-be-with-our-kids-michael-douglas-weighs-in/">To share or not to share ... that is the question.</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-dads/">celebrity dads</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/Proof+That+Not+Every+Girl+Wants+to+Be+the+Next+Kylie+or+Kendall+Jenner" href="http://www.babble.com/celebrity/3-high-school-seniors-to-the-jenner-sisters-we-dont-care-about-your-insta-fame/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/Screen-Shot-2014-06-18-at-10.47.24-PM-242x141.jpg" class="attachment-category-list wp-post-image" alt="Screen Shot 2014-06-18 at 10.47.24 PM" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/Proof+That+Not+Every+Girl+Wants+to+Be+the+Next+Kylie+or+Kendall+Jenner" href="http://www.babble.com/celebrity/3-high-school-seniors-to-the-jenner-sisters-we-dont-care-about-your-insta-fame/">
+							Proof That Not Every Girl Wants to Be the Next Kylie or Kendall Jenner						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/Proof+That+Not+Every+Girl+Wants+to+Be+the+Next+Kylie+or+Kendall+Jenner" href="http://www.babble.com/celebrity/3-high-school-seniors-to-the-jenner-sisters-we-dont-care-about-your-insta-fame/">Three high schoolers take the Jenner sisters to task.</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrities-in-the-know/">celebrities in the know</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/6+of+the+Hottest+Soccer+Dads+You+Need+to+Watch+During+the+World+Cup" href="http://www.babble.com/celebrity/6-of-the-hottest-soccer-dads-you-need-to-watch-during-the-world-cup/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/Screen-Shot-2014-06-16-at-9.35.05-PM-242x141-825459792604.jpg" class="attachment-category-list wp-post-image" alt="Screen Shot 2014-06-16 at 9.35.05 PM" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/6+of+the+Hottest+Soccer+Dads+You+Need+to+Watch+During+the+World+Cup" href="http://www.babble.com/celebrity/6-of-the-hottest-soccer-dads-you-need-to-watch-during-the-world-cup/">
+							6 of the Hottest Soccer Dads You Need to Watch During the World Cup						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/6+of+the+Hottest+Soccer+Dads+You+Need+to+Watch+During+the+World+Cup" href="http://www.babble.com/celebrity/6-of-the-hottest-soccer-dads-you-need-to-watch-during-the-world-cup/">The only thing hotter than a gorgeous man is a gorgeous man holding his kids.</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-dads/">celebrity dads</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    			<div class="bb-post bb-standard">
+				<div class="bb-image"><a name="&amp;lpos=article-item&amp;lid=article-item/image/Your+Daily+Dose+of+Adorable+Prince+George+Photos+Is+Here%21" href="http://www.babble.com/celebrity/cute-alert-kate-middleton-and-prince-george-cheer-on-prince-william-during-his-polo-match-photos/"><img width="242" height="141" src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/06/120935PCN_Polo04-242x141.jpg" class="attachment-category-list wp-post-image" alt="120935PCN_Polo04" /></a></div>
+				<div class="bb-text">
+					<h2>
+						<a class="bb-text-title" name="&amp;lpos=article-item&amp;lid=article-item/text/Your+Daily+Dose+of+Adorable+Prince+George+Photos+Is+Here%21" href="http://www.babble.com/celebrity/cute-alert-kate-middleton-and-prince-george-cheer-on-prince-william-during-his-polo-match-photos/">
+							Your Daily Dose of Adorable Prince George Photos Is Here!						</a>
+					</h2>
+					<p class="bb-excerpt"><a name="&amp;lpos=article-item&amp;lid=article-item/text/Your+Daily+Dose+of+Adorable+Prince+George+Photos+Is+Here%21" href="http://www.babble.com/celebrity/cute-alert-kate-middleton-and-prince-george-cheer-on-prince-william-during-his-polo-match-photos/">We can't handle the cuteness!</a></p>
+										<p class="bb-meta">
+												<a class="bb-tag-article" href="/tag/celebrity-moms/">celebrity moms</a>
+												<span class="bb-post-date ">Posted 5 months ago</span>
+					</p>
+					<div class="clear"><!-- - --></div>
+				</div>
+				 <div class="clear"><!-- - --></div>
+			</div>
+		
+    
+    <div class="c-pagination c-page-oh-my-disney"><div class="navigation"><ol class="wp-paginate"><li><span class="title"></span></li><li><span class='page current'>1</span></li><li><a href='http://www.babble.com/celebrity/page/2/' title='2' class='page'>2</a></li><li><a href='http://www.babble.com/celebrity/page/3/' title='3' class='page'>3</a></li><li><span class='gap'>...</span></li><li><a href='http://www.babble.com/celebrity/page/3367/' title='3367' class='page'>3367</a></li><li><a href="http://www.babble.com/celebrity/page/2/" class="next">Older</a></li></ol></div></div>
+    </div>
+    <div class="clear"><!-- - --></div>
+</div>
+<!-- BEGIN DOL Web Analytics DO NOT EDIT OR REMOVE THIS LINE-->
+
+<script src="http://aglobal.go.com/stat/dolWebAnalytics.js"></script>
+<script>
+        cto=new CTO();
+        cto.account='babble';
+        cto.categoryCode = "dfam";
+        cto.siteCode = "babble";
+        cto.breadcrumbs='celebrity';
+        cto.pageName='main';
+        cto.postDate="2014/06/16 11:22:22 AM";
+        cto.author= "";
+        cto.brandSegment = "dfam";
+        cto.adPageName='/7046/bbl/';
+        cto.adKeywords = 'celebrity';
+        cto.pageId='main';  
+        cto.leadType = "non-sponsored";
+        cto.track();//Required. Do not remove.
+</script>
+<!-- END DOL Web Analytics -->
+<div id="blogs-footer">
+	<div id="b-footer-inner">
+        <div class="bb-footer-popular">
+            <div class="bb-pop-head"><h3>Popular Posts</h3></div>
+            <div class="bb-pop-list">
+                <ul>
+                                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/The+14+Most+Annoying+People+You+Encounter+at+the+Grocery+Store" href="http://www.babble.com/parenting/the-14-most-annoying-people-you-encounter-at-the-grocery-store/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/grocerystore-242x141.jpg" alt="The 14 Most Annoying People You Encounter at the Grocery Store">
+                            <p>The 14 Most Annoying People You Encounter at the Grocery Store</p>
+                        </a>
+                    </li>
+                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/How+Much+Does+It+Really+Cost+to+Have+a+Baby%3F" href="http://www.babble.com/baby/how-much-does-it-really-cost-to-have-a-baby/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/hospitalbills-242x141.jpg" alt="How Much Does It Really Cost to Have a Baby?">
+                            <p>How Much Does It Really Cost to Have a Baby?</p>
+                        </a>
+                    </li>
+                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/My+Kid%26%238217%3Bs+Weight+Is+None+of+Her+School%26%238217%3Bs+Business" href="http://www.babble.com/parenting/my-kids-weight-is-none-of-her-schools-business/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/Screen-Shot-2014-11-20-at-2.21.25-PM-242x141.png" alt="My Kid&#8217;s Weight Is None of Her School&#8217;s Business">
+                            <p>My Kid&#8217;s Weight Is None of Her School&#8217;s Business</p>
+                        </a>
+                    </li>
+                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/10+Secret+Perks+of+Parenthood" href="http://www.babble.com/parenting/10-secret-bonuses-of-parenthood/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/138033759-copy-242x141.jpg" alt="10 Secret Perks of Parenthood">
+                            <p>10 Secret Perks of Parenthood</p>
+                        </a>
+                    </li>
+                                                </ul>
+            </div>
+        </div>
+        <div class="bb-footer-featured">
+            <div class="bb-pop-head"><h3>Featured Posts</h3></div>
+            <div class="bb-pop-list">
+                <ul>
+                                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/The+Health+Food+Mommy+Wars+Were+Making+Me+Insane%2C+So+I+Stopped+Playing" href="http://www.babble.com/body-mind/the-health-food-mommy-wars-were-making-me-insane-so-i-stopped-playing/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/mommywars-242x141.jpg"  alt="The Health Food Mommy Wars Were Making Me Insane, So I Stopped Playing">
+                            <p>The Health Food Mommy Wars Were Making Me Insane, So I Stopped Playing</p>
+                        </a>
+                    </li>
+                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/The+Scariest+Part+of+Parenting+Is+Other+Mothers" href="http://www.babble.com/parenting/the-scariest-part-of-parenting-is-other-mothers/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/10/Bossy-Pregnant-Problems-242x141.jpeg"  alt="The Scariest Part of Parenting Is Other Mothers">
+                            <p>The Scariest Part of Parenting Is Other Mothers</p>
+                        </a>
+                    </li>
+                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/Can+You+Guess+These+Classic+Children%26%238217%3Bs+Books+From+the+First+Line%3F" href="http://www.babble.com/entertainment/can-you-guess-these-classic-childrens-books-from-the-first-line/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/BookQuizCollage-242x141.jpg"  alt="Can You Guess These Classic Children&#8217;s Books From the First Line?">
+                            <p>Can You Guess These Classic Children&#8217;s Books From the First Line?</p>
+                        </a>
+                    </li>
+                                    <li>
+                        <a name="&amp;lpos=b-footer-inner&amp;lid=b-footer-inner/link/7+International+Parenting+Perks+We+Wish+We+Had" href="http://www.babble.com/parenting/7-surprising-benefits-parents-receive-in-countries-around-the-world/">
+                                                        <img src="http://a.dilcdn.com/bl/wp-content/uploads/sites/8/2014/11/92829312-242x141.jpg"  alt="7 International Parenting Perks We Wish We Had">
+                            <p>7 International Parenting Perks We Wish We Had</p>
+                        </a>
+                    </li>
+                                                </ul>
+            </div>
+        </div>
+        <div class="bb-footer-social">
+            <div class="bb-pop-head"><h3>Follow</h3></div>
+            <ul>
+                <li><a target="_blank" class="fb" href="https://www.facebook.com/BabbleEditors" name="&amp;lpos=social/sharebar/footer&amp;lid=social/sharebar/footer/social_facebook">Facebook</a></li>
+                <li><a target="_blank" class="tw" href="https://twitter.com/BabbleEditors" name="&amp;lpos=social/sharebar/footer&amp;lid=social/sharebar/footer/social_twitter">Twitter</a></li>
+                <li><a target="_blank" class="pt" href="http://www.pinterest.com/babble/" name="&amp;lpos=social/sharebar/footer&amp;lid=social/sharebar/footer/social_pinterest">Pinterest</a></li>
+                <li><a target="_blank" class="tb" href="https://instagram.com/BabbleEditors" name="&amp;lpos=social/sharebar/footer&amp;lid=social/sharebar/footer/social_instagram">Instagram</a></li>
+            </ul>
+        </div>        
+        <div class="clear"><!-- - --></div>
+        
+    </div>
+    
+    <div id="blogs-legal">
+        <div class="bb-legal-inner">
+    	    
+            <div id="b-footer-logo">
+                <a href="http://www.babble.com"></a>
+            </div>
+            
+            <div id="b-footer-legal">
+        	   <div class="bb-footer-legal">
+            	   <ul>
+                	   <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/About&nbsp;Disney" href="http://thewaltdisneycompany.com/" target="_blank">About Disney</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Help&nbsp;Guest&nbsp;Services" href="http://disney.go.com/guestservices/" target="_blank">Help &amp; Guest Services</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Careers" href="http://disneycareers.com/en/default/" target="_blank">Careers</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Contact&nbsp;Us" href="http://disney.go.com/guestservices/" target="_blank">Contact Us</a></li>
+               		   <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Starwars"  href="http://www.starwars.com/" target="_blank">Star Wars</a></li>
+               		   <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Babble"  href="http://www.babble.com/" target="_blank">Babble</a></li>
+               		   <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Disney"  href="http://www.disney.com/" target="_blank">Disney</a></li>
+                    </ul>
+                    <div class="clear"><!-- - --></div>
+                </div>
+               
+                <div class="bb-footer-more">
+            	   <ul>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Terms&nbsp;Of&nbsp;Use" href="http://disneytermsofuse.com" target="_blank">Terms of Use</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Legal&nbsp;Notices" href="http://disney.go.com/guestservices/legalnotices?ppLink=pp_wdig" target="_blank">Legal Notices</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Privacy&nbsp;Policy" href="http://disneyprivacycenter.com/" target="_blank">Privacy Policy</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Your&nbsp;California&nbsp;Privacy&nbsp;Rights" href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_blank">Your California Privacy Rights</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Children&nbsp;Online&nbsp;Privacy&nbsp;Policy" href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_blank">Children’s Online Privacy Policy</a></li>
+                        <li><a name="&amp;lpos=GlobalFooter&amp;lid=GlobalFooter/link/Interest-based&nbsp;Ads" href="http://disney.go.com/guestservices/disclaimers/redirect?destination=http://preferences.truste.com/2.0/?type=disneycolor&amp;affiliateId=115" target="_blank">Interest-Based Ads</a></li>
+                    </ul>
+                    <div class="clear"><!-- - --></div>
+                </div>
+                <div id="b-legal-copyright">&copy; Disney. All Rights Reserved.</div>
+                
+                <p class="b-legal-disclaimer">
+                    Content provided on this site is for entertainment or informational purposes only and should not be construed as medical or health, safety, legal or financial advice. <a href="http://www.babble.com/disclaimer/">Click here for additional information</a>.
+                </p>           
+
+            </div>
+        </div>
+        <div class="clear"><!-- - --></div>
+    </div>
+    <div class="clear"><!-- - --></div>
+</div></div>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/babynames-admin.js?ver=1.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/modernizr-2.6.2.min.js?ver=1.24.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/jquery-ui-min.js?ver=1.24.0'></script>
+<script type='text/javascript' src='https://registerdisney.go.com/js/DisneyID.js' id='disneyid-script'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/disney-id-proxy.js?ver=1.24.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/social-scripts.js?ver=1.24.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/facebook-embed-resize.js?ver=1.24.0'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/themes/babble-theme/js/global.js?ver=1.24.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"415310475147711"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.8.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.8.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.8.1'></script>
+<script type='text/javascript' src='http://a.dilcdn.com/bl/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.8.1'></script>
+<div id="fb-root"></div></div><!-- end of  id="goc-body" -->
+</body>
+
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching using memcached
+Object Caching 3528/3723 objects using memcached
+Content Delivery Network via a.dilcdn.com/bl
+
+ Served from: blogs.disney.com @ 2014-12-02 20:39:36 by W3 Total Cache -->

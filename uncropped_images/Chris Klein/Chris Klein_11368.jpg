@@ -1,0 +1,3055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+                       
+
+
+
+
+  
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+
+<head>
+  
+  <meta name="layout" content="Home" />
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=14efc94c8f578b6db27cebe013733b15" />
+
+  
+  
+    <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=14efc94c8f578b6db27cebe013733b15" />
+    <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=14efc94c8f578b6db27cebe013733b15" />
+    <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=14efc94c8f578b6db27cebe013733b15" />
+  
+
+  <style type="text/css">
+    /* Foundation Convenience Styles */
+    /* For programmatic usage only! */
+    .clear { clear: both }
+    .hidden { display: none }
+    .lower { text-transform: lowercase }
+    .upper { text-transform: uppercase }
+
+    /* Foundation Conditional Display Classes */
+    .briefOnly     {  }    /* override in components.css */
+    .longOnly      {  }    /* override in components.css */
+  </style>
+
+  
+    <link rel="stylesheet" type="text/css" href="/foundation/grids/karnak-6-zone.css" />
+  
+
+  <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie8.css" />
+  <![endif]-->
+  <!--[if gte IE 9]>
+      <link rel="stylesheet" type="text/css" href="/styles/ie9-plus.css">
+  <![endif]-->
+
+  <link rel="stylesheet" href="/styles/print.css" type="text/css" media="print" />
+
+  
+  
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="San Antonio Current RSS: Whole Site" href="http://www.sacurrent.com/sanantonio/Rss.xml" />
+    
+    
+    
+
+    
+    
+      <link rel="alternate" type="application/rss+xml" title="San Antonio Current RSS: Comments on San Antonio Current" href="http://www.sacurrent.com/sanantonio/Rss.xml?id=comments" />
+    
+  
+
+  
+  <script src="/foundation/scripts/core-public.js?cb=60c98c04d2"></script>
+
+  
+  <link rel="stylesheet" href="/foundation/styles/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+  <script>
+    Foundation.documentReady.then(function () {
+        jQuery("a.zoomable").fancybox({"type": "image", "titlePosition": "over"});
+    });
+  </script>
+
+  
+  <script>
+    // Smooth scrolling to anchors on the same page.
+    setupGlide();
+    
+    // Modify user's own profile links to go to correct URL.
+    fixupProfileLinks("http:\/\/www.sacurrent.com\/sanantonio\/Profile", "http:\/\/posting.sacurrent.com\/sanantonio\/MyProfile");
+  </script>
+  
+  
+  
+
+  
+  
+  
+    
+  
+
+  
+  <!-- Begin Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700|Titillium+Web:400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
+<!-- End Google Fonts -->
+
+<!-- Begin Google Verification -->
+<meta name="google-site-verification" content="06A5Yh5mu5xlqSkqBOzGlxA6P_yfmltTp1l0ssgpOBk" />
+<!-- End Google Verification -->
+
+<script>
+    var OAS_url = 'http://oascentral.sacurrent.com/RealMedia/ads/',
+    OAS_sitepage = 'sacurrent/home';
+    OAS_listpos = 'Frame2,Top1,Top2,Frame1,Middle,Middle1,Left,Right,Bottom,x96',
+    OAS_query = '',
+    OAS_rns = (Math.random() + "").substring(2, 11);
+    document.write('<script type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
+    </script>
+
+
+
+
+<!--Google Analytics script -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5255170-1']);
+  _gaq.push(['_setDomainName', 'sacurrent.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- End Google Analytics -->
+  
+  
+  
+  
+
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <meta name="title" content="San Antonio Current" />
+  <meta name="description" content="Your guide to all things San Antonio. Smart and sometimes biting spin on local politics, music, nightlife, food, visual and performing arts, and so much more. Alamo City&#39;s favorite alternative news and events resource for 25 years and counting." />
+  <meta name="keywords" content="News, Blog, Culture, Dining, Events" />
+  <title>San Antonio Current</title>
+
+  
+  
+  <meta name="news_keywords" content="news, blog, culture, dining, events" />
+
+  
+  
+    
+  
+  
+    <link rel="image_src" href="http://www.sacurrent.com/binary/df05/SanAntonio_FBicon.png" />
+    <meta name="thumbnail" content="http://www.sacurrent.com/binary/df05/SanAntonio_FBicon.png" />
+  
+
+  
+    <link rel="canonical" href="http://www.sacurrent.com/" />
+    
+  
+  
+  
+    <meta property="og:url" content="http://www.sacurrent.com/" />
+  
+  
+  
+    <meta property="fb:app_id" content="310950202407744" />
+  
+
+  
+  <meta property="og:site_name" content="San Antonio Current" />
+  <meta property="og:title" content="San Antonio Current" />
+  
+  
+    <meta property="og:image" content="http://www.sacurrent.com/binary/df05/SanAntonio_FBicon.png" />
+  
+
+  
+  
+    <meta property="og:description" content="Your guide to all things San Antonio. Smart and sometimes biting spin on local politics, music, nightlife, food, visual and performing arts, and so much more. Alamo City&#39;s favorite alternative news and events resource for 25 years and counting." />
+  
+
+  
+  
+
+    
+  
+  
+    <meta property="og:type" content="website" />
+  
+
+  
+  
+  <!--
+    <PageMap>
+      <DataObject type="foundation">
+        <Attribute name="oid"></Attribute>
+        <Attribute name="class"></Attribute>
+        <Attribute name="lastmodified"></Attribute>
+        <Attribute name="creationdate"></Attribute>
+      </DataObject>
+
+      
+    </PageMap>
+  -->
+
+</head>
+
+
+
+
+
+  <body id="Home" class="Home Karnak6Zone">
+
+
+
+<div id="fb-root"></div>
+
+
+  <script>
+    (function () {
+        var app = new Foundation.Facebook.Application();
+        app.receiveAuthNotifications();
+        app.receiveLikeNotifications();
+    })();
+  </script>
+  
+
+<!-- Leader -->
+<div id="gridLeader">
+  <div id="AdBackground" class="Leader Home ">
+  <script>OAS_RICH('x96');</script>
+</div>
+
+<script type="text/javascript">
+  positionAdBackground = function(){
+    var newMargin = Math.floor((window.innerWidth - jQuery('#AdBackground').outerWidth())/2-6) + 'px';
+    jQuery('#AdBackground').css({'margin-left':newMargin});
+  }
+  positionAdBackground();
+  jQuery(window).resize(function(){positionAdBackground();});
+  Foundation.documentReady.then(function(){positionAdBackground();});
+</script><div id="AdInterstitial" class="Leader Home ">
+  <script>OAS_RICH('Frame2');</script>
+</div>
+</div><!-- end gridLeader -->
+
+<div id="gridClamp">
+
+  <!-- Header -->
+  <div id="gridHeader">
+    
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+    
+      <div id="MobileDetect" class="GlobalHeader Home " style="display:none">
+        Switch to the <a href="http://m.sacurrent.com/" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
+      </div>
+    
+
+    <script>
+      new Foundation.MobileDetectComponent("MobileDetect", true);
+    </script>
+  
+
+
+
+
+
+
+
+
+
+
+
+<div id="LogoHeader" class="GlobalHeader Home ">
+  
+    
+    <div id="LeftHeaderAd">
+      <script>OAS_RICH('Top1');</script>
+    </div>
+
+    <div id="RightHeaderAd">
+      <script>OAS_RICH('Top2');</script>
+    </div>
+
+    
+      
+    
+      <h1 id="logo"><a href="http://www.sacurrent.com/" title="San Antonio Current">San Antonio Current</a></h1>
+    
+  
+      
+      
+</div>
+<!-- End #LogoHeader -->
+
+
+
+
+
+
+<div id="NavigationHorizontal" class="GlobalHeader Home ">
+
+  
+
+    
+    
+        <ul id="mainNav">
+      
+      
+
+      
+
+      
+
+      
+
+      <li class="first" id="NavItem_News">
+        <a href="http://www.sacurrent.com/sanantonio/news/Section?oid=2240579" target="_self" class="subnav_link" id="SNAVL_News">News</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Arts">
+        <a href="http://www.sacurrent.com/sanantonio/arts/Section?oid=2240581" target="_self" >Arts</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Music">
+        <a href="http://www.sacurrent.com/sanantonio/music/Section?oid=2240583" target="_self" >Music</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Screens">
+        <a href="http://www.sacurrent.com/sanantonio/screens/Section?oid=2240582" target="_self" >Screens</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_FoodDrink">
+        <a href="http://www.sacurrent.com/sanantonio/food-and-drink/Section?oid=2240580" target="_self" >Food &amp; Drink</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Calendar">
+        <a href="http://www.sacurrent.com/sanantonio/EventSearch" target="_self" >Calendar</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_BestOfSA">
+        <a href="http://www.sacurrent.com/sanantonio/BestOf" target="_self" >Best Of SA</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_SpecialIssues">
+        <a href="http://www.sacurrent.com/sanantonio/special-issues/Section?oid=2240585" target="_self" >Special Issues</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Slideshows">
+        <a href="http://photos.sacurrent.com" target="_self" >Slideshows</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="" id="NavItem_Giveaways">
+        <a href="http://www.sacurrent.com/sanantonio/FreeStuff" target="_self" >Giveaways</a>
+      </li>
+      
+    
+      
+
+      
+
+      
+
+      
+
+      <li class="last" id="NavItem_Marketplace">
+        <a href="http://marketplace.sacurrent.com/" target="_blank" >Marketplace</a>
+      </li>
+      
+    
+        </ul>
+      
+
+    
+      
+      
+        
+          <h3 class="hidden">Browse News</h3>
+          <ul class="subnav_content" id="SNAV_News" style="display:none;">
+        
+
+        
+
+        <li class="">
+          <a href="http://npaper-wehaa.com/current" target="_blank" title="">SA Flipbook</a>
+        </li>
+        
+          </ul>
+        
+      
+      
+      
+      
+        <script type="text/javascript"><!--
+          Event.observe(document, "dom:loaded", function () {
+            var panellinks = $$('.subnav_link');
+            panellinks.each(function(fl) {
+              var panel_id = 'SNAV_'+fl.id.split('_')[1];
+              var link_w = fl.getWidth();
+              new FloatingPanel(fl,panel_id,{
+                rightOffset:'-' + (link_w + 0),
+                topOffset:'25',
+                effects: 'off',
+                closeDelay:'0',
+                allowDefault: true,
+                beforeOpen: function() {
+                  fl.addClassName('hover');
+                  Element.up(fl).addClassName('hover');
+                },
+                beforeClose: function() {
+                  fl.removeClassName('hover');
+                  Element.up(fl).removeClassName('hover');
+                }
+              });
+            });
+          });
+        // --></script>
+      
+      
+    
+  
+
+</div><!-- end navigation -->
+
+<div id="AdPencilBar" class="GlobalHeader Home ">
+  <script>OAS_RICH('Frame1');</script>
+</div>
+    <!-- end gridHeader -->
+  </div>
+
+  <div id="gridMain">
+
+    <!-- ZoneA -->
+    <div id="gridMainColumn">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="HomeTopFeature" class="MainColumn Home ">
+  
+    <div class="topFeature">
+      
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/5-things-you-have-to-do-this-week">
+          <img src="/imager/b/homefeature/2347246/de06/tamaleras.jpg" 
+               alt="5 Things You Have to do This Week" 
+               title="5 Things You Have to do This Week"
+               width="600" 
+               height="255" />
+        </a>
+      
+      <h3 class="headline">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/5-things-you-have-to-do-this-week">5 Things You Have to do This Week</a>
+      </h3>
+      <div class="topFeatureLower">
+        <h4 class="subhead"></h4>
+        
+          <p class="byline">By ARTSLUT</p><br>
+        
+        <a class="more" href="http://www.sacurrent.com/Blogs/archives/2014/11/24/5-things-you-have-to-do-this-week">Read More</a>
+      </div>
+      <div class="clear"><!-- clear! --></div>
+    </div>
+    
+  
+      <div class="lowerFeature">
+    
+    
+      <div class="lowerFeatureTsr">
+        
+          <div class="tsrImg">
+            <a href="http://www.sacurrent.com/sanantonio/10-gifts-for-news-junkies/Content?oid=2345939">
+              <img src="/imager/b/homefeaturefollows/2346069/1c36/sa_20141119_cover.jpg" 
+                   alt="10 Gifts for News Junkies" 
+                   title="10 Gifts for News Junkies"
+                   width="140" 
+                   height="110" />
+            </a>
+          </div>
+        
+        <div class="lowerFeatureTsrText">
+          <h3 class="headline"><a href="http://www.sacurrent.com/sanantonio/10-gifts-for-news-junkies/Content?oid=2345939">10 Gifts for News Junkies</a></h3>
+          <h4 class="subhead"></h4>
+          
+            <p class="byline">By Alexa Garcia-Ditta and Mark Reagan</p>
+          
+        </div>
+      </div><!-- End .lowerFeatureTsr -->
+    
+  
+    
+      <div class="lowerFeatureTsr">
+        
+          <div class="tsrImg">
+            <a href="http://www.sacurrent.com/sanantonio/bexar-county-not-a-lot-of-military-weapons-but-plenty-of-well-armed-police-departments/Content?oid=2345950">
+              <img src="/imager/b/homefeaturefollows/2346047/260c/newsmonger2-1.jpg" 
+                   alt="Bexar County&rsquo;s Many Police are Well-armed, but not by the Military" 
+                   title="Bexar County&rsquo;s Many Police are Well-armed, but not by the Military"
+                   width="140" 
+                   height="110" />
+            </a>
+          </div>
+        
+        <div class="lowerFeatureTsrText">
+          <h3 class="headline"><a href="http://www.sacurrent.com/sanantonio/bexar-county-not-a-lot-of-military-weapons-but-plenty-of-well-armed-police-departments/Content?oid=2345950">Bexar County’s Many Police are Well-armed, but not by the Military</a></h3>
+          <h4 class="subhead"></h4>
+          
+            <p class="byline">By Mark Reagan</p>
+          
+        </div>
+      </div><!-- End .lowerFeatureTsr -->
+    
+  
+      </div><!-- End .lowerFeature -->
+    
+</div><!-- End HomeTopFeature -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="HomeLatest" class="MainColumn Home ">
+      <h2><span class="wideLine"><span class="gray">The</span> Latest</span></h2>
+  
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/what-i-ate-pre-holiday-madness">
+          <img src="/imager/what-i-ate-pre-holiday-madness/b/review/2347323/682c/Screen_Shot_2014-11-24_at_1.53.30_PM.png" 
+               alt="What I Ate: Pre-holiday madness" 
+               title="What I Ate: Pre-holiday madness"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/what-i-ate-pre-holiday-madness">What I Ate: Pre-holiday madness</a></h3>
+        
+          <p class="byline">By Jessica Elizarraras</p>
+        
+        <p class="postDate"> 2:36 <span style='text-transform:lowercase;'>PM</span>, Mon., November 24</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/city-must-address-homelessness-in-earnest">
+          <img src="/imager/new-headline/b/review/2347252/856c/citation.jpg" 
+               alt="City Must Address Homelessness In Earnest" 
+               title="City Must Address Homelessness In Earnest"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">The Daily</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/city-must-address-homelessness-in-earnest">City Must Address Homelessness In Earnest</a></h3>
+        
+          <p class="byline">By Alexa Garcia-Ditta</p>
+        
+        <p class="postDate"> 1:56 <span style='text-transform:lowercase;'>PM</span>, Mon., November 24</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/the-express-news-is-having-an-unfortunate-case-of-the-mondays">
+          <img src="/imager/the-san-antonio-express-news-is-having-a/b/review/2347298/2017/express-news.jpg" 
+               alt="The &#39;Express-News&#39; is Having an Unfortunate Case of the Mondays" 
+               title="The &#39;Express-News&#39; is Having an Unfortunate Case of the Mondays"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">The Daily</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/the-express-news-is-having-an-unfortunate-case-of-the-mondays">The 'Express-News' is Having an Unfortunate Case of the Mondays</a></h3>
+        
+          <p class="byline">By Albert Salazar</p>
+        
+        <p class="postDate">12:42 <span style='text-transform:lowercase;'>PM</span>, Mon., November 24</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/10-sa-food-pics-to-make-you-hangry">
+          <img src="/imager/10-sa-food-pics-to-make-you-hangry/b/review/2347288/0375/sa-food-pics.png" 
+               alt="10 SA Food Pics to Make You Hangry" 
+               title="10 SA Food Pics to Make You Hangry"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/10-sa-food-pics-to-make-you-hangry">10 SA Food Pics to Make You Hangry</a></h3>
+        
+          <p class="byline">By Albert Salazar</p>
+        
+        <p class="postDate">12:25 <span style='text-transform:lowercase;'>PM</span>, Mon., November 24</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/23/spurs-scorch-nets-99-87">
+          <img src="/imager/spurs-scorch-nets-99-87/b/review/2347105/5a9e/508084529_nets_spurs_evansce0683_0.jpg" 
+               alt="Spurs Scorch Nets 99-87" 
+               title="Spurs Scorch Nets 99-87"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">ArtSlut</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/23/spurs-scorch-nets-99-87">Spurs Scorch Nets 99-87</a></h3>
+        
+          <p class="byline">By M. Solis</p>
+        
+        <p class="postDate">11:01 <span style='text-transform:lowercase;'>AM</span>, Sun., November 23</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/you-cant-discuss-secret-menus-without-mentioning-whataburgers-whatafarm">
+          <img src="/imager/behold-whataburgers-whatafarm/b/review/2346960/c4df/whatafarm.JPG" 
+               alt="You Can&#39;t Discuss Secret Menus Without Mentioning Whataburger&#39;s Whatafarm" 
+               title="You Can&#39;t Discuss Secret Menus Without Mentioning Whataburger&#39;s Whatafarm"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/you-cant-discuss-secret-menus-without-mentioning-whataburgers-whatafarm">You Can't Discuss Secret Menus Without Mentioning Whataburger's Whatafarm</a></h3>
+        
+          <p class="byline">By Albert Salazar</p>
+        
+        <p class="postDate"> 3:15 <span style='text-transform:lowercase;'>PM</span>, Sat., November 22</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/we-dont-know-what-to-make-of-these-turkey-tamales">
+          <img src="/imager/we-dont-know-what-to-make-of-these-turkey/b/review/2346940/1035/texas-1605.jpg" 
+               alt="We Don&#39;t Know What to Make of These Turkey Tamales" 
+               title="We Don&#39;t Know What to Make of These Turkey Tamales"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/we-dont-know-what-to-make-of-these-turkey-tamales">We Don't Know What to Make of These Turkey Tamales</a></h3>
+        
+          <p class="byline">By Albert Salazar</p>
+        
+        <p class="postDate"> 2:03 <span style='text-transform:lowercase;'>PM</span>, Sat., November 22</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/tim-duncan-and-cory-brewer-the-elusive-double-flop">
+          <img src="/imager/tim-duncan-and-cory-brewer-the-elusive-do/b/review/2346935/25c9/Tim_Duncan.jpg" 
+               alt="Tim Duncan and Cory Brewer: The elusive double-flop" 
+               title="Tim Duncan and Cory Brewer: The elusive double-flop"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">ArtSlut</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/tim-duncan-and-cory-brewer-the-elusive-double-flop">Tim Duncan and Cory Brewer: The elusive double-flop</a></h3>
+        
+          <p class="byline">By Matt Stieb</p>
+        
+        <p class="postDate">11:34 <span style='text-transform:lowercase;'>AM</span>, Sat., November 22</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/21/abbott-attacks-obamas-immigration-order">
+          <img src="/imager/abbott-attacks-obamas-order-on-immigranti/b/review/2346794/4d30/Screen_Shot_2014-11-21_at_5.56.22_PM.png" 
+               alt="Abbott Attacks Obama&rsquo;s Immigration Order" 
+               title="Abbott Attacks Obama&rsquo;s Immigration Order"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">The Daily</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/21/abbott-attacks-obamas-immigration-order">Abbott Attacks Obama’s Immigration Order</a></h3>
+        
+          <p class="byline">By Abby Mangel</p>
+        
+        <p class="postDate"> 6:33 <span style='text-transform:lowercase;'>PM</span>, Fri., November 21</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/21/3-ways-to-get-your-drink-grub-on-this-week">
+          <img src="/imager/3-ways-to-get-your-drink-grub-on-this-week/b/review/2346775/9f93/1766768.jpg" 
+               alt="3 Ways to Get Your Drink/Grub on this Week" 
+               title="3 Ways to Get Your Drink/Grub on this Week"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/21/3-ways-to-get-your-drink-grub-on-this-week">3 Ways to Get Your Drink/Grub on this Week</a></h3>
+        
+          <p class="byline">By FLAVOR</p>
+        
+        <p class="postDate"> 4:42 <span style='text-transform:lowercase;'>PM</span>, Fri., November 21</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/show-us-your-magnificent-movember-beards">
+          <img src="/imager/show-us-your-magnificent-movember-beards/b/review/2346597/cb2d/Screen_shot_2014-11-20_at_5.21.53_PM.png" 
+               alt="Show Us Your Magnificent Movember Beards" 
+               title="Show Us Your Magnificent Movember Beards"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">ArtSlut</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/show-us-your-magnificent-movember-beards">Show Us Your Magnificent Movember Beards</a></h3>
+        
+          <p class="byline">By Albert Salazar</p>
+        
+        <p class="postDate"> 5:25 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/15-songs-to-put-on-your-thanksgiving-playlist">
+          <img src="/imager/15-songs-to-put-on-your-thanksgiving-playl/b/review/2346487/c31b/Thanksgiving_playlist.jpg" 
+               alt="15 Songs to Put on Your Thanksgiving Playlist" 
+               title="15 Songs to Put on Your Thanksgiving Playlist"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">SA Sound</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/15-songs-to-put-on-your-thanksgiving-playlist">15 Songs to Put on Your Thanksgiving Playlist</a></h3>
+        
+          <p class="byline">By Shannon Sweet</p>
+        
+        <p class="postDate"> 4:59 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/ramen-week-continues-at-umai-mi">
+          <img src="/imager/ramen-week-continues-at-umai-mi/b/review/2346571/8fde/Screen_Shot_2014-11-20_at_3.21.22_PM.png" 
+               alt="Ramen Week Continues at Umai Mi" 
+               title="Ramen Week Continues at Umai Mi"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/ramen-week-continues-at-umai-mi">Ramen Week Continues at Umai Mi</a></h3>
+        
+          <p class="byline">By Jessica Elizarraras</p>
+        
+        <p class="postDate"> 4:19 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/quarry-farmers-and-ranchers-market-needs-your-help">
+          <img src="/imager/quarry-farmers-and-ranchers-market-needs-you/b/review/2346553/14a4/quarry.jpg" 
+               alt="Quarry Farmers &amp; Ranchers Market Needs Your Help" 
+               title="Quarry Farmers &amp; Ranchers Market Needs Your Help"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/quarry-farmers-and-ranchers-market-needs-your-help">Quarry Farmers & Ranchers Market Needs Your Help</a></h3>
+        
+          <p class="byline">By Jessica Elizarraras</p>
+        
+        <p class="postDate"> 3:14 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/november-20-is-transgender-day-of-remembrance">
+          <img src="/imager/november-20-is-transgender-day-of-remembra/b/review/2346546/3aec/Remembrance-300x300.png" 
+               alt="November 20 is Transgender Day of Remembrance" 
+               title="November 20 is Transgender Day of Remembrance"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">The Daily</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/november-20-is-transgender-day-of-remembrance">November 20 is Transgender Day of Remembrance</a></h3>
+        
+          <p class="byline">By Albert Salazar</p>
+        
+        <p class="postDate"> 3:01 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/6-shows-to-see-this-weekend">
+          <img src="/imager/phil-luna/b/review/2346410/7ef5/983753_10203620337302588_4790374906117454868_n.jpg" 
+               alt="6 Shows to See this Weekend" 
+               title="6 Shows to See this Weekend"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">SA Sound</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/6-shows-to-see-this-weekend">6 Shows to See this Weekend</a></h3>
+        
+          <p class="byline">By Shannon Sweet</p>
+        
+        <p class="postDate"> 2:49 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/10-things-you-have-to-do-this-weekend">
+          <img src="/imager/10-things-you-have-to-do-this-weekend/b/review/2346203/b7c9/Phil_Luna___Bianca_Luna.jpg" 
+               alt="10 Things You Have to Do This Weekend" 
+               title="10 Things You Have to Do This Weekend"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">ArtSlut</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/10-things-you-have-to-do-this-weekend">10 Things You Have to Do This Weekend</a></h3>
+        
+          <p class="byline">By ARTSLUT</p>
+        
+        <p class="postDate"> 1:10 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/texas-ranks-in-top-20-green-bean-casserole-loving-states">
+          <img src="/imager/texas-ranks-in-top-20-green-bean-casserole/b/review/2346503/3c30/green-bean-casserole-step-4-f.jpg" 
+               alt="Texas Ranks in Top 20 Green Bean Casserole-Loving States" 
+               title="Texas Ranks in Top 20 Green Bean Casserole-Loving States"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      
+      
+        <h4 class="tsrCategory">Flavor</h4>
+        <h3 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/20/texas-ranks-in-top-20-green-bean-casserole-loving-states">Texas Ranks in Top 20 Green Bean Casserole-Loving States</a></h3>
+        
+          <p class="byline">By Misty Blaze</p>
+        
+        <p class="postDate"> 1:06 <span style='text-transform:lowercase;'>PM</span>, Thu., November 20</p>
+      
+    </div>
+  </div>
+  
+  
+      <div class="more">
+        <a href="http://www.sacurrent.com/sanantonio/ArticleArchives">More of The Latest</a>
+      </div>
+    </div><!-- End #HomeLatest -->
+  
+
+
+
+
+
+
+
+
+
+
+
+    <div id="HomeThisWeek" class="MainColumn Home ">
+      <h2><a href="http://www.sacurrent.com/sanantonio/IssueArchives?issue=2345804"><span class="wideLine"><span class="gray">In</span> This Week's <span class="gray">Issue</span></span></a></h2>
+  
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/sanantonio/school-at-sunset-hills-reboots-dialogue-on-fine-arts-education-in-sa/Content?oid=2345895">
+          <img src="/imager/michael-frary-untitled/b/review/2345976/a662/visualart1-2.jpg" 
+               alt="&lsquo;School at Sunset Hills&rsquo; Reboots Dialogue on Fine Arts Education in SA" 
+               title="&lsquo;School at Sunset Hills&rsquo; Reboots Dialogue on Fine Arts Education in SA"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      <h3 class="headline"><a href="http://www.sacurrent.com/sanantonio/school-at-sunset-hills-reboots-dialogue-on-fine-arts-education-in-sa/Content?oid=2345895">‘School at Sunset Hills’ Reboots Dialogue on Fine Arts Education in SA</a></h3>
+      <h4 class="subhead"></h4>
+      
+        
+        <p class="byline">Dan R. Goddard</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/sanantonio/as-thanksgiving-approaches-were-thankful-for-bakery-lorraine/Content?oid=2345927">
+          <img src="/imager/anne-ng-charlie-biedenharn-and-jeremy-man/b/review/2346043/4217/restaurants1-1.jpg" 
+               alt="As Thanksgiving Approaches, We&rsquo;re Thankful for Bakery Lorraine" 
+               title="As Thanksgiving Approaches, We&rsquo;re Thankful for Bakery Lorraine"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      <h3 class="headline"><a href="http://www.sacurrent.com/sanantonio/as-thanksgiving-approaches-were-thankful-for-bakery-lorraine/Content?oid=2345927">As Thanksgiving Approaches, We’re Thankful for Bakery Lorraine</a></h3>
+      <h4 class="subhead"></h4>
+      
+        
+        <p class="byline">Jessica Elizarraras</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/sanantonio/church-on-monday-a-qanda-with-saxophonist-elias-haslanger/Content?oid=2345907">
+          <img src="/imager/elias-haslanger/b/review/2346050/8347/localmusic1-1.jpg" 
+               alt="Church on Monday: A Q&amp;amp;A with saxophonist Elias Haslanger" 
+               title="Church on Monday: A Q&amp;amp;A with saxophonist Elias Haslanger"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      <h3 class="headline"><a href="http://www.sacurrent.com/sanantonio/church-on-monday-a-qanda-with-saxophonist-elias-haslanger/Content?oid=2345907">Church on Monday: A Q&amp;A with saxophonist Elias Haslanger</a></h3>
+      <h4 class="subhead"></h4>
+      
+        
+        <p class="byline">Matt Stieb</p>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="latestTsr">
+    
+    
+      <div class="tsrImg">
+        <a href="http://www.sacurrent.com/sanantonio/the-theory-of-everything-explores-love-time-and-space/Content?oid=2345902">
+          <img src="/imager/the-theory-of-everything-explores-love/b/review/2345964/d179/filmtv1-1.jpg" 
+               alt="&#39;The Theory of Everything&#39; Explores Love, Time and Space" 
+               title="&#39;The Theory of Everything&#39; Explores Love, Time and Space"
+               width=".ReviewWidth>" 
+               height=".ReviewHeight>" />
+        </a>
+      </div>
+    
+    <div class="latestTsrText">
+      <h3 class="headline"><a href="http://www.sacurrent.com/sanantonio/the-theory-of-everything-explores-love-time-and-space/Content?oid=2345902">'The Theory of Everything' Explores Love, Time and Space</a></h3>
+      <h4 class="subhead"></h4>
+      
+        
+        <p class="byline">Kiko Martinez</p>
+      
+    </div>
+  </div>
+  
+
+      <div class="more">
+        <a href="http://www.sacurrent.com/sanantonio/IssueArchives?issue=2345804">view whole issue</a>
+      </div>
+    </div><!-- End #HomeThisWeek -->
+  
+      <!-- end gridMainColumn -->
+    </div>
+
+    <div id="gridRightColumn">
+    
+      <!-- ZoneB -->
+      <div id="gridMainSidebar">
+        
+<div id="SidebarSocialLinks" class="MainSidebar Home ">
+  <h2>SA Current on Social Media</h2>
+  <ul class="socialLinks">
+    
+      <li><a id="FacebookIcon" href="https://www.facebook.com/sacurrent" target="_blank"><img src="/binary/da22/fBook35px.png" alt="FacebookIcon" /></a></li>
+    
+      <li><a id="TwitterIcon" href="https://twitter.com/SAcurrent" target="_blank"><img src="/binary/d53f/twt35px.png" alt="TwitterIcon" /></a></li>
+    
+      <li><a id="InstagramIcon" href="http://instagram.com/sacurrent" target="_blank"><img src="/binary/f0c2/instagram35px.png" alt="InstagramIcon" /></a></li>
+    
+      <li><a id="GooglePlusIcon" href="https://plus.google.com/101321049475770462853/posts" target="_blank"><img src="/binary/2955/gPlus35px.png" alt="GooglePlusIcon" /></a></li>
+    
+  </ul>
+<div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="TabbedCalendar" class="MainSidebar Home ">
+  <h2>Calendar</h2>
+
+  <div class="tabs">
+    <div id="tabEvents" class="tab"><a href="#">Events</a></div>
+    <div id="tabMusic"  class="tab"><a href="#">Music</a></div>
+    <div id="tabMovies" class="tab"><a href="#">Movies</a></div>
+    <div id="tabArts"   class="tab"><a href="#">Arts</a></div>
+    <div id="tabDining" class="tab tabLast"><a href="#">Dining</a></div>
+  </div>
+
+  
+
+  
+
+  <div class="eventTabGuts" style="display:none">
+    <div class="tabsButtonRow">
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Today">Today</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Tomorrow">Tomorrow</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=This%20Weekend">This Weekend</a>
+  </div>
+    <ol class="moduleList">
+        
+
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/three-course-milagro-luxury-tequila-dinne/Event?oid=2346519">
+        Three Course Milagro Luxury Tequila Dinne <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/intermediate-swing-class/Event?oid=2346477">
+        Intermediate Swing Class <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/the-justin-timberlake-sing-along/Event?oid=2339903">
+        The Justin Timberlake Sing-Along <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/movie-night-at-the-alamo-the-searchers/Event?oid=2347144">
+        Movie Night at the Alamo: <em>The Searchers</em> <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/only-at-the-alamo-anime/Event?oid=2326736">
+        Only at the Alamo: Anime <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+  </ol>
+  </div>
+
+  
+
+  
+
+  <div class="eventTabGuts" style="display:none">
+    <div class="tabsButtonRow">
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Today&amp;eventSection=2321116">Today</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Tomorrow&amp;eventSection=2321116">Tomorrow</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=This%20Weekend&amp;eventSection=2321116">This Weekend</a>
+  </div>
+    <ol class="moduleList">
+        
+
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/kurt-travis-hotel-books-tommy-boys/Event?oid=2344049">
+        Kurt Travis, Hotel Books, Tommy Boys <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/kyle-reed/Event?oid=2346480">
+        Kyle Reed <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/jon-wolfe/Event?oid=2347249">
+        Jon Wolfe <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/two-tons-of-steel/Event?oid=2346269">
+        Two Tons of Steel <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/wade-bowen/Event?oid=2345808">
+        Wade Bowen <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+  </ol>
+  </div>  
+
+  
+
+  
+
+  <div class="eventTabGuts" style="display:none">
+    <div class="tabsButtonRow">
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Today&amp;eventCategory=2321118">Today</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Tomorrow&amp;eventCategory=2321118">Tomorrow</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=This%20Weekend&amp;eventCategory=2321118">This Weekend</a>
+  </div>
+    <ol class="moduleList">
+      
+        <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/the-justin-timberlake-sing-along/Event?oid=2339903">
+        The Justin Timberlake Sing-Along <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+        
+        <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/movie-night-at-the-alamo-the-searchers/Event?oid=2347144">
+        Movie Night at the Alamo: <em>The Searchers</em> <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+        
+        <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/only-at-the-alamo-anime/Event?oid=2326736">
+        Only at the Alamo: Anime <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+        
+    </ol>
+  </div>
+
+  
+
+  
+
+  <div class="eventTabGuts" style="display:none">
+    <div class="tabsButtonRow">
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Today&amp;eventCategory=2321117">Today</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=Tomorrow&amp;eventCategory=2321117">Tomorrow</a>
+    <a class="grayRedBox" href="http://www.sacurrent.com/sanantonio/EventSearch?narrowByDate=This%20Weekend&amp;eventCategory=2321117">This Weekend</a>
+  </div>
+    <ol class="moduleList">
+        
+
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/love-in-the-garden-of-eden/Event?oid=2339879">
+        "Love in the Garden of Eden" <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/memory-and-forgetting/Event?oid=2341759">
+        "Memory & Forgetting" <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/mujeres-mercado-the-vibrant-community/Event?oid=2339232">
+        Mujeres Mercado: "The Vibrant Community" <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/behold-art-opening-and-holiday-market/Event?oid=2343737">
+        Behold Art Opening and Holiday Market <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+      <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/legacy-of-beauty/Event?oid=2326307">
+        "Legacy of Beauty" <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+    
+  </ol>
+  </div>
+
+  
+
+  
+
+  <div class="eventTabGuts" style="display:none">
+    <ol class="moduleList">
+      
+        <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/valentinos-di-olmos/Location?oid=2319400">
+        Valentino's di Olmos <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+        
+        <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/panda-inn/Location?oid=2318174">
+        Panda Inn <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+        
+        <li>
+    <h4 class="headline">
+      <a href="http://www.sacurrent.com/sanantonio/fattboy-burgers-and-dogs/Location?oid=2316944">
+        Fattboy Burgers & Dogs <span class="more">&nbsp;Read More</span>
+      </a>
+    </h4>
+  </li>
+        
+    </ol>
+    <form name="diningSearchForm" method="get" action="http://www.sacurrent.com/sanantonio/LocationSearch">
+      <input type="hidden" name="locationSection" value="2124727" />
+      <input type="hidden" name="guide" value="2124367" />
+      <select name="locationCategory">
+        <option value="">-All Categories-</option>
+        
+          <option value="2315723">American</option>
+        
+          <option value="2315724">Argentine</option>
+        
+          <option value="2315725">Asian</option>
+        
+          <option value="2315726">Bakery</option>
+        
+          <option value="2315727">Barbecue</option>
+        
+          <option value="2315728">Belgian</option>
+        
+          <option value="2315729">Bistro</option>
+        
+          <option value="2315730">Breakfast</option>
+        
+          <option value="2315731">Brewpub</option>
+        
+          <option value="2315732">Cajun/Creole</option>
+        
+          <option value="2315733">Cal-Mex</option>
+        
+          <option value="2315734">California</option>
+        
+          <option value="2315735">Cantonese</option>
+        
+          <option value="2315736">Caribbean</option>
+        
+          <option value="2315737">Chinese</option>
+        
+          <option value="2315698">Coffee House (chain)</option>
+        
+          <option value="2315699">Coffee House (independent)</option>
+        
+          <option value="2315738">Coffee/Tea</option>
+        
+          <option value="2315739">Contemporary</option>
+        
+          <option value="2315740">Continental</option>
+        
+          <option value="2315741">Croatian</option>
+        
+          <option value="2315742">Cuban</option>
+        
+          <option value="2315743">Danish</option>
+        
+          <option value="2315744">Deli</option>
+        
+          <option value="2315745">Diner</option>
+        
+          <option value="2315746">Eastern European</option>
+        
+          <option value="2315747">Egyptian</option>
+        
+          <option value="2315748">Food Truck</option>
+        
+          <option value="2315749">French</option>
+        
+          <option value="2315750">Fusion</option>
+        
+          <option value="2315751">Game</option>
+        
+          <option value="2316125">General Fare</option>
+        
+          <option value="2315752">German</option>
+        
+          <option value="2315753">Greek</option>
+        
+          <option value="2315754">Hamburgers</option>
+        
+          <option value="2315755">Hawaiian</option>
+        
+          <option value="2315756">Hot Dogs</option>
+        
+          <option value="2315757">Indian</option>
+        
+          <option value="2315758">Irish</option>
+        
+          <option value="2315759">Italian</option>
+        
+          <option value="2315760">Jamaican</option>
+        
+          <option value="2315761">Japanese</option>
+        
+          <option value="2315762">Korean</option>
+        
+          <option value="2315763">Latin American</option>
+        
+          <option value="2315764">Lebanese</option>
+        
+          <option value="2315765">Market</option>
+        
+          <option value="2315766">Mediterranean</option>
+        
+          <option value="2315767">Mexican</option>
+        
+          <option value="2315768">Middle Eastern</option>
+        
+          <option value="2315769">Modern</option>
+        
+          <option value="2315770">Mongolian</option>
+        
+          <option value="2315771">Moroccan</option>
+        
+          <option value="2315772">Nepali</option>
+        
+          <option value="2315773">Noodles</option>
+        
+          <option value="2315774">Nouveau</option>
+        
+          <option value="2315775">Persian</option>
+        
+          <option value="2315776">Pit Beef</option>
+        
+          <option value="2315777">Pizza</option>
+        
+          <option value="2315778">Puerto Rican</option>
+        
+          <option value="2315779">Romantic Dining</option>
+        
+          <option value="2315780">Russian</option>
+        
+          <option value="2315781">Salads</option>
+        
+          <option value="2315782">Seafood</option>
+        
+          <option value="2315783">Soup</option>
+        
+          <option value="2315784">Southern</option>
+        
+          <option value="2315785">Southwestern</option>
+        
+          <option value="2315786">Spanish</option>
+        
+          <option value="2315787">Steakhouse</option>
+        
+          <option value="2315788">Stir Fry</option>
+        
+          <option value="2315789">Sweets</option>
+        
+          <option value="2315790">Szechuan</option>
+        
+          <option value="2315791">Tapas</option>
+        
+          <option value="2315792">Tavern Fare</option>
+        
+          <option value="2315793">Tex-Mex</option>
+        
+          <option value="2315794">Texas Barbeque</option>
+        
+          <option value="2315795">Thai</option>
+        
+          <option value="2315796">Turkish</option>
+        
+          <option value="2315797">Vegetarian</option>
+        
+          <option value="2315798">Vietnamese</option>
+        
+          <option value="2315799">Wine Bar</option>
+        
+      </select>
+      <select name="neighborhood">
+    <option value="">-All Neighborhoods-</option>
+    
+      
+        
+          <option value="2315597" >SAN ANTONIO</option>
+        
+        <option value="2315599" >&nbsp;&nbsp;North Central</option>
+      
+        
+        <option value="2315608" >&nbsp;&nbsp;San Antonio</option>
+      
+        
+        <option value="2315609" >&nbsp;&nbsp;Airport</option>
+      
+        
+        <option value="2315610" >&nbsp;&nbsp;Alamo Heights</option>
+      
+        
+        <option value="2315611" >&nbsp;&nbsp;Balcones Heights</option>
+      
+        
+        <option value="2315612" >&nbsp;&nbsp;Bluffview</option>
+      
+        
+        <option value="2315613" >&nbsp;&nbsp;Brackenridge Park</option>
+      
+        
+        <option value="2315614" >&nbsp;&nbsp;Brooks City Base</option>
+      
+        
+        <option value="2315615" >&nbsp;&nbsp;Bulverde</option>
+      
+        
+        <option value="2315616" >&nbsp;&nbsp;Castle Hills</option>
+      
+        
+        <option value="2315617" >&nbsp;&nbsp;Cattleman Square</option>
+      
+        
+        <option value="2315618" >&nbsp;&nbsp;Central</option>
+      
+        
+        <option value="2315619" >&nbsp;&nbsp;De Zavala Business Park</option>
+      
+        
+        <option value="2315620" >&nbsp;&nbsp;Deco District</option>
+      
+        
+        <option value="2315621" >&nbsp;&nbsp;Downtown</option>
+      
+        
+        <option value="2315622" >&nbsp;&nbsp;East</option>
+      
+        
+        <option value="2315623" >&nbsp;&nbsp;East Side</option>
+      
+        
+        <option value="2315624" >&nbsp;&nbsp;Edison</option>
+      
+        
+        <option value="2315625" >&nbsp;&nbsp;Elmendorf</option>
+      
+        
+        <option value="2315626" >&nbsp;&nbsp;Encino Park</option>
+      
+        
+        <option value="2315627" >&nbsp;&nbsp;Far North</option>
+      
+        
+        <option value="2315628" >&nbsp;&nbsp;Far West</option>
+      
+        
+        <option value="2315629" >&nbsp;&nbsp;Garden Ridge</option>
+      
+        
+        <option value="2315630" >&nbsp;&nbsp;Helotes</option>
+      
+        
+        <option value="2315631" >&nbsp;&nbsp;Helotes Crossing</option>
+      
+        
+        <option value="2315632" >&nbsp;&nbsp;Highland Park</option>
+      
+        
+        <option value="2315633" >&nbsp;&nbsp;Hill Country Village</option>
+      
+        
+        <option value="2315634" >&nbsp;&nbsp;I-10 Wurzbach</option>
+      
+        
+        <option value="2315635" >&nbsp;&nbsp;Ingram Park</option>
+      
+        
+        <option value="2315636" >&nbsp;&nbsp;King William</option>
+      
+        
+        <option value="2315637" >&nbsp;&nbsp;King William, Southtown</option>
+      
+        
+        <option value="2315638" >&nbsp;&nbsp;Kng William</option>
+      
+        
+        <option value="2315639" >&nbsp;&nbsp;Lackland AFB</option>
+      
+        
+        <option value="2315640" >&nbsp;&nbsp;Leon Valley</option>
+      
+        
+        <option value="2315641" >&nbsp;&nbsp;Losoya</option>
+      
+        
+        <option value="2315642" >&nbsp;&nbsp;Mahnke Park</option>
+      
+        
+        <option value="2315643" >&nbsp;&nbsp;Market Square</option>
+      
+        
+        <option value="2315644" >&nbsp;&nbsp;Medical Center</option>
+      
+        
+        <option value="2315645" >&nbsp;&nbsp;Medical Center area</option>
+      
+        
+        <option value="2315646" >&nbsp;&nbsp;Monte Vista</option>
+      
+        
+        <option value="2315647" >&nbsp;&nbsp;Monticello</option>
+      
+        
+        <option value="2315648" >&nbsp;&nbsp;Northcentral</option>
+      
+        
+        <option value="2315649" >&nbsp;&nbsp;Northeast</option>
+      
+        
+        <option value="2315650" >&nbsp;&nbsp;Northwest</option>
+      
+        
+        <option value="2315651" >&nbsp;&nbsp;Oak Hills</option>
+      
+        
+        <option value="2315652" >&nbsp;&nbsp;Olmos Basin</option>
+      
+        
+        <option value="2315653" >&nbsp;&nbsp;Olmos Park</option>
+      
+        
+        <option value="2315654" >&nbsp;&nbsp;Peach Grove</option>
+      
+        
+        <option value="2315655" >&nbsp;&nbsp;Pecan Valley</option>
+      
+        
+        <option value="2315656" >&nbsp;&nbsp;Quarry</option>
+      
+        
+        <option value="2315657" >&nbsp;&nbsp;Quarry Market</option>
+      
+        
+        <option value="2315658" >&nbsp;&nbsp;Quarry Village</option>
+      
+        
+        <option value="2315659" >&nbsp;&nbsp;River Walk</option>
+      
+        
+        <option value="2315660" >&nbsp;&nbsp;Shavano Park</option>
+      
+        
+        <option value="2315661" >&nbsp;&nbsp;SoFlo</option>
+      
+        
+        <option value="2315662" >&nbsp;&nbsp;South</option>
+      
+        
+        <option value="2315663" >&nbsp;&nbsp;South Flores Arts District</option>
+      
+        
+        <option value="2315664" >&nbsp;&nbsp;South Side</option>
+      
+        
+        <option value="2315665" >&nbsp;&nbsp;Southeast</option>
+      
+        
+        <option value="2315666" >&nbsp;&nbsp;Southside</option>
+      
+        
+        <option value="2315667" >&nbsp;&nbsp;Southtown</option>
+      
+        
+        <option value="2315668" >&nbsp;&nbsp;St. Mary's strip</option>
+      
+        
+        <option value="2315669" >&nbsp;&nbsp;St. Mary's University</option>
+      
+        
+        <option value="2315670" >&nbsp;&nbsp;Stone Oak</option>
+      
+        
+        <option value="2315671" >&nbsp;&nbsp;SW Military</option>
+      
+        
+        <option value="2315672" >&nbsp;&nbsp;Terrell Heights</option>
+      
+        
+        <option value="2315673" >&nbsp;&nbsp;Terrell Hills</option>
+      
+        
+        <option value="2315674" >&nbsp;&nbsp;Tobin Hill</option>
+      
+        
+        <option value="2315675" >&nbsp;&nbsp;USAA and Medical Center</option>
+      
+        
+        <option value="2315676" >&nbsp;&nbsp;UTSA</option>
+      
+        
+        <option value="2315677" >&nbsp;&nbsp;Von Ormy</option>
+      
+        
+        <option value="2315678" >&nbsp;&nbsp;Walker Ranch</option>
+      
+        
+        <option value="2315679" >&nbsp;&nbsp;West Side</option>
+      
+        
+        <option value="2315680" >&nbsp;&nbsp;Westside Commons</option>
+      
+        
+        <option value="2315681" >&nbsp;&nbsp;Windcrest</option>
+      
+        
+        <option value="2315682" >&nbsp;&nbsp;Woodlawn</option>
+      
+        
+        <option value="2315683" >&nbsp;&nbsp;Woodlawn Lake</option>
+      
+        
+          <option value="2315598" >OUT THERE</option>
+        
+        <option value="2315600" >&nbsp;&nbsp;Austin</option>
+      
+        
+        <option value="2315601" >&nbsp;&nbsp;Bandera</option>
+      
+        
+        <option value="2315602" >&nbsp;&nbsp;Boerne</option>
+      
+        
+        <option value="2315603" >&nbsp;&nbsp;Converse</option>
+      
+        
+        <option value="2315604" >&nbsp;&nbsp;Ingram</option>
+      
+        
+        <option value="2315605" >&nbsp;&nbsp;Leon Springs</option>
+      
+        
+        <option value="2315606" >&nbsp;&nbsp;New Braunfels</option>
+      
+        
+        <option value="2315607" >&nbsp;&nbsp;Road Trip</option>
+      
+        
+        <option value="2315684" >&nbsp;&nbsp;Universal City</option>
+      
+    
+  </select>
+      <div class="searchBox">
+        <input type="text" name="keywords" title="Enter keyword" placeholder="Search" autocomplete="off" class="text" value="" />
+        <input type="submit" value="go" />
+      </div>
+    </form>
+  </div>
+</div>
+
+
+
+<script type="text/javascript">
+<!--
+Event.observe(document, "dom:loaded", function () {
+    dnSetupTabGroup(
+        $$("#TabbedCalendar div.tabs>div"),
+        $$("#TabbedCalendar div.eventTabGuts"),
+        "tabCurrent", "tabBack", 0
+    );
+
+    // Deactivate links.
+    $$("#TabbedCalendar div.tabs>div a").each(function (a) {
+        a.onclick = function () { 
+          setTimeout(function(){ jQuery('#TabbedCalendar li').css('counter-reset','item'); },10);
+          return false; 
+        };
+    });
+});
+//-->
+</script>
+<!-- End #TabbedCalendar -->
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="SearchRightCol" class="MainSidebar Home  search-wrap">
+    
+    <form class="prepTextForm" id="searchbox_017793458706336421686:relqthgmbly" action="http://www.sacurrent.com/sanantonio/Search">
+      <input type="hidden" name="cx" value="017793458706336421686:relqthgmbly" />
+      <input type="hidden" name="cof" value="FORID:9" />
+      <input id="search-submit" type="submit" name="sa" value="Search" />    
+      <input id="search-input" autocomplete="off" type="text"  name="q" size="25" placeholder="Search" />
+    </form>
+    <ul id="search-dropdown"  class="search-dropdown" style="display:none;">
+      <li class="search-option"><a class="search-all" href="http://www.sacurrent.com/sanantonio/Search"><span class="dark-search-icon"></span>&nbsp;All</a></li>
+      <li class="search-option"><a href="http://www.sacurrent.com/sanantonio/ArticleArchives"><span class="dark-search-icon"></span>&nbsp;in Articles &amp; Posts</a></li>
+      <li class="search-option"><a href="http://www.sacurrent.com/sanantonio/EventSearch"><span class="dark-search-icon"></span>&nbsp;in Events</a></li>
+      <li class="search-option"><a href="http://www.sacurrent.com/sanantonio/LocationSearch"><span class="dark-search-icon"></span>&nbsp;in Locations</a></li>
+    </ul>
+  
+</div>
+
+<script type="text/javascript">
+/* SEARCH WIDGET */
+
+var searchInputSelector = '#search-input';
+var searchFormSelector = 'form.prepTextForm';
+
+dropDownLinksEmptyKeywordAlert = function (){
+  jQuery(searchInputSelector).attr('placeholder','Please enter a keyword.');
+  setTimeout(function(){jQuery(searchInputSelector).attr('placeholder','Search');},3000);
+}
+
+// 
+jQuery(searchFormSelector+' input[type="submit"]').click(function(e){
+  jQuery(searchInputSelector).click();
+  if(jQuery(searchInputSelector).val() == ""){
+    e.preventDefault();
+    dropDownLinksEmptyKeywordAlert();
+  }
+});
+
+dropDownLinks = new FloatingPanel(
+  'search-input', // 
+  'search-dropdown', // 
+  {
+    effects: 'off',
+    closeDelay: 1,
+    triggerEvent: 'click',
+    allowDefault: true,
+    beforeOpen: function() {
+      var searchInput = jQuery(searchInputSelector);
+      jQuery('.search-option a').click(function(e){
+        e.preventDefault(); // 
+        // 
+        if(jQuery(searchInputSelector).val() != ""){
+          if(jQuery(e.target).hasClass('search-all')){
+            jQuery(searchFormSelector).submit();
+          } else {
+            var newLocation = jQuery(e.target).attr('href') || "";
+            window.location = newLocation + "?keywords=" + jQuery(searchInputSelector).val() +  "&submit=Search";
+          }
+        }else{
+          dropDownLinksEmptyKeywordAlert();
+        }
+      });
+
+      //
+      SearchRightColCloseSearchPanel = function(event){
+        if(jQuery(event.target).parents('#SearchRightCol').length == 0){
+          dropDownLinks.closePanel();
+        }
+      }
+      jQuery(document).click(function(e){SearchRightColCloseSearchPanel(e);});
+    },
+    beforeClose: function() {
+      //
+      jQuery(document).off('click', '*', SearchRightColCloseSearchPanel);
+    },
+    togglePanel: function(){
+      //
+    }
+  }
+);
+</script>
+<!-- End #SearchRightCol -->
+<div id="AdMediumRectangle1300x250" class="MainSidebar Home ">
+  <script>OAS_RICH('Middle');</script>
+</div><div id="PhotoSlideshows" class="MainSidebar Home ">
+  <h2><a href="http://photos.sacurrent.com/" target="_blank">Newest Slideshows</a></h2>
+  <iframe src="//photos.sacurrent.com/thumbnail-scroller-square/" 
+          height="419" 
+          width="364"
+          scrolling="no" 
+          frameborder="0"></iframe>
+</div>
+<!-- End #PhotoSlideshows -->
+
+
+
+
+
+
+
+<div id="TabbedPopularity" class="MainSidebar Home ">
+  <h2>Most Popular</h2>
+  <div class="tabs">
+    <div id="tabViewed" class="tabCurrent tab"><a href="#">Most Read</a></div>
+    <div id="tabCommented" class="tabBack tab"><a href="#">Most Commented</a></div>
+    <div id="tabLatest" class="tabBack tab tabLast"><a href="#">This Issue</a></div>
+  </div>
+  
+  
+
+  <div class="popularityBody">
+    
+        <ol class="moduleList">
+      
+      
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/the-express-news-is-having-an-unfortunate-case-of-the-mondays">The 'Express-News' is Having an Unfortunate Case of the Mondays <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+      
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/10-sa-food-pics-to-make-you-hangry">10 SA Food Pics to Make You Hangry <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+      
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/22/you-cant-discuss-secret-menus-without-mentioning-whataburgers-whatafarm">You Can't Discuss Secret Menus Without Mentioning Whataburger's Whatafarm <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+      
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/Blogs/archives/2014/11/24/5-things-you-have-to-do-this-week">5 Things You Have to do This Week <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+      
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/sanantonio/flavor-file-whiskey-cakes-soft-opening-happy-hour-at-dough-and-thanksgiving-meals-via-local-faves/Content?oid=2345911">Whiskey Cake’s Soft Opening, Happy Hour at Dough and Local Thanksgiving Meals <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+        </ol>
+      
+  </div>  
+
+  
+
+  <div class="popularityBody" style="display:none">
+    <div id="recentcomments" class="dsq-widget"><script type="text/javascript" src="http://disqus.com/forums/sanantoniocurrent/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=32&excerpt_length=200"></script></div>
+  </div>
+  
+  
+
+  <div class="popularityBody" style="display:none">
+    
+    
+      <div class="currentIssue">
+        <a href="http://www.sacurrent.com/sanantonio/IssueArchives?issue=2345804" class="no-foundation-imgeditor">
+          
+            <img src="/imager/b/cover/2345804/ed15/sa_20141119_cover.jpg" alt="Issue Cover" />
+          
+        </a>
+        <p>November 19-25, 2014</p>
+      </div>
+    
+    
+        <ol class="moduleList">
+      
+        
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/sanantonio/10-gifts-for-news-junkies/Content?oid=2345939">10 Gifts for News Junkies <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+        
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/sanantonio/school-at-sunset-hills-reboots-dialogue-on-fine-arts-education-in-sa/Content?oid=2345895">‘School at Sunset Hills’ Reboots Dialogue on Fine Arts Education in SA <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+        
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/sanantonio/as-thanksgiving-approaches-were-thankful-for-bakery-lorraine/Content?oid=2345927">As Thanksgiving Approaches, We’re Thankful for Bakery Lorraine <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+        
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/sanantonio/church-on-monday-a-qanda-with-saxophonist-elias-haslanger/Content?oid=2345907">Church on Monday: A Q&amp;A with saxophonist Elias Haslanger <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+        
+      <li>
+        <h4 class="headline"><a href="http://www.sacurrent.com/sanantonio/the-theory-of-everything-explores-love-time-and-space/Content?oid=2345902">'The Theory of Everything' Explores Love, Time and Space <span class="more">Read More</span></a></h4>
+      </li>
+      
+    
+        </ol>
+      
+  </div>
+</div>
+
+
+
+<script type="text/javascript">
+<!--
+Event.observe(document, "dom:loaded", function () {
+    dnSetupTabGroup(
+        $$("#TabbedPopularity div.tabs>div"),
+        $$("#TabbedPopularity div.popularityBody"),
+        "tabCurrent", "tabBack"
+    );
+    
+    // Deactivate links.
+    $$("#TabbedPopularity div.tabs>div a").each(function (a) {
+        a.onclick = function () { 
+          setTimeout(function(){ jQuery('#TabbedPopularity li').css('counter-reset','item'); },10);
+          return false; 
+        };
+    });
+});
+//-->
+</script>
+<!-- End #TabbedPopularity -->
+
+
+
+  <div id="NewsletterSignup" class="MainSidebar Home ">
+  <h2>Newsletters</h2>
+    <div class="wrap">
+    <!-- BEGIN: Constant Contact Email List Form Button -->
+<h3>Never miss a beat</h3>
+<a href="/sanantonio/NewsletterSignup/Page" style="float:right;border: 0; color: rgb(255, 255, 255); display: inline-block; padding: 8px 15px; text-shadow: none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; background-color: rgb(217, 31, 52);font-family:'Montserrat',sans-serif;text-transform: uppercase;text-decoration:none;">Sign Up Now</a>
+<p>Subscribe now to get the latest news delivered right to your inbox.</p>
+<!-- END: Constant Contact Email List Form Button -->
+    </div>
+  </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="SpecialIssues" class="MainSidebar Home ">
+      <h2><a href="http://www.sacurrent.com/sanantonio/special-issues/Section?oid=2240585">Special Issues</a></h2>
+  
+  
+  <div class="reportBox">
+    <a href="/sanantonio/bestof" 
+       target="_self"
+       style="background-image:url(/binary/db75/bestof.jpg);">
+      <span class="grayRedBox">Best Of</span>
+    </a>
+  </div>
+  
+
+  
+  <div class="reportBox">
+    <a href="/sanantonio/college-guide/Category?oid=2240645" 
+       target="_self"
+       style="background-image:url(/binary/6941/college.jpg);">
+      <span class="grayRedBox">College Guide</span>
+    </a>
+  </div>
+  
+
+  
+  <div class="reportBox">
+    <a href="/sanantonio/flavor/Category?oid=2240611" 
+       target="_self"
+       style="background-image:url(/binary/4403/flavor.jpg);">
+      <span class="grayRedBox">Flavor</span>
+    </a>
+  </div>
+  
+
+  
+  <div class="reportBox">
+    <a href="/sanantonio/free-guide/Category?oid=2240652" 
+       target="_self"
+       style="background-image:url(/binary/45d2/freeissue.jpg);">
+      <span class="grayRedBox">Free Guide</span>
+    </a>
+  </div>
+  
+
+  
+  <div class="reportBox">
+    <a href="/sanantonio/city-guide/Category?oid=2240647" 
+       target="_self"
+       style="background-image:url(/binary/b804/cityguide.jpg);">
+      <span class="grayRedBox">City Guide</span>
+    </a>
+  </div>
+  
+
+  
+  <div class="reportBox">
+    <a href="/sanantonio/sa-music-awards/Category?oid=2240635" 
+       target="_self"
+       style="background-image:url(/binary/aa8f/sama.jpg);">
+      <span class="grayRedBox">SA Music Awards</span>
+    </a>
+  </div>
+  
+
+      <a href="http://www.sacurrent.com/sanantonio/special-issues/Section?oid=2240585">More...</a>
+    </div>
+  
+<div id="AdMediumRectangle2300x250" class="MainSidebar Home ">
+  <script>OAS_RICH('Middle1');</script>
+</div>
+        <!-- end gridMainSidebar -->
+      </div>
+
+      <!-- ZoneC -->
+      <div id="gridMainSidebarJr">
+        <div id="AdSkyscraper1160x600" class="MainSidebar Home ">
+  <script>OAS_RICH('Left');</script>
+</div>
+        <!-- end gridAdSidebar -->
+      </div>
+
+      <!-- ZoneD -->
+      <div id="gridMainSidebarJr2">
+        <div id="AdSkyscraper2160x600" class="MainSidebar Home ">
+  <script>OAS_RICH('Right');</script>
+</div>
+        <!-- end gridAdSidebar2 -->
+      </div>
+      
+      <!-- Zone E -->
+      <div id="gridBottomSidebar">
+        
+        <!-- end gridBottomSidebar -->
+      </div>
+      
+      <!-- end gridRightColumn -->
+    </div>
+
+    <!-- Footer -->
+    <div id="gridFooter">
+      
+
+<div id="FooterInfo" class="GlobalFooter Home ">
+  <div class="footerCustomInfo">
+    <h2>San Antonio Current</h2>
+    <p>915 Dallas Street</p>
+    <p>San Antonio, Texas 78215</p>
+    <p>(210) 227 0044</p>
+  </div>
+  <div class="footerCustomWrap">
+    <div class="footerCustomNav">
+      <ul>
+        <li><a target="_top" href="http://www.sacurrent.com/sanantonio/ContactUs/Page">Contact Us</a></li>
+        <li><a target="_top" href="http://www.sacurrent.com/sanantonio/AdvertiseWithUs/Page">Advertise</a></li>
+        <li><a target="_blank" href="http://www.ruxton.com/">National Advertising</a></li>
+        <li><a target="_top" href="http://www.sacurrent.com/sanantonio/JobsAndInternships/Page">Work Here</a></li>
+      </ul>
+      <p>All parts of this site Copyright &copy; 2014 San Antonio Current.</p>
+    </div>
+
+    
+
+    
+    
+      <div class="footerCustomLogin">
+        
+
+        
+        <ul data-view="loggedin" style="display:none">
+          <li><strong data-label="username">Username</strong> / </li>
+          <li><a href="http://posting.sacurrent.com/sanantonio/MyProfile">View Profile</a> / </li>
+          <li><a href="http://posting.sacurrent.com/sanantonio/Profile/MySettings">Edit Profile</a> / </li>
+          <li><a href="http://www.sacurrent.com/sanantonio/Logout">Log Out</a></li>
+        </ul>
+
+        <ul data-view="loggedout" style="display:none">
+          <li><a href="#LogIn">Log in</a> / </li>
+          <li><a href="#CreateAccount">Create Account</a></li>
+        </ul>
+      </div><!-- #FooterInfo -->
+
+      <script>
+        new Foundation.LoginRequiredComponent("FooterInfo");
+      </script>
+    
+  </div>
+  <div class="clear"></div>
+</div>
+<!-- End #FooterInfo -->
+<div id="AdFooter728x90" class="GlobalFooter Home ">
+  <script>OAS_RICH('Bottom');</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="FooterNavigation" class="GlobalFooter Home ">
+  <div class="linkGroupColumn">
+
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/news/Section?oid=2240579" 
+               target="_self">
+              News
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/news/Section?oid=2240579" target="_self">News Home</a></li>
+          
+            <li><a href="/Blogs/archives/the-daily/" target="_self">The Daily Blog</a></li>
+          
+            <li><a href="/sanantonio/cityscrapes/Category?oid=2240592" target="_self">Cityscrapes</a></li>
+          
+            <li><a href="/sanantonio/newsmonger/Category?oid=2240590" target="_self">Newsmonger</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/arts/Section?oid=2240581" 
+               target="_self">
+              Arts
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/arts/Section?oid=2240581" target="_self">Arts Home</a></li>
+          
+            <li><a href="/Blogs/archives/artslut/" target="_self">Artslut Blog</a></li>
+          
+            <li><a href="/sanantonio/visual-art/Category?oid=2240616" target="_self">Visual Art</a></li>
+          
+            <li><a href="/sanantonio/literature/Category?oid=2240618" target="_self">Literature</a></li>
+          
+            <li><a href="/sanantonio/theater/Category?oid=2240619" target="_self">Theater</a></li>
+          
+            <li><a href="/sanantonio/recreation/Category?oid=2264888" target="_self">Recreation</a></li>
+          
+            <li><a href="/sanantonio/savage-love/Category?oid=2264889" target="_self">Savage Love</a></li>
+          
+            <li><a href="/sanantonio/horoscopes/Category?oid=2240620" target="_self">Horoscopes</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+        </div><!-- End .linkGroupColumn -->
+        <div class="linkGroupColumn">
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/food-and-drink/Section?oid=2240580" 
+               target="_self">
+              Food+Drink
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/food-and-drink/Section?oid=2240580" target="_self">Food+Drink Home</a></li>
+          
+            <li><a href="/Blogs/archives/flavor/" target="_self">Flavor Blog</a></li>
+          
+            <li><a href="/sanantonio/restaurants/Category?oid=2240604" target="_self">Restaurants</a></li>
+          
+            <li><a href="/sanantonio/nightlife/Category?oid=2240605" target="_self">Nightlife</a></li>
+          
+            <li><a href="/sanantonio/happy-hour-hound/Category?oid=2240613" target="_self">Happy Hour Hound</a></li>
+          
+            <li><a href="/sanantonio/flavor/Category?oid=2240611" target="_self">Flavor Special Issue</a></li>
+          
+            <li><a href="/sanantonio/drink/Category?oid=2240602" target="_self">Drink Special Issue</a></li>
+          
+            <li><a href="/sanantonio/LocationSearch?locationSection=2124727&guide=2124367" target="_self">Find a Restaurant</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/music/Section?oid=2240583" 
+               target="_self">
+              Music
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/music/Section?oid=2240583" target="_self">Music Home</a></li>
+          
+            <li><a href="/Blogs/archives/sa-sound/" target="_self">SA Sound Blog</a></li>
+          
+            <li><a href="/sanantonio/live-and-local/Category?oid=2240633" target="_self">Live & Local</a></li>
+          
+            <li><a href="/sanantonio/albums/Category?oid=2240634" target="_self">Albums</a></li>
+          
+            <li><a href="/sanantonio/sa-music-awards/Category?oid=2240635" target="_self">SA Music Awards</a></li>
+          
+            <li><a href="/sanantonio/EventSearch?eventSection=2167738" target="_self">Search Music Events</a></li>
+          
+            <li><a href="/sanantonio/Events/AddEvent" target="_self">Add Music Event</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+        </div><!-- End .linkGroupColumn -->
+        <div class="linkGroupColumn">
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/screens/Section?oid=2240582" 
+               target="_self">
+              Screens
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/screens/Section?oid=2240582" target="_self">Screens</a></li>
+          
+            <li><a href="/sanantonio/film-and-tv/Category?oid=2240627" target="_self">Film & TV</a></li>
+          
+            <li><a href="/sanantonio/games/Category?oid=2240629" target="_self">Games</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/EventSearch" 
+               target="_self">
+              Events
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/EventSearch" target="_self">Events Home</a></li>
+          
+            <li><a href="/sanantonio/EventSearch" target="_self">Search Calendar</a></li>
+          
+            <li><a href="/sanantonio/Events/AddEvent" target="_self">Add Calendar Event</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/best-of-sa/Section?oid=2240584" 
+               target="_self">
+              Best of SA
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/best-of-sa/Section?oid=2240584" target="_self">Best of SA Home</a></li>
+          
+            <li><a href="/sanantonio/food-and-drink/BestOf?category=2240658" target="_self">Food & Drink</a></li>
+          
+            <li><a href="/sanantonio/nightlife/Category?oid=2321091" target="_self">Nightlife</a></li>
+          
+            <li><a href="/sanantonio/people/BestOf?category=2240639" target="_self">People</a></li>
+          
+            <li><a href="/sanantonio/shopping/BestOf?category=2240641" target="_self">Shopping</a></li>
+          
+            <li><a href="/sanantonio/around-town/BestOf?category=2240640" target="_self">Around Town</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+        </div><!-- End .linkGroupColumn -->
+        <div class="linkGroupColumn">
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/special-issues/Section?oid=2240585" 
+               target="_self">
+              Special Issues
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/free-guide/Category?oid=2240652" target="_self">Free Guide</a></li>
+          
+            <li><a href="/sanantonio/city-guide/Category?oid=2240647" target="_self">City Guide</a></li>
+          
+            <li><a href="/sanantonio/college-guide/Category?oid=2240645" target="_self">College Guide</a></li>
+          
+            <li><a href="/sanantonio/sa-music-awards/Category?oid=2240635" target="_self">SA Music Awards</a></li>
+          
+            <li><a href="/sanantonio/drink/Category?oid=2240602" target="_self">Drink</a></li>
+          
+            <li><a href="/sanantonio/flavor/Category?oid=2240611" target="_self">Flavor</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/ArticleArchives" 
+               target="_self">
+              Archives
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/ArticleArchives" target="_self">Search Archives</a></li>
+          
+            <li><a href="/sanantonio/ArticleArchives" target="_self">Search Authors</a></li>
+          
+            <li><a href="/sanantonio/IssueArchives" target="_self">Search Issues</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>Social Media</h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="https://www.facebook.com/sacurrent" target="_blank">Facebook</a></li>
+          
+            <li><a href="https://twitter.com/SAcurrent" target="_blank">Twitter</a></li>
+          
+            <li><a href="http://instagram.com/sacurrent" target="_blank">Instagram</a></li>
+          
+            <li><a href="https://plus.google.com/u/1/101321049475770462853/about" target="_blank">Google Plus</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+        </div><!-- End .linkGroupColumn -->
+        <div class="linkGroupColumn">
+      
+
+      <div class="linkGroup ">
+        
+          <h3>
+            <a href="/sanantonio/AboutTheCurrent/Page" 
+               target="_self">
+              About Us
+            </a>
+          </h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/sanantonio/AboutTheCurrent/Page" target="_self">About Us</a></li>
+          
+            <li><a href="/sanantonio/ContactUs/Page" target="_self">Contact Us</a></li>
+          
+            <li><a href="/sanantonio/MeetthePress/Page" target="_self">Meet The Press</a></li>
+          
+            <li><a href="/sanantonio/AdvertiseWithUs/Page" target="_self">Advertise With Us</a></li>
+          
+            <li><a href="/general/media/2014_mediakit.pdf" target="_blank">Media Kit</a></li>
+          
+            <li><a href="/sanantonio/CalendarSubmissionGuidelines/Page" target="_self">Calendar Submission Guidelines</a></li>
+          
+            <li><a href="/sanantonio/FreelanceGuidelines/Page" target="_self">Freelance Guidelines</a></li>
+          
+            <li><a href="/sanantonio/JobsAndInternships/Page" target="_self">Jobs And Internships</a></li>
+          
+            <li><a href="/sanantonio/CopyrightNotice/Page" target="_self">Copyright Notice</a></li>
+          
+            <li><a href="/sanantonio/PostingPolicy/Page" target="_self">Posting Policy</a></li>
+          
+            <li><a href="/sanantonio/PrivacyStatement/Page" target="_self">Privacy Statement</a></li>
+          
+            <li><a href="/sanantonio/WheretoFindUs/Page" target="_self">Where To Find Us</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+      
+
+      
+      
+
+      <div class="linkGroup ">
+        
+          <h3>Promotions</h3>
+        
+
+        <ul class="sublinkGroup">
+          
+
+          
+            <li><a href="/Blogs/archives/currentevents/" target="_self">CurrentEvents Blog</a></li>
+          
+            <li><a href="/sanantonio/FreeStuff" target="_self">Giveaways</a></li>
+          
+            <li><a href="/sanantonio/EventSearch" target="_self">Events</a></li>
+          
+            <li><a href="http://photos.sacurrent.com" target="_self">Slideshows</a></li>
+          
+        </ul>
+
+      </div>
+    
+
+  </div><!-- End .linkGroupColumn -->
+</div>
+<!-- End #FooterNavigation -->
+<div id="footerCopyright">
+  <p>
+   &copy; 2014
+   San Antonio Current 
+   <br><br>
+   Website powered by <a href="http://foundation.gyrobase.com/" target="_blank">Foundation</a>
+  </p>
+</div><!-- stats tracking code  -->
+
+<!-- Google analytics --> 
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5255170-1']);
+  _gaq.push(['_setDomainName', 'sacurrent.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google Analytics code -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-06_X8WMg_G9uc"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-06_X8WMg_G9uc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b")
++ ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:"6035631",
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- cXense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setAccountId', '9222291968715708015']);
+cX.callQueue.push(['setSiteId', '9222304501162646040']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- cXense script end -->
+      <!-- end gridFooter -->
+    </div>
+    
+    <!-- end gridMain -->
+  </div>
+  
+  <!-- end gridClamp -->
+</div>
+
+<!-- Closer -->
+<div id="gridCloser">
+  
+</div><!-- end gridCloser -->
+
+
+  </body>
+</html>  
+
+

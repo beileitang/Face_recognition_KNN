@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+    <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <title>Page Not Found - Miss Jones PA</title>
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link rel="pingback" href="http://missjonespa.com/xmlrpc.php" />
+                <!--[if lt IE 9]>
+       <script src="http://missjonespa.com/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+        <![endif]-->
+        		 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+        <script src="http://missjonespa.com/uploadify/jquery.uploadify.min.js" type="text/javascript"></script>
+        <link rel="stylesheet" type="text/css" href="http://missjonespa.com/uploadify/uploadify.css">
+        <link href="http://missjonespa.com/wp-content/themes/twentytwelve/css/style.css" rel="stylesheet" type="text/css">
+        <link href="http://missjonespa.com/wp-content/themes/twentytwelve/css/responsive.css" rel="stylesheet" type="text/css">
+        <!--  responsive menu-->
+        <link rel='stylesheet' type='text/css' href='http://missjonespa.com/wp-content/themes/twentytwelve/css/nav.css' />
+       <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,600,700,300' rel='stylesheet' type='text/css'>
+        <script type='text/javascript' src='http://missjonespa.com/wp-content/themes/twentytwelve/js/menu_jquery.js'></script>
+        <script>
+            jQuery(document).ready(function() {
+                jQuery('.conatct_form input[type="text"]').addClass('con_txt');
+                jQuery('.conatct_form input[type="number"]').addClass('con_txt');
+                jQuery('.conatct_form input[type="email"]').addClass('con_txt');
+                jQuery('.conatct_form input[type="tel"]').addClass('con_txt');
+                jQuery('.conatct_form input[type="submit"]').addClass('read');
+            });
+        </script>	
+
+        <!--   Jquery Validation -->
+        <link rel="stylesheet" href="http://missjonespa.com/wp-content/themes/twentytwelve/validation-assetes/validationEngine.jquery.css" type="text/css"/>
+        <link rel="stylesheet" href="http://missjonespa.com/wp-content/themes/twentytwelve/css/common.css" type="text/css"/>
+        <script src="http://missjonespa.com/wp-content/themes/twentytwelve/validation-assetes/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">
+        </script>
+        <script src="http://missjonespa.com/wp-content/themes/twentytwelve/validation-assetes/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+        <!--    Jquery Validation end -->
+        
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Miss Jones PA" />
+<meta property="og:site_name" content="Miss Jones PA" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Miss Jones PA &raquo; Feed" href="http://missjonespa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Miss Jones PA &raquo; Comments Feed" href="http://missjonespa.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Miss Jones PA &raquo; iCal Feed" href="http://missjonespa.com/events/?ical=1" />
+<link rel='stylesheet' id='wpfp-css' href='http://missjonespa.com/wp-content/plugins/wp-favorite-posts/wpfp.css' type='text/css' />
+<link rel='stylesheet' id='fb-like-responsive-css'  href='http://missjonespa.com/wp-content/plugins/facebook-like-box-responsive/facebook-like-responsive.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://missjonespa.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-plugin-styles-css'  href='http://missjonespa.com/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-for-wp-checkbox-css'  href='http://missjonespa.com/wp-content/plugins/mailchimp-for-wp/assets/css/checkbox.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-for-wp-form-css'  href='http://missjonespa.com/wp-content/plugins/mailchimp-for-wp/assets/css/form.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://missjonespa.com/wp-content/themes/twentytwelve/style.css?ver=3.9.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://missjonespa.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cyclone-template-style-dark-css'  href='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-default-css'  href='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-css'  href='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-thumbnails-css'  href='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://missjonespa.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type='text/javascript' src='http://missjonespa.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/missjonespa.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"http:\/\/missjonespa.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"","level":"3","clauses":"YTo0OntzOjI6IldDIjtzOjE3OToiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDY0KSkpIEFORCAoc2EuYWRfY2F0cyA9IDApICBBTkQgKHNhLmFkX2F1dGhvcnMgPSAwKSAgICAgICAiO3M6MzoiV0NUIjtzOjM2MjoiIEFORCBJRihzYS5hZF9zY2hlZHVsZSwgQ1VSREFURSgpIEJFVFdFRU4gc2EuYWRfc3RhcnRfZGF0ZSBBTkQgc2EuYWRfZW5kX2RhdGUsIFRSVUUpIEFORCBJRihzYS5saW1pdF9oaXRzLCBzYS5oaXRzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAwKSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2NsaWNrcywgc2EuY2xpY2tzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAxKSwgVFJVRSkiO3M6MzoiV0NXIjtzOjgwOiIgQU5EIElGKHNhLmFkX3dlaWdodCA+IDAsIChzYS5hZF93ZWlnaHRfaGl0cyoxMC8oc2EuYWRfd2VpZ2h0KjEwMDApKSA8IDEsIEZBTFNFKSI7czo0OiJXQzJXIjtzOjIyOiJBTkQgKHNhLmFkX3dlaWdodCA+IDApIjt9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.2.80'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/easy-facebook-likebox/public/assets/js/public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/simple-twitter-plugin/lib/js/twitter.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/themes/twentytwelve/js/wpfp.js?ver=3.9.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://missjonespa.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://missjonespa.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.3" />
+
+
+
+        <script type="text/javascript">
+
+
+
+            var ajaxurl = 'http://missjonespa.com/wp-admin/admin-ajax.php';
+
+
+
+        </script>
+
+
+
+        
+                <script src="http://missjonespa.com/wp-content/plugins/front-end-category-management/js/front-end-cat.js" type="text/javascript" charset="utf-8"></script>
+
+    </head>
+    <!--wrapper start-->
+    <body class="error404 tribe-bar-is-disabled custom-font-enabled tribe-theme-twentytwelve">
+
+        
+        <div class="left-ad">
+                            <ul id="sidebar">
+                    <div id='c9402_6_4' class='sam-container sam-place' data-sam='0'><a  id='a60_6' class='sam_ad' href='http://www.notonthehighstreet.com/' target='_blank' ><img src='http://missjonespa.com/wp-content/uploads/2014/11/NOTH-Left.png'  alt=''  /></a></div>                </ul>
+                    </div>
+
+        <div class="right-ad">
+                            <ul id="sidebar">
+                    <div id='c3940_7_5' class='sam-container sam-place' data-sam='0'><a  id='a62_7' class='sam_ad' href='http://www.notonthehighstreet.com/' target='_blank' ><img src='http://missjonespa.com/wp-content/uploads/2014/11/NOTH-RIGHT.png'  alt=''  /></a></div>                </ul>
+                    </div>
+
+        <div class="wrapper clearfix">
+            <!--cart menu-->
+            <div class="top_cart">
+                <div class="cart_head">
+                    <ul>
+
+                        
+                        <li><a href="http://missjonespa.com/login/?redirect_to=http://missjonespa.com/admin/assets/post/Warrick-Saint-Photoshoot-daniel-radcliffe-32711175-831-1062.jpg" title="Login">Members login</a></li>
+                        
+                        <li><a href="http://missjonespa.com/registration/" title="Login">Sign Up</a></li>                    </ul>
+                </div>
+            </div>
+            <!--cart menu end-->    
+
+            <!--header start-->
+            <div class="top_header">
+                <div class="logo">
+                    <a href="http://missjonespa.com"><img src="http://missjonespa.com/wp-content/themes/twentytwelve/images/logo.png"></a> 
+                </div>
+                <div class="top_txt">
+                                            <ul id="sidebar">
+                            <div id='c1850_10_1' class='sam-container sam-place' data-sam='0'><a  href='http://www.notonthehighstreet.com/' target='_blank' ><img src='http://missjonespa.com/wp-content/uploads/2014/11/NOTH-Header-v3.png'  alt=''  /></a></div>                        </ul>
+                                    </div>
+            </div>
+            <!--header end-->
+
+            <!--nav part-->
+            <div class="nav_part">
+                <div class="navigation">
+                    <div id="cssmenu">
+                        <ul>
+                            <div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav-menu"><li id="menu-item-498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-498"><a href="http://missjonespa.com/">Home</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://missjonespa.com/about-us/">About Us</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="http://missjonespa.com/directory-listing/">Little Black Book</a></li>
+<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846"><a href="http://missjonespa.com/events/">Events</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://missjonespa.com/jobs/">Jobs</a></li>
+<li id="menu-item-1346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1346"><a href="http://missjonespa.com/gifts/">Gifts</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://missjonespa.com/contact-us/">Contact Us</a></li>
+</ul></div>  
+                                                    </ul>                                                                                                                                
+                    </div>
+                </div>
+
+                <div class="sociel">
+                    <a href="https://www.facebook.com/missjonespa" target="_new"><img src="http://missjonespa.com/wp-content/themes/twentytwelve/images/face.png"></a>
+                    <a href="https://www.twitter.com/MissJonesLondon" target="_new"><img src="http://missjonespa.com/wp-content/themes/twentytwelve/images/twit.png"></a>
+                    <a href="https://www.linkedin.com/pub/miss-jones-pa/36/4b/394" target="_new"><img src="http://missjonespa.com/wp-content/themes/twentytwelve/images/linked.png"></a>
+                </div>
+            </div>
+            <!--nav part end-->
+
+            <!--nav part
+            <div class="nav_part">
+                <div class="navigation">
+                    <div class="cssmenu">
+                        <ul>
+                                    </ul>                                                                                                                                
+                    </div>
+                </div>
+            </div>
+            <!--nav part end-->
+                        <!--marquee end-->
+<div id="primary" class="site-content">
+    <div id="content" role="main">
+
+        <article id="post-0" class="post error404 no-results not-found">
+            <header class="entry-header">
+                <h1 class="entry-title">This is somewhat embarrassing, isn&rsquo;t it?</h1>
+            </header>
+
+            <div class="entry-content">
+                <p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+                <style>.widget-area ul{border-bottom: none;}</style><form role="search" method="get" id="searchform" class="searchform" action="http://missjonespa.com/">
+				<div>
+					<div class="title">
+           SEARCH
+            </div> <!--<label class="screen-reader-text" for="s">Search for:</label>-->
+					<input placeholder="Search..." class="gift_sea" type="text" value="" name="s" id="s" />
+                                          <div class="reg_nav">
+                                            <ul><li><a onclick="document.getElementById('searchform').submit()" style="margin-left:0;cursor:pointer;color:white;">Submit</a> </li></ul></div>                                           
+					<!--<input type="submit" id="searchsubmit" value="Search" />-->
+				</div>
+			</form>            </div><!-- .entry-content -->
+        </article><!-- #post-0 -->
+
+    </div><!-- #content -->
+</div><!-- #primary -->
+
+<script type='text/javascript'>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-24386352-1']);
+_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+   
+    <div class="footer-ad-wrap">
+        <div class="footer-ad">
+                            <ul id="sidebar">
+                    <div id='c4171_11_2' class='sam-container sam-place' data-sam='0'><a  href='/contact-us/' target='_blank' ><img src='/wp-content/uploads/2014/07/MissJones-ad-01.png'  alt=''  /></a></div>                </ul>
+                    </div>
+    </div>
+</div>
+<!--wrapper end-->
+<!--footer start-->
+
+
+</style>
+<div class="page_footer">
+    <div class="footer">
+        <!--USEFUL LINKS start-->
+        <div class="footer_first">
+            <div class="footer_head">
+                USEFUL LINKS
+            </div>
+            <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-1862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1862"><a href="http://missjonespa.com/about-us/">About Us</a></li>
+<li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="http://missjonespa.com/advertise/">Advertise with Miss Jones</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://missjonespa.com/contact-us/">Contact us</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a href="http://missjonespa.com/frequently-asked-questions/">Frequently Asked Questions</a></li>
+<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a href="http://missjonespa.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1740"><a href="http://missjonespa.com/news/">News</a></li>
+</ul></div>        </div>
+        <!--USEFUL LINKS end-->
+
+        <div class="footer_first">
+            <!--OUR LATEST TWEETS start-->
+           <style type="text/css">
+
+.h-feed li  {
+	background-color:rgb(38, 38, 38); !important;
+	background: rgb(38, 38, 38); !important;
+	
+	}
+.h-feed ol li {
+		background-color:rgb(38, 38, 38); !important;
+	background: rgb(38, 38, 38); !important;
+		}
+	</style>
+     
+   
+                        <!--OUR LATEST TWEETS end-->
+            
+        </div>
+       
+   <script type="text/javascript">
+   $(document).ready(function() {
+	   $('#twitter-widget-2').load(function(){
+	   
+		console.log("test");
+   
+   $('#twitter-widget-2').contents().find('li').css('background','rgb(38, 38, 38)');
+  // console.log("test");
+  // $('.tweet').css("background","rgb(38, 38, 38); !important" ).toggle();
+  // $('iframe').contents().find('li').css('background','black');
+   });
+	});
+   </script>     
+
+        <!--ABOUT US start-->
+        			<div class="textwidget"><div class="footer_third">
+            <div class="footer_head">
+           ABOUT US
+            </div>
+                
+        <p>
+           Miss Jones is an invaluable resource for all busy PAs, EAs and VAs in need of a service to satisfy both their personal and professional lifestyle demands.</p>
+<p>
+As an exclusive online members club and ‘one stop shop’ for all Personal and Executive Assistants, our detailed information resource and rewards based website provides our members with instant access to a variety of members benefits and services that will help them to achieve their daily tasks as quickly and as efficiently as possible. From choosing the right hotel or restaurant to finding that perfect corporate gift, we’ve got it covered</p>
+            
+          <p>
+          <img src="http://missjonespa.destinytemple.com/wp-content/themes/twentytwelve/images/paypal.jpg"> 
+          </p>
+            
+          </div></div>
+		
+        <!--ABOUT US start-->
+
+        <div class="footer_strip">
+            &copy;2014 Miss Jones. All Rights Reserved.Registered in England company reg. no 08931959
+        </div>   
+
+    </div>
+
+
+</div>
+<div class="fill_fields top_error_display">Please fill out all required fields.</div>
+<div class="image_size_error top_error_display">Image size should be at least 50x50.</div>
+<div class="data_save top_error_display"></div>
+<div class="product_data_save top_success_display">Your details have been updated successfully.</div>
+<div id="waiting_process">
+    <div id="waiting_process_text">Please wait...</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+    var hideTwitterAttempts = 0; 
+    function hideTwitterBoxElements() {
+        setInterval( function() {
+           
+            if ( jQuery('[id=twitter-widget-0]').length ) {
+                jQuery('[id=twitter-widget-0]').each( function(){
+                    //            if ( $('[id*=twitter]').length ) {
+                    //                $('[id*=twitter]').each( function(){
+                    var ibody = jQuery(this).contents().find( 'body' );
+
+                    if ( ibody.find( '.timeline .stream .h-feed li.tweet' ).length ) {
+                        ibody.find( '.footer' ).css( 'margin-left','37px' );
+                        ibody.find( '.h-entry' ).css( 'background-color', '#262626' ); //theme: shell: background:
+                        ibody.find( 'ol.h-feed' ).css( 'margin-bottom', '10px' ); //theme: tweets: background:
+                        ibody.find( 'ol.h-feed' ).css( 'word-wrap', 'break-word' ); //theme: tweets: background:
+                        ibody.find( '.h-entry' ).css( 'padding', '5px 6px' ); //theme: tweets: background:
+                        ibody.find( '.h-entry' ).css( 'margin-bottom', '10px' ); //theme: tweets: background:
+                        ibody.find( '.e-entry-content' ).css( 'margin-left', '37px' ); //theme: tweets: color:
+                        ibody.find( '.e-entry-content' ).css( 'margin-top', '-4px' ); //theme: tweets: color:
+                    }
+                    else {
+                        jQuery(this).hide();
+                    }
+                });
+            }
+            hideTwitterAttempts++;
+            if ( hideTwitterAttempts < 3 ) {
+                hideTwitterBoxElements();
+            }
+        }, 2000);
+    }
+
+    // somewhere in your code after html page load
+    hideTwitterBoxElements(); /**/
+</script>
+
+<!--footer end-->
+<script type='text/javascript' src='http://missjonespa.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.8.2'></script>
+<script type='text/javascript' src='http://missjonespa.com/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.8.2'></script>
+ 
+<script language="javascript" type="text/javascript">
+    jQuery(document).ready(function(){
+        // binds form submission and fields to the validation engine
+           jQuery("#Formfields").validationEngine({autoHidePrompt:true});
+    });
+	
+
+  	
+</script>
+</body>
+</html>

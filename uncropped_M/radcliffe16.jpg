@@ -1,0 +1,2175 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="user-scalable=yes, initial-scale=1.0, width=device-width"/>
+<link rel="canonical" href="https://www.cbr.com/"/>
+<title> CBR - The World's Top Destination For Comic, Movie & TV news. </title>
+<meta name="description" content="Covering comics, movies, tv like no other in the world. CBR.com is all you need!"/>
+<meta property="og:title" content="CBR - The World's Top Destination For Comic, Movie & TV news."/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.cbr.com/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:description" content="Covering comics, movies, tv like no other in the world. CBR.com is all you need!"/>
+<meta property="og:site_name" content="CBR"/>
+<meta property="fb:app_id" content="1754119328184357"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/public/build/images/favicon-32x32.8609a1c9.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/public/build/images/favicon-96x96.5720554c.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/public/build/images/favicon-16x16.3d6cc867.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/public/build/images/apple-icon-57x57.fcc95351.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/public/build/images/apple-icon-60x60.87ccdaaa.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/public/build/images/apple-icon-72x72.c7be44f3.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/public/build/images/apple-icon-76x76.6efa1668.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/public/build/images/apple-icon-114x114.8d10eee1.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/public/build/images/apple-icon-120x120.8148a436.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/public/build/images/apple-icon-144x144.1a8366f6.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/public/build/images/apple-icon-152x152.16519917.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/public/build/images/apple-icon-180x180.e6d79323.png">
+<link rel="stylesheet" href="/public/build/home.fb78454d.css">
+<meta property="fb:pages" content="10765693196"/>
+<script async src="//js-sec.indexww.com/ht/p/184735-243394253700790.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script>
+                                        
+            googletag.cmd.push(function(){
+            
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().disableInitialLoad();
+            googletag.enableServices();
+
+            });
+        </script>
+<script>
+                var ready = [];
+                var last_triggered_px = [];
+                var refresh_count = [];
+                refreshAtPx = function (zone, px, timeout, max_refresh) {
+                    console.log('registered trigger');
+                    ready[zone] = true;
+                    last_triggered_px[zone] = 0;
+                    refresh_count[zone] = 0;
+                    var waypoint = new Waypoint({
+                        element: document.getElementById('body-anchor'),
+                        handler: function(direction) {
+                            if (ready[zone] && last_triggered_px[zone] != px && refresh_count[zone] < max_refresh) {
+
+                                //refresh logic goes here
+                                
+                                var element = document.getElementsByClassName(zone)[0];
+                                iframe = element.getElementsByTagName('iframe')[0];
+
+                                // Force reload!
+                                if ( typeof iframe !== 'undefined' ) {
+                                    iframe.contentDocument.location.reload(true);
+                                }
+                                
+                                
+                                refresh_count[zone]++;
+
+                                console.log(zone + ' zone ' + px +'px triggered ' + refresh_count[zone] + 'time(s)');
+
+                                last_triggered_px[zone] = px;
+                                ready[zone] = false;
+
+                                console.log(zone + ' not ready');
+                                setTimeout(function () {
+                                    ready[zone] = true;
+                                    console.log(zone + ' ready');
+                                }, timeout);
+                            }
+                        },
+                        offset: ((px)* -1)
+                    })
+                }
+            </script>
+<script>
+/*
+ Waypoints - 4.0.1
+Copyright © 2011-2016 Caleb Troughton
+Licensed under the MIT license.
+https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
+*/
+(function(){function b(f){if(!f)throw Error("No options passed to Waypoint constructor");if(!f.element)throw Error("No element option passed to Waypoint constructor");if(!f.handler)throw Error("No handler option passed to Waypoint constructor");this.key="waypoint-"+e;this.options=b.Adapter.extend({},b.defaults,f);this.element=this.options.element;this.adapter=new b.Adapter(this.element);this.callback=f.handler;this.axis=this.options.horizontal?"horizontal":"vertical";this.enabled=this.options.enabled;this.triggerPoint=null;this.group=b.Group.findOrCreate({name:this.options.group,axis:this.axis});this.context=b.Context.findOrCreateByElement(this.options.context);b.offsetAliases[this.options.offset]&&(this.options.offset=b.offsetAliases[this.options.offset]);this.group.add(this);this.context.add(this);c[this.key]=this;e+=1}var e=0,c={};b.prototype.queueTrigger=function(b){this.group.queueTrigger(this,b)};b.prototype.trigger=function(b){this.enabled&&this.callback&&this.callback.apply(this,b)};b.prototype.destroy=function(){this.context.remove(this);this.group.remove(this);delete c[this.key]};b.prototype.disable=function(){this.enabled=!1;return this};b.prototype.enable=function(){this.context.refresh();this.enabled=!0;return this};b.prototype.next=function(){return this.group.next(this)};b.prototype.previous=function(){return this.group.previous(this)};b.invokeAll=function(b){var d=[];for(a in c)d.push(c[a]);var a=0;for(var h=d.length;a<h;a++)d[a][b]()};b.destroyAll=function(){b.invokeAll("destroy")};b.disableAll=function(){b.invokeAll("disable")};b.enableAll=function(){b.Context.refreshAll();for(var e in c)c[e].enabled=!0;return this};b.refreshAll=function(){b.Context.refreshAll()};b.viewportHeight=function(){return window.innerHeight||document.documentElement.clientHeight};b.viewportWidth=function(){return document.documentElement.clientWidth};b.adapters=[];b.defaults={context:window,continuous:!0,enabled:!0,group:"default",horizontal:!1,offset:0};b.offsetAliases={"bottom-in-view":function(){return this.context.innerHeight()-this.adapter.outerHeight()},"right-in-view":function(){return this.context.innerWidth()-this.adapter.outerWidth()}};window.Waypoint=b})();(function(){function b(h){window.setTimeout(h,1E3/60)}function e(h){this.element=h;this.Adapter=d.Adapter;this.adapter=new this.Adapter(h);this.key="waypoint-context-"+c;this.didResize=this.didScroll=!1;this.oldScroll={x:this.adapter.scrollLeft(),y:this.adapter.scrollTop()};this.waypoints={vertical:{},horizontal:{}};h.waypointContextKey=this.key;f[h.waypointContextKey]=this;c+=1;d.windowContext||(d.windowContext=!0,d.windowContext=new e(window));this.createThrottledScrollHandler();this.createThrottledResizeHandler()}var c=0,f={},d=window.Waypoint,a=window.onload;e.prototype.add=function(h){this.waypoints[h.options.horizontal?"horizontal":"vertical"][h.key]=h;this.refresh()};e.prototype.checkEmpty=function(){var h=this.Adapter.isEmptyObject(this.waypoints.horizontal),a=this.Adapter.isEmptyObject(this.waypoints.vertical),d=this.element==this.element.window;h&&a&&!d&&(this.adapter.off(".waypoints"),delete f[this.key])};e.prototype.createThrottledResizeHandler=function(){function h(){a.handleResize();a.didResize=!1}var a=this;this.adapter.on("resize.waypoints",function(){a.didResize||(a.didResize=!0,d.requestAnimationFrame(h))})};e.prototype.createThrottledScrollHandler=function(){function h(){a.handleScroll();a.didScroll=!1}var a=this;this.adapter.on("scroll.waypoints",function(){if(!a.didScroll||d.isTouch)a.didScroll=!0,d.requestAnimationFrame(h)})};e.prototype.handleResize=function(){d.Context.refreshAll()};e.prototype.handleScroll=function(){var a={},d={horizontal:{newScroll:this.adapter.scrollLeft(),oldScroll:this.oldScroll.x,forward:"right",backward:"left"},vertical:{newScroll:this.adapter.scrollTop(),oldScroll:this.oldScroll.y,forward:"down",backward:"up"}},b;for(b in d){var c=d[b],e=c.newScroll>c.oldScroll?c.forward:c.backward,g;for(g in this.waypoints[b]){var k=this.waypoints[b][g];if(null!==k.triggerPoint){var f=c.oldScroll<k.triggerPoint,l=c.newScroll>=k.triggerPoint,p=!f&&!l;if(f&&l||p)k.queueTrigger(e),a[k.group.id]=k.group}}}for(var r in a)a[r].flushTriggers();this.oldScroll={x:d.horizontal.newScroll,y:d.vertical.newScroll}};e.prototype.innerHeight=function(){return this.element==this.element.window?d.viewportHeight():this.adapter.innerHeight()};e.prototype.remove=function(a){delete this.waypoints[a.axis][a.key];this.checkEmpty()};e.prototype.innerWidth=function(){return this.element==this.element.window?d.viewportWidth():this.adapter.innerWidth()};e.prototype.destroy=function(){var a=[];for(b in this.waypoints)for(var d in this.waypoints[b])a.push(this.waypoints[b][d]);var b=0;for(d=a.length;b<d;b++)a[b].destroy()};e.prototype.refresh=function(){var a=this.element==this.element.window,b=a?void 0:this.adapter.offset(),c={};this.handleScroll();a={horizontal:{contextOffset:a?0:b.left,contextScroll:a?0:this.oldScroll.x,contextDimension:this.innerWidth(),oldScroll:this.oldScroll.x,forward:"right",backward:"left",offsetProp:"left"},vertical:{contextOffset:a?0:b.top,contextScroll:a?0:this.oldScroll.y,contextDimension:this.innerHeight(),oldScroll:this.oldScroll.y,forward:"down",backward:"up",offsetProp:"top"}};for(var e in a){b=a[e];for(var f in this.waypoints[e]){var g=this.waypoints[e][f],k=g.options.offset,n=g.triggerPoint,l=0,p=null==n;g.element!==g.element.window&&(l=g.adapter.offset()[b.offsetProp]);"function"===typeof k?k=k.apply(g):"string"===typeof k&&(k=parseFloat(k),-1<g.options.offset.indexOf("%")&&(k=Math.ceil(b.contextDimension*k/100)));g.triggerPoint=Math.floor(l+(b.contextScroll-b.contextOffset)-k);n=n<b.oldScroll;l=g.triggerPoint>=b.oldScroll;k=n&&l;n=!n&&!l;!p&&k?(g.queueTrigger(b.backward),c[g.group.id]=g.group):!p&&n?(g.queueTrigger(b.forward),c[g.group.id]=g.group):p&&b.oldScroll>=g.triggerPoint&&(g.queueTrigger(b.forward),c[g.group.id]=g.group)}}d.requestAnimationFrame(function(){for(var a in c)c[a].flushTriggers()});return this};e.findOrCreateByElement=function(a){return e.findByElement(a)||new e(a)};e.refreshAll=function(){for(var a in f)f[a].refresh()};e.findByElement=function(a){return f[a.waypointContextKey]};window.onload=function(){a&&a();e.refreshAll()};d.requestAnimationFrame=function(a){(window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||b).call(window,a)};d.Context=e})();(function(){function b(a,d){return a.triggerPoint-d.triggerPoint}function e(a,d){return d.triggerPoint-a.triggerPoint}function c(a){this.name=a.name;this.axis=a.axis;this.id=this.name+"-"+this.axis;this.waypoints=[];this.clearTriggerQueues();f[this.axis][this.name]=this}var f={vertical:{},horizontal:{}},d=window.Waypoint;c.prototype.add=function(a){this.waypoints.push(a)};c.prototype.clearTriggerQueues=function(){this.triggerQueues={up:[],down:[],left:[],right:[]}};c.prototype.flushTriggers=function(){for(var a in this.triggerQueues){var d=this.triggerQueues[a];d.sort("up"===a||"left"===a?e:b);for(var c=0,f=d.length;c<f;c+=1){var m=d[c];(m.options.continuous||c===d.length-1)&&m.trigger([a])}}this.clearTriggerQueues()};c.prototype.next=function(a){this.waypoints.sort(b);a=d.Adapter.inArray(a,this.waypoints);return a===this.waypoints.length-1?null:this.waypoints[a+1]};c.prototype.previous=function(a){this.waypoints.sort(b);return(a=d.Adapter.inArray(a,this.waypoints))?this.waypoints[a-1]:null};c.prototype.queueTrigger=function(a,d){this.triggerQueues[d].push(a)};c.prototype.remove=function(a){a=d.Adapter.inArray(a,this.waypoints);-1<a&&this.waypoints.splice(a,1)};c.prototype.first=function(){return this.waypoints[0]};c.prototype.last=function(){return this.waypoints[this.waypoints.length-1]};c.findOrCreate=function(a){return f[a.axis][a.name]||new c(a)};d.Group=c})();(function(){function b(d){return d===d.window}function e(d){return b(d)?d:d.defaultView}function c(d){this.element=d;this.handlers={}}var f=window.Waypoint;c.prototype.innerHeight=function(){return b(this.element)?this.element.innerHeight:this.element.clientHeight};c.prototype.innerWidth=function(){return b(this.element)?this.element.innerWidth:this.element.clientWidth};c.prototype.off=function(d,a){function b(a,d,b){for(var c=0,e=d.length-1;c<e;c++){var h=d[c];b&&b!==h||a.removeEventListener(h)}}var c=d.split("."),e=c[0];c=c[1];var f=this.element;if(c&&this.handlers[c]&&e)b(f,this.handlers[c][e],a),this.handlers[c][e]=[];else if(e)for(var q in this.handlers)b(f,this.handlers[q][e]||[],a),this.handlers[q][e]=[];else if(c&&this.handlers[c]){for(var g in this.handlers[c])b(f,this.handlers[c][g],a);this.handlers[c]={}}};c.prototype.offset=function(){if(!this.element.ownerDocument)return null;var d=this.element.ownerDocument.documentElement,a=e(this.element.ownerDocument),b={top:0,left:0};this.element.getBoundingClientRect&&(b=this.element.getBoundingClientRect());return{top:b.top+a.pageYOffset-d.clientTop,left:b.left+a.pageXOffset-d.clientLeft}};c.prototype.on=function(d,a){var b=d.split("."),c=b[0];b=b[1]||"__default";b=this.handlers[b]=this.handlers[b]||{};(b[c]=b[c]||[]).push(a);this.element.addEventListener(c,a)};c.prototype.outerHeight=function(d){var a=this.innerHeight();d&&!b(this.element)&&(d=window.getComputedStyle(this.element),a+=parseInt(d.marginTop,10),a+=parseInt(d.marginBottom,10));return a};c.prototype.outerWidth=function(d){var a=this.innerWidth();d&&!b(this.element)&&(d=window.getComputedStyle(this.element),a+=parseInt(d.marginLeft,10),a+=parseInt(d.marginRight,10));return a};c.prototype.scrollLeft=function(){var b=e(this.element);return b?b.pageXOffset:this.element.scrollLeft};c.prototype.scrollTop=function(){var b=e(this.element);return b?b.pageYOffset:this.element.scrollTop};c.extend=function(){for(var b=Array.prototype.slice.call(arguments),a=1,c=b.length;a<c;a++){var e=void 0,f=b[0],m=b[a];if("object"===typeof f&&"object"===typeof m)for(e in m)m.hasOwnProperty(e)&&(f[e]=m[e])}return b[0]};c.inArray=function(b,a,c){return null==a?-1:a.indexOf(b,c)};c.isEmptyObject=function(b){for(var a in b)return!1;return!0};f.adapters.push({name:"noframework",Adapter:c});f.Adapter=c})();
+</script>
+<script>
+            !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function()
+
+            {n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}
+            ; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+            qp('init', '91f52889f6a04390a65ad2591c59986e');
+            qp('track', 'ViewContent');
+        </script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/91f52889f6a04390a65ad2591c59986e/pixel?tag=ViewContent&noscript=1"/></noscript>
+</head>
+<body class="">
+<div id="body-anchor"></div>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    function abTest(){
+        // An element is created and styled to test for ad blocking technology
+        var ad = document.createElement('gaAdblockTestElement');
+        // The element is given the class of "Adsense" since it is likely to be blocked by most ad blockers
+        ad.className = 'AdSense';
+        ad.style.display = 'block';
+        ad.style.position = 'absolute';
+        ad.style.top = '-1px';
+        ad.style.height = '1px';
+        // The element is appended to the body
+        document.body.appendChild(ad);
+        // If the element height equals 1, then the element was not interfered with and ad blocking is not present.
+        if (ad.clientHeight == 1) {
+            var isAdBlockEnabled = false;
+        }
+        else {
+            var isAdBlockEnabled = true;
+        }
+        // The element is removed from the body
+        document.body.removeChild(ad);
+        // The value is returned for the variable
+        return isAdBlockEnabled;
+    }
+
+    if( abTest() ) {
+        adBlock = "true";
+    } else {
+        adBlock = "false";
+    }
+
+    
+            ga('create', 'UA-2762275-1', 'auto', {'useAmpClientId': true});
+    
+            ga('send', 'pageview', {
+    'dimension1': 'homepage',
+    'dimension2': '',
+    'dimension3': '',
+    'dimension4': 'home',
+    'dimension5': 'home',
+    'dimension6': '',
+    'dimension7': adBlock,
+    'dimension8': '',
+    'dimension9': '',
+    'dimension10': '',
+    'dimension11': 'false',
+    'dimension12': 'native',
+    'dimension13': '',
+    'dimension14': 'homepage',
+    'dimension15': '',
+    'dimension16': '',
+    'dimension17': '',
+    'dimension18': '',
+    'dimension19': '',
+    'dimension20': 'false',
+    'dimension21': adBlock,
+    'dimension22': 'false',
+    'dimension23': 'native',
+    'dimension24': 'desktop',
+    'dimension25': '174.118.80.123',
+    'dimension26': 'Python\u002Durllib\/3.7',
+    'dimension27': '',
+    'dimension28': '',
+    'dimension29': '',
+    'dimension30': '',
+    'dimension31': '',
+    'dimension32': '',
+    'dimension33': '',
+    'dimension34': ''
+    });
+</script>
+<script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function() {n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1639279299697145');
+            fbq('track', 'PageView');
+            if((window.location.href.indexOf("utm_source")!=-1)){
+                                fbq('track', 'ViewContent');
+                            }
+    </script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1639279299697145&ev=PageView&noscript=1"/></noscript>
+<div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="w-website">
+<div id="pageStickyFooterAd">
+</div>
+<div class="tp-menu-body-opacity js-menu"></div>
+<div id="js-header" class="w-header js-scroll ">
+<header class="header w-limit" itemscope itemtype="http://schema.org/WPHeader">
+<h1 class="hide" itemprop="headline">www.cbr.com</h1>
+<div class="header-logo">
+<a href="/" title="" rel="home"></a>
+</div>
+<input class="header-nav-input" type="checkbox" id="headerMenu"/>
+<label class="header-burger js-nav" for="headerMenu">
+<span class="burger-layer"></span>
+<span class="burger-layer"></span>
+<span class="burger-layer"></span>
+</label>
+<div class="header-nav">
+<div id="js-navSearch" class="nav-search">
+<form method="post" class="search-form js-searchBox icon i-search" id="searchform2" action="/search/">
+<input type="text" name="keyword" class="input-text search-input w-limit" autocomplete="off" id="s2" placeholder="Search for anything..." autofocus>
+</form>
+<button id="js-searchBtn" class="search-button icon i-search"></button>
+<span class="search-body-opacity js-searchOpacity"></span>
+</div>
+<nav class="nav-menu">
+<h4 class="menu-title">Categories</h4>
+<ul class="nav-menu-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/cbr-exclusives/" class="nav-menu-link" itemprop="url">CBR EXCLUSIVES</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/comics/news/" class="nav-menu-link" itemprop="url">COMIC NEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/movies/news-movies/" class="nav-menu-link" itemprop="url">MOVIE NEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/tv/news-tv/" class="nav-menu-link" itemprop="url">TV NEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/lists/" class="nav-menu-link" itemprop="url">LISTS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="https://community.cbr.com/" class="nav-menu-link" itemprop="url">Community</a>
+</li>
+<li class="nav-menu-item more">
+<a class="nav-menu-link more icon i-arrow-1" href="#"> More</a>
+<ul class="menu-submenu-list">
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/comics/previews/" class="nav-menu-link" itemprop="url">COMIC PREVIEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/comics/reviews/" class="nav-menu-link" itemprop="url">COMIC REVIEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/movies/reviews-movies/" class="nav-menu-link" itemprop="url">MOVIE REVIEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/category/tv/reviews-tv/" class="nav-menu-link" itemprop="url">TV REVIEWS</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="/video/" class="nav-menu-link" itemprop="url">Videos</a>
+</li>
+<li class="nav-menu-item" itemprop="name">
+<a href="https://findacomicshop.com/" class="nav-menu-link" itemprop="url">Find a Comic Shop</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="nav-social">
+<h4 class="menu-title">Follow Us</h4>
+<div class="nav-social-list">
+<a class="icon i-facebook" href="https://www.facebook.com/ComicBookResources" target="_blank"></a>
+<a class="icon i-twitter" href="https://twitter.com/cbr" target="_blank"></a>
+<a class="icon i-youtube" href="https://www.youtube.com/user/comicbookresources" target="_blank"></a>
+</div>
+</div>
+<nav class="nav-menu-legal">
+<h4 class="menu-title">More</h4>
+<ul class="nav-menu-legal-list">
+<li><a class="write" href="/contributor/">Write For Us</a></li>
+<li><a href="/">Home</a></li>
+<li><a href="/contact/">Contact Us</a></li>
+<li><a href="/terms-of-use/">Terms</a></li>
+<li><a href="/privacy-policy/">Privacy</a></li>
+<li><a href="/dmca-take-down-policy/">Copyright</a></li>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/press-kit/">Press Kit</a></li>
+</ul>
+</nav>
+</div>
+<script>
+            setTimeout(function(){var a=document.createElement("script");
+                var b=document.getElementsByTagName("script")[0];
+                a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0067/4548.js?"+Math.floor(new Date().getTime()/3600000);
+                a.async=true;a.type="te    xt/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+</header>
+</div>
+<div id="leaderboard">
+</div>
+<div class="w-content ">
+<section class="w-home-featured">
+<h1 class="section-title home-featured-title w-limit">
+<span class="">Featured</span> </h1>
+<div class="home-featured w-limit">
+<article class="browse-clip  full-thumb bc-home-featured-1 js-content" data-content-id="regular_article:1544344">
+<a class="bc-img-link" href="/is-marvel-trolling-fans-with-lokis-avengers-endgame-poster/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-home-featured-1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="1163px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=1163&amp;h=585&dpr=1.5 1744w"/>
+<source media="(min-width: 1024px)" sizes="1163px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=1163&amp;h=585 1163w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="999px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623&dpr=1.5 1498w"/>
+<source media="(min-width: 768px)" sizes="999px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623 999w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="743px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457&dpr=1.5 1114w"/>
+<source media="(min-width: 481px)" sizes="743px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457 743w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="456px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285&dpr=1.5 684w"/>
+<source media="(min-width: 0px)" sizes="456px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285 456w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/is-marvel-trolling-fans-with-lokis-avengers-endgame-poster/" class="bc-title-link" title="Is Marvel Trolling Fans With Loki's Avengers: Endgame Poster?">Is Marvel Trolling Fans With Loki's Avengers: Endgame Poster?</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+</div>
+<p class="bc-excerpt">Marvel Studios may be playing a game of misdirection with an Avengers: Endgame poster teasing Loki's potential resurrection. </p>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-home-featured-2 js-content" data-content-id="regular_article:1544704">
+<a class="bc-img-link" href="/star-wars-episode-ix-knights-of-ren-promo-art/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-home-featured-2">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="348px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=348&amp;h=200&dpr=1.5 522w"/>
+<source media="(min-width: 1024px)" sizes="348px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=348&amp;h=200 348w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="288px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=288&amp;h=180&dpr=1.5 432w"/>
+<source media="(min-width: 768px)" sizes="288px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=288&amp;h=180 288w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="747px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=747&amp;h=457&dpr=1.5 1120w"/>
+<source media="(min-width: 481px)" sizes="747px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=747&amp;h=457 747w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="460px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=460&amp;h=285&dpr=1.5 690w"/>
+<source media="(min-width: 0px)" sizes="460px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=460&amp;h=285 460w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/star-wars-episode-ix-knights-of-ren-promo-art/" class="bc-title-link" title="Star Wars: Possible Leaked Episode IX Promo Art Features the Knights of Ren">Star Wars: Possible Leaked Episode IX Promo Art Features the Knights of Ren</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-home-featured-2 js-content" data-content-id="regular_article:1543595">
+<a class="bc-img-link" href="/all-x-men-jonathan-hickman-house-of-x-powers-of-x-teaser/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-home-featured-2">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="348px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=348&amp;h=200&dpr=1.5 522w"/>
+<source media="(min-width: 1024px)" sizes="348px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=348&amp;h=200 348w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="288px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=288&amp;h=180&dpr=1.5 432w"/>
+<source media="(min-width: 768px)" sizes="288px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=288&amp;h=180 288w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="747px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=747&amp;h=457&dpr=1.5 1120w"/>
+<source media="(min-width: 481px)" sizes="747px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=747&amp;h=457 747w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="460px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=460&amp;h=285&dpr=1.5 690w"/>
+<source media="(min-width: 0px)" sizes="460px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=460&amp;h=285 460w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/all-x-men-jonathan-hickman-house-of-x-powers-of-x-teaser/" class="bc-title-link" title="All of the X-Men in Marvel's New Teaser for Jonathan Hickman Series">All of the X-Men in Marvel's New Teaser for Jonathan Hickman Series</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-home-featured-2 js-content" data-content-id="regular_article:1543893">
+<a class="bc-img-link" href="/arkham-knight-introduction-dc-comics-continuity/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-home-featured-2">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="348px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=348&amp;h=200&dpr=1.5 522w"/>
+<source media="(min-width: 1024px)" sizes="348px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=348&amp;h=200 348w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="288px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=288&amp;h=180&dpr=1.5 432w"/>
+<source media="(min-width: 768px)" sizes="288px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=288&amp;h=180 288w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="747px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=747&amp;h=457&dpr=1.5 1120w"/>
+<source media="(min-width: 481px)" sizes="747px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=747&amp;h=457 747w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="460px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=460&amp;h=285&dpr=1.5 690w"/>
+<source media="(min-width: 0px)" sizes="460px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=460&amp;h=285 460w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/arkham-knight-introduction-dc-comics-continuity/" class="bc-title-link" title="How Arkham Knight is Introduced into DC Comics Continuity">How Arkham Knight is Introduced into DC Comics Continuity</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+</div>
+</div>
+</article>
+</div>
+</section>
+<section class="w-article w-limit">
+<div class="article">
+<div id="articlesMR">
+<h2 class="section-title">Latest</h2>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544767">
+<a class="bc-img-link" href="/toy-story-4-buzz-lightyear-international-trailer/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Toy-Story-4.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Toy Story 4"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/toy-story-4-buzz-lightyear-international-trailer/" class="bc-title-link" title="Toy Story 4 International Trailer Highlights Buzz Lightyear's Journey">Toy Story 4 International Trailer Highlights Buzz Lightyear's Journey</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T12:51:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">The international trailer for Toy Story 4 has Buzz Lightyear leap into a proactive role to lead a rescue mission for Woody and the new toy Forky.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544426">
+<a class="bc-img-link" href="/what-we-do-in-the-shadows-vampire-marriage-sexuality/">
+<div style="margin:0 auto;max-width:2000px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Natasia-Demetriou-and-Matt-Berry-in-What-We-Do-in-the-Shadows-FX.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/what-we-do-in-the-shadows-vampire-marriage-sexuality/" class="bc-title-link" title="What We Do in the Shadows' Vampire Marriage Is 'Very Millennial'">What We Do in the Shadows' Vampire Marriage Is 'Very Millennial'</a>
+</h3>
+<a class="bc-category" href="/category/tv/" title="TV">TV</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T12:40:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">What We Do in the Shadow's cast and creators reveal what a vampire marriage looks like and why vampires aren't sexy.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544736">
+<a class="bc-img-link" href="/angry-birds-movie-2-bad-piggies-truce-trailer/">
+<div style="margin:0 auto;max-width:1200px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/angry-birds-feature.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Angry Birds Movie 2 Feature"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/angry-birds-movie-2-bad-piggies-truce-trailer/" class="bc-title-link" title="Angry Birds Movie 2 Declares a Truce With the Bad Piggies in New Trailer">Angry Birds Movie 2 Declares a Truce With the Bad Piggies in New Trailer</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T12:26:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">The international trailer for The Angry Birds Movie 2 has the popular mobile game characters enter an uneasy alliance with their pig rivals.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544260">
+<a class="bc-img-link" href="/detective-comics-1000-bat-symbol-origin-story/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/batman-symbol-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/detective-comics-1000-bat-symbol-origin-story/" class="bc-title-link" title="Kevin Smith, Jim Lee Reveal the Secret Origin of Batman's Bat-Symbol">Kevin Smith, Jim Lee Reveal the Secret Origin of Batman's Bat-Symbol</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T11:40:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">In their Detective Comics #1000 story, Kevin Smith and Jim Lee reveal a major secret hiding under the Bat-Symbol.</p>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-content-full js-content" data-content-id="list_article:1535076">
+<a class="bc-img-link" href="/need-to-read-comics-march-13th-2019/">
+<div style="margin:0 auto;max-width:1988px;">
+<div class="responsive-img img-content-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="788px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440&dpr=1.5 1182w"/>
+<source media="(min-width: 1024px)" sizes="788px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440 788w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="999px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623&dpr=1.5 1498w"/>
+<source media="(min-width: 768px)" sizes="999px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623 999w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="743px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457&dpr=1.5 1114w"/>
+<source media="(min-width: 481px)" sizes="743px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457 743w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="456px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285&dpr=1.5 684w"/>
+<source media="(min-width: 0px)" sizes="456px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/mag-ms-marvel.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285 456w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/need-to-read-comics-march-13th-2019/" class="bc-title-link" title="Comics You Need To Read This Week - March 13th, 2019">Comics You Need To Read This Week - March 13th, 2019</a>
+</h3>
+<a class="bc-category" href="/category/lists/" title="Lists">Lists</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-13T08:30:00-05:00">Mar 13, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544714">
+<a class="bc-img-link" href="/morbius-jared-leto-matt-smith-set-photos/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/07/jared-leto-morbius.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="jared leto morbius"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/morbius-jared-leto-matt-smith-set-photos/" class="bc-title-link" title="Morbius Set Photo Offers a New Look at Leto's Living Vampire & Matt Smith">Morbius Set Photo Offers a New Look at Leto's Living Vampire & Matt Smith</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T11:05:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">Set photos from Sony's Morbius reveal Jared Leto's titular antihero, as well as the first photos of co-star Matt Smith on set.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544704">
+<a class="bc-img-link" href="/star-wars-episode-ix-knights-of-ren-promo-art/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/star-wars-episode-ix-knights-of-ren-promo-art/" class="bc-title-link" title="Star Wars: Possible Leaked Episode IX Promo Art Features the Knights of Ren">Star Wars: Possible Leaked Episode IX Promo Art Features the Knights of Ren</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T10:50:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">With Star Wars: Episode IX fast approaching, fans might have their first look at a promo poster featuring the insidious Knights of Ren.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544344">
+<a class="bc-img-link" href="/is-marvel-trolling-fans-with-lokis-avengers-endgame-poster/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/is-marvel-trolling-fans-with-lokis-avengers-endgame-poster/" class="bc-title-link" title="Is Marvel Trolling Fans With Loki's Avengers: Endgame Poster?">Is Marvel Trolling Fans With Loki's Avengers: Endgame Poster?</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T10:40:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">Marvel Studios may be playing a game of misdirection with an Avengers: Endgame poster teasing Loki's potential resurrection. </p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544666">
+<a class="bc-img-link" href="/avengers-endgame-stan-lee-fan-poster/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="stan-lee-header"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/avengers-endgame-stan-lee-fan-poster/" class="bc-title-link" title="Avengers: Endgame Fan Poster Pays Tribute to Stan Lee">Avengers: Endgame Fan Poster Pays Tribute to Stan Lee</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T10:33:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">Inspired by the batch of Avengers: Endgame character posters, one fan took the opportunity to pay respects to the late Stan Lee.</p>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-content-full js-content" data-content-id="list_article:1525118">
+<a class="bc-img-link" href="/black-manta-vs-killmonger-black-panther-aquaman/">
+<div style="margin:0 auto;max-width:1200px;">
+<div class="responsive-img img-content-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="788px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440&dpr=1.5 1182w"/>
+<source media="(min-width: 1024px)" sizes="788px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440 788w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="999px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623&dpr=1.5 1498w"/>
+<source media="(min-width: 768px)" sizes="999px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623 999w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="743px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457&dpr=1.5 1114w"/>
+<source media="(min-width: 481px)" sizes="743px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457 743w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="456px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285&dpr=1.5 684w"/>
+<source media="(min-width: 0px)" sizes="456px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/09/michael-b-jordan-killmonger.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285 456w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/black-manta-vs-killmonger-black-panther-aquaman/" class="bc-title-link" title="Black Manta Vs. Killmonger: Who's the Deadlier Arch-Nemesis?">Black Manta Vs. Killmonger: Who's the Deadlier Arch-Nemesis?</a>
+</h3>
+<a class="bc-category" href="/category/lists/" title="Lists">Lists</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-03T12:30:00-05:00">Mar 3, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544671">
+<a class="bc-img-link" href="/excl-neon-future-2/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/neon-future-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/excl-neon-future-2/" class="bc-title-link" title="EXCL.: First Look at Steve Aoki's Neon Future #2 & WonderCon Variant">EXCL.: First Look at Steve Aoki's Neon Future #2 & WonderCon Variant</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T10:08:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">CBR presents an exclusive first look at the WonderCon variant cover for Neon Future #1, as well as the first look at Issue #2.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1543595">
+<a class="bc-img-link" href="/all-x-men-jonathan-hickman-house-of-x-powers-of-x-teaser/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/all-x-men-jonathan-hickman-house-of-x-powers-of-x-teaser/" class="bc-title-link" title="All of the X-Men in Marvel's New Teaser for Jonathan Hickman Series">All of the X-Men in Marvel's New Teaser for Jonathan Hickman Series</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T09:40:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">We take on the herculean task of identifying each and every mutant in Marvel's latest X-Men teaser for the upcoming Jonathan Hickman series.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544424">
+<a class="bc-img-link" href="/thor-war-of-the-realms-soundtrack/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/11/war-of-the-realms-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/thor-war-of-the-realms-soundtrack/" class="bc-title-link" title="Thor's War of the Realms Receives a Fittingly Epic Soundtrack">Thor's War of the Realms Receives a Fittingly Epic Soundtrack</a>
+</h3>
+<a class="bc-category" href="/category/comics/" title="Comics">Comics</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T09:26:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">To celebrate next week's launch of the crossover event War of the Realms, Marvel has released an epic soundtrack for the series.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1543893">
+<a class="bc-img-link" href="/arkham-knight-introduction-dc-comics-continuity/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/arkham-knight-introduction-dc-comics-continuity/" class="bc-title-link" title="How Arkham Knight is Introduced into DC Comics Continuity">How Arkham Knight is Introduced into DC Comics Continuity</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T08:58:00-05:00">Mar 27, 2019</time>
+</div>
+<p class="bc-excerpt">Peter J. Tomasi and Doug Mahnke's story in Detective Comics #1000 reveals how the Arkham Knight factors into Batman's war on crime.</p>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-content-full js-content" data-content-id="list_article:1517105">
+<a class="bc-img-link" href="/batman-vs-iron-man-dc-comics-marvel-superheroes/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="788px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440&dpr=1.5 1182w"/>
+<source media="(min-width: 1024px)" sizes="788px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440 788w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="999px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623&dpr=1.5 1498w"/>
+<source media="(min-width: 768px)" sizes="999px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623 999w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="743px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457&dpr=1.5 1114w"/>
+<source media="(min-width: 481px)" sizes="743px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457 743w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="456px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285&dpr=1.5 684w"/>
+<source media="(min-width: 0px)" sizes="456px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/08/Iron-Man-Batman.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285 456w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt="Iron-Man-Batman"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/batman-vs-iron-man-dc-comics-marvel-superheroes/" class="bc-title-link" title="Who Would Win? Batman Vs. Iron Man">Who Would Win? Batman Vs. Iron Man</a>
+</h3>
+<a class="bc-category" href="/category/lists/" title="Lists">Lists</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-02-23T14:30:00-05:00">Feb 23, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544466">
+<a class="bc-img-link" href="/hellboy-superhero-bad-name-new-photos/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/HB-1.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/hellboy-superhero-bad-name-new-photos/" class="bc-title-link" title="Hellboy Gives Superheroes a Bad Name in New Photos">Hellboy Gives Superheroes a Bad Name in New Photos</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T23:45:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">New images reveal the upcoming Hellboy reboot won't be offering a family-friendly superhero as he tries to stop the apocalypse. </p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544422">
+<a class="bc-img-link" href="/preview-heroes-in-crisis-7/">
+<div style="margin:0 auto;max-width:2063px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-heroes-in-crisis-7/" class="bc-title-link" title="PREVIEW: Heroes in Crisis #7">PREVIEW: Heroes in Crisis #7</a>
+</h3>
+<a class="bc-category" href="/category/comics/" title="Comics">Comics</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T22:33:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">DC's Trinity get one step closer to solving the Sanctuary murders in Heroes in Crisis #6 by Tom King, Clay Mann, Travis Moore and Jorge Fornes.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544370">
+<a class="bc-img-link" href="/game-of-thrones-george-rr-martin-finale-different-books/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Game of Thrones"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/game-of-thrones-george-rr-martin-finale-different-books/" class="bc-title-link" title="Game of Thrones: George RR Martin On How Finale Is Different From Books">Game of Thrones: George RR Martin On How Finale Is Different From Books</a>
+</h3>
+<a class="bc-category" href="/category/tv/" title="TV">TV</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T22:04:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">Game of Thrones author George R.R. Martin has shared insight into how the books will end, given that the HBO series is in its final season.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544279">
+<a class="bc-img-link" href="/marvel-absolute-carnage-variant-covers/">
+<div style="margin:0 auto;max-width:2000px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/marvel-absolute-carnage-variant-covers/" class="bc-title-link" title="Absolute Carnage Unleashes 'Carnage-ized' Covers on the Marvel Universe">Absolute Carnage Unleashes 'Carnage-ized' Covers on the Marvel Universe</a>
+</h3>
+<a class="bc-category" href="/category/comics/" title="Comics">Comics</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T22:01:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">In anticipation of the Absolute Carnage event, Marvel released a slew of variant covers that portray 'Carnage-ized' versions classic superheroes.</p>
+</div>
+</article>
+<div id="load_more" class="toshow" style="display: none">
+<article class="browse-clip  full-thumb bc-content-full js-content" data-content-id="list_article:1523055">
+<a class="bc-img-link" href="/marvel-comics-before-avengers-endgame/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="788px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440&dpr=1.5 1182w"/>
+<source media="(min-width: 1024px)" sizes="788px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440 788w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="999px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623&dpr=1.5 1498w"/>
+<source media="(min-width: 768px)" sizes="999px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623 999w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="743px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457&dpr=1.5 1114w"/>
+<source media="(min-width: 481px)" sizes="743px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457 743w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="456px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285&dpr=1.5 684w"/>
+<source media="(min-width: 0px)" sizes="456px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Thanos-Infinity-Gauntlet.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285 456w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt="Thanos Infinity Gauntlet"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/marvel-comics-before-avengers-endgame/" class="bc-title-link" title="10 Comics MCU Fans Should Read Before Avengers: Endgame">10 Comics MCU Fans Should Read Before Avengers: Endgame</a>
+</h3>
+<a class="bc-category" href="/category/lists/" title="Lists">Lists</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-02-19T12:00:00-05:00">Feb 19, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544272">
+<a class="bc-img-link" href="/shazam-producer-marvel-vs-dc-rivalry/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Captain-Marvel-Shazam.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Captain Marvel Shazam"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/shazam-producer-marvel-vs-dc-rivalry/" class="bc-title-link" title="Shazam! Producer on Why a Marvel vs DC Rivalry Is 'Bullsh*t'">Shazam! Producer on Why a Marvel vs DC Rivalry Is 'Bullsh*t'</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T21:22:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">Peter Safran, the producer behind Warner Bros.' DC film Shazam!, has a few thoughts about the supposed rivalry between Marvel and DC. </p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544334">
+<a class="bc-img-link" href="/preview-dial-h-for-hero-1/">
+<div style="margin:0 auto;max-width:2063px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-dial-h-for-hero-1/" class="bc-title-link" title="PREVIEW: Dial H For Hero #1">PREVIEW: Dial H For Hero #1</a>
+</h3>
+<a class="bc-category" href="/category/comics/" title="Comics">Comics</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T20:40:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">Meet the newest wielder of the infamous Hero Dial in DC and Wonder Comics' Dial H For Hero #1, by Sam Humphries and Joe Quinones.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544290">
+<a class="bc-img-link" href="/preview-detective-comics-1000/">
+<div style="margin:0 auto;max-width:4116px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-detective-comics-1000/" class="bc-title-link" title="PREVIEW: Detective Comics #1000">PREVIEW: Detective Comics #1000</a>
+</h3>
+<a class="bc-category" href="/category/comics/" title="Comics">Comics</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T20:14:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">DC Comics' landmark issue of Detective Comics #1000 features a star-studded lineup of creators celebrating the Dark Knight.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544228">
+<a class="bc-img-link" href="/dumbo-opening-weekend-box-office-projection/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/01/Dumbo.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Dumbo"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/dumbo-opening-weekend-box-office-projection/" class="bc-title-link" title="Dumbo Projected to Score a Small (By Disney Standards) Opening Weekend Haul">Dumbo Projected to Score a Small (By Disney Standards) Opening Weekend Haul</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T19:29:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">Disney is looking at a box office winner with Dumbo, which is set to earn upwards of $100 million worldwide over opening weekend. </p>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-content-full js-content" data-content-id="list_article:1516541">
+<a class="bc-img-link" href="/mbti-myers-briggs-fantastic-four/">
+<div style="margin:0 auto;max-width:1710px;">
+<div class="responsive-img img-content-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="788px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440&dpr=1.5 1182w"/>
+<source media="(min-width: 1024px)" sizes="788px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=788&amp;h=440 788w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="999px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623&dpr=1.5 1498w"/>
+<source media="(min-width: 768px)" sizes="999px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=999&amp;h=623 999w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="743px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457&dpr=1.5 1114w"/>
+<source media="(min-width: 481px)" sizes="743px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=743&amp;h=457 743w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="456px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285&dpr=1.5 684w"/>
+<source media="(min-width: 0px)" sizes="456px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/02/Featured-Image-Fantastic-Four-comic.jpg?q=50&amp;fit=crop&amp;w=456&amp;h=285 456w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt="Fantastic Four comic group image"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/mbti-myers-briggs-fantastic-four/" class="bc-title-link" title="The MBTI® of Fantastic Four Characters">The MBTI® of Fantastic Four Characters</a>
+</h3>
+<a class="bc-category" href="/category/lists/" title="Lists">Lists</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-02-18T10:30:00-05:00">Feb 18, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544206">
+<a class="bc-img-link" href="/supernatural-jeffrey-dean-morgan-message-ackles-padalecki/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/Supernatural-feature-1.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/supernatural-jeffrey-dean-morgan-message-ackles-padalecki/" class="bc-title-link" title="Supernatural: Jeffrey Dean Morgan Has a Message for Ackles & Padalecki">Supernatural: Jeffrey Dean Morgan Has a Message for Ackles & Padalecki</a>
+</h3>
+<a class="bc-category" href="/category/tv/" title="TV">TV</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T18:49:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">Jeffrey Dean Morgan shared a special farewell message to Supernatural co-stars regarding the long-running CW series coming to an end.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544107">
+<a class="bc-img-link" href="/avengers-endgame-posters-shuri-victim-thanos/">
+<div style="margin:0 auto;max-width:1200px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/endgame-poster2.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Avengers: Endgame poster"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/avengers-endgame-posters-shuri-victim-thanos/" class="bc-title-link" title="Avengers: Endgame Posters Confirm Another of Thanos' Victims">Avengers: Endgame Posters Confirm Another of Thanos' Victims</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T18:45:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">New Avengers: Endgame character posters finally confirm that a fan-favorite character didn't survive Thanos' finger snap in Infinity War.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544194">
+<a class="bc-img-link" href="/john-wick-3-halle-berry-cold-called-director-for-role/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/john-wick-3-halley-berry.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/john-wick-3-halle-berry-cold-called-director-for-role/" class="bc-title-link" title="John Wick 3: Halle Berry Cold Called the Film's Director for Her Role">John Wick 3: Halle Berry Cold Called the Film's Director for Her Role</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T18:36:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">John Wick 3 director Chad Stahelski revealed Halle Berry called him about taking on a role in the film, even before a script was written.</p>
+</div>
+</article>
+<article class="browse-clip  half-thumb js-content" data-content-id="regular_article:1544123">
+<a class="bc-img-link" href="/tom-jerry-film-peter-dinklage/">
+<div style="margin:0 auto;max-width:1200px;">
+<div class="responsive-img img-content-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235&dpr=1.5 531w"/>
+<source media="(min-width: 1024px)" sizes="354px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=354&amp;h=235 354w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287&dpr=1.5 649w"/>
+<source media="(min-width: 768px)" sizes="433px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=433&amp;h=287 433w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219&dpr=1.5 496w"/>
+<source media="(min-width: 481px)" sizes="331px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=331&amp;h=219 331w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134&dpr=1.5 303w"/>
+<source media="(min-width: 0px)" sizes="202px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/10/fantastic-four-tom-and-jerry-reboot-header.jpg?q=50&amp;fit=crop&amp;w=202&amp;h=134 202w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/tom-jerry-film-peter-dinklage/" class="bc-title-link" title="REPORT: Tom & Jerry Film Eyeing Peter Dinklage for Lead Role">REPORT: Tom & Jerry Film Eyeing Peter Dinklage for Lead Role</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T18:20:00-05:00">Mar 26, 2019</time>
+</div>
+<p class="bc-excerpt">The mixed-media Tom and Jerry film has its eyes on Game of Thrones star Peter Dinklage for the male lead.</p>
+</div>
+</article>
+<div class="wp-pagenavi">
+<span class="pages">Page 1 of 9486</span>
+<span class="current">1</span>
+<a class="page" title="Page 2" href="/archive/2/">2</a>
+<a class="page" title="Page 3" href="/archive/3/">3</a>
+<a class="page" title="Page 4" href="/archive/4/">4</a>
+<a class="page" title="Page 5" href="/archive/5/">5</a>
+<a class="page" title="Page 6" href="/archive/6/">6</a>
+<a class="page" title="Page 7" href="/archive/7/">7</a>
+<a class="last" href="/archive/9486/">Last »</a>
+</div>
+</div>
+</div>
+<button class="btn-ajax-home icon i-refresh" id="moreAdd">Load More</button>
+</div>
+<aside id="secondary" class="sidebar js-sticky-container" role="complementary">
+<section class="w-sidebar-tabs sidebar-trending">
+<ul class="js-tabs-ul tabs-ul">
+<li id="js-tab-1" class="selected">Comic Book Reviews</li>
+<li id="js-tab-2">Comic Book Previews</li>
+</ul>
+<div id="js-content-tab-1" class="js-tab-pane tab-content">
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/review-spider-man-life-story-1/">
+<div style="margin:0 auto;max-width:921px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/spider-man-life-story-cover-art.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/review-spider-man-life-story-1/" class="bc-title-link" title="Spider-Man: Life Story #1 is a Wonderful Idea Marred by Bland Execution">Spider-Man: Life Story #1 is a Wonderful Idea Marred by Bland Execution</a>
+</h3>
+<a class="bc-category" href="/category/reviews/" title="Comic Reviews">Comic Reviews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/review-batman-67/">
+<div style="margin:0 auto;max-width:1280px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/751442.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/review-batman-67/" class="bc-title-link" title="REVIEW: Batman #67 is Not Going to Be for Everyone">REVIEW: Batman #67 is Not Going to Be for Everyone</a>
+</h3>
+<a class="bc-category" href="/category/reviews/" title="Comic Reviews">Comic Reviews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/review-spider-man-city-at-war-1/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/12/Marvels-Spider-Man-City-at-War-Cover.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/review-spider-man-city-at-war-1/" class="bc-title-link" title="Spider-Man: City at War #1 (Too) Faithfully Adapts Sony&#039;s Hit Video Game">Spider-Man: City at War #1 (Too) Faithfully Adapts Sony&#039;s Hit Video Game</a>
+</h3>
+<a class="bc-category" href="/category/reviews/" title="Comic Reviews">Comic Reviews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/review-assassin-nation-1/">
+<div style="margin:0 auto;max-width:1280px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/746527.-SX1280-QL80-TTD-.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/review-assassin-nation-1/" class="bc-title-link" title="Assassin Nation #1 is a Fun But Flawed Debut Issue">Assassin Nation #1 is a Fun But Flawed Debut Issue</a>
+</h3>
+<a class="bc-category" href="/category/reviews/" title="Comic Reviews">Comic Reviews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/review-the-batman-who-laughs-the-grim-knight-1/">
+<div style="margin:0 auto;max-width:1280px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/grim-knight-cover.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/review-the-batman-who-laughs-the-grim-knight-1/" class="bc-title-link" title="The Batman Who Laughs: The Grim Knight #1 is Smarter Than it Needs to Be">The Batman Who Laughs: The Grim Knight #1 is Smarter Than it Needs to Be</a>
+</h3>
+<a class="bc-category" href="/category/reviews/" title="Comic Reviews">Comic Reviews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/review-wonder-twins-2/">
+<div style="margin:0 auto;max-width:988px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/wonder-twins-2.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/review-wonder-twins-2/" class="bc-title-link" title="Wonder Twins #2 Introduces a New Team of Supervillains in an Uneven Issue">Wonder Twins #2 Introduces a New Team of Supervillains in an Uneven Issue</a>
+</h3>
+<a class="bc-category" href="/category/reviews/" title="Comic Reviews">Comic Reviews</a>
+</div>
+</article>
+</div>
+<div id="js-content-tab-2" class="js-tab-pane tab-content is-hidden">
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/preview-heroes-in-crisis-7/">
+<div style="margin:0 auto;max-width:2063px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-heroes-in-crisis-7/" class="bc-title-link" title="PREVIEW: Heroes in Crisis #7">PREVIEW: Heroes in Crisis #7</a>
+</h3>
+<a class="bc-category" href="/category/previews/" title="Comic Reviews">Comic Previews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/preview-dial-h-for-hero-1/">
+<div style="margin:0 auto;max-width:2063px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/Dial-H-Cv1.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-dial-h-for-hero-1/" class="bc-title-link" title="PREVIEW: Dial H For Hero #1">PREVIEW: Dial H For Hero #1</a>
+</h3>
+<a class="bc-category" href="/category/previews/" title="Comic Reviews">Comic Previews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/preview-detective-comics-1000/">
+<div style="margin:0 auto;max-width:4116px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/DCT-cv1000-Dir.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-detective-comics-1000/" class="bc-title-link" title="PREVIEW: Detective Comics #1000">PREVIEW: Detective Comics #1000</a>
+</h3>
+<a class="bc-category" href="/category/previews/" title="Comic Reviews">Comic Previews</a>
+</div>
+</article>
+<article class="browse-clip portrait-thumb js-content">
+<a class="bc-img-link" href="/preview-hit-girl-season-two-3/">
+<div style="margin:0 auto;max-width:1988px;">
+<div class="responsive-img img-comic-book-cover-sidebar">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="154px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237&dpr=1.5 231w"/>
+<source media="(min-width: 1024px)" sizes="154px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=154&amp;h=237 154w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="481px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740&dpr=1.5 721w"/>
+<source media="(min-width: 768px)" sizes="481px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=481&amp;h=740 481w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="362px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567&dpr=1.5 543w"/>
+<source media="(min-width: 481px)" sizes="362px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=362&amp;h=567 362w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="222px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342&dpr=1.5 333w"/>
+<source media="(min-width: 0px)" sizes="222px" srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/hit-girl-hollywood-3.jpg?q=50&amp;fit=crop&amp;w=222&amp;h=342 222w"/>
+<!--[if IE 9]></video><![endif]-->
+<img alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-hit-girl-season-two-3/" class="bc-title-link" title="Hit-Girl Season Two #3">Hit-Girl Season Two #3</a>
+</h3>
+<a class="bc-category" href="/category/previews/" title="Comic Reviews">Comic Previews</a>
+</div>
+</article>
+</div>
+</section>
+<div class="sidebar-trending">
+<h2 class="section-title">Trending</h2>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1543595">
+<a class="bc-img-link" href="/all-x-men-jonathan-hickman-house-of-x-powers-of-x-teaser/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-house-of-x-powers-of-x-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/all-x-men-jonathan-hickman-house-of-x-powers-of-x-teaser/" class="bc-title-link" title="All of the X-Men in Marvel's New Teaser for Jonathan Hickman Series">All of the X-Men in Marvel's New Teaser for Jonathan Hickman Series</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/tada/" title="Posts by Tim Adams" rel="author">Tim Adams</a>
+<time class="bc-date" datetime="2019-03-27T09:40:00-05:00">Mar 27, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1543893">
+<a class="bc-img-link" href="/arkham-knight-introduction-dc-comics-continuity/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/detective-comics-1000-arkham-knight-feature.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/arkham-knight-introduction-dc-comics-continuity/" class="bc-title-link" title="How Arkham Knight is Introduced into DC Comics Continuity">How Arkham Knight is Introduced into DC Comics Continuity</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/jarv/" title="Posts by Jon Arvedon" rel="author">Jon Arvedon</a>
+<time class="bc-date" datetime="2019-03-27T08:58:00-05:00">Mar 27, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1544704">
+<a class="bc-img-link" href="/star-wars-episode-ix-knights-of-ren-promo-art/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/11/Knights-of-Ren-the-force-awakens.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/star-wars-episode-ix-knights-of-ren-promo-art/" class="bc-title-link" title="Star Wars: Possible Leaked Episode IX Promo Art Features the Knights of Ren">Star Wars: Possible Leaked Episode IX Promo Art Features the Knights of Ren</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/agra/" title="Posts by Anthony Gramuglia" rel="author">Anthony Gramuglia</a>
+<time class="bc-date" datetime="2019-03-27T10:50:00-05:00">Mar 27, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1544344">
+<a class="bc-img-link" href="/is-marvel-trolling-fans-with-lokis-avengers-endgame-poster/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/03/loki-avengers-endgame-poster-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/is-marvel-trolling-fans-with-lokis-avengers-endgame-poster/" class="bc-title-link" title="Is Marvel Trolling Fans With Loki's Avengers: Endgame Poster?">Is Marvel Trolling Fans With Loki's Avengers: Endgame Poster?</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/renaldo_matadeen/" title="Posts by Renaldo Matadeen" rel="author">Renaldo Matadeen</a>
+<time class="bc-date" datetime="2019-03-27T10:40:00-05:00">Mar 27, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1544279">
+<a class="bc-img-link" href="/marvel-absolute-carnage-variant-covers/">
+<div style="margin:0 auto;max-width:2000px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/Absolute-Carnage-Captain-America-feature.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/marvel-absolute-carnage-variant-covers/" class="bc-title-link" title="Absolute Carnage Unleashes 'Carnage-ized' Covers on the Marvel Universe">Absolute Carnage Unleashes 'Carnage-ized' Covers on the Marvel Universe</a>
+</h3>
+<a class="bc-category" href="/category/comics/" title="Comics">Comics</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/egal/" title="Posts by Evangelia Galanis" rel="author">Evangelia Galanis</a>
+<time class="bc-date" datetime="2019-03-26T22:01:00-05:00">Mar 26, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1544147">
+<a class="bc-img-link" href="/us-jordan-peele-white-lead-future-casting/">
+<div style="margin:0 auto;max-width:2000px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/jordan-peele-get-out-us-alfred-hitchock-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/us-jordan-peele-white-lead-future-casting/" class="bc-title-link" title="Why Jordan Peele is Unlikely to Cast White Lead: 'I've Seen That Movie'">Why Jordan Peele is Unlikely to Cast White Lead: 'I've Seen That Movie'</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/renaldo_matadeen/" title="Posts by Renaldo Matadeen" rel="author">Renaldo Matadeen</a>
+<time class="bc-date" datetime="2019-03-26T16:23:00-05:00">Mar 26, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1543825">
+<a class="bc-img-link" href="/big-bang-theory-finale-will-elevator-be-fixed/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/02/no-big-bang-theory-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/big-bang-theory-finale-will-elevator-be-fixed/" class="bc-title-link" title="Will Big Bang Theory Finally Fix Its Longest-Running Problem?">Will Big Bang Theory Finally Fix Its Longest-Running Problem?</a>
+</h3>
+<a class="bc-category" href="/category/cbr-exclusives/" title="CBR Exclusives">CBR Exclusives</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/icar/" title="Posts by Ian Cardona" rel="author">Ian Cardona</a>
+<time class="bc-date" datetime="2019-03-26T16:40:00-05:00">Mar 26, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  full-thumb bc-sidebar-full js-content" data-content-id="regular_article:1544666">
+<a class="bc-img-link" href="/avengers-endgame-stan-lee-fan-poster/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-full">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="325px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200&dpr=1.5 487w"/>
+<source media="(min-width: 1024px)" sizes="325px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=325&amp;h=200 325w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="471px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280&dpr=1.5 706w"/>
+<source media="(min-width: 768px)" sizes="471px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=471&amp;h=280 471w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="737px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400&dpr=1.5 1105w"/>
+<source media="(min-width: 481px)" sizes="737px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=737&amp;h=400 737w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="450px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280&dpr=1.5 675w"/>
+<source media="(min-width: 0px)" sizes="450px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/11/stan-lee-header.jpg?q=50&amp;fit=crop&amp;w=450&amp;h=280 450w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="stan-lee-header"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/avengers-endgame-stan-lee-fan-poster/" class="bc-title-link" title="Avengers: Endgame Fan Poster Pays Tribute to Stan Lee">Avengers: Endgame Fan Poster Pays Tribute to Stan Lee</a>
+</h3>
+<a class="bc-category" href="/category/movies/" title="Movies">Movies</a>
+<div class="bc-details">
+<a class="bc-author" href="/author/sarah_cooke/" title="Posts by Sarah Cooke" rel="author">Sarah Cooke</a>
+<time class="bc-date" datetime="2019-03-27T10:33:00-05:00">Mar 27, 2019</time>
+</div>
+</div>
+</article>
+</div>
+<div id="js-sticky-trigger"></div>
+<div class="sidebar-sticky js-sticky">
+<h2 class="section-title">Trending Now</h2>
+<article class="browse-clip  half-thumb bc-sidebar-half js-content" data-content-id="regular_article:1544653">
+<a class="bc-img-link" href="/dark-phoenix-director-iron-man-x-men-movie/">
+<div style="margin:0 auto;max-width:1197px;">
+<div class="responsive-img img-sidebar-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="122px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=122&amp;h=86&dpr=1.5 183w"/>
+<source media="(min-width: 1024px)" sizes="122px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=122&amp;h=86 122w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="337px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=337&amp;h=225&dpr=1.5 505w"/>
+<source media="(min-width: 768px)" sizes="337px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=337&amp;h=225 337w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="257px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=257&amp;h=172&dpr=1.5 385w"/>
+<source media="(min-width: 481px)" sizes="257px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=257&amp;h=172 257w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="157px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=157&amp;h=105&dpr=1.5 235w"/>
+<source media="(min-width: 0px)" sizes="157px" data-srcset="https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/03/x-men-avengers-fox-marvel.jpg?q=50&amp;fit=crop&amp;w=157&amp;h=105 157w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="X-Men Avengers"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/dark-phoenix-director-iron-man-x-men-movie/" class="bc-title-link" title="Dark Phoenix Director Reveals Which MCU Hero He Wants in An X-Men Movie">Dark Phoenix Director Reveals Which MCU Hero He Wants in An X-Men Movie</a>
+</h3>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-27T10:13:00-05:00">Mar 27, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb bc-sidebar-half js-content" data-content-id="regular_article:1544370">
+<a class="bc-img-link" href="/game-of-thrones-george-rr-martin-finale-different-books/">
+<div style="margin:0 auto;max-width:1400px;">
+<div class="responsive-img img-sidebar-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="122px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=122&amp;h=86&dpr=1.5 183w"/>
+<source media="(min-width: 1024px)" sizes="122px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=122&amp;h=86 122w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="337px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=337&amp;h=225&dpr=1.5 505w"/>
+<source media="(min-width: 768px)" sizes="337px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=337&amp;h=225 337w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="257px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=257&amp;h=172&dpr=1.5 385w"/>
+<source media="(min-width: 481px)" sizes="257px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=257&amp;h=172 257w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="157px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=157&amp;h=105&dpr=1.5 235w"/>
+<source media="(min-width: 0px)" sizes="157px" data-srcset="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/07/game-of-thrones.jpg?q=50&amp;fit=crop&amp;w=157&amp;h=105 157w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt="Game of Thrones"/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/game-of-thrones-george-rr-martin-finale-different-books/" class="bc-title-link" title="Game of Thrones: George RR Martin On How Finale Is Different From Books">Game of Thrones: George RR Martin On How Finale Is Different From Books</a>
+</h3>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T22:04:00-05:00">Mar 26, 2019</time>
+</div>
+</div>
+</article>
+<article class="browse-clip  half-thumb bc-sidebar-half js-content" data-content-id="regular_article:1544422">
+<a class="bc-img-link" href="/preview-heroes-in-crisis-7/">
+<div style="margin:0 auto;max-width:2063px;">
+<div class="responsive-img img-sidebar-half">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 1024px) and (min-resolution: 120dpi)" sizes="122px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=122&amp;h=86&dpr=1.5 183w"/>
+<source media="(min-width: 1024px)" sizes="122px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=122&amp;h=86 122w"/>
+<source media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 768px) and (min-resolution: 120dpi)" sizes="337px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=337&amp;h=225&dpr=1.5 505w"/>
+<source media="(min-width: 768px)" sizes="337px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=337&amp;h=225 337w"/>
+<source media="(min-width: 481px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 481px) and (min-resolution: 120dpi)" sizes="257px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=257&amp;h=172&dpr=1.5 385w"/>
+<source media="(min-width: 481px)" sizes="257px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=257&amp;h=172 257w"/>
+<source media="(min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 0px) and (min-resolution: 120dpi)" sizes="157px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=157&amp;h=105&dpr=1.5 235w"/>
+<source media="(min-width: 0px)" sizes="157px" data-srcset="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/03/HIC-Cv7-ds.jpg?q=50&amp;fit=crop&amp;w=157&amp;h=105 157w"/>
+<!--[if IE 9]></video><![endif]-->
+<img class="lazyload" alt=""/>
+</picture>
+</div>
+</div>
+</a>
+<div class="bc-info">
+<h3 class="bc-title">
+<a href="/preview-heroes-in-crisis-7/" class="bc-title-link" title="PREVIEW: Heroes in Crisis #7">PREVIEW: Heroes in Crisis #7</a>
+</h3>
+<div class="bc-details">
+<time class="bc-date" datetime="2019-03-26T22:33:00-05:00">Mar 26, 2019</time>
+</div>
+</div>
+</article>
+</div>
+</aside>
+</section>
+</div>
+<footer class="w-footer">
+<div class="footer w-limit">
+<nav>
+<ul class="footer-nav-list">
+<li><a class="write" href="/contributor/">Write For Us</a></li>
+<li><a href="/">Home</a></li>
+<li><a href="/contact/">Contact Us</a></li>
+<li><a href="/terms-of-use/">Terms</a></li>
+<li><a href="/privacy-policy/">Privacy</a></li>
+<li><a href="/dmca-take-down-policy/">Copyright</a></li>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/press-kit/">Press Kit</a></li>
+<li><a href="https://findacomicshop.com/">Find a Comic Shop</a></li>
+</ul>
+</nav>
+<div class="footer-social-list">
+<a class="facebook icon i-facebook" href="https://www.facebook.com/ComicBookResources" target="_blank"><span class="hide">Follow CBR on Facebook</span></a>
+<a class="twitter icon i-twitter" href="https://twitter.com/cbr" target="_blank"><span class="hide">Follow CBR on Twitter</span></a>
+<a class="youtube icon i-youtube" href="https://www.youtube.com/user/comicbookresources" target="_blank"><span class="hide">Follow CBR on Youtube</span></a>
+</div>
+<button id="js-tp-footer-btn" class="footer-btn-brands">Explore Our Brands</button>
+<div class="footer-brands">
+<strong class="footer-brands-title"><span>Our Brands</span></strong>
+<a class="footer-brands-link" href="//www.therichest.com" rel="nofollow" target="_blank">
+<img class="logo tr" src="/public/build/images/tr-logo-full-white.090c581a.svg">
+</a>
+<a class="footer-brands-link" href="//screenrant.com" rel="nofollow" target="_blank">
+<img class="logo sr" src="/public/build/images/sr-logo-full-white.b0cc2b44.svg">
+</a>
+<a class="footer-brands-link" href="//www.thethings.com" rel="nofollow" target="_blank">
+<img class="logo th" src="/public/build/images/th-logo-full-white.7684e614.svg">
+</a>
+<a class="footer-brands-link" href="//www.thetalko.com" rel="nofollow" target="_blank">
+<img class="logo tt" src="/public/build/images/tt-logo-full-white.04a6f0d4.svg">
+</a>
+<a class="footer-brands-link" href="//www.thesportster.com" rel="nofollow" target="_blank">
+<img class="logo ts" src="/public/build/images/ts-logo-full-white.54beb4cf.svg">
+</a>
+<a class="footer-brands-link" href="//www.cbr.com" rel="nofollow" target="_blank">
+<img class="logo cb" src="/public/build/images/cb-logo-full-white.afca2e29.svg">
+</a>
+<a class="footer-brands-link" href="//www.babygaga.com" rel="nofollow" target="_blank">
+<img class="logo bg" src="/public/build/images/bg-logo-full-white.8242bbb9.svg">
+</a>
+<a class="footer-brands-link" href="//www.thequiz.com" rel="nofollow" target="_blank">
+<img class="logo tq" src="/public/build/images/tq-logo-full-white.7436bde3.svg">
+</a>
+<a class="footer-brands-link" href="//www.hotcars.com" rel="nofollow" target="_blank">
+<img class="logo hc" src="/public/build/images/hc-logo-full-white.5f66cfe4.svg">
+</a>
+<a class="footer-brands-link" href="//www.thegamer.com" rel="nofollow" target="_blank">
+<img class="logo tg" src="/public/build/images/tg-logo-full-white.fc9e742a.svg">
+</a>
+<a class="footer-brands-link" href="//www.moms.com" rel="nofollow" target="_blank">
+<img class="logo mm" src="/public/build/images/mm-logo-full-white.fe72c74c.svg">
+</a>
+<a class="footer-brands-link" href="//www.thetravel.com" rel="nofollow" target="_blank">
+<img class="logo tv" src="/public/build/images/tv-logo-full-white.642d3d01.svg">
+</a>
+</div>
+</div>
+<div class="footer-copy">
+<a class="footer-copy-logo" href="/"></a>
+Copyright &copy; 2018 CBR.com
+</div>
+</footer>
+<div class="header-tp-menu js-menu">
+<button id="js-tp-exit-btn" class="tp-menu-exit icon i-close js-menu"></button>
+<div class="tp-menu-brands">
+<a class="menu-brands-zone" href="//www.therichest.com" rel="nofollow" target="_blank">
+<img class="logo tr" src="/public/build/images/tr-logo-full-white.090c581a.svg" alt="TheRichest">
+<strong class="desc">Unique lists featuring pop culture, entertainment and crazy facts.</strong>
+</a>
+<a class="menu-brands-zone" href="//screenrant.com" rel="nofollow" target="_blank">
+<img class="logo sr" src="/public/build/images/sr-logo-full-white.b0cc2b44.svg" alt="Screen Rant">
+<strong class="desc">Covering the hottest movie and TV topics that fans want.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.thethings.com" rel="nofollow" target="_blank">
+<img class="logo th" src="/public/build/images/th-logo-full-white.7684e614.svg" alt="TheThings">
+<strong class="desc">The most LOL-worthy things the Internet has to offer.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.thesportster.com" rel="nofollow" target="_blank">
+<img class="logo ts" src="/public/build/images/ts-logo-full-white.54beb4cf.svg" alt="TheSportster">
+<strong class="desc">A fresh take on sports: the biggest news and most entertaining lists.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.thetalko.com" rel="nofollow" target="_blank">
+<img class="logo tt" src="/public/build/images/tt-logo-full-white.04a6f0d4.svg" alt="TheTalko">
+<strong class="desc">The only place to satisfy all of your guilty pleasures.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.cbr.com" rel="nofollow" target="_blank">
+<img class="logo cb" src="/public/build/images/cb-logo-full-white.afca2e29.svg" alt="CBR">
+<strong class="desc">The go-to source for comic book and superhero movie fans.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.babygaga.com" rel="nofollow" target="_blank">
+<img class="logo bg" src="/public/build/images/bg-logo-full-white.8242bbb9.svg" alt="BabyGaga">
+<strong class="desc">Pregnancy and parenting news, given to you in a way nobody else has.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.thequiz.com" rel="nofollow" target="_blank">
+<img class="logo tq" src="/public/build/images/tq-logo-full-white.7436bde3.svg" alt="TheQuiz">
+<strong class="desc">The Most Entertaining Quiz Site In The World.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.hotcars.com" rel="nofollow" target="_blank">
+<img class="logo hc" src="/public/build/images/hc-logo-full-white.5f66cfe4.svg" alt="HotCars">
+<strong class="desc">The World&#039;s Most Entertaining Car Website</strong>
+</a>
+<a class="menu-brands-zone" href="//www.thegamer.com" rel="nofollow" target="_blank">
+<img class="logo tg" src="/public/build/images/tg-logo-full-white.fc9e742a.svg" alt="TheGamer">
+<strong class="desc">A one-stop shop for all things video games.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.moms.com" rel="nofollow" target="_blank">
+<img class="logo mm" src="/public/build/images/mm-logo-full-white.fe72c74c.svg" alt="Moms">
+<strong class="desc">Website for moms seeking advice, community, and entertainment.</strong>
+</a>
+<a class="menu-brands-zone" href="//www.thetravel.com" rel="nofollow" target="_blank">
+<img class="logo tv" src="/public/build/images/tv-logo-full-white.642d3d01.svg" alt="TheTravel">
+<strong class="desc">Simply the World’s Most Interesting Travel Site.</strong>
+</a>
+</div>
+</div>
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "21868715" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=21868715&cv=2.0&cj=1"/>
+</noscript>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var queryString = window.location.search || '';
+        var keyValPairs = [];
+        var params      = {};
+
+        queryString     = queryString.substr(1);
+        if (queryString.length)
+        {
+            keyValPairs = queryString.split('&');
+            for (var i = 0; i < keyValPairs.length; i++)
+            {
+                var key = keyValPairs[i].split('=')[0];
+                if (!key.length) continue;
+                if (typeof params[key] === 'undefined')
+                    params[key] = [];
+                params[key].push(keyValPairs[i].split('=')[1]);
+            }
+
+            if (params['view'] !== undefined) {
+                if (params['view'] == "list" || params['view'] == "lista") {
+                    document.cookie = 'view=' + params['view'] + ';expires=0; path=/';
+                }
+            }
+
+            console.log(document.cookie);
+
+            var campaign = null;
+            if (params['utm_source'] !== undefined) {
+                campaign = params['utm_source'];
+            }
+            if (campaign !== null) {
+                document.cookie = 'campaign=' + campaign + ';expires=0; path=/';
+            }
+        }
+    });
+</script>
+</div>
+<script src="/public/build/global.6d009abf.js"></script>
+<script src="/public/build/home.e091408b.js"></script>
+<script>
+        var loadMore = document.getElementById('moreAdd');
+
+        var loadCount = 0;
+        loadMore.addEventListener('click', function() {
+
+            loadCount++;
+
+            var x = document.getElementById("load_more");
+            if (loadCount == 1) {
+                loadMore.style.display = 'none';
+                x.style.display = "block";
+            }
+        })
+
+    </script>
+</body>
+</html>
