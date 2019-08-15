@@ -18,11 +18,6 @@ Let's say we have a dataset consiting of data pairs. That is, our data is a coll
 
 Here in Figure 1 (please bear with my hand drawing (〃∀〃) ), we assume there are 2 kinds of lables, $\{ +,-\}  $. And the dots denote the datapoints. We set $K$, the number of nearest neighbours, to be 3. And we endup with 3 points being in blue circle to be taken into consideration. Since the majority, two, of them have the label $-$, the estimated label would be $-$ as well.
 
-<p style="text-align: center;"> <img src="figures/KNN_explained.jpeg"  height="300">
-  <br><b>Figure 1</b>: KNN demo</p>
-
-
-
 # Data 
 
 ## Dataset
@@ -37,45 +32,10 @@ The full FaceScrub data set is 16.4 GB and contains uncropped, cropped images  a
 
 First of all, we unzip each of the actor's folder containing the cropped images set on terminal 
 
-​```bash
-$ tar -xvzf  test_cropped.zip  facescrub_aligned/Michael_Vartan/
-​```
-
-And we unzip each of the actor's folder containing the uncropped images set on terminal 
-​```bash
-$ tar -xvzf downloaded.tgz downloaded/Daniel\ Radcliffe/
-​```
 
 ## Matching 
 
 Then,  we checked if each cropped image has their corresponding uncropped image.  We examine if output directories (one for the figures shown in this paper and another for the resized images) exist or not, then we load the file paths for each cropped and uncropped image in a pandas dataframe.
-
-​```python
-    print('make resized dir if dir doesnt exist')
-    download_data.mkdir_if_dne(constant.RESIZED_GRAY_IMG_DIR)
-    download_data.mkdir_if_dne(constant.FIGURE_DIR)
-    uncropped = []
-    for actor in constant.ACTOR_LIST:
-        files = download_data.get_actor_img(constant.UNCROPPED_IMG_DIR, actor)
-        uncropped.extend(files)
-    
-    resized = glob.glob(constant.RESIZED_GRAY_IMG_DIR + "*")
-    if not resized:  
-        # trun cropped images into grayscale and resize
-        print('%s is empty! start processing images' % constant.RESIZED_GRAY_IMG_DIR)
-        for actor in constant.ACTOR_LIST:
-            cropped_files = download_data.get_actor_img(constant.CROPPED_IMG_DIR, actor)
-            resized_images = [download_data.process_cropped_image(file) for file in cropped_files]
-            resized.extend(resized_images)
-    else:
-        print('loaded resized img paths')
-    
-    uncropped_df = pd.DataFrame({'uncropped_path':uncropped})
-    uncropped_df['img_id'] = uncropped_df.uncropped_path.str.extract(r'(\d+)')
-    uncropped_df['actor'] = uncropped_df['uncropped_path'].str.extract(r'uncropped_images/(.*)/')
-
-​```
-
 
 
 In order to choose an optimzal number of nearest neighbor ($k_{best}$), images are divided into three sets: training, validation and testing set. The training set is used to calculate relevant distances; validation set is used to make sure we choose the $k$ with smallest mean $0-1$ error; testing set is used to examine the performance.
@@ -101,71 +61,12 @@ We loaded  and resized the matched images again with OpenCV-Python. The loaded i
 
 ## 1. Euclidean distance
 
-$$
-\begin{align}
-d(X,Y) &= \sqrt{(x_1-y_1)^2 +(x_2-y_2)^2 +(x_3-y_3)^2 +…+(x_n-y_n)^2}\\
-&= \sqrt{\sum_{i=1}^{n} (x_i-y_i)^2}\\
-\end{align}
-$$
-
-​```python
-def calculate_eculidean_dis(X_train, X_test):
-    dist = np.sum(np.square(X_train - X_test))
-    return dist
-​```
 
 ## 2. cal_neighbours
 
 We sorted the distances between X_train and the given testing image, X_test, and return the locations where the closest neighbors are.
 
-​```python
-def cal_neighbours(X_train, Y_train, X_test, k, neighbor_loc=False):
-    distances =[]
-    for i in range(len(X_train)-1):
-        img_dist = calculate_eculidean_dis(X_test,X_train[i])
-        distances.append((X_train[i],img_dist,Y_train[i]))
-    index=np.asarray(distances)
-    neighbour_location = np.argsort(index[:,1])[:5]
-    
-    distances_sort= sorted(distances, key=lambda j: j[1])[:k]
-    neighbors = distances_sort
-    
-    if neighbor_loc:
-        return neighbors, neighbour_location
-    else:
-        return neighbors
-​```
-
-
-
 ## 3. majority vote
-
-​```python
-# majority vote to classifier the new example
-def winner_vote(labels, display=True):
-    from collections import Counter 
-    list(labels)
-    voted_label = labels
-    temp = set(voted_label)
-    result={}
-    for i in temp:
-        result[i]=voted_label.count(i) 
-    winner = [(k, result[k]) for k in sorted(result, key=result.get, reverse=True)]
-    k = Counter(labels)
-    high = k.most_common(1)
-    if display:
-        for k, v in winner:
-            print(k, v)
-        print("---------------------------- ")
-        print("---------------------------- ")
-        print("the picture is :")
-        print(high)
-        print("---------------------------- ")
-        print("---------------------------- ")
-    return high
-​```
-
-
 
 # Results
 
@@ -173,13 +74,7 @@ def winner_vote(labels, display=True):
 
 We used $10$ different values for $k$ from $1$ to $10$ on validation data set, and the best performance is the value of $k$ equals to $4$. Then, by using the KNN algorithm with the best value of $k$ ($k=4$) on test set , we get the mean of error which is $0.267$
 
-<p style="text-align: center;"><img src="figures/PART4.png"  height="300"><br>
-  <b>Figure 3</b>: Performance for face recognition</p>
-
 ## Gender recognition
 
 We tested different values for $k$ from $1$ to $10$ on validation set to get the best value of k. And we found the best performing value for $k$ is $8$ on the validation set with mean of testing error to be $0.083$
 
-<p style="text-align: center;"><img src="figures/PART5.png"  height="300"><br>
-  <b>Figure 4</b>: Performance for gender prediction</p>
-```
